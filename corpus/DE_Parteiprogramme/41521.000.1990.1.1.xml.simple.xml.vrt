@@ -1,0 +1,7607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpus>
+<text id="depp41521000199011idm328192676496" author="" party="CDU" year="1990" date="" type="Wahlprogramm" title="Weiter so Deutschland, Ja zur Zukunft" subtitle="Wahlprogramm der Christlich-Demokratischen Union Deutschlands zur gesamtdeutschen Bundestagswahl am 2. Dezember 1990">
+<body>
+<s>
+CDU	NE	CDU
+Ja	NN	Ja
+zu	APPR	zu
+Deutschland	NE	Deutschland
+Ja	NN	Ja
+zur	APPRART	zur
+Zukunft	NN	Zukunft
+Wahlprogramm	NN	Wahlprogramm
+der	ART	d
+Christlich	ADJD	christlich
+Demokratischen	ADJA	demokratisch
+Union	NN	Union
+Deutschlands	NE	Deutschland
+zur	APPRART	zur
+gesamtdeutschen	ADJA	gesamtdeutsch
+Bundestagswahl	NN	Bundestagswahl
+am	APPRART	am
+2.	ADJA	2.
+Dezember	NN	Dezember
+1990	CARD	1990
+-	$(	-
+Ja	NN	Ja
+zu	APPR	zu
+Deutschland	NE	Deutschland
+.	$.	.
+</s>
+<s>
+Ja	ADV	ja
+zur	APPRART	zur
+Zukunft	NN	Zukunft
+-	$(	-
+Mit	APPR	mit
+der	ART	d
+Sozialen	ADJA	sozial
+Marktwirtschaft	NN	Marktwirtschaft
+schaffen	VVFIN	schaffen
+wir	PPER	wir
+Wohlstand	NN	Wohlstand
+,	$,	,
+Arbeitsplätze	NN	Arbeitsplatz
+und	KON	und
+soziale	ADJA	sozial
+Sicherheit	NN	Sicherheit
+-	$(	-
+Wir	PPER	wir
+wollen	VMFIN	wollen
+ein	ART	ein
+sozial	ADJD	sozial
+gerechtes	ADJA	gerecht
+und	KON	und
+menschliches	ADJA	menschlich
+Deutschland	NE	Deutschland
+-	$(	-
+Wir	PPER	wir
+setzen	VVFIN	setzen
+mehr	PIAT	mehr
+Umweltschutz	NN	Umweltschutz
+durch	APPR	durch
+-	$(	-
+Wir	PPER	wir
+schützen	VVFIN	schützen
+den	ART	d
+freiheitlichen	ADJA	freiheitlich
+Rechtsstaat	NN	Rechtsstaat
+und	KON	und
+bewahren	VVFIN	bewahren
+den	ART	d
+inneren	ADJA	inner
+Frieden	NN	Frieden
+-	$(	-
+Wir	PPER	wir
+sichern	VVFIN	sichern
+Frieden	NN	Frieden
+und	KON	und
+Freiheit	NN	Freiheit
+-	$(	-
+Am	APPRART	am
+2.	ADJA	2.
+Dezember	NN	Dezember
+:	$.	:
+</s>
+<s>
+Freiheit	NN	Freiheit
+,	$,	,
+Wohlstand	NN	Wohlstand
+und	KON	und
+Sicherheit	NN	Sicherheit
+wählen	VVINF	wählen
+-	$(	-
+Ja	NN	Ja
+zu	APPR	zu
+Deutschland	NE	Deutschland
+.	$.	.
+</s>
+<s>
+Ja	ADV	ja
+zur	APPRART	zur
+Zukunft	NN	Zukunft
+Deutschland	NE	Deutschland
+ist	VAFIN	sein
+vereint	VVPP	vereinen
+und	KON	und
+frei	ADJD	frei
+.	$.	.
+</s>
+<s>
+Der	ART	d
+Auftrag	NN	Auftrag
+des	ART	d
+Grundgesetzes	NN	Grundgesetz
+,	$,	,
+in	APPR	in
+freier	ADJA	frei
+Selbstbestimmung	NN	Selbstbestimmung
+die	ART	d
+Einheit	NN	Einheit
+zu	PTKZU	zu
+vollenden	VVINF	vollenden
+,	$,	,
+ist	VAFIN	sein
+erfüllt	VVPP	erfüllen
+.	$.	.
+</s>
+<s>
+Unfreiheit	NN	Unfreiheit
+,	$,	,
+Unrecht	NN	Unrecht
+und	KON	und
+Teilung	NN	Teilung
+sind	VAFIN	sein
+überwunden	VVPP	überwinden
+.	$.	.
+</s>
+<s>
+Mit	APPR	mit
+ihrer	PPOSAT	ihr
+friedlichen	ADJA	friedlich
+Revolution	NN	Revolution
+haben	VAFIN	haben
+sich	PRF	er|es|sie
+die	ART	d
+Menschen	NN	Mensch
+von	APPR	von
+einer	ART	ein
+sozialistisch-kommunistischen	ADJA	sozialistisch-kommunistisch
+Diktatur	NN	Diktatur
+befreit	VVPP	befreien
+.	$.	.
+</s>
+<s>
+Mit	APPR	mit
+ihrem	PPOSAT	ihr
+Mut	NN	Mut
+,	$,	,
+ihrer	PPOSAT	ihr
+Besonnenheit	NN	Besonnenheit
+und	KON	und
+ihrer	PPOSAT	ihr
+Freiheitsliebe	NN	Freiheitsliebe
+haben	VAFIN	haben
+sie	PPER	sie
+die	ART	d
+gewalttätige	ADJA	gewalttätig
+SED-Herrschaft	NN	SED-Herrschaft
+friedlich	ADJD	friedlich
+zu	APPR	zu
+Fall	NN	Fall
+gebracht	VVPP	bringen
+.	$.	.
+</s>
+<s>
+Sie	PPER	Sie|sie
+haben	VAFIN	haben
+sich	PRF	er|es|sie
+für	APPR	für
+Freiheit	NN	Freiheit
+und	KON	und
+Einheit	NN	Einheit
+entschieden	VVPP	entscheiden
+und	KON	und
+ein	ART	ein
+Kapitel	NN	Kapitel
+deutscher	ADJA	deutsch
+Geschichte	NN	Geschichte
+geschrieben	VVPP	schreiben
+,	$,	,
+auf	APPR	auf
+das	PRELS	d
+wir	PPER	wir
+stolz	ADJD	stolz
+sind	VAFIN	sein
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+erinnern	VVFIN	erinnern
+uns	PPER	wir
+dankbar	ADJD	dankbar
+an	APPR	an
+den	ART	d
+Beitrag	NN	Beitrag
+der	ART	d
+Kirchen	NN	Kirche
+zur	APPRART	zur
+friedlichen	ADJA	friedlich
+Revolution	NN	Revolution
+.	$.	.
+</s>
+<s>
+Die	ART	d
+CDU	NE	CDU
+hat	VAFIN	haben
+immer	ADV	immer
+an	APPR	an
+dem	ART	d
+Ziel	NN	Ziel
+eines	ART	ein
+freien	ADJA	frei
+und	KON	und
+vereinten	ADJA	vereint
+Deutschland	NE	Deutschland
+festgehalten	VVPP	festhalten
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+haben	VAFIN	haben
+dieses	PDAT	dies
+Ziel	NN	Ziel
+erreicht	VVPP	erreichen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+können	VMFIN	können
+jetzt	ADV	jetzt
+Freiheit	NN	Freiheit
+,	$,	,
+Sicherheit	NN	Sicherheit
+und	KON	und
+Wohlstand	NN	Wohlstand
+und	KON	und
+eine	ART	ein
+menschliche	ADJA	menschlich
+Gesellschaft	NN	Gesellschaft
+in	APPR	in
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+verwirklichen	VVFIN	verwirklichen
+.	$.	.
+</s>
+<s>
+Maßstab	NN	Maßstab
+unserer	PPOSAT	unser
+Politik	NN	Politik
+ist	VAFIN	sein
+das	ART	d
+christliche	ADJA	christlich
+Verständnis	NN	Verständnis
+vom	APPRART	vom
+Menschen	NN	Mensch
+.	$.	.
+</s>
+<s>
+In	APPR	in
+diesem	PDAT	dies
+Jahrhundert	NN	Jahrhundert
+haben	VAFIN	haben
+zwei	CARD	zwei
+Weltkriege	NN	Weltkrieg
+schreckliches	ADJA	schrecklich
+Leid	NN	Leid
+über	APPR	über
+die	ART	d
+Menschen	NN	Mensch
+gebracht	VVPP	bringen
+.	$.	.
+</s>
+<s>
+Jahrzehntelang	ADJD	jahrzehntelang
+hat	VAFIN	haben
+politische	ADJA	politisch
+und	KON	und
+militärische	ADJA	militärisch
+Konfrontation	NN	Konfrontation
+die	ART	d
+Völker	NN	Volk
+Europas	NE	Europa
+bedroht	VVPP	bedrohen
+.	$.	.
+</s>
+<s>
+Jetzt	ADV	jetzt
+können	VMFIN	können
+wir	PPER	wir
+die	ART	d
+Teilung	NN	Teilung
+des	ART	d
+Kontinents	NN	Kontinent
+überwinden	VVINF	überwinden
+und	KON	und
+eine	ART	ein
+dauerhafte	ADJA	dauerhaft
+und	KON	und
+stabile	ADJA	stabil
+Friedensordnung	NN	Friedensordnung
+schaffen	VVINF	schaffen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+das	ART	d
+vereinte	ADJA	vereint
+Europa	NE	Europa
+.	$.	.
+</s>
+<s>
+-	$(	-
+Die	ART	d
+beharrliche	ADJA	beharrlich
+Politik	NN	Politik
+der	ART	d
+CDU	NE	CDU
+und	KON	und
+der	ART	d
+Regierung	NN	Regierung
+Helmut	NE	Helmut
+Kohl	NE	Kohl
+hat	VAFIN	haben
+dazu	PAV	dazu
+beigetragen	VVPP	beitragen
+,	$,	,
+daß	KOUS	daß
+die	ART	d
+Einheit	NN	Einheit
+Deutschlands	NE	Deutschland
+jetzt	ADV	jetzt
+möglich	ADJD	möglich
+wurde	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Das	ART	d
+Vertrauen	NN	Vertrauen
+,	$,	,
+das	PRELS	d
+Helmut	NE	Helmut
+Kohl	NE	Kohl
+in	APPR	in
+West	NN	West
+und	KON	und
+Ost	NN	Ost
+genießt	VVFIN	genießen
+,	$,	,
+hat	VAFIN	haben
+den	ART	d
+Weg	NN	Weg
+zur	APPRART	zur
+Einheit	NN	Einheit
+freigemacht	VVPP	freimachen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Deutschen	NN	Deutsche
+stehen	VVFIN	stehen
+jetzt	ADV	jetzt
+vor	APPR	vor
+der	ART	d
+Aufgabe	NN	Aufgabe
+,	$,	,
+die	ART	d
+Folgen	NN	Folge
+vierzigjähriger	ADJA	vierzigjährig
+sozialistischer	ADJA	sozialistisch
+Diktatur	NN	Diktatur
+und	KON	und
+Mißwirtschaft	NN	Mißwirtschaft
+zu	PTKZU	zu
+beseitigen	VVINF	beseitigen
+.	$.	.
+</s>
+<s>
+Nachdem	KOUS	nachdem
+die	ART	d
+staatliche	ADJA	staatlich
+Einheit	NN	Einheit
+Deutschlands	NE	Deutschland
+wiederhergestellt	VVPP	wiederherstellen
+ist	VAFIN	sein
+,	$,	,
+gilt	VVFIN	gelten
+es	PPER	es
+,	$,	,
+gleiche	ADJA	gleich
+Lebensverhältnisse	NN	Lebensverhältnis
+in	APPR	in
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+zu	PTKZU	zu
+schaffen	VVINF	schaffen
+.	$.	.
+</s>
+<s>
+Jeder	PIS	jed
+weiß	VVFIN	wissen
+,	$,	,
+daß	KOUS	daß
+dies	PDS	dies
+nicht	PTKNEG	nicht
+von	APPR	von
+heute	ADV	heute
+auf	APPR	auf
+morgen	ADV	morgen
+geht	VVFIN	gehen
+.	$.	.
+</s>
+<s>
+Schwierigkeiten	NN	Schwierigkeit
+beim	APPRART	beim
+Übergang	NN	Übergang
+vom	APPRART	vom
+Sozialismus	NN	Sozialismus
+zur	APPRART	zur
+Sozialen	ADJA	sozial
+Marktwirtschaft	NN	Marktwirtschaft
+sind	VAFIN	sein
+unvermeidbar	ADJD	unvermeidbar
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+alle	PIS	alle
+,	$,	,
+vor	APPR	vor
+allem	PIS	alle
+aber	ADV	aber
+die	ART	d
+Menschen	NN	Mensch
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+Brandenburg	NE	Brandenburg
+,	$,	,
+Mecklenburg-Vorpommern	NE	Mecklenburg-Vorpommern
+und	KON	und
+Sachsen	NE	Sachsen
+,	$,	,
+Sachsen-Anhalt	NE	Sachsen-Anhalt
+und	KON	und
+Thüringen	NE	Thüringen
+und	KON	und
+auch	ADV	auch
+im	APPRART	im
+wiedervereinigten	ADJA	wiedervereinigt
+Berlin	NE	Berlin
+stehen	VVFIN	stehen
+vor	APPR	vor
+großen	ADJA	groß
+Herausforderungen	NN	Herausforderung
+.	$.	.
+</s>
+<s>
+Wenn	KOUS	wenn
+wir	PPER	wir
+solidarisch	ADJD	solidarisch
+zusammenstehen	VVFIN	zusammenstehen
+,	$,	,
+werden	VAFIN	werden
+wir	PPER	wir
+aus	APPR	aus
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+ein	ART	ein
+wirtschaftlich	ADJD	wirtschaftlich
+blühendes	ADJA	blühend
+Land	NN	Land
+machen	VVINF	machen
+,	$,	,
+ein	ART	ein
+hohes	ADJA	hoch
+Niveau	NN	Niveau
+sozialer	ADJA	sozial
+Sicherheit	NN	Sicherheit
+für	APPR	für
+alle	PIAT	alle
+und	KON	und
+gleichzeitig	ADJD	gleichzeitig
+die	ART	d
+Sicherung	NN	Sicherung
+der	ART	d
+natürlichen	ADJA	natürlich
+Lebensgrundlagen	NN	Lebensgrundlage
+gewährleisten	VVINF	gewährleisten
+.	$.	.
+</s>
+<s>
+-	$(	-
+Die	ART	d
+Erblast	NN	Erblast
+des	ART	d
+Sozialismus	NN	Sozialismus
+zu	PTKZU	zu
+beseitigen	VVINF	beseitigen
+,	$,	,
+erfordert	VVFIN	erfordern
+große	ADJA	groß
+ideelle	ADJA	ideell
+und	KON	und
+finanzielle	ADJA	finanziell
+Anstrengungen	NN	Anstrengung
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+unterschätzen	VVFIN	unterschätzen
+die	ART	d
+Belastungen	NN	Belastung
+nicht	PTKNEG	nicht
+,	$,	,
+aber	KON	aber
+wir	PPER	wir
+sehen	VVFIN	sehen
+in	APPR	in
+gleicher	ADJA	gleich
+Weise	NN	Weise
+die	ART	d
+ermutigenden	ADJA	ermutigend
+Perspektiven	NN	Perspektive
+,	$,	,
+die	PRELS	d
+sich	PRF	er|es|sie
+dem	ART	d
+vereinten	ADJA	vereint
+Deutschland	NE	Deutschland
+und	KON	und
+Europa	NE	Europa
+als	KOKOM	als
+Ganzem	NN	Ganze
+eröffnen	VVFIN	eröffnen
+.	$.	.
+</s>
+<s>
+Nach	APPR	nach
+der	ART	d
+Phase	NN	Phase
+des	ART	d
+Neuaufbaus	NN	Neuaufbau
+werden	VAFIN	werden
+auch	ADV	auch
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+Investitionen	NN	Investition
+in	APPR	in
+die	ART	d
+Zukunft	NN	Zukunft
+zunehmend	ADJD	zunehmend
+aus	APPR	aus
+eigener	ADJA	eigen
+Kraft	NN	Kraft
+finanziert	VVPP	finanzieren
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Unser	PPOSAT	unser
+Finanzierungskonzept	NN	Finanzierungskonzept
+beruht	VVFIN	beruhen
+auf	APPR	auf
+folgenden	ADJA	folgend
+Grundsätzen	NN	Grundsatz
+:	$.	:
+</s>
+<s>
+-	$(	-
+Die	ART	d
+Soziale	ADJA	sozial
+Marktwirtschaft	NN	Marktwirtschaft
+muß	VMFIN	müssen
+konsequent	ADJD	konsequent
+verwirklicht	VVPP	verwirklichen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Sie	PPER	Sie|sie
+ist	VAFIN	sein
+ein	ART	ein
+Investitions-	TRUNC	Investitions-
+und	KON	und
+Beschäftigungsprogramm	NN	Beschäftigungsprogramm
+für	APPR	für
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+.	$.	.
+</s>
+<s>
+Mehr	PIAT	mehr
+Investitionen	NN	Investition
+und	KON	und
+mehr	ADV	mehr
+wettbewerbsfähige	ADJA	wettbewerbsfähig
+Arbeitsplätze	NN	Arbeitsplatz
+bedeuten	VVFIN	bedeuten
+höhere	ADJA	hoch
+Steuereinnahmen	NN	Steuereinnahme
+.	$.	.
+</s>
+<s>
+Diese	PDS	dies
+setzen	VVFIN	setzen
+wir	PPER	wir
+weiterhin	ADV	weiterhin
+vorrangig	ADJD	vorrangig
+zur	APPRART	zur
+Finanzierung	NN	Finanzierung
+der	ART	d
+Aufgaben	NN	Aufgabe
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+ein	PTKVZ	ein
+.	$.	.
+</s>
+<s>
+-	$(	-
+Alle	PIAT	alle
+Ausgaben	NN	Ausgabe
+gehören	VVFIN	gehören
+auf	APPR	auf
+den	ART	d
+Prüfstand	NN	Prüfstand
+.	$.	.
+</s>
+<s>
+Einen	ART	ein
+Teil	NN	Teil
+der	ART	d
+Investitionen	NN	Investition
+in	APPR	in
+die	ART	d
+Einheit	NN	Einheit
+unseres	PPOSAT	unser
+Vaterlandes	NN	Vaterland
+können	VMFIN	können
+wir	PPER	wir
+durch	APPR	durch
+Einsparungen	NN	Einsparung
+und	KON	und
+Umschichtungen	NN	Umschichtung
+im	APPRART	im
+Haushalt	NN	Haushalt
+finanzieren	VVINF	finanzieren
+.	$.	.
+</s>
+<s>
+Dies	PDS	dies
+wird	VAFIN	werden
+dadurch	PAV	dadurch
+erleichtert	ADJD	erleichtert
+,	$,	,
+daß	KOUS	daß
+die	ART	d
+teilungsbedingten	ADJA	teilungsbedingt
+Kosten	NN	Kosten
+von	APPR	von
+jährlich	ADJD	jährlich
+rund	ADV	rund
+40	CARD	40
+Milliarden	NN	Milliarde
+DM	NN	DM
+schrittweise	ADJD	schrittweise
+abgebaut	VVPP	abbauen
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Schon	ADV	schon
+jetzt	ADV	jetzt
+gehören	VVFIN	gehören
+die	ART	d
+Milliarden-Ausgaben	NN	Milliarden-Ausgaben
+für	APPR	für
+das	ART	d
+Überwachungs-	TRUNC	Überwachungs-
+und	KON	und
+Unterdrückungssystem	NN	Unterdrückungssystem
+von	APPR	von
+Stasi	NE	Stasi
+,	$,	,
+Mauer	NE	Mauer
+und	KON	und
+Stacheldraht	NN	Stacheldraht
+der	ART	d
+Vergangenheit	NN	Vergangenheit
+an	PTKVZ	an
+.	$.	.
+</s>
+<s>
+-	$(	-
+Auch	ADV	auch
+eine	ART	ein
+vorübergehend	ADJD	vorübergehend
+höhere	ADJA	hoch
+Neuverschuldung	NN	Neuverschuldung
+ist	VAFIN	sein
+vertretbar	ADJD	vertretbar
+.	$.	.
+</s>
+<s>
+Denn	KON	denn
+mit	APPR	mit
+Krediten	NN	Kredit
+werden	VAFIN	werden
+vor	APPR	vor
+allem	PIS	alle
+Investitionen	NN	Investition
+in	APPR	in
+die	ART	d
+Infrastruktur	NN	Infrastruktur
+der	ART	d
+neuen	ADJA	neu
+Bundesländer	NN	Bundesland
+finanziert	VVPP	finanzieren
+.	$.	.
+</s>
+<s>
+So	ADV	so
+schaffen	VVFIN	schaffen
+wir	PPER	wir
+dort	ADV	dort
+die	ART	d
+Voraussetzungen	NN	Voraussetzung
+für	APPR	für
+den	ART	d
+wirtschaftlichen	ADJA	wirtschaftlich
+Aufschwung	NN	Aufschwung
+.	$.	.
+</s>
+<s>
+-	$(	-
+Weitere	ADJA	weit
+Finanzierungsmöglichkeiten	NN	Finanzierungsmöglichkeit
+ergeben	VVFIN	ergeben
+sich	PRF	er|es|sie
+auch	ADV	auch
+durch	APPR	durch
+die	ART	d
+Privatisierung	NN	Privatisierung
+von	APPR	von
+Unternehmen	NN	Unternehmen
+in	APPR	in
+öffentlicher	ADJA	öffentlich
+Hand	NN	Hand
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Regierung	NN	Regierung
+Helmut	NE	Helmut
+Kohl	NE	Kohl
+hat	VAFIN	haben
+in	APPR	in
+den	ART	d
+letzten	ADJA	letzt
+acht	CARD	acht
+Jahren	NN	Jahr
+einen	ART	ein
+beispiellosen	ADJA	beispiellos
+wirtschaftlichen	ADJA	wirtschaftlich
+Aufschwung	NN	Aufschwung
+geschaffen	VVPP	schaffen
+.	$.	.
+</s>
+<s>
+Sie	PPER	Sie|sie
+hat	VAFIN	haben
+die	ART	d
+Grundlage	NN	Grundlage
+dafür	PAV	dafür
+gelegt	VVPP	legen
+,	$,	,
+daß	KOUS	daß
+es	PPER	es
+den	ART	d
+meisten	PIAT	meist
+Deutschen	NN	Deutsche
+im	APPRART	im
+Westen	NN	Weste|Westen
+so	ADV	so
+gut	ADJD	gut
+geht	VVFIN	gehen
+wie	KOKOM	wie
+nie	ADV	nie
+zuvor	ADV	zuvor
+.	$.	.
+</s>
+<s>
+Daher	PAV	daher
+sind	VAFIN	sein
+sie	PPER	sie
+heute	ADV	heute
+auch	ADV	auch
+wie	KOKOM	wie
+nie	ADV	nie
+zuvor	ADV	zuvor
+in	APPR	in
+der	ART	d
+Lage	NN	Lage
+,	$,	,
+ihren	PPOSAT	ihr
+Wohlstandszuwachs	NN	Wohlstandszuwachs
+solidarisch	ADJD	solidarisch
+zu	PTKZU	zu
+teilen	VVINF	teilen
+.	$.	.
+</s>
+<s>
+Das	PDS	d
+liegt	VVFIN	liegen
+auch	ADV	auch
+in	APPR	in
+ihrem	PPOSAT	ihr
+eigenen	ADJA	eigen
+Interesse	NN	Interesse
+,	$,	,
+denn	KON	denn
+es	PPER	es
+geht	VVFIN	gehen
+letztlich	ADV	letztlich
+um	APPR	um
+Ausgaben	NN	Ausgabe
+,	$,	,
+die	PRELS	d
+den	ART	d
+Menschen	NN	Mensch
+in	APPR	in
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+zugute	ADV	zugute
+kommen	VVFIN	kommen
+.	$.	.
+</s>
+<s>
+Zeitpunkt	NN	Zeitpunkt
+und	KON	und
+Umfang	NN	Umfang
+neuer	ADJA	neu
+kostenwirksamer	ADJA	kostenwirksamer
+Maßnahmen	NN	Maßnahme
+ergeben	VVFIN	ergeben
+sich	PRF	er|es|sie
+aus	APPR	aus
+den	ART	d
+Rahmenbedingungen	NN	Rahmenbedingung
+der	ART	d
+wirtschaftlichen	ADJA	wirtschaftlich
+und	KON	und
+finanziellen	ADJA	finanziell
+Entwicklung	NN	Entwicklung
+in	APPR	in
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+.	$.	.
+</s>
+<s>
+Finanzielle	ADJA	finanziell
+Spielräume	NN	Spielraum
+werden	VAFIN	werden
+wir	PPER	wir
+vorrangig	ADJD	vorrangig
+für	APPR	für
+Verbesserungen	NN	Verbesserung
+für	APPR	für
+Familien	NN	Familie
+nutzen	VVINF	nutzen
+.	$.	.
+</s>
+<s>
+Notwendig	ADJD	notwendig
+ist	VAFIN	sein
+auch	ADV	auch
+eine	ART	ein
+steuerliche	ADJA	steuerlich
+Entlastung	NN	Entlastung
+von	APPR	von
+Arbeitnehmern	NN	Arbeitnehmer
+mit	APPR	mit
+geringem	ADJA	gering
+Einkommen	NN	Einkommen
+sowie	KON	sowie
+von	APPR	von
+Unternehmen	NN	Unternehmen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+vor	APPR	vor
+uns	PPER	wir
+liegenden	ADJA	liegend
+Jahre	NN	Jahr
+sind	VAFIN	sein
+Aufbaujahre	NN	Aufbaujahr
+.	$.	.
+</s>
+<s>
+Je	ADV	je
+entschiedener	ADJD	entschieden
+und	KON	und
+geschlossener	ADJD	geschlossen
+wir	PPER	wir
+alle	PIAT	alle
+uns	PPER	wir
+am	APPRART	am
+Aufbau	NN	Aufbau
+beteiligen	VVFIN	beteiligen
+,	$,	,
+desto	KON	desto
+eher	ADV	eher
+werden	VAFIN	werden
+die	ART	d
+Schwierigkeiten	NN	Schwierigkeit
+hinter	APPR	hinter
+uns	PPER	wir
+liegen	VVINF	liegen
+,	$,	,
+die	PRELS	d
+der	ART	d
+Übergang	NN	Übergang
+von	APPR	von
+einer	ART	ein
+sozialistisch-kommunistischen	ADJA	sozialistisch-kommunistisch
+Kommandowirtschaft	NN	Kommandowirtschaft
+zur	APPRART	zur
+Sozialen	ADJA	sozial
+Marktwirtschaft	NN	Marktwirtschaft
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+bereitet	VVFIN	bereiten
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+haben	VAFIN	haben
+die	ART	d
+Chance	NN	Chance
+,	$,	,
+ein	ART	ein
+Deutschland	NE	Deutschland
+zu	PTKZU	zu
+schaffen	VVINF	schaffen
+,	$,	,
+in	APPR	in
+dem	PRELS	d
+alle	PIAT	alle
+Deutschen	NN	Deutsche
+sich	PRF	er|es|sie
+Wohlstand	NN	Wohlstand
+und	KON	und
+soziale	ADJA	sozial
+Sicherheit	NN	Sicherheit
+erarbeiten	VVINF	erarbeiten
+können	VMFIN	können
+.	$.	.
+</s>
+<s>
+Diese	PDAT	dies
+Chance	NN	Chance
+werden	VAFIN	werden
+wir	PPER	wir
+nutzen	VVINF	nutzen
+,	$,	,
+indem	KOUS	indem
+wir	PPER	wir
+solidarisch	ADJD	solidarisch
+zusammenstehen	VVINF	zusammenstehen
+und	KON	und
+uns	PRF	wir
+nicht	PTKNEG	nicht
+durch	APPR	durch
+Angst-	TRUNC	Angst-
+und	KON	und
+Neidparolen	NN	Neidparolen
+gegeneinander	ADV	gegeneinander
+aufbringen	VVINF	aufbringen
+lassen	VVFIN	lassen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+sind	VAFIN	sein
+ein	ART	ein
+Volk	NN	Volk
+mit	APPR	mit
+einer	ART	ein
+gemeinsamen	ADJA	gemeinsam
+Zukunft	NN	Zukunft
+.	$.	.
+</s>
+<s>
+Mit	APPR	mit
+der	ART	d
+Sozialen	ADJA	sozial
+Marktwirtschaft	NN	Marktwirtschaft
+schaffen	VVFIN	schaffen
+wir	PPER	wir
+Wohlstand	NN	Wohlstand
+,	$,	,
+Arbeitsplätze	NN	Arbeitsplatz
+und	KON	und
+soziale	ADJA	sozial
+Sicherheit	NN	Sicherheit
+-	$(	-
+Dank	APPR	dank
+unserer	PPOSAT	unser
+Politik	NN	Politik
+zur	APPRART	zur
+Erneuerung	NN	Erneuerung
+der	ART	d
+Sozialen	ADJA	sozial
+Marktwirtschaft	NN	Marktwirtschaft
+in	APPR	in
+den	ART	d
+vergangenen	ADJA	vergangen
+acht	CARD	acht
+Jahren	NN	Jahr
+befindet	VVFIN	befinden
+sich	PRF	er|es|sie
+die	ART	d
+bisherige	ADJA	bisherig
+Bundesrepublik	NN	Bundesrepublik
+in	APPR	in
+wirtschaftlich	ADJD	wirtschaftlich
+hervorragender	ADJA	hervorragend
+Verfassung	NN	Verfassung
+.	$.	.
+</s>
+<s>
+Insbesondere	ADV	insbesondere
+die	ART	d
+großen	ADJA	groß
+Reformen	NN	Reform
+bei	APPR	bei
+Steuern	NN	Steuer
+,	$,	,
+Renten	NN	Rente
+,	$,	,
+Gesundheit	NN	Gesundheit
+und	KON	und
+im	APPRART	im
+Post-	TRUNC	Post-
+und	KON	und
+Fernmeldewesen	NN	Fernmeldewesen
+haben	VAFIN	haben
+die	ART	d
+Wirtschaft	NN	Wirtschaft
+in	APPR	in
+Schwung	NN	Schwung
+gebracht	VVPP	bringen
+.	$.	.
+</s>
+<s>
+Weit	ADJD	weit
+über	APPR	über
+zwei	CARD	zwei
+Millionen	NN	Million
+neue	ADJA	neu
+,	$,	,
+zusätzliche	ADJA	zusätzlich
+Arbeitsplätze	NN	Arbeitsplatz
+sind	VAFIN	sein
+entstanden	VVPP	entstehen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Beschäftigung	NN	Beschäftigung
+ist	VAFIN	sein
+so	ADV	so
+hoch	ADJD	hoch
+wie	KOKOM	wie
+nie	ADV	nie
+zuvor	ADV	zuvor
+in	APPR	in
+den	ART	d
+vergangenen	ADJA	vergangen
+40	CARD	40
+Jahren	NN	Jahr
+.	$.	.
+</s>
+<s>
+Die	ART	d
+D-Mark	NN	D-Mark
+zählt	VVFIN	zählen
+zu	APPR	zu
+den	ART	d
+härtesten	ADJA	hart
+und	KON	und
+stabilsten	ADJA	stabil
+Währung	NN	Währung
+der	ART	d
+Welt	NN	Welt
+.	$.	.
+</s>
+<s>
+Diese	PDAT	dies
+erfolgreiche	ADJA	erfolgreich
+Politik	NN	Politik
+wollen	VMFIN	wollen
+wir	PPER	wir
+jetzt	ADV	jetzt
+im	APPRART	im
+geeinten	ADJA	geeint
+Deutschland	NE	Deutschland
+fortsetzen	VVINF	fortsetzen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+Unternehmungsgeist	NN	Unternehmungsgeist
+,	$,	,
+Mut	NN	Mut
+zur	APPRART	zur
+Selbständigkeit	NN	Selbständigkeit
+und	KON	und
+marktwirtschaftliche	ADJA	marktwirtschaftlich
+Kräfte	NN	Kraft
+weiter	ADV	weiter
+stärken	VVINF	stärken
+und	KON	und
+die	ART	d
+Privatisierung	NN	Privatisierung
+öffentlicher	ADJA	öffentlich
+Unternehmen	NN	Unternehmen
+fortführen	VVFIN	fortführen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+kleinen	ADJA	klein
+und	KON	und
+mittleren	ADJA	mittler
+Unternehmen	NN	Unternehmen
+aus	APPR	aus
+Handel	NN	Handel
+und	KON	und
+Handwerk	NN	Handwerk
+,	$,	,
+aus	APPR	aus
+Industrie	NN	Industrie
+und	KON	und
+den	ART	d
+neuen	ADJA	neu
+Dienstleistungen	NN	Dienstleistung
+haben	VAFIN	haben
+ihre	PPOSAT	ihr
+Leistungsstärke	NN	Leistungsstärke
+,	$,	,
+Flexibilität	NN	Flexibilität
+und	KON	und
+Innovationskraft	NN	Innovationskraft
+genauso	ADV	genauso
+bewiesen	VVPP	beweisen
+wie	KOKOM	wie
+die	ART	d
+Freien	ADJA	frei
+Berufe	NN	Beruf
+.	$.	.
+</s>
+<s>
+Gemeinsam	ADJD	gemeinsam
+mit	APPR	mit
+qualifizierten	ADJA	qualifiziert
+und	KON	und
+leistungsbereiten	ADJA	leistungsbereit
+Arbeitnehmern	NN	Arbeitnehmer
+werden	VAFIN	werden
+sie	PPER	sie
+im	APPRART	im
+arbeitsteiligen	ADJA	arbeitsteilig
+Zusammenwirken	NN	Zusammenwirken
+mit	APPR	mit
+großen	ADJA	groß
+Unternehmen	NN	Unternehmen
+neue	ADJA	neu
+Arbeitsplätze	NN	Arbeitsplatz
+schaffen	VVINF	schaffen
+und	KON	und
+aus	APPR	aus
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+ein	ART	ein
+wirtschaftlich	ADJD	wirtschaftlich
+blühendes	ADJA	blühend
+Land	NN	Land
+machen	VVINF	machen
+.	$.	.
+</s>
+<s>
+Im	APPRART	im
+Hinblick	NN	Hinblick
+auf	APPR	auf
+die	ART	d
+Verwirklichung	NN	Verwirklichung
+des	ART	d
+Europäischen	ADJA	europäisch
+Binnenmarktes	NN	Binnenmarkt
+brauchen	VVFIN	brauchen
+wir	PPER	wir
+nicht	PTKNEG	nicht
+nur	ADV	nur
+offene	ADJA	offen
+Märkte	NN	Markt
+,	$,	,
+sondern	KON	sondern
+ebenso	ADV	ebenso
+ein	ART	ein
+investitionsfreundliches	ADJA	investitionsfreundlich
+Steuersystem	NN	Steuersystem
+,	$,	,
+das	PRELS	d
+die	ART	d
+Sicherung	NN	Sicherung
+und	KON	und
+Schaffung	NN	Schaffung
+von	APPR	von
+Arbeitsplätzen	NN	Arbeitsplatz
+begünstigt	VVPP	begünstigen
+.	$.	.
+</s>
+<s>
+Am	APPRART	am
+Ziel	NN	Ziel
+der	ART	d
+Unternehmenssteuerreform	NN	Unternehmenssteuerreform
+halten	VVFIN	halten
+wir	PPER	wir
+deshalb	PAV	deshalb
+fest	PTKVZ	fest
+.	$.	.
+</s>
+<s>
+Die	ART	d
+deutsche	ADJA	deutsch
+Wirtschaft	NN	Wirtschaft
+muß	VMFIN	müssen
+ihre	PPOSAT	ihr
+internationale	ADJA	international
+Wettbewerbsfähigkeit	NN	Wettbewerbsfähigkeit
+weiter	ADV	weiter
+stärken	VVINF	stärken
+.	$.	.
+</s>
+<s>
+Dafür	PAV	dafür
+sind	VAFIN	sein
+flexiblere	ADJA	flexibel
+Arbeits-	TRUNC	Arbeits-
+und	KON	und
+Beschäftigungsstrukturen	NN	Beschäftigungsstruktur
+und	KON	und
+ein	ART	ein
+klares	ADJA	klar
+Ja	NN	Ja
+zu	APPR	zu
+neuen	ADJA	neu
+Technologien	NN	Technologie
+notwendig	ADJD	notwendig
+unter	APPR	unter
+Beachtung	NN	Beachtung
+der	ART	d
+erforderlichen	ADJA	erforderlich
+sozialen	ADJA	sozial
+Schutzrechte	NN	Schutzrecht
+.	$.	.
+</s>
+<s>
+Denn	KON	denn
+auch	ADV	auch
+hiervon	PAV	hiervon
+hängen	VVFIN	hängen
+Arbeitsplätze	NN	Arbeitsplatz
+und	KON	und
+unsere	PPOSAT	unser
+soziale	ADJA	sozial
+Sicherheit	NN	Sicherheit
+ab	PTKVZ	ab
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Grundlage	NN	Grundlage
+einer	ART	ein
+erfolgreichen	ADJA	erfolgreich
+Wirtschaft	NN	Wirtschaft
+bilden	VVFIN	bilden
+gut	ADJD	gut
+qualifizierte	ADJA	qualifiziert
+Arbeitnehmer	NN	Arbeitnehmer
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Tarifpartner	NN	Tarifpartner
+,	$,	,
+die	PRELS	d
+für	APPR	für
+die	ART	d
+Wettbewerbsfähigkeit	NN	Wettbewerbsfähigkeit
+des	ART	d
+Wirtschaftsstandortes	NN	Wirtschaftsstandort
+Deutschland	NE	Deutschland
+eine	ART	ein
+entscheidende	ADJA	entscheidend
+Mitverantwortung	NN	Mitverantwortung
+tragen	VVFIN	tragen
+,	$,	,
+fordern	VVFIN	fordern
+wir	PPER	wir
+auf	PTKVZ	auf
+,	$,	,
+die	ART	d
+berufliche	ADJA	beruflich
+Weiterbildung	NN	Weiterbildung
+auszubauen	VVIZU	ausbauen
+und	KON	und
+in	APPR	in
+Tarifverträge	NN	Tarifvertrag
+verstärkt	ADJD	verstärkt
+einzubeziehen	VVIZU	einbeziehen
+.	$.	.
+</s>
+<s>
+Qualifizierung	NN	Qualifizierung
+ist	VAFIN	sein
+für	APPR	für
+Arbeitnehmer	NN	Arbeitnehmer
+wie	KOKOM	wie
+für	APPR	für
+Unternehmen	NN	Unternehmen
+lohnende	ADJA	lohnend
+Investition	NN	Investition
+und	KON	und
+ein	ART	ein
+guter	ADJA	gut
+Schutz	NN	Schutz
+gegen	APPR	gegen
+Arbeitslosigkeit	NN	Arbeitslosigkeit
+.	$.	.
+</s>
+<s>
+Unsere	PPOSAT	unser
+wirtschaftlichen	ADJA	wirtschaftlich
+Chancen	NN	Chance
+liegen	VVFIN	liegen
+gerade	ADV	gerade
+auch	ADV	auch
+im	APPRART	im
+Export	NN	Export
+hochwertiger	ADJA	hochwertig
+Produkte	NN	Produkt
+und	KON	und
+Dienstleistungen	NN	Dienstleistung
+.	$.	.
+</s>
+<s>
+Spitzenleistungen	NN	Spitzenleistung
+in	APPR	in
+Forschung	NN	Forschung
+und	KON	und
+Technik	NN	Technik
+sind	VAFIN	sein
+entscheidend	ADJD	entscheidend
+für	APPR	für
+die	ART	d
+wirtschaftliche	ADJA	wirtschaftlich
+und	KON	und
+soziale	ADJA	sozial
+Leistungsfähigkeit	NN	Leistungsfähigkeit
+unseres	PPOSAT	unser
+Landes	NN	Land
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Einführung	NN	Einführung
+moderner	ADJA	modern
+Technik	NN	Technik
+wird	VAFIN	werden
+auch	ADV	auch
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+wesentlich	ADJD	wesentlich
+zum	APPRART	zum
+Aufschwung	NN	Aufschwung
+beitragen	VVINF	beitragen
+.	$.	.
+</s>
+<s>
+Wohlstand	NN	Wohlstand
+entsteht	VVFIN	entstehen
+dort	ADV	dort
+,	$,	,
+wo	PWAV	wo
+der	ART	d
+technische	ADJA	technisch
+Fortschritt	NN	Fortschritt
+durch	APPR	durch
+Unternehmer	NN	Unternehmer
+und	KON	und
+Arbeitnehmer	NN	Arbeitnehmer
+kreativ	ADJD	kreativ
+genutzt	VVPP	nutzen
+und	KON	und
+vorangetrieben	VVPP	vorantreiben
+wird	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Bei	APPR	bei
+Einsatz	NN	Einsatz
+und	KON	und
+Verwendung	NN	Verwendung
+neuer	ADJA	neu
+Techniken	NN	Technik
+sollen	VMFIN	sollen
+im	APPRART	im
+Sinne	NN	Sinn
+sozialer	ADJA	sozial
+Partnerschaft	NN	Partnerschaft
+Arbeitnehmer	NN	Arbeitnehmer
+frühzeitig	ADJD	frühzeitig
+einbezogen	VVPP	einbeziehen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Dies	PDS	dies
+fördert	VVFIN	fördern
+das	ART	d
+partnerschaftliche	ADJA	partnerschaftlich
+Arbeitsklima	NN	Arbeitsklima
+in	APPR	in
+unseren	PPOSAT	unser
+Betrieben	NN	Betrieb
+,	$,	,
+das	PRELS	d
+weltweit	ADJD	weltweit
+anerkannt	VVPP	anerkennen
+wird	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Zum	APPRART	zum
+sozialen	ADJA	sozial
+Frieden	NN	Frieden
+und	KON	und
+damit	PAV	damit
+zur	APPRART	zur
+Attraktivität	NN	Attraktivität
+des	ART	d
+Industriestandortes	NN	Industriestandort
+Deutschland	NE	Deutschland
+trägt	VVFIN	tragen
+ebenso	ADV	ebenso
+die	ART	d
+bestehende	ADJA	bestehend
+Mitbestimmung	NN	Mitbestimmung
+der	ART	d
+Arbeitnehmer	NN	Arbeitnehmer
+in	APPR	in
+unseren	PPOSAT	unser
+Unternehmen	NN	Unternehmen
+bei	PTKVZ	bei
+.	$.	.
+</s>
+<s>
+-	$(	-
+Ein	ART	eine
+modernes	ADJA	modern
+Industrieland	NN	Industrieland
+braucht	VVFIN	brauchen
+leistungsfähige	ADJA	leistungsfähig
+Kommunikationsnetze	NN	Kommunikationsnetz
+und	KON	und
+Verkehrswege	NN	Verkehrsweg
+.	$.	.
+</s>
+<s>
+In	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+werden	VAFIN	werden
+bis	APPR	bis
+1997	CARD	1997
+in	APPR	in
+den	ART	d
+Ausbau	NN	Ausbau
+der	ART	d
+Telekommunikation	NN	Telekommunikation
+ca.	ADV	ca.
+55	CARD	@card@
+Milliarden	NN	Milliarde
+DM	NN	DM
+investiert	VVPP	investieren
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Dies	PDS	dies
+ermöglicht	VVFIN	ermöglichen
+den	ART	d
+Ausbau	NN	Ausbau
+des	ART	d
+Telefonnetzes	NN	Telefonnetz
+von	APPR	von
+ca.	ADV	ca.
+1,8	CARD	1,8
+Millionen	NN	Million
+auf	APPR	auf
+über	APPR	über
+7	CARD	7
+Millionen	NN	Million
+Telefonanschlüsse	NN	Telefonanschluß
+.	$.	.
+</s>
+<s>
+Hier	ADV	hier
+liegt	VVFIN	liegen
+nicht	PTKNEG	nicht
+zuletzt	ADV	zuletzt
+ein	ART	ein
+großes	ADJA	groß
+Potential	NN	Potential
+an	APPR	an
+Aufträgen	NN	Auftrag
+für	APPR	für
+leistungsfähige	ADJA	leistungsfähig
+mittelständische	ADJA	mittelständisch
+Betriebe	NN	Betrieb
+aus	APPR	aus
+Handwerk	NN	Handwerk
+und	KON	und
+Industrie	NN	Industrie
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Einigung	NN	Einigung
+Deutschlands	NE	Deutschland
+und	KON	und
+Europas	NE	Europa
+bringen	VVFIN	bringen
+neue	ADJA	neu
+Aufgaben	NN	Aufgabe
+und	KON	und
+Chancen	NN	Chance
+für	APPR	für
+die	ART	d
+Gestaltung	NN	Gestaltung
+der	ART	d
+Verkehrswege	NN	Verkehrsweg
+mit	APPR	mit
+sich	PRF	er|es|sie
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+den	ART	d
+notwendigen	ADJA	notwendig
+Ausbau	NN	Ausbau
+des	ART	d
+Verkehrsnetzes	NN	Verkehrsnetz
+umweltverträglich	ADJD	umweltverträglich
+gestalten	VVINF	gestalten
+.	$.	.
+</s>
+<s>
+Deshalb	PAV	deshalb
+treten	VVFIN	treten
+für	APPR	für
+eine	ART	ein
+schnelle	ADJA	schnell
+Verbesserung	NN	Verbesserung
+der	ART	d
+Verkehrsinfrastruktur	NN	Verkehrsinfrastruktur
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+ein	PTKVZ	ein
+.	$.	.
+</s>
+<s>
+Mit	APPR	mit
+einem	ART	ein
+Sofortprogramm	NN	Sofortprogramm
+muß	VMFIN	müssen
+der	ART	d
+Zustand	NN	Zustand
+der	ART	d
+dortigen	ADJA	dortig
+Straßen	NN	Straße
+rasch	ADJD	rasch
+verbessert	VVPP	verbessern
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Dabei	PAV	dabei
+muß	VMFIN	müssen
+auch	ADV	auch
+geprüft	VVPP	prüfen
+werden	VAINF	werden
+,	$,	,
+ob	KOUS	ob
+und	KON	und
+inwieweit	ADV	inwieweit
+im	APPRART	im
+Bereich	NN	Bereich
+der	ART	d
+Infrastrukturinvestitionen	NN	Infrastrukturinvestition
+private	ADJA	privat
+Finanzierung	NN	Finanzierung
+sinnvoll	ADJD	sinnvoll
+eingesetzt	VVPP	einsetzen
+werden	VAINF	werden
+kann	VMFIN	können
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+ebenso	ADV	ebenso
+,	$,	,
+daß	KOUS	daß
+der	ART	d
+gemeinsame	ADJA	gemeinsam
+Verkehrswegeplan	NN	Verkehrswegeplan
+für	APPR	für
+Deutschland	NE	Deutschland
+bis	APPR	bis
+Ende	NN	Ende
+1991	CARD	1991
+erstellt	VVPP	erstellen
+wird	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Neue	ADJA	neu
+Schienentrassen	NN	Schienentrasse
+für	APPR	für
+Hochgeschwindigkeitszüge	NN	Hochgeschwindigkeitszug
+sollen	VMFIN	sollen
+die	ART	d
+europäischen	ADJA	europäisch
+Zentren	NN	Zentrum
+miteinander	ADV	miteinander
+verbinden	VVINF	verbinden
+.	$.	.
+</s>
+<s>
+Eine	ART	ein
+neue	ADJA	neu
+Arbeitsteilung	NN	Arbeitsteilung
+der	ART	d
+Verkehrsträger	NN	Verkehrsträger
+ist	VAFIN	sein
+notwendig	ADJD	notwendig
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Bildung	NN	Bildung
+von	APPR	von
+Transportketten	NN	Transportkette
+durch	APPR	durch
+die	ART	d
+verschiedenen	ADJA	verschieden
+Verkehrsträger	NN	Verkehrsträger
+,	$,	,
+d.	PDS	d.
+h.	VVFIN	heißen
+der	ART	d
+kombinierte	ADJA	kombiniert
+Verkehr	NN	Verkehr
+,	$,	,
+muß	VMFIN	müssen
+gefördert	VVPP	fördern
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Er	PPER	er
+reduziert	VVFIN	reduzieren
+Umweltbelastungen	NN	Umweltbelastung
+,	$,	,
+spart	VVFIN	sparen
+Energie	NN	Energie
+ein	PTKVZ	ein
+und	KON	und
+entlastet	VVFIN	entlasten
+die	ART	d
+Straße	NN	Straße
+.	$.	.
+</s>
+<s>
+Im	APPRART	im
+Straßenbau	NN	Straßenbau
+gilt	VVFIN	gelten
+für	APPR	für
+uns	PPER	wir
+das	ART	d
+Prinzip	NN	Prinzip
+"	$(	"
+Ausbau	NN	Ausbau
+vor	APPR	vor
+Neubau	NN	Neubau
+"	$(	"
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+müssen	VMFIN	müssen
+intelligente	ADJA	intelligent
+verkehrslenkende	ADJA	verkehrslenkend
+Systeme	NN	System
+schaffen	VVINF	schaffen
+,	$,	,
+um	KOUI	um
+einen	ART	ein
+besseren	ADJA	gut
+Verkehrsfluß	NN	Verkehrsfluß
+,	$,	,
+insbesondere	ADV	insbesondere
+auf	APPR	auf
+unseren	PPOSAT	unser
+Straßen	NN	Straße
+,	$,	,
+zu	PTKZU	zu
+erreichen	VVINF	erreichen
+.	$.	.
+</s>
+<s>
+Jeder	PIAT	jed
+Stau	NN	Stau
+,	$,	,
+der	PRELS	d
+vermieden	VVPP	vermeiden
+wird	VAFIN	werden
+,	$,	,
+ist	VAFIN	sein
+ein	ART	ein
+Beitrag	NN	Beitrag
+zum	APPRART	zum
+Umweltschutz	NN	Umweltschutz
+.	$.	.
+</s>
+<s>
+Unfallschwerpunkte	NN	Unfallschwerpunkt
+müssen	VMFIN	müssen
+entschärft	VVPP	entschärfen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+In	APPR	in
+den	ART	d
+Ballungszentren	NN	Ballungszentrum
+müssen	VMFIN	müssen
+Bahnen	NN	Bahn|Bahnen
+und	KON	und
+Busse	NN	Bus
+eine	ART	ein
+günstige	ADJA	günstig
+Alternative	NN	Alternative
+zum	APPRART	zum
+Auto	NN	Auto
+sein	VAINF	sein
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Attraktivität	NN	Attraktivität
+der	ART	d
+Innenstädte	NN	Innenstadt
+kann	VMFIN	können
+so	ADV	so
+erhöht	VVPP	erhöhen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+-	$(	-
+Eine	ART	ein
+ausreichende	ADJA	ausreichend
+und	KON	und
+kostengünstige	ADJA	kostengünstig
+Wohnungsversorgung	NN	Wohnungsversorgung
+zu	PTKZU	zu
+sichern	VVINF	sichern
+,	$,	,
+ist	VAFIN	sein
+eine	ART	ein
+vorrangige	ADJA	vorrangig
+Aufgabe	NN	Aufgabe
+in	APPR	in
+Deutschland	NE	Deutschland
+.	$.	.
+</s>
+<s>
+In	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+müssen	VMFIN	müssen
+menschenwürdige	ADJA	menschenwürdig
+Wohnverhältnisse	NN	Wohnverhältnis
+hergestellt	VVPP	herstellen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+10	CARD	10
+Milliarden	NN	Milliarde
+DM	NN	DM
+zinsgünstige	ADJA	zinsgünstig
+Kredite	NN	Kredit
+werden	VAFIN	werden
+bis	APPR	bis
+1993	CARD	1993
+bereitgestellt	VVPP	bereitstellen
+,	$,	,
+um	KOUI	um
+den	ART	d
+Wohnungsbestand	NN	Wohnungsbestand
+dort	ADV	dort
+instandzusetzen	VVIZU	instandsetzen
+und	KON	und
+zu	PTKZU	zu
+modernisieren	VVINF	modernisieren
+.	$.	.
+</s>
+<s>
+Das	ART	d
+umfangreiche	ADJA	umfangreich
+Wohnungsbauprogramm	NN	Wohnungsbauprogramm
+der	ART	d
+Bundesregierung	NN	Bundesregierung
+,	$,	,
+zu	APPR	zu
+dem	ART	d
+erheblich	ADJD	erheblich
+verstärkte	ADJA	verstärkt
+Anstrengungen	NN	Anstrengung
+im	APPRART	im
+sozialen	ADJA	sozial
+Wohnungsbau	NN	Wohnungsbau
+,	$,	,
+Steuererleichterungen	NN	Steuererleichterung
+,	$,	,
+Bausparhilfen	NN	Bausparhilfen
+und	KON	und
+bau-	TRUNC	bau-
+und	KON	und
+planungsrechtliche	ADJA	planungsrechtlich
+Erleichterungen	NN	Erleichterung
+gehören	VVFIN	gehören
+,	$,	,
+muß	VMFIN	müssen
+weiter	ADV	weiter
+zügig	ADJD	zügig
+verwirklicht	VVPP	verwirklichen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+streben	VVFIN	streben
+an	PTKVZ	an
+,	$,	,
+innerhalb	APPR	innerhalb
+der	ART	d
+nächsten	ADJA	nah
+vier	CARD	vier
+Jahre	NN	Jahr
+zwei	CARD	zwei
+Millionen	NN	Million
+neue	ADJA	neu
+Wohnungen	NN	Wohnung
+in	APPR	in
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+zu	PTKZU	zu
+schaffen	VVINF	schaffen
+.	$.	.
+</s>
+<s>
+Damit	PAV	damit
+mobilisieren	VVFIN	mobilisieren
+wir	PPER	wir
+vor	APPR	vor
+allem	PIS	alle
+die	ART	d
+Leistungsfähigkeit	NN	Leistungsfähigkeit
+privater	ADJA	privat
+Investoren	NN	Investor
+,	$,	,
+die	PRELS	d
+die	ART	d
+Hauptträger	NN	Hauptträger
+des	ART	d
+Wohnungsbaus	NN	Wohnungsbau
+sind	VAFIN	sein
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+erwarten	VVFIN	erwarten
+,	$,	,
+daß	KOUS	daß
+Länder	NN	Land
+,	$,	,
+Städte	NN	Stadt
+und	KON	und
+Gemeinden	NN	Gemeinde
+ihrer	PPOSAT	ihr
+Mitverantwortung	NN	Mitverantwortung
+gerecht	VVPP	rechen
+werden	VAFIN	werden
+,	$,	,
+indem	KOUS	indem
+sie	PPER	sie
+zusätzliche	ADJA	zusätzlich
+Fördermittel	NN	Fördermittel
+bewilligen	VVFIN	bewilligen
+,	$,	,
+Bauland	NN	Bauland
+bereitstellen	VVINF	bereitstellen
+und	KON	und
+Baugenehmigungen	NN	Baugenehmigung
+unbürokratisch	ADJD	unbürokratisch
+erteilen	VVFIN	erteilen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Wohnsituation	NN	Wohnsituation
+in	APPR	in
+den	ART	d
+Hochschul-Städten	NN	Hochschul-Städten
+ist	VAFIN	sein
+besonders	ADV	besonders
+schwierig	ADJD	schwierig
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+brauchen	VVFIN	brauchen
+vor	APPR	vor
+allem	PIS	alle
+auch	ADV	auch
+zusätzliche	ADJA	zusätzlich
+Wohnheimplätze	NN	Wohnheimplatz
+.	$.	.
+</s>
+<s>
+Das	ART	d
+Sonderprogramm	NN	Sonderprogramm
+der	ART	d
+Bundesregierung	NN	Bundesregierung
+für	APPR	für
+den	ART	d
+Bau	NN	Bau
+von	APPR	von
+Studentenwohnungen	NN	Studentenwohnung
+wird	VAFIN	werden
+fortgesetzt	VVPP	fortsetzen
+und	KON	und
+eröffnet	VVFIN	eröffnen
+erfolgversprechende	ADJA	erfolgversprechend
+Perspektiven	NN	Perspektive
+.	$.	.
+</s>
+<s>
+Um	KOUI	um
+das	ART	d
+Wohnungsangebot	NN	Wohnungsangebot
+gezielt	ADJD	gezielt
+für	APPR	für
+einkommensschwache	ADJA	einkommensschwach
+Haushalte	NN	Haushalt
+auszuweiten	VVIZU	ausweiten
+,	$,	,
+muß	VMFIN	müssen
+der	ART	d
+soziale	ADJA	sozial
+Wohnungsbau	NN	Wohnungsbau
+den	ART	d
+frei	ADJD	frei
+finanzierten	ADJA	finanziert
+ergänzen	VVINF	ergänzen
+.	$.	.
+</s>
+<s>
+Seine	PPOSAT	sein
+Förderung	NN	Förderung
+muß	VMFIN	müssen
+verstetigt	ADJD	verstetigt
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+inzwischen	ADV	inzwischen
+verdoppelten	ADJA	verdoppelt
+Wohngeldzahlungen	NN	Wohngeldzahlung
+bleiben	VVFIN	bleiben
+auch	ADV	auch
+in	APPR	in
+Zukunft	NN	Zukunft
+eine	ART	ein
+wichtige	ADJA	wichtig
+Hilfe	NN	Hilfe
+für	APPR	für
+alle	PIAT	alle
+Haushalte	NN	Haushalt
+,	$,	,
+deren	PRELAT	d
+Einkommen	NN	Einkommen
+für	APPR	für
+eine	ART	ein
+angemessene	ADJA	angemessen
+Wohnungsversorgung	NN	Wohnungsversorgung
+nicht	PTKNEG	nicht
+ausreicht	VVFIN	ausreichen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+das	ART	d
+Wohngeld	NN	Wohngeld
+regelmäßig	ADJD	regelmäßig
+an	APPR	an
+die	ART	d
+Mietentwicklung	NN	Mietentwicklung
+anpassen	VVINF	anpassen
+.	$.	.
+</s>
+<s>
+Mehr	PIAT	mehr
+Mieter	NN	Mieter
+sollen	VMFIN	sollen
+Eigentümer	NN	Eigentümer
+werden	VAINF	werden
+können	VMINF	können
+.	$.	.
+</s>
+<s>
+Die	ART	d
+private	ADJA	privat
+Eigentumsbildung	NN	Eigentumsbildung
+werden	VAFIN	werden
+wir	PPER	wir
+konsequent	ADJD	konsequent
+fördern	VVINF	fördern
+-	$(	-
+insbesondere	ADV	insbesondere
+für	APPR	für
+kinderreiche	ADJA	kinderreich
+und	KON	und
+junge	ADJA	jung
+Familien	NN	Familie
+,	$,	,
+denn	KON	denn
+es	PPER	es
+darf	VMFIN	dürfen
+nicht	PTKNEG	nicht
+zur	APPRART	zur
+Alternative	NN	Alternative
+"	$(	"
+Wohneigentum	NN	Wohneigentum
+oder	KON	oder
+Familie	NN	Familie
+"	$(	"
+kommen	VVINF	kommen
+.	$.	.
+</s>
+<s>
+Staatliche	ADJA	staatlich
+Wohneigentumsförderung	NN	Wohneigentumsförderung
+-	$(	-
+sei	VAFIN	sein
+es	PPER	es
+durch	APPR	durch
+Steuerentlastungen	NN	Steuerentlastung
+oder	KON	oder
+durch	APPR	durch
+Direkthilfen	NN	Direkthilfen
+-	$(	-
+muß	VMFIN	müssen
+so	ADV	so
+gestaltet	VVPP	gestalten
+werden	VAINF	werden
+,	$,	,
+daß	KOUS	daß
+sie	PPER	sie
+insbesondere	ADV	insbesondere
+den	ART	d
+Familien	NN	Familie
+mit	APPR	mit
+geringem	ADJA	gering
+Einkommen	NN	Einkommen
+hilft	VVFIN	helfen
+.	$.	.
+</s>
+<s>
+In	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+ist	VAFIN	sein
+der	ART	d
+staatliche	ADJA	staatlich
+Wohnungsbestand	NN	Wohnungsbestand
+soweit	ADV	soweit
+wie	KOKOM	wie
+möglich	ADJD	möglich
+in	APPR	in
+Privateigentum	NN	Privateigentum
+zu	PTKZU	zu
+überführen	VVINF	überführen
+.	$.	.
+</s>
+<s>
+Um	APPR	um
+Mieter	NN	Mieter
+vor	APPR	vor
+überhöhten	ADJA	überhöht
+Mieten	NN	Miete
+stärker	ADJD	stark
+zu	PTKZU	zu
+schützen	VVINF	schützen
+,	$,	,
+ist	VAFIN	sein
+das	ART	d
+Miethöherecht	NN	Miethöherecht
+erneut	ADJD	erneut
+zu	PTKZU	zu
+überprüfen	VVINF	überprüfen
+.	$.	.
+</s>
+<s>
+Rahmenbedingung	NN	Rahmenbedingung
+bleibt	VVFIN	bleiben
+jedoch	ADV	jedoch
+,	$,	,
+private	ADJA	privat
+Investoren	NN	Investor
+nicht	PTKNEG	nicht
+abzuschrecken	VVIZU	abschrecken
+.	$.	.
+</s>
+<s>
+Etwaige	ADJA	etwaig
+Mietrechtsänderungen	NN	Mietrechtsänderung
+müßten	VMFIN	müssen
+zudem	ADV	zudem
+zeitlich	ADJD	zeitlich
+befristet	VVPP	befristen
+und	KON	und
+auf	APPR	auf
+die	ART	d
+Ballungsgebiete	NN	Ballungsgebiet
+begrenzt	VVPP	begrenzen
+werden	VAINF	werden
+,	$,	,
+in	APPR	in
+denen	PRELS	d
+die	ART	d
+Wohnraumversorgung	NN	Wohnraumversorgung
+zu	APPR	zu
+angemessenen	ADJA	angemessen
+Bedingungen	NN	Bedingung
+besonders	ADV	besonders
+gefährdet	VVPP	gefährden
+ist	VAFIN	sein
+.	$.	.
+</s>
+<s>
+Das	ART	d
+reiche	ADJA	reich
+Kultur-	TRUNC	Kultur-
+und	KON	und
+Bauerbe	NN	Bauerbe
+der	ART	d
+Deutschen	NN	Deutsche
+muß	VMFIN	müssen
+bewahrt	VVPP	bewahren
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Stadt-	TRUNC	Stadt-
+und	KON	und
+Dorferneuerung	NN	Dorferneuerung
+ist	VAFIN	sein
+eine	ART	ein
+wichtige	ADJA	wichtig
+Aufgabe	NN	Aufgabe
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+brauchen	VVFIN	brauchen
+nicht	PTKNEG	nicht
+nur	ADV	nur
+ausreichenden	ADJA	ausreichend
+,	$,	,
+sondern	KON	sondern
+einen	ART	ein
+qualitativ	ADJD	qualitativ
+guten	ADJA	gut
+und	KON	und
+architektonisch	ADJD	architektonisch
+ansprechenden	ADJA	ansprechend
+Wohnraum	NN	Wohnraum
+.	$.	.
+</s>
+<s>
+Wohnungsbau	NN	Wohnungsbau
+und	KON	und
+Städteplanung	NN	Städteplanung
+sollen	VMFIN	sollen
+die	ART	d
+unterschiedlichen	ADJA	unterschiedlich
+Bedürfnisse	NN	Bedürfnis
+und	KON	und
+Lebenslagen	NN	Lebenslage
+der	ART	d
+Menschen	NN	Mensch
+-	$(	-
+vor	APPR	vor
+allem	PIS	alle
+von	APPR	von
+Familien	NN	Familie
+mit	APPR	mit
+Kindern	NN	Kind
+-	$(	-
+berücksichtigen	VVINF	berücksichtigen
+und	KON	und
+das	ART	d
+Zusammenleben	NN	Zusammenleben
+verschiedener	ADJA	verschieden
+Generationen	NN	Generation
+fördern	VVINF	fördern
+.	$.	.
+</s>
+<s>
+-	$(	-
+Trotz	APPR	trotz
+der	ART	d
+eingeleiteten	ADJA	eingeleitet
+Neuorientierung	NN	Neuorientierung
+der	ART	d
+Agrarpolitik	NN	Agrarpolitik
+-	$(	-
+in	APPR	in
+der	ART	d
+EG	NE	EG
+wie	KOKOM	wie
+jetzt	ADV	jetzt
+auch	ADV	auch
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+-	$(	-
+bleibt	VVFIN	bleiben
+die	ART	d
+Lage	NN	Lage
+der	ART	d
+Landwirtschaft	NN	Landwirtschaft
+insgesamt	ADV	insgesamt
+weiterhin	ADV	weiterhin
+schwierig	ADJD	schwierig
+.	$.	.
+</s>
+<s>
+Der	ART	d
+Strukturwandel	NN	Strukturwandel
+wird	VAFIN	werden
+weitergehen	VVINF	weitergehen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Landwirte	NN	Landwirt
+können	VMFIN	können
+dabei	PAV	dabei
+auf	APPR	auf
+unsere	PPOSAT	unser
+Hilfe	NN	Hilfe
+rechnen	VVINF	rechnen
+.	$.	.
+</s>
+<s>
+Ziel	NN	Ziel
+unserer	PPOSAT	unser
+Agrarpolitik	NN	Agrarpolitik
+ist	VAFIN	sein
+es	PPER	es
+,	$,	,
+die	ART	d
+Wettbewerbsfähigkeit	NN	Wettbewerbsfähigkeit
+einer	ART	ein
+möglichst	ADV	möglichst
+großen	ADJA	groß
+Zahl	NN	Zahl
+bäuerlicher	ADJA	bäuerlich
+Betriebe	NN	Betrieb
+zu	PTKZU	zu
+sichern	VVINF	sichern
+,	$,	,
+die	ART	d
+Funktionsfähigkeit	NN	Funktionsfähigkeit
+und	KON	und
+die	ART	d
+Infrastruktur	NN	Infrastruktur
+des	ART	d
+ländlichen	ADJA	ländlich
+Raumes	NN	Raum
+zu	PTKZU	zu
+verbessern	VVINF	verbessern
+und	KON	und
+die	ART	d
+Kulturlandschaft	NN	Kulturlandschaft
+zu	PTKZU	zu
+erhalten	VVINF	erhalten
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+haben	VAFIN	haben
+in	APPR	in
+den	ART	d
+zurückliegenden	ADJA	zurückliegend
+Jahren	NN	Jahr
+die	ART	d
+finanziellen	ADJA	finanziell
+Mittel	NN	Mittel
+für	APPR	für
+die	ART	d
+Landwirte	NN	Landwirt
+erheblich	ADJD	erheblich
+gesteigert	VVPP	steigern
+.	$.	.
+</s>
+<s>
+Die	ART	d
+soziale	ADJA	sozial
+Absicherung	NN	Absicherung
+wurde	VAFIN	werden
+verbessert	VVPP	verbessern
+,	$,	,
+die	ART	d
+Förderung	NN	Förderung
+in	APPR	in
+den	ART	d
+benachteiligten	ADJA	benachteiligt
+Gebieten	NN	Gebiet
+ausgeweitet	VVPP	ausweiten
+,	$,	,
+ein	ART	ein
+flächenbezogener	ADJA	flächenbezogener
+Einkommensausgleich	NN	Einkommensausgleich
+eingeführt	VVPP	einführen
+und	KON	und
+über	APPR	über
+eine	ART	ein
+Quotenregelung	NN	Quotenregelung
+wurden	VAFIN	werden
+die	ART	d
+Milchüberschüsse	NN	Milchüberschuß
+beseitigt	VVPP	beseitigen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Landwirtschaft	NN	Landwirtschaft
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+unterstützen	VVFIN	unterstützen
+wir	PPER	wir
+durch	APPR	durch
+Hilfen	NN	Hilfe
+zum	APPRART	zum
+Abbau	NN	Abbau
+der	ART	d
+Überschüsse	NN	Überschuß
+,	$,	,
+durch	APPR	durch
+die	ART	d
+Absicherung	NN	Absicherung
+sozialer	ADJA	sozial
+Härten	NN	Härte|Härten
+,	$,	,
+durch	APPR	durch
+den	ART	d
+Aufbau	NN	Aufbau
+einer	ART	ein
+modernen	ADJA	modern
+Vermarktung	NN	Vermarktung
+,	$,	,
+durch	APPR	durch
+Hilfen	NN	Hilfe
+zur	APPRART	zur
+Neugründung	NN	Neugründung
+von	APPR	von
+Familienbetrieben	NN	Familienbetrieb
+und	KON	und
+durch	APPR	durch
+Hilfen	NN	Hilfe
+zur	APPRART	zur
+Umstrukturierung	NN	Umstrukturierung
+landwirtschaftlicher	ADJA	landwirtschaftlich
+Genossenschaften	NN	Genossenschaft
+.	$.	.
+</s>
+<s>
+Zur	APPRART	zur
+Zukunftssicherung	NN	Zukunftssicherung
+der	ART	d
+Landwirtschaft	NN	Landwirtschaft
+müssen	VMFIN	müssen
+Produktionsüberschüsse	NN	Produktionsüberschuß
+durch	APPR	durch
+eine	ART	ein
+gezielte	ADJA	gezielt
+Mengenrückführung	NN	Mengenrückführung
+und	KON	und
+nicht	PTKNEG	nicht
+durch	APPR	durch
+eine	ART	ein
+Politik	NN	Politik
+des	ART	d
+ständigen	ADJA	ständig
+Preisdrucks	NN	Preisdruck
+EG-weit	ADJD	EG-weit
+abgebaut	VVPP	abbauen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Preispolitik	NN	Preispolitik
+muß	VMFIN	müssen
+Grundlage	NN	Grundlage
+der	ART	d
+landwirtschaftlichen	ADJA	landwirtschaftlich
+Einkommen	NN	Einkommen
+bleiben	VVINF	bleiben
+.	$.	.
+</s>
+<s>
+Alle	PIAT	alle
+EG-Länder	NN	EG-Land
+müssen	VMFIN	müssen
+ihren	PPOSAT	ihr
+Beitrag	NN	Beitrag
+zu	APPR	zu
+einem	ART	ein
+Marktausgleich	NN	Marktausgleich
+leisten	VVINF	leisten
+.	$.	.
+</s>
+<s>
+Die	ART	d
+deutschen	ADJA	deutsch
+Landwirte	NN	Landwirt
+dürfen	VMFIN	dürfen
+nicht	PTKNEG	nicht
+dadurch	PAV	dadurch
+benachteiligt	VVPP	benachteiligen
+werden	VAINF	werden
+,	$,	,
+daß	KOUS	daß
+sie	PPER	sie
+Maßnahmen	NN	Maßnahme
+wie	KOKOM	wie
+Flächenstillegung	NN	Flächenstillegung
+,	$,	,
+Extensivierung	NN	Extensivierung
+und	KON	und
+Vorruhestand	NN	Vorruhestand
+umsetzen	VVFIN	umsetzen
+,	$,	,
+während	KOUS	während
+andere	ADJA	ander
+EG-Länder	NN	EG-Land
+ihre	PPOSAT	ihr
+Verpflichtungen	NN	Verpflichtung
+zur	APPRART	zur
+Mengenrückführung	NN	Mengenrückführung
+nicht	PTKNEG	nicht
+erfüllen	VVFIN	erfüllen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Chancen	NN	Chance
+nachwachsender	ADJA	nachwachsend
+Rohstoffe	NN	Rohstoff
+müssen	VMFIN	müssen
+verstärkt	ADJD	verstärkt
+erforscht	VVPP	erforschen
+und	KON	und
+genutzt	VVPP	nutzen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Ausgleichszahlungen	NN	Ausgleichszahlung
+für	APPR	für
+landschaftspflegerische	ADJA	landschaftspflegerisch
+Leistungen	NN	Leistung
+werden	VAFIN	werden
+wir	PPER	wir
+verbessern	VVINF	verbessern
+.	$.	.
+</s>
+<s>
+Die	ART	d
+EG-Agrarstrukturpolitik	NN	EG-Agrarstrukturpolitik
+muß	VMFIN	müssen
+den	ART	d
+regionalen	ADJA	regional
+Besonderheiten	NN	Besonderheit
+der	ART	d
+einzelnen	ADJA	einzeln
+Mitgliedsstaaten	NN	Mitgliedsstaat
+mehr	PIAT	mehr
+Rechnung	NN	Rechnung
+tragen	VVINF	tragen
+.	$.	.
+</s>
+<s>
+Eine	ART	ein
+wichtiger	ADJA	wichtig
+Beitrag	NN	Beitrag
+zur	APPRART	zur
+Zukunftssicherung	NN	Zukunftssicherung
+der	ART	d
+Landwirte	NN	Landwirt
+ist	VAFIN	sein
+die	ART	d
+Entwicklung	NN	Entwicklung
+des	ART	d
+ländlichen	ADJA	ländlich
+Raumes	NN	Raum
+.	$.	.
+</s>
+<s>
+Seine	PPOSAT	sein
+Wirtschaftskraft	NN	Wirtschaftskraft
+muß	VMFIN	müssen
+gestärkt	VVPP	stärken
+,	$,	,
+Verkehrsverbindungen	NN	Verkehrsverbindung
+müssen	VMFIN	müssen
+verbessert	VVPP	verbessern
+,	$,	,
+das	ART	d
+Bildungsangebot	NN	Bildungsangebot
+muß	VMFIN	müssen
+ausgeweitet	VVPP	ausweiten
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+modernen	ADJA	modern
+Dienstleistungen	NN	Dienstleistung
+des	ART	d
+Post-	TRUNC	Post-
+und	KON	und
+Fernmeldewesens	NN	Fernmeldewesen
+müssen	VMFIN	müssen
+auch	ADV	auch
+im	APPRART	im
+ländlichen	ADJA	ländlich
+Raum	NN	Raum
+weiter	ADV	weiter
+ausgebaut	VVPP	ausbauen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+ein	ART	ein
+sozial	ADJD	sozial
+gerechtes	ADJA	gerecht
+und	KON	und
+menschliches	ADJA	menschlich
+Deutschland	NE	Deutschland
+-	$(	-
+Mit	APPR	mit
+der	ART	d
+Sozialen	ADJA	sozial
+Marktwirtschaft	NN	Marktwirtschaft
+hat	VAFIN	haben
+die	ART	d
+CDU	NE	CDU
+zugleich	ADV	zugleich
+einen	ART	ein
+weltweit	ADJD	weltweit
+vorbildlichen	ADJA	vorbildlich
+Sozialstaat	NN	Sozialstaat
+verwirklicht	VVPP	verwirklichen
+.	$.	.
+</s>
+<s>
+Alle	PIAT	alle
+großen	ADJA	groß
+Sozialgesetze	NN	Sozialgesetz
+wurden	VAFIN	werden
+von	APPR	von
+ihr	PPER	ihr
+entwickelt	VVPP	entwickeln
+und	KON	und
+durchgesetzt	VVPP	durchsetzen
+.	$.	.
+</s>
+<s>
+Sie	PPER	Sie|sie
+sichern	VVFIN	sichern
+allen	PIAT	alle
+Deutschen	ADJA	deutsch
+Würde	NN	Würde
+und	KON	und
+Freiheit	NN	Freiheit
+,	$,	,
+Vielfalt	NN	Vielfalt
+der	ART	d
+Lebenschancen	NN	Lebenschance
+und	KON	und
+Geborgenheit	NN	Geborgenheit
+.	$.	.
+</s>
+<s>
+Wirtschafts-	TRUNC	Wirtschafts-
+und	KON	und
+Sozialpolitik	NN	Sozialpolitik
+sind	VAFIN	sein
+untrennbar	ADJD	untrennbar
+miteinander	ADV	miteinander
+verbunden	ADJD	verbunden
+.	$.	.
+</s>
+<s>
+Nur	ADV	nur
+eine	ART	ein
+leistungsfähige	ADJA	leistungsfähig
+Wirtschaft	NN	Wirtschaft
+ermöglicht	VVFIN	ermöglichen
+soziale	ADJA	sozial
+Gerechtigkeit	NN	Gerechtigkeit
+,	$,	,
+aber	KON	aber
+eine	ART	ein
+Wirtschaftspolitik	NN	Wirtschaftspolitik
+ohne	APPR	ohne
+soziale	ADJA	sozial
+Gerechtigkeit	NN	Gerechtigkeit
+verfehlt	VVFIN	verfehlen
+den	ART	d
+sozialen	ADJA	sozial
+Frieden	NN	Frieden
+und	KON	und
+führt	VVFIN	führen
+zu	APPR	zu
+volkswirtschaftlichen	ADJA	volkswirtschaftlich
+Verlusten	NN	Verlust
+.	$.	.
+</s>
+<s>
+Der	ART	d
+Erfolg	NN	Erfolg
+der	ART	d
+Sozialen	ADJA	sozial
+Marktwirtschaft	NN	Marktwirtschaft
+geht	VVFIN	gehen
+wesentlich	ADJD	wesentlich
+auf	APPR	auf
+die	ART	d
+soziale	ADJA	sozial
+Partnerschaft	NN	Partnerschaft
+zwischen	APPR	zwischen
+Arbeitgeberverbänden	NN	Arbeitgeberverband
+und	KON	und
+Gewerkschaften	NN	Gewerkschaft
+,	$,	,
+zwischen	APPR	zwischen
+Unternehmern	NN	Unternehmer
+und	KON	und
+Arbeitnehmern	NN	Arbeitnehmer
+zurück	PTKVZ	zurück
+.	$.	.
+</s>
+<s>
+Soziale	ADJA	sozial
+Partnerschaft	NN	Partnerschaft
+setzt	VVFIN	setzen
+auf	APPR	auf
+den	ART	d
+Willen	NN	Wille
+zum	APPRART	zum
+Konsens	NN	Konsens
+.	$.	.
+</s>
+<s>
+Dieser	PDS	dies
+bewahrt	VVFIN	bewahren
+den	ART	d
+sozialen	ADJA	sozial
+Frieden	NN	Frieden
+und	KON	und
+trägt	VVFIN	tragen
+damit	PAV	damit
+zum	APPRART	zum
+Gemeinwohl	NN	Gemeinwohl
+bei	PTKVZ	bei
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+setzen	VVFIN	setzen
+deshalb	PAV	deshalb
+weiter	ADV	weiter
+auf	APPR	auf
+soziale	ADJA	sozial
+Partnerschaft	NN	Partnerschaft
+.	$.	.
+</s>
+<s>
+-	$(	-
+Unser	PPOSAT	unser
+Ziel	NN	Ziel
+ist	VAFIN	sein
+eine	ART	ein
+neue	ADJA	neu
+Partnerschaft	NN	Partnerschaft
+zwischen	APPR	zwischen
+Mann	NN	Mann
+und	KON	und
+Frau	NN	Frau
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+unterstützen	VVFIN	unterstützen
+den	ART	d
+Wunsch	NN	Wunsch
+der	ART	d
+Frauen	NN	Frau
+nach	APPR	nach
+gleichberechtigter	ADJA	gleichberechtigt
+Teilhabe	NN	Teilhabe
+und	KON	und
+Mitgestaltung	NN	Mitgestaltung
+in	APPR	in
+allen	PIAT	alle
+Lebensbereichen	NN	Lebensbereich
+.	$.	.
+</s>
+<s>
+Die	ART	d
+immer	ADV	immer
+noch	ADV	noch
+bestehende	ADJA	bestehend
+Benachteiligung	NN	Benachteiligung
+vieler	PIAT	viel
+Frauen	NN	Frau
+widerspricht	VVFIN	widersprechen
+dem	ART	d
+Auftrag	NN	Auftrag
+des	ART	d
+Grundgesetzes	NN	Grundgesetz
+.	$.	.
+</s>
+<s>
+Die	ART	d
+CDU	NE	CDU
+will	VMFIN	wollen
+die	ART	d
+Voraussetzungen	NN	Voraussetzung
+dafür	PAV	dafür
+verbessern	VVINF	verbessern
+,	$,	,
+daß	KOUS	daß
+Frauen	NN	Frau
+und	KON	und
+Männern	NN	Mann
+in	APPR	in
+der	ART	d
+Arbeitswelt	NN	Arbeitswelt
+,	$,	,
+in	APPR	in
+der	ART	d
+Familie	NN	Familie
+und	KON	und
+im	APPRART	im
+gesellschaftlichen	ADJA	gesellschaftlich
+Bereich	NN	Bereich
+die	ART	d
+gleichen	ADJA	gleich
+Möglichkeiten	NN	Möglichkeit
+zur	APPRART	zur
+Gestaltung	NN	Gestaltung
+ihres	PPOSAT	ihr
+Lebens	NN	Leben
+offenstehen	VVFIN	offenstehen
+.	$.	.
+</s>
+<s>
+Sie	PPER	Sie|sie
+sollen	VMFIN	sollen
+sich	PRF	er|es|sie
+frei	ADJD	frei
+zwischen	APPR	zwischen
+Beruf	NN	Beruf
+und	KON	und
+Familie	NN	Familie
+entscheiden	VVINF	entscheiden
+oder	KON	oder
+beides	PIS	beide
+miteinander	ADV	miteinander
+verbinden	VVINF	verbinden
+können	VMINF	können
+.	$.	.
+</s>
+<s>
+Wie	KON	wie
+im	APPRART	im
+Einigungsvertrag	NN	Einigungsvertrag
+festgelegt	VVPP	festlegen
+,	$,	,
+setzen	VVFIN	setzen
+wir	PPER	wir
+uns	PRF	wir
+dafür	PAV	dafür
+ein	PTKVZ	ein
+,	$,	,
+die	ART	d
+Gesetzgebung	NN	Gesetzgebung
+zur	APPRART	zur
+Gleichberechtigung	NN	Gleichberechtigung
+zwischen	APPR	zwischen
+Männern	NN	Mann
+und	KON	und
+Frauen	NN	Frau
+weiterzuentwickeln	VVIZU	weiterentwickeln
+.	$.	.
+</s>
+<s>
+-	$(	-
+Im	APPRART	im
+Mittelpunkt	NN	Mittelpunkt
+unserer	PPOSAT	unser
+Politik	NN	Politik
+steht	VVFIN	stehen
+die	ART	d
+Familie	NN	Familie
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+eine	ART	ein
+familien-	TRUNC	familien-
+und	KON	und
+kinderfreundliche	ADJA	kinderfreundlich
+Gesellschaft	NN	Gesellschaft
+,	$,	,
+in	APPR	in
+der	ART	d
+Eltern	NN	Eltern
+ihre	PPOSAT	ihr
+Kinder	NN	Kind
+ohne	APPR	ohne
+wesentliche	ADJA	wesentlich
+berufliche	ADJA	beruflich
+und	KON	und
+finanzielle	ADJA	finanziell
+Nachteile	NN	Nachteil
+großziehen	VVINF	großziehen
+können	VMFIN	können
+.	$.	.
+</s>
+<s>
+Die	ART	d
+CDU	NE	CDU
+hat	VAFIN	haben
+mit	APPR	mit
+der	ART	d
+Verbesserung	NN	Verbesserung
+des	ART	d
+Familienlastenausgleichs	NN	Familienlastenausgleich
+,	$,	,
+mit	APPR	mit
+der	ART	d
+Einführung	NN	Einführung
+von	APPR	von
+Erziehungsgeld	NN	Erziehungsgeld
+und	KON	und
+Erziehungsurlaub	NN	Erziehungsurlaub
+und	KON	und
+mit	APPR	mit
+der	ART	d
+Anerkennung	NN	Anerkennung
+von	APPR	von
+Erziehungszeiten	NN	Erziehungszeit
+im	APPRART	im
+Rentenrecht	NN	Rentenrecht
+Familien	NN	Familie
+und	KON	und
+Alleinerziehende	NN	Alleinerziehende
+materiell	ADJD	materiell
+besser	ADJD	gut
+gestellt	VVPP	stellen
+und	KON	und
+so	ADV	so
+dazu	PAV	dazu
+beigetragen	VVPP	beitragen
+,	$,	,
+daß	KOUS	daß
+die	ART	d
+Arbeit	NN	Arbeit
+in	APPR	in
+der	ART	d
+Familie	NN	Familie
+ebenso	ADV	ebenso
+anerkannt	VVPP	anerkennen
+wird	VAFIN	werden
+wie	KOKOM	wie
+die	ART	d
+Erwerbsarbeit	NN	Erwerbsarbeit
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+halten	VVFIN	halten
+fest	ADJD	fest
+an	APPR	an
+dem	ART	d
+Ziel	NN	Ziel
+,	$,	,
+den	ART	d
+Familienlastenausgleich	NN	Familienlastenausgleich
+weiter	ADV	weiter
+zu	PTKZU	zu
+verbessern	VVINF	verbessern
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+das	ART	d
+Kindergeld	NN	Kindergeld
+-	$(	-
+insbesondere	ADV	insbesondere
+für	APPR	für
+das	ART	d
+erste	ADJA	erst
+Kind	NN	Kind
+-	$(	-
+,	$,	,
+den	ART	d
+Kinderfreibetrag	NN	Kinderfreibetrag
+und	KON	und
+den	ART	d
+Kindergeldzuschlag	NN	Kindergeldzuschlag
+erhöhen	VVFIN	erhöhen
+.	$.	.
+</s>
+<s>
+Erziehungsgeld	NN	Erziehungsgeld
+und	KON	und
+Erziehungsurlaub	NN	Erziehungsurlaub
+wollen	VMFIN	wollen
+wir	PPER	wir
+auf	APPR	auf
+drei	CARD	drei
+Jahre	NN	Jahr
+ausdehnen	VVINF	ausdehnen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+streben	VVFIN	streben
+dabei	PAV	dabei
+an	PTKVZ	an
+,	$,	,
+daß	KOUS	daß
+der	ART	d
+Bund	NN	Bund
+die	ART	d
+ersten	ADJA	erst
+zwei	CARD	zwei
+Jahre	NN	Jahr
+und	KON	und
+die	ART	d
+Länder	NN	Land
+das	ART	d
+dritte	ADJA	dritt
+Jahr	NN	Jahr
+finanzieren	VVFIN	finanzieren
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+,	$,	,
+daß	KOUS	daß
+Familie	NN	Familie
+und	KON	und
+Beruf	NN	Beruf
+stärker	ADJD	stark
+miteinander	ADV	miteinander
+in	APPR	in
+Einklang	NN	Einklang
+gebracht	VVPP	bringen
+werden	VAINF	werden
+können	VMFIN	können
+und	KON	und
+wirken	VVFIN	wirken
+weiter	ADV	weiter
+darauf	PAV	darauf
+hin	PTKVZ	hin
+,	$,	,
+daß	KOUS	daß
+Männer	NN	Mann
+und	KON	und
+Frauen	NN	Frau
+gleiche	ADJA	gleich
+Chancen	NN	Chance
+im	APPRART	im
+Beruf	NN	Beruf
+haben	VAFIN	haben
+.	$.	.
+</s>
+<s>
+Eine	ART	ein
+menschliche	ADJA	menschlich
+Arbeitswelt	NN	Arbeitswelt
+muß	VMFIN	müssen
+erwerbstätigen	ADJA	erwerbstätig
+Müttern	NN	Mutter
+und	KON	und
+Vätern	NN	Vater
+Zeit	NN	Zeit
+lassen	VVINF	lassen
+,	$,	,
+mit	APPR	mit
+ihren	PPOSAT	ihr
+Kindern	NN	Kind
+zusammen	PTKVZ	zusammen
+zu	PTKZU	zu
+sein	VAINF	sein
+.	$.	.
+</s>
+<s>
+Flexible	ADJA	flexibel
+Arbeitszeiten	NN	Arbeitszeit
+und	KON	und
+ein	ART	ein
+erweiterter	ADJA	erweitert
+Erziehungsurlaub	NN	Erziehungsurlaub
+können	VMFIN	können
+hierfür	PAV	hierfür
+bessere	ADJA	gut
+Voraussetzungen	NN	Voraussetzung
+schaffen	VVINF	schaffen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+treten	VVFIN	treten
+ein	ART	ein
+für	APPR	für
+ein	ART	ein
+erweitertes	ADJA	erweitert
+Angebot	NN	Angebot
+in	APPR	in
+der	ART	d
+Kinder-	TRUNC	Kinder-
+und	KON	und
+Schülerbetreuung	NN	Schülerbetreuung
+.	$.	.
+</s>
+<s>
+Unser	PPOSAT	unser
+Ziel	NN	Ziel
+ist	VAFIN	sein
+es	PPER	es
+,	$,	,
+für	APPR	für
+alle	PIAT	alle
+Kinder	NN	Kind
+,	$,	,
+die	PRELS	d
+älter	ADJD	alt
+als	KOKOM	als
+drei	CARD	drei
+Jahre	NN	Jahr
+sind	VAFIN	sein
+,	$,	,
+einen	ART	ein
+Kindergartenplatz	NN	Kindergartenplatz
+zu	PTKZU	zu
+schaffen	VVINF	schaffen
+.	$.	.
+</s>
+<s>
+Auch	ADV	auch
+für	APPR	für
+jüngere	ADJA	jung
+Kinder	NN	Kind
+muß	VMFIN	müssen
+es	PPER	es
+ein	ART	ein
+altersgerechtes	ADJA	altersgerecht
+Angebot	NN	Angebot
+geben	VVINF	geben
+.	$.	.
+</s>
+<s>
+Darauf	PAV	darauf
+sind	VAFIN	sein
+insbesondere	ADV	insbesondere
+Alleinerziehende	NN	Alleinerziehende
+,	$,	,
+Mütter	NN	Mutter
+in	APPR	in
+Ausbildung	NN	Ausbildung
+und	KON	und
+Familien	NN	Familie
+mit	APPR	mit
+geringem	ADJA	gering
+Einkommen	NN	Einkommen
+angewiesen	VVPP	anweisen
+.	$.	.
+</s>
+<s>
+Nach	APPR	nach
+einer	ART	ein
+Familienphase	NN	Familienphase
+muß	VMFIN	müssen
+die	ART	d
+Rückkehr	NN	Rückkehr
+in	APPR	in
+den	ART	d
+Beruf	NN	Beruf
+erleichtert	VVPP	erleichtern
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+-	$(	-
+Das	ART	d
+ungeborene	ADJA	ungeboren
+Kind	NN	Kind
+ist	VAFIN	sein
+Mensch	NN	Mensch
+von	APPR	von
+Beginn	NN	Beginn
+an	PTKVZ	an
+und	KON	und
+steht	VVFIN	stehen
+unter	APPR	unter
+dem	ART	d
+Schutz	NN	Schutz
+der	ART	d
+Verfassung	NN	Verfassung
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+treten	VVFIN	treten
+für	APPR	für
+einen	ART	ein
+umfassenden	ADJA	umfassend
+und	KON	und
+wirksamen	ADJA	wirksam
+Schutz	NN	Schutz
+des	ART	d
+ungeborenen	ADJA	ungeborenen
+Kindes	NN	Kind
+ein	PTKVZ	ein
+.	$.	.
+</s>
+<s>
+Dies	PDS	dies
+ist	VAFIN	sein
+durch	APPR	durch
+bloße	ADJA	bloß
+Strafandrohung	NN	Strafandrohung
+nicht	PTKNEG	nicht
+zu	PTKZU	zu
+gewährleisten	VVINF	gewährleisten
+.	$.	.
+</s>
+<s>
+Schwangere	NN	Schwangre
+in	APPR	in
+Notlagen	NN	Notlage
+müssen	VMFIN	müssen
+Anspruch	NN	Anspruch
+auf	APPR	auf
+eingehende	ADJA	eingehend
+Beratung	NN	Beratung
+sowie	KON	sowie
+staatliche	ADJA	staatlich
+Hilfen	NN	Hilfe
+haben	VAINF	haben
+.	$.	.
+</s>
+<s>
+Umfassende	ADJA	umfassend
+Verbesserungen	NN	Verbesserung
+sollen	VMFIN	sollen
+ein	ART	ein
+Ja	NN	Ja
+zum	APPRART	zum
+Kind	NN	Kind
+erleichtern	VVINF	erleichtern
+.	$.	.
+</s>
+<s>
+In	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+werden	VAFIN	werden
+wir	PPER	wir
+Angebote	NN	Angebot
+zur	APPRART	zur
+Beratung	NN	Beratung
+und	KON	und
+Hilfe	NN	Hilfe
+sehr	ADV	sehr
+rasch	ADJD	rasch
+aufbauen	VVINF	aufbauen
+.	$.	.
+</s>
+<s>
+Dabei	PAV	dabei
+setzen	VVFIN	setzen
+wir	PPER	wir
+auch	ADV	auch
+auf	APPR	auf
+das	ART	d
+Engagement	NN	Engagement
+der	ART	d
+Kirchen	NN	Kirche
+und	KON	und
+Freien	ADJA	frei
+Wohlfahrtsverbände	NN	Wohlfahrtsverband
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+unverzüglich	ADJD	unverzüglich
+ein	ART	ein
+Gesetz	NN	Gesetz
+zur	APPRART	zur
+Verbesserung	NN	Verbesserung
+des	ART	d
+Schutzes	NN	Schutz
+des	ART	d
+ungeborenen	ADJA	ungeborenen
+Kindes	NN	Kind
+vorlegen	VVINF	vorlegen
+,	$,	,
+mit	APPR	mit
+dem	ART	d
+einheitliches	ADJA	einheitlich
+und	KON	und
+verfassungsgemäßes	ADJA	verfassungsgemäßes
+Recht	NN	Recht
+in	APPR	in
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+geschaffen	VVPP	schaffen
+wird	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Fristenlösung	NN	Fristenlösung
+,	$,	,
+wie	KOUS	wie
+sie	PPER	sie
+1975	CARD	1975
+vom	APPRART	vom
+Bundesverfassungsgericht	NN	Bundesverfassungsgericht
+verworfen	VVPP	verwerfen
+wurde	VAFIN	werden
+,	$,	,
+lehnen	VVFIN	lehnen
+wir	PPER	wir
+aus	APPR	aus
+ethischen	ADJA	ethisch
+Gründen	NN	Grund|Gründen
+in	APPR	in
+Übereinstimmung	NN	Übereinstimmung
+mit	APPR	mit
+den	ART	d
+Werten	NN	Wert|Werten
+des	ART	d
+Grundgesetzes	NN	Grundgesetz
+ab	PTKVZ	ab
+.	$.	.
+</s>
+<s>
+-	$(	-
+Das	PDS	d
+vereinte	VVFIN	vereinen
+Deutschland	NE	Deutschland
+braucht	VVFIN	brauchen
+das	ART	d
+Engagement	NN	Engagement
+und	KON	und
+die	ART	d
+Kreativität	NN	Kreativität
+der	ART	d
+Jugend	NN	Jugend
+.	$.	.
+</s>
+<s>
+Für	APPR	für
+junge	ADJA	jung
+Menschen	NN	Mensch
+gibt	VVFIN	geben
+es	PPER	es
+eine	ART	ein
+Fülle	NN	Fülle
+von	APPR	von
+anspruchsvollen	ADJA	anspruchsvoll
+und	KON	und
+lohnenden	ADJA	lohnend
+Aufgaben	NN	Aufgabe
+.	$.	.
+</s>
+<s>
+Die	ART	d
+vor	APPR	vor
+uns	PPER	wir
+liegenden	ADJA	liegend
+Aufbaujahre	NN	Aufbaujahr
+bieten	VVFIN	bieten
+Zukunftschancen	NN	Zukunftschance
+wie	KOKOM	wie
+nie	ADV	nie
+zuvor	ADV	zuvor
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+alles	PIS	alle
+tun	VVINF	tun
+,	$,	,
+damit	KOUS	damit
+junge	ADJA	jung
+Menschen	NN	Mensch
+auf	APPR	auf
+diese	PDAT	dies
+Chancen	NN	Chance
+durch	APPR	durch
+Schule	NN	Schule
+und	KON	und
+Berufsausbildung	NN	Berufsausbildung
+gut	ADJD	gut
+vorbereitet	VVPP	vorbereiten
+sind	VAFIN	sein
+.	$.	.
+</s>
+<s>
+Junge	ADJA	jung
+Menschen	NN	Mensch
+brauchen	VVFIN	brauchen
+eine	ART	ein
+qualifizierte	ADJA	qualifiziert
+und	KON	und
+zukunftsorientierte	ADJA	zukunftsorientiert
+Berufsausbildung	NN	Berufsausbildung
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+deshalb	PAV	deshalb
+die	ART	d
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+begonnene	ADJA	begonnen
+Lehrstellen-Offensive	NN	Lehrstellen-Offensive
+mit	APPR	mit
+voller	ADJA	voll
+Kraft	NN	Kraft
+unterstützen	VVINF	unterstützen
+.	$.	.
+</s>
+<s>
+Das	ART	d
+Programm	NN	Programm
+für	APPR	für
+benachteiligte	ADJA	benachteiligt
+Jugendliche	NN	Jugendliche
+werden	VAFIN	werden
+wir	PPER	wir
+fortführen	VVINF	fortführen
+und	KON	und
+ausbauen	VVINF	ausbauen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+im	APPRART	im
+geistigen	ADJA	geistig
+und	KON	und
+kulturellen	ADJA	kulturell
+Leben	NN	Leben
+der	ART	d
+neuen	ADJA	neu
+Bundesländer	NN	Bundesland
+die	ART	d
+Trümmerstücke	NN	Trümmerstück
+ideologischer	ADJA	ideologisch
+Indoktrination	NN	Indoktrination
+beiseite	ADV	beiseite
+räumen	VVINF	räumen
+.	$.	.
+</s>
+<s>
+Dies	PDS	dies
+gilt	VVFIN	gelten
+insbesondere	ADV	insbesondere
+für	APPR	für
+die	ART	d
+Schulen	NN	Schule
+und	KON	und
+Hochschulen	NN	Hochschule
+.	$.	.
+</s>
+<s>
+Es	PPER	es
+muß	VMFIN	müssen
+gewährleistet	VVPP	gewährleisten
+sein	VAINF	sein
+,	$,	,
+daß	KOUS	daß
+die	ART	d
+heranwachsende	ADJA	heranwachsend
+Generation	NN	Generation
+im	APPRART	im
+Geist	NN	Geist
+der	ART	d
+Freiheit	NN	Freiheit
+erzogen	VVPP	erziehen
+wird	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+steigende	ADJA	steigend
+Nachfrage	NN	Nachfrage
+nach	APPR	nach
+Studienplätzen	NN	Studienplatz
+,	$,	,
+vor	APPR	vor
+allem	PIS	alle
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+,	$,	,
+erfordert	VVFIN	erfordern
+eine	ART	ein
+Ausweitung	NN	Ausweitung
+des	ART	d
+Angebotes	NN	Angebot
+an	APPR	an
+den	ART	d
+Fachhochschulen	NN	Fachhochschule
+und	KON	und
+Universitäten	NN	Universität
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+setzen	VVFIN	setzen
+uns	PPER	wir
+für	APPR	für
+eine	ART	ein
+verbesserte	ADJA	verbessert
+Grundausstattung	NN	Grundausstattung
+der	ART	d
+Hochschulen	NN	Hochschule
+ein	PTKVZ	ein
+.	$.	.
+</s>
+<s>
+Für	APPR	für
+den	ART	d
+hohen	ADJA	hoch
+Bedarf	NN	Bedarf
+an	APPR	an
+wissenschaftlichem	ADJA	wissenschaftlich
+Personal	NN	Personal
+in	APPR	in
+den	ART	d
+kommenden	ADJA	kommend
+Jahren	NN	Jahr
+wollen	VMFIN	wollen
+wir	PPER	wir
+gezielte	ADJA	gezielt
+Nachwuchsförderungsprogramme	NN	Nachwuchsförderungsprogramme
+einrichten	VVINF	einrichten
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+die	ART	d
+durchschnittlichen	ADJA	durchschnittlich
+Studienzeiten	NN	Studienzeit
+und	KON	und
+die	ART	d
+Schulzeiten	NN	Schulzeit
+bis	KON	bis
+zum	APPRART	zum
+Abitur	NN	Abitur
+senken	VVINF	senken
+.	$.	.
+</s>
+<s>
+Maßstab	NN	Maßstab
+ist	VAFIN	sein
+,	$,	,
+daß	KOUS	daß
+die	ART	d
+junge	ADJA	jung
+Generation	NN	Generation
+in	APPR	in
+Deutschland	NE	Deutschland
+hinsichtlich	APPR	hinsichtlich
+ihrer	PPOSAT	ihr
+Berufschancen	NN	Berufschance
+gegenüber	APPR	gegenüber
+anderen	PIS	ander
+jungen	ADJA	jung
+Menschen	NN	Mensch
+in	APPR	in
+Europa	NE	Europa
+nicht	PTKNEG	nicht
+schlechter	ADJD	schlecht
+gestellt	VVPP	stellen
+sein	VAINF	sein
+darf	VMFIN	dürfen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+CDU	NE	CDU
+erkennt	VVFIN	erkennen
+das	ART	d
+ehrenamtliche	ADJA	ehrenamtlich
+Engagement	NN	Engagement
+junger	ADJA	jung
+Menschen	NN	Mensch
+in	APPR	in
+der	ART	d
+Jugendarbeit	NN	Jugendarbeit
+an	PTKVZ	an
+.	$.	.
+</s>
+<s>
+Nachdrücklich	ADJD	nachdrücklich
+bekennen	VVFIN	bekennen
+wir	PPER	wir
+uns	PRF	wir
+zu	APPR	zu
+einer	ART	ein
+Stärkung	NN	Stärkung
+der	ART	d
+freien	ADJA	frei
+Jugendverbandsarbeit	NN	Jugendverbandsarbeit
+.	$.	.
+</s>
+<s>
+Besondere	ADJA	besonder
+Schwerpunkte	NN	Schwerpunkt
+sollen	VMFIN	sollen
+dabei	PAV	dabei
+der	ART	d
+Aufbau	NN	Aufbau
+einer	ART	ein
+pluralistischen	ADJA	pluralistisch
+Jugendarbeit	NN	Jugendarbeit
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+sowie	KON	sowie
+der	ART	d
+Ausbau	NN	Ausbau
+des	ART	d
+internationalen	ADJA	international
+Jugendaustausches	NN	Jugendaustausch
+sein	VAINF	sein
+.	$.	.
+</s>
+<s>
+Ziel	NN	Ziel
+ist	VAFIN	sein
+es	PPER	es
+,	$,	,
+ein	ART	ein
+gesamteuropäisches	ADJA	gesamteuropäisch
+Jugendwerk	NN	Jugendwerk
+aufzubauen	VVIZU	aufbauen
+,	$,	,
+das	PRELS	d
+einen	ART	ein
+wichtigen	ADJA	wichtig
+Beitrag	NN	Beitrag
+zur	APPRART	zur
+Völkerverständigung	NN	Völkerverständigung
+leisten	VVINF	leisten
+kann	VMFIN	können
+.	$.	.
+</s>
+<s>
+-	$(	-
+Wir	PPER	wir
+wollen	VMFIN	wollen
+eine	ART	ein
+Gesellschaft	NN	Gesellschaft
+,	$,	,
+die	PRELS	d
+ihr	PPOSAT	ihr
+Selbstbewußtsein	NN	Selbstbewußtsein
+nicht	PTKNEG	nicht
+nur	ADV	nur
+aus	APPR	aus
+ihrer	PPOSAT	ihr
+wirtschaftlichen	ADJA	wirtschaftlich
+und	KON	und
+sozialen	ADJA	sozial
+Leistungskraft	NN	Leistungskraft
+bezieht	VVFIN	beziehen
+,	$,	,
+sondern	KON	sondern
+die	PRELS	d
+sich	PRF	er|es|sie
+auch	ADV	auch
+als	KOKOM	als
+Kulturgesellschaft	NN	Kulturgesellschaft
+versteht	VVFIN	verstehen
+.	$.	.
+</s>
+<s>
+Neben	APPR	neben
+der	ART	d
+technischen	ADJA	technisch
+und	KON	und
+wirtschaftlichen	ADJA	wirtschaftlich
+Entwicklung	NN	Entwicklung
+werden	VAFIN	werden
+gerade	ADV	gerade
+Kunst	NN	Kunst
+und	KON	und
+Kultur	NN	Kultur
+,	$,	,
+Bildung	NN	Bildung
+und	KON	und
+Weiterbildung	NN	Weiterbildung
+,	$,	,
+Wissenschaft	NN	Wissenschaft
+und	KON	und
+Forschung	NN	Forschung
+die	ART	d
+Zukunftsfähigkeit	NN	Zukunftsfähigkeit
+unserer	PPOSAT	unser
+Gesellschaft	NN	Gesellschaft
+bestimmen	VVFIN	bestimmen
+.	$.	.
+</s>
+<s>
+Kultur	NN	Kultur
+hilft	VVFIN	helfen
+individuelle	ADJA	individuell
+Freiheit	NN	Freiheit
+zu	PTKZU	zu
+wahren	VVINF	wahren
+;	$.	;
+</s>
+<s>
+sie	PPER	sie
+ist	VAFIN	sein
+ein	ART	ein
+Gradmesser	NN	Gradmesser
+für	APPR	für
+Toleranz	NN	Toleranz
+und	KON	und
+Offenheit	NN	Offenheit
+einer	ART	ein
+Gesellschaft	NN	Gesellschaft
+.	$.	.
+</s>
+<s>
+Politik	NN	Politik
+muß	VMFIN	müssen
+Kultur	NN	Kultur
+fördern	VVINF	fördern
+,	$,	,
+ohne	KOUI	ohne
+ihre	PPOSAT	ihr
+Freiheit	NN	Freiheit
+einzuschränken	VVIZU	einschränken
+.	$.	.
+</s>
+<s>
+Kunst	NN	Kunst
+und	KON	und
+Kultur	NN	Kultur
+tragen	VVFIN	tragen
+dazu	PAV	dazu
+bei	PTKVZ	bei
+,	$,	,
+die	ART	d
+Folgen	NN	Folge
+der	ART	d
+Teilung	NN	Teilung
+Deutschlands	NE	Deutschland
+zu	PTKZU	zu
+überwinden	VVINF	überwinden
+.	$.	.
+</s>
+<s>
+In	APPR	in
+dem	ART	d
+sich	PRF	er|es|sie
+einigenden	ADJA	einigend
+Europa	NE	Europa
+wollen	VMFIN	wollen
+wir	PPER	wir
+die	ART	d
+gewachsenen	ADJA	gewachst
+Kulturen	NN	Kultur
+der	ART	d
+Regionen	NN	Region
+bewahren	VVINF	bewahren
+und	KON	und
+pflegen	VVINF	pflegen
+:	$.	:
+</s>
+<s>
+Das	PDS	d
+reiche	VVFIN	reichen
+kulturelle	ADJA	kulturell
+Erbe	NN	Erbe
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+gilt	VVFIN	gelten
+es	PPER	es
+zu	PTKZU	zu
+erhalten	VVINF	erhalten
+.	$.	.
+</s>
+<s>
+Für	APPR	für
+die	ART	d
+Förderung	NN	Förderung
+von	APPR	von
+Kultur	NN	Kultur
+,	$,	,
+Kunst	NN	Kunst
+und	KON	und
+Künstlern	NN	Künstler
+haben	VAFIN	haben
+wir	PPER	wir
+mit	APPR	mit
+der	ART	d
+Weiterführung	NN	Weiterführung
+des	ART	d
+bisherigen	ADJA	bisherig
+Kulturfonds	NN	Kulturfonds
+bis	KON	bis
+Ende	NN	Ende
+1994	CARD	1994
+ein	ART	ein
+flexibles	ADJA	flexibel
+Instrument	NN	Instrument
+zur	APPRART	zur
+Verfügung	NN	Verfügung
+gestellt	VVPP	stellen
+.	$.	.
+</s>
+<s>
+-	$(	-
+Mit	APPR	mit
+der	ART	d
+Einführung	NN	Einführung
+der	ART	d
+dynamischen	ADJA	dynamisch
+Rente	NN	Rente
+haben	VAFIN	haben
+wir	PPER	wir
+ein	ART	ein
+weltweit	ADJD	weltweit
+vorbildliches	ADJA	vorbildlich
+System	NN	System
+der	ART	d
+Alterssicherung	NN	Alterssicherung
+geschaffen	VVPP	schaffen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+dynamische	ADJA	dynamisch
+Rente	NN	Rente
+sichert	VVFIN	sichern
+die	ART	d
+Teilhabe	NN	Teilhabe
+an	APPR	an
+der	ART	d
+Einkommensentwicklung	NN	Einkommensentwicklung
+der	ART	d
+Erwerbstätigen	NN	Erwerbstätige
+.	$.	.
+</s>
+<s>
+Sie	PPER	Sie|sie
+gewährleistet	VVFIN	gewährleisten
+Sicherheit	NN	Sicherheit
+und	KON	und
+Geborgenheit	NN	Geborgenheit
+im	APPRART	im
+Alter	NN	Alter
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Rentner	NN	Rentner
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+erleben	VVFIN	erleben
+schon	ADV	schon
+jetzt	ADV	jetzt
+die	ART	d
+Vorteile	NN	Vorteil
+dieses	PDAT	dies
+dynamischen	ADJA	dynamisch
+Systems	NN	System
+der	ART	d
+Rentenanpassung	NN	Rentenanpassung
+,	$,	,
+und	KON	und
+dies	PDS	dies
+wird	VAFIN	werden
+auch	ADV	auch
+in	APPR	in
+Zukunft	NN	Zukunft
+so	ADV	so
+sein	VAINF	sein
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Rentenreform	NN	Rentenreform
+hat	VAFIN	haben
+die	ART	d
+Voraussetzungen	NN	Voraussetzung
+dafür	PAV	dafür
+geschaffen	VVPP	schaffen
+,	$,	,
+daß	KOUS	daß
+die	ART	d
+Renten	NN	Rente
+auch	ADV	auch
+in	APPR	in
+Zukunft	NN	Zukunft
+sicher	ADJD	sicher
+sind	VAFIN	sein
+.	$.	.
+</s>
+<s>
+-	$(	-
+Unser	PPOSAT	unser
+Ziel	NN	Ziel
+ist	VAFIN	sein
+eine	ART	ein
+gute	ADJA	gut
+Gesundheitsversorgung	NN	Gesundheitsversorgung
+für	APPR	für
+alle	PIAT	alle
+Menschen	NN	Mensch
+in	APPR	in
+Deutschland	NE	Deutschland
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Gesundheitspolitik	NN	Gesundheitspolitik
+muß	VMFIN	müssen
+in	APPR	in
+Zukunft	NN	Zukunft
+stärker	ADJD	stark
+die	ART	d
+Vorsorge	NN	Vorsorge
+in	APPR	in
+den	ART	d
+Mittelpunkt	NN	Mittelpunkt
+stellen	VVINF	stellen
+.	$.	.
+</s>
+<s>
+Es	PPER	es
+ist	VAFIN	sein
+besser	ADJD	gut
+,	$,	,
+Gesundheit	NN	Gesundheit
+zu	PTKZU	zu
+erhalten	VVINF	erhalten
+,	$,	,
+als	KOKOM	als
+später	ADJA	spät
+Krankheiten	NN	Krankheit
+heilen	VVINF	heilen
+zu	PTKZU	zu
+müssen	VMINF	müssen
+.	$.	.
+</s>
+<s>
+Das	ART	d
+Gesundheitswesen	NN	Gesundheitswesen
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+muß	VMFIN	müssen
+saniert	VVPP	sanieren
+und	KON	und
+neu	ADJD	neu
+organisiert	VVPP	organisieren
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Dazu	PAV	dazu
+gehören	VVFIN	gehören
+insbesondere	ADV	insbesondere
+die	ART	d
+freie	ADJA	frei
+Arztwahl	NN	Arztwahl
+,	$,	,
+die	ART	d
+Niederlassungsfreiheit	NN	Niederlassungsfreiheit
+und	KON	und
+moderne	ADJA	modern
+und	KON	und
+leistungsfähige	ADJA	leistungsfähig
+Krankenhäuser	NN	Krankenhaus
+.	$.	.
+</s>
+<s>
+Entsprechend	ADJD	entsprechend
+den	ART	d
+Regelungen	NN	Regelung
+des	ART	d
+Einigungsvertrages	NN	Einigungsvertrag
+bleibt	VVFIN	bleiben
+auch	ADV	auch
+die	ART	d
+Fortführung	NN	Fortführung
+von	APPR	von
+Einrichtungen	NN	Einrichtung
+zur	APPRART	zur
+ambulanten	ADJA	ambulant
+Versorgung	NN	Versorgung
+bis	KON	bis
+Ende	NN	Ende
+1995	CARD	1995
+möglich	ADJD	möglich
+.	$.	.
+</s>
+<s>
+Behinderte	NN	Behinderte
+dürfen	VMFIN	dürfen
+aus	APPR	aus
+unserer	PPOSAT	unser
+Gesellschaft	NN	Gesellschaft
+nicht	PTKNEG	nicht
+ausgegrenzt	VVPP	ausgrenzen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Ihr	PPOSAT	Ihr|ihr
+Lebensmut	NN	Lebensmut
+kann	VMFIN	können
+Vorbild	NN	Vorbild
+sein	VAINF	sein
+.	$.	.
+</s>
+<s>
+Zuwendung	NN	Zuwendung
+zu	APPR	zu
+Behinderten	NN	Behinderte
+macht	VVFIN	machen
+unsere	PPOSAT	unser
+Gesellschaft	NN	Gesellschaft
+menschlicher	ADJD	menschlich
+.	$.	.
+</s>
+<s>
+Deshalb	PAV	deshalb
+treten	VVFIN	treten
+wir	PPER	wir
+dafür	PAV	dafür
+ein	PTKVZ	ein
+,	$,	,
+Kranken	NN	Kranke
+und	KON	und
+Behinderten	NN	Behinderte
+die	ART	d
+bestmögliche	ADJA	bestmöglich
+Betreuung	NN	Betreuung
+und	KON	und
+Förderung	NN	Förderung
+zukommen	VVINF	zukommen
+zu	PTKZU	zu
+lassen	VVINF	lassen
+.	$.	.
+</s>
+<s>
+Darüber	PAV	darüber
+hinaus	ADV	hinaus
+brauchen	VVFIN	brauchen
+wir	PPER	wir
+mehr	ADV	mehr
+menschliches	ADJA	menschlich
+Miteinander	NN	Miteinander
+,	$,	,
+Partnerschaft	NN	Partnerschaft
+und	KON	und
+Zusammenleben	NN	Zusammenleben
+im	APPRART	im
+Alltag	NN	Alltag
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+den	ART	d
+chronisch	ADJD	chronisch
+Schwerkranken	NN	Schwerkranke
+und	KON	und
+Behinderten	NN	Behinderte
+die	ART	d
+Teilhabe	NN	Teilhabe
+am	APPRART	am
+gesellschaftlichen	ADJA	gesellschaftlich
+Leben	NN	Leben
+erleichtern	VVINF	erleichtern
+.	$.	.
+</s>
+<s>
+Um	KOUI	um
+der	ART	d
+wachsenden	ADJA	wachsend
+Zahl	NN	Zahl
+der	ART	d
+Suchtmittelabhängigen	NN	Suchtmittelabhängige
+helfen	VVINF	helfen
+zu	PTKZU	zu
+können	VMINF	können
+,	$,	,
+müssen	VMFIN	müssen
+Prävention	NN	Prävention
+,	$,	,
+Beratung	NN	Beratung
+und	KON	und
+Selbsthilfe	NN	Selbsthilfe
+verstärkt	VVPP	verstärken
+und	KON	und
+Therapieplätze	NN	Therapieplatz
+bedarfsgerecht	ADJD	bedarfsgerecht
+ausgebaut	VVPP	ausbauen
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Insbesondere	ADV	insbesondere
+ist	VAFIN	sein
+noch	ADV	noch
+intensiver	ADJD	intensiv
+als	KOKOM	als
+bisher	ADV	bisher
+über	APPR	über
+Suchtgefahren	NN	Suchtgefahr
+aufzuklären	VVIZU	aufklären
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+auf	APPR	auf
+die	ART	d
+weitere	ADJA	weit
+Umsetzung	NN	Umsetzung
+des	ART	d
+von	APPR	von
+uns	PPER	wir
+initiierten	ADJA	initiiert
+"	$(	"
+Nationalen	ADJA	national
+Rauschgiftbekämpfungsplans	NN	Rauschgiftbekämpfungsplan
+"	$(	"
+drängen	VVINF	drängen
+.	$.	.
+</s>
+<s>
+Immer	ADV	immer
+mehr	PIAT	mehr
+Menschen	NN	Mensch
+müssen	VMFIN	müssen
+im	APPRART	im
+Alter	NN	Alter
+gepflegt	VVPP	pflegen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+häusliche	ADJA	häuslich
+Pflege	NN	Pflege
+hat	VAFIN	haben
+dabei	PAV	dabei
+Vorrang	NN	Vorrang
+vor	APPR	vor
+der	ART	d
+Unterbringung	NN	Unterbringung
+in	APPR	in
+Heimen	NN	Heim
+.	$.	.
+</s>
+<s>
+Ambulante	ADJA	ambulant
+Dienste	NN	Dienst
+sollen	VMFIN	sollen
+die	ART	d
+häusliche	ADJA	häuslich
+Pflege	NN	Pflege
+unterstützen	VVINF	unterstützen
+,	$,	,
+damit	KOUS	damit
+pflegebedürftige	ADJA	pflegebedürftig
+Menschen	NN	Mensch
+solange	KOUS	solange
+wie	KOKOM	wie
+möglich	ADJD	möglich
+in	APPR	in
+ihrer	PPOSAT	ihr
+vertrauten	ADJA	vertraut
+Umgebung	NN	Umgebung
+bleiben	VVINF	bleiben
+können	VMFIN	können
+.	$.	.
+</s>
+<s>
+Freie	ADJA	frei
+Träger	NN	Träger
+,	$,	,
+ehrenamtliche	ADJA	ehrenamtlich
+Helfer	NN	Helfer
+und	KON	und
+Selbsthilfeorganisationen	NN	Selbsthilfeorganisation
+von	APPR	von
+Senioren	NN	Senior
+leisten	VVFIN	leisten
+dabei	PAV	dabei
+unentbehrliche	ADJA	unentbehrlich
+Dienste	NN	Dienst
+.	$.	.
+</s>
+<s>
+Möglichkeiten	NN	Möglichkeit
+zur	APPRART	zur
+Altersrehabilitation	NN	Altersrehabilitation
+sind	VAFIN	sein
+zu	PTKZU	zu
+fördern	VVINF	fördern
+und	KON	und
+auszubauen	VVIZU	ausbauen
+.	$.	.
+</s>
+<s>
+Menschenwürdige	ADJA	menschenwürdig
+Pflege	NN	Pflege
+und	KON	und
+Betreuung	NN	Betreuung
+erfordern	VVFIN	erfordern
+qualifiziertes	ADJA	qualifiziert
+Pflegepersonal	NN	Pflegepersonal
+.	$.	.
+</s>
+<s>
+Wer	PWS	wer
+alte	ADJA	alt
+und	KON	und
+kranke	ADJA	krank
+Menschen	NN	Mensch
+pflegt	VVFIN	pflegen
+,	$,	,
+leistet	VVFIN	leisten
+einen	ART	ein
+für	APPR	für
+die	ART	d
+Gesellschaft	NN	Gesellschaft
+wichtigen	ADJA	wichtig
+Dienst	NN	Dienst
+,	$,	,
+der	ART	d
+Anerkennung	NN	Anerkennung
+verdient	VVPP	verdienen
+.	$.	.
+</s>
+<s>
+Insbesondere	ADV	insbesondere
+die	ART	d
+Altenpflege	NN	Altenpflege
+gewinnt	VVFIN	gewinnen
+zunehmend	ADJD	zunehmend
+an	APPR	an
+Bedeutung	NN	Bedeutung
+.	$.	.
+</s>
+<s>
+Die	ART	d
+CDU	NE	CDU
+setzt	VVFIN	setzen
+sich	PRF	er|es|sie
+für	APPR	für
+die	ART	d
+Aufwertung	NN	Aufwertung
+,	$,	,
+für	APPR	für
+eine	ART	ein
+qualifizierte	ADJA	qualifiziert
+Ausbildung	NN	Ausbildung
+,	$,	,
+bessere	ADJA	gut
+Arbeitsbedingungen	NN	Arbeitsbedingung
+und	KON	und
+Aufstiegschancen	NN	Aufstiegschance
+sowie	KON	sowie
+die	ART	d
+materielle	ADJA	materiell
+Besserstellung	NN	Besserstellung
+der	ART	d
+Pflegeberufe	NN	Pflegeberuf
+ein	PTKVZ	ein
+.	$.	.
+</s>
+<s>
+Für	APPR	für
+die	ART	d
+Berufsausbildung	NN	Berufsausbildung
+zum	APPRART	zum
+Altenpfleger	NN	Altenpfleger
+wollen	VMFIN	wollen
+wir	PPER	wir
+gesetzliche	ADJA	gesetzlich
+Grundlagen	NN	Grundlage
+schaffen	VVINF	schaffen
+.	$.	.
+</s>
+<s>
+Dringend	ADJD	dringend
+erforderlich	ADJD	erforderlich
+ist	VAFIN	sein
+es	PPER	es
+,	$,	,
+das	ART	d
+Pflegefallrisiko	NN	Pflegefallrisiko
+abzusichern	VVIZU	absichern
+.	$.	.
+</s>
+<s>
+Dafür	PAV	dafür
+werden	VAFIN	werden
+wir	PPER	wir
+eine	ART	ein
+gesetzliche	ADJA	gesetzlich
+Regelung	NN	Regelung
+schaffen	VVINF	schaffen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+außerdem	ADV	außerdem
+,	$,	,
+daß	KOUS	daß
+Zeiten	NN	Zeit
+der	ART	d
+Pflegeleistung	NN	Pflegeleistung
+in	APPR	in
+der	ART	d
+Rentenversicherung	NN	Rentenversicherung
+stärker	ADJD	stark
+berücksichtigt	VVPP	berücksichtigen
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+setzen	VVFIN	setzen
+mehr	PIAT	mehr
+Umweltschutz	NN	Umweltschutz
+durch	APPR	durch
+-	$(	-
+Die	ART	d
+90er	ADJA	90er
+Jahre	NN	Jahr
+müssen	VMFIN	müssen
+das	ART	d
+Jahrzehnt	NN	Jahrzehnt
+eines	ART	ein
+weltweiten	ADJA	weltweit
+ökologischen	ADJA	ökologisch
+Aufbruchs	NN	Aufbruch
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+deutsche	ADJA	deutsch
+Einheit	NN	Einheit
+bietet	VVFIN	bieten
+neue	ADJA	neu
+Chancen	NN	Chance
+für	APPR	für
+die	ART	d
+Umwelt	NN	Umwelt
+,	$,	,
+die	PRELS	d
+wir	PPER	wir
+im	APPRART	im
+Interesse	NN	Interesse
+der	ART	d
+nachfolgenden	ADJA	nachfolgend
+Generationen	NN	Generation
+nutzen	VVINF	nutzen
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+den	ART	d
+Umweltschutz	NN	Umweltschutz
+als	KOKOM	als
+Staatsziel	NN	Staatsziel
+in	APPR	in
+die	ART	d
+Verfassung	NN	Verfassung
+aufnehmen	VVINF	aufnehmen
+.	$.	.
+</s>
+<s>
+Durch	APPR	durch
+eine	ART	ein
+weitere	ADJA	weit
+Novellierung	NN	Novellierung
+des	ART	d
+Bundesnaturschutzgesetzes	NN	Bundesnaturschutzgesetz
+sollen	VMFIN	sollen
+die	ART	d
+ökologischen	ADJA	ökologisch
+Zusammenhänge	NN	Zusammenhang
+und	KON	und
+Belastungsgrenzen	NN	Belastungsgrenze
+von	APPR	von
+Natur	NN	Natur
+und	KON	und
+Landschaft	NN	Landschaft
+stärker	ADJD	stark
+berücksichtigt	VVPP	berücksichtigen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Deutschland	NE	Deutschland
+leistet	VVFIN	leisten
+schon	ADV	schon
+heute	ADV	heute
+einen	ART	ein
+richtungsweisenden	ADJA	richtungsweisend
+Beitrag	NN	Beitrag
+zur	APPRART	zur
+internationalen	ADJA	international
+Umweltpartnerschaft	NN	Umweltpartnerschaft
+.	$.	.
+</s>
+<s>
+Die	ART	d
+globale	ADJA	global
+Umweltpolitik	NN	Umweltpolitik
+zum	APPRART	zum
+Schutz	NN	Schutz
+des	ART	d
+Weltklimas	NN	Weltklima
+,	$,	,
+der	ART	d
+tropischen	ADJA	tropisch
+Regenwälder	NN	Regenwald
+und	KON	und
+der	ART	d
+Meere	NN	Meer
+,	$,	,
+die	PRELS	d
+Helmut	NE	Helmut
+Kohl	NE	Kohl
+begonnen	VVPP	beginnen
+und	KON	und
+international	ADJD	international
+vorangetrieben	VVPP	vorantreiben
+hat	VAFIN	haben
+,	$,	,
+muß	VMFIN	müssen
+konsequent	ADJD	konsequent
+fortgesetzt	VVPP	fortsetzen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+fordern	VVFIN	fordern
+wirksame	ADJA	wirksam
+internationale	ADJA	international
+Vereinbarungen	NN	Vereinbarung
+zum	APPRART	zum
+Schutz	NN	Schutz
+der	ART	d
+Erdatmosphäre	NN	Erdatmosphäre
+,	$,	,
+die	PRELS	d
+spätestens	ADV	spätestens
+1992	CARD	1992
+in	APPR	in
+Kraft	NN	Kraft
+treten	VVINF	treten
+sollen	VMFIN	sollen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Einstellung	NN	Einstellung
+von	APPR	von
+Produktion	NN	Produktion
+und	KON	und
+Verbrauch	NN	Verbrauch
+von	APPR	von
+Fluorchlorkohlenwasserstoffen	NN	Fluorchlorkohlenwasserstoff
+,	$,	,
+in	APPR	in
+der	ART	d
+Bundesrepublik	NN	Bundesrepublik
+Deutschland	NE	Deutschland
+bis	APPR	bis
+1995	CARD	1995
+,	$,	,
+weltweit	ADJD	weltweit
+bis	KON	bis
+zum	APPRART	zum
+Jahr	NN	Jahr
+2000	CARD	2000
+,	$,	,
+die	ART	d
+verstärkte	ADJA	verstärkt
+Nutzung	NN	Nutzung
+des	ART	d
+Instruments	NN	Instrument
+"	$(	"
+Schuldenerlaß	NN	Schuldenerlaß
+gegen	APPR	gegen
+Naturerhaltung	NN	Naturerhaltung
+"	$(	"
+,	$,	,
+besonders	ADV	besonders
+zugunsten	APPR	zugunsten
+der	ART	d
+Tropenwaldländer	NN	Tropenwaldland
+,	$,	,
+die	ART	d
+wirksame	ADJA	wirksam
+Durchsetzung	NN	Durchsetzung
+der	ART	d
+Meeresschutzkonventionen	NN	Meeresschutzkonventionen
+und	KON	und
+internationale	ADJA	international
+Vereinbarungen	NN	Vereinbarung
+zum	APPRART	zum
+Schutz	NN	Schutz
+der	ART	d
+Antarktis	NN	Antarktis
+und	KON	und
+der	ART	d
+Alpen	NN	Alp
+-	$(	-
+das	PDS	d
+sind	VAFIN	sein
+wichtige	ADJA	wichtig
+Bausteine	NN	Baustein
+einer	ART	ein
+globalen	ADJA	global
+Umweltpolitik	NN	Umweltpolitik
+.	$.	.
+</s>
+<s>
+Auf	APPR	auf
+ihnen	PPER	sie
+kann	VMFIN	können
+die	ART	d
+internationale	ADJA	international
+Umweltpartnerschaft	NN	Umweltpartnerschaft
+weiter	ADV	weiter
+aufbauen	VVINF	aufbauen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+unionsgeführte	ADJA	unionsgeführt
+Bundesregierung	NN	Bundesregierung
+ist	VAFIN	sein
+zum	APPRART	zum
+Vorreiter	NN	Vorreiter
+für	APPR	für
+Umweltschutz	NN	Umweltschutz
+in	APPR	in
+Europa	NE	Europa
+geworden	ADJD	worden
+:	$.	:
+</s>
+<s>
+Das	ART	d
+schadstoffarme	ADJA	schadstoffarm
+Auto	NN	Auto
+und	KON	und
+bleifreies	ADJA	bleifrei
+Benzin	NN	Benzin
+wurden	VAFIN	werden
+durchgesetzt	VVPP	durchsetzen
+.	$.	.
+</s>
+<s>
+Luft	NN	Luft
+und	KON	und
+Wasser	NN	Wasser
+sind	VAFIN	sein
+sauberer	ADJD	sauber
+geworden	VAPP	werden
+;	$.	;
+</s>
+<s>
+der	ART	d
+Umgang	NN	Umgang
+mit	APPR	mit
+modernen	ADJA	modern
+Technologien	NN	Technologie
+ist	VAFIN	sein
+sicherer	ADJD	sicher
+geworden	VAPP	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Einführung	NN	Einführung
+strenger	ADJA	streng
+Umweltvorschriften	NN	Umweltvorschrift
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+kommt	VVFIN	kommen
+der	ART	d
+Umwelt	NN	Umwelt
+in	APPR	in
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+und	KON	und
+Europa	NE	Europa
+zugute	PTKVZ	zugute
+.	$.	.
+</s>
+<s>
+Stark	ADJD	stark
+umweltbelastende	ADJA	umweltbelastend
+und	KON	und
+nicht	PTKNEG	nicht
+sanierungsfähige	ADJA	sanierungsfähig
+Industrieanlagen	NN	Industrieanlage
+müssen	VMFIN	müssen
+stillgelegt	VVPP	stilllegen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Ziel	NN	Ziel
+müssen	VMFIN	müssen
+wettbewerbsfähige	ADJA	wettbewerbsfähig
+und	KON	und
+umweltfreundliche	ADJA	umweltfreundlich
+Betriebe	NN	Betrieb
+sein	VAINF	sein
+,	$,	,
+die	PRELS	d
+den	ART	d
+Menschen	NN	Mensch
+zukunftssichere	ADJA	zukunftssicher
+Arbeitsplätze	NN	Arbeitsplatz
+bieten	VVFIN	bieten
+.	$.	.
+</s>
+<s>
+So	ADV	so
+wird	VAFIN	werden
+eine	ART	ein
+rasche	ADJA	rasch
+Verbesserung	NN	Verbesserung
+der	ART	d
+Umweltqualität	NN	Umweltqualität
+erreicht	VVPP	erreichen
+-	$(	-
+nicht	PTKNEG	nicht
+nur	ADV	nur
+für	APPR	für
+die	ART	d
+dort	ADV	dort
+lebenden	ADJA	lebend
+Menschen	NN	Mensch
+,	$,	,
+sondern	KON	sondern
+für	APPR	für
+viele	PIAT	viel
+Menschen	NN	Mensch
+in	APPR	in
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+und	KON	und
+den	ART	d
+angrenzenden	ADJA	angrenzend
+Ländern	NN	Land
+.	$.	.
+</s>
+<s>
+Was	PWS	was
+an	APPR	an
+Verschmutzung	NN	Verschmutzung
+der	ART	d
+Oberelbe	NE	Oberelbe
+vermieden	VVPP	vermeiden
+wird	VAFIN	werden
+,	$,	,
+entlastet	VVFIN	entlasten
+auch	ADV	auch
+Unterelbe	NE	Unterelbe
+und	KON	und
+Nordsee	NE	Nordsee
+.	$.	.
+</s>
+<s>
+Umweltschutz	NN	Umweltschutz
+ist	VAFIN	sein
+unmittelbar	ADJD	unmittelbar
+Gesundheitsschutz	NN	Gesundheitsschutz
+für	APPR	für
+die	ART	d
+Betroffenen	NN	Betroffene
+.	$.	.
+</s>
+<s>
+Mit	APPR	mit
+der	ART	d
+sozialen	ADJA	sozial
+und	KON	und
+ökologisch	ADJD	ökologisch
+verpflichteten	ADJA	verpflichtet
+Marktwirtschaft	NN	Marktwirtschaft
+werden	VAFIN	werden
+wir	PPER	wir
+die	ART	d
+Umweltkatastrophe	NN	Umweltkatastrophe
+bewältigen	VVINF	bewältigen
+,	$,	,
+die	PRELS	d
+der	ART	d
+Sozialismus	NN	Sozialismus
+hinterlassen	VVINF	hinterlassen
+hat	VAFIN	haben
+.	$.	.
+</s>
+<s>
+Die	ART	d
+ökologische	ADJA	ökologisch
+Sanierung	NN	Sanierung
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+soll	VMFIN	sollen
+zu	APPR	zu
+einem	ART	ein
+Modell	NN	Modell
+für	APPR	für
+die	ART	d
+ökologische	ADJA	ökologisch
+Erneuerung	NN	Erneuerung
+in	APPR	in
+Mittel-	TRUNC	Mittel-
+,	$,	,
+Ost-	TRUNC	Ost-
+und	KON	und
+Südosteuropa	NE	Südosteuropa
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+-	$(	-
+Wir	PPER	wir
+werden	VAFIN	werden
+die	ART	d
+Leistungs-	TRUNC	Leistungs-
+und	KON	und
+Innovationskraft	NN	Innovationskraft
+der	ART	d
+Sozialen	ADJA	sozial
+Marktwirtschaft	NN	Marktwirtschaft
+verstärkt	ADJD	verstärkt
+in	APPR	in
+den	ART	d
+Dienst	NN	Dienst
+der	ART	d
+Umwelt	NN	Umwelt
+stellen	VVINF	stellen
+.	$.	.
+</s>
+<s>
+Dazu	PAV	dazu
+setzen	VVFIN	setzen
+wir	PPER	wir
+alle	PIAT	alle
+marktwirtschaftlichen	ADJA	marktwirtschaftlich
+Anreize	NN	Anreiz
+bis	KON	bis
+hin	ADV	hin
+zu	APPR	zu
+Abgaben	NN	Abgabe
+und	KON	und
+differenzierten	ADJA	differenziert
+Steuern	NN	Steuer
+gezielt	ADJD	gezielt
+ein	PTKVZ	ein
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Kfz-Steuer	NN	Kfz-Steuer
+werden	VAFIN	werden
+wir	PPER	wir
+durch	APPR	durch
+eine	ART	ein
+Schadstoffsteuer	NN	Schadstoffsteuer
+ersetzen	VVINF	ersetzen
+,	$,	,
+eine	ART	ein
+CO2-Abgabe	NN	CO2-Abgabe
+soll	VMFIN	sollen
+EG-weit	ADJD	EG-weit
+erhoben	VVPP	erheben
+und	KON	und
+eine	ART	ein
+Deponieabgabe	NN	Deponieabgabe
+für	APPR	für
+Sonderabfälle	NN	Sonderabfall
+eingeführt	VVPP	einführen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Umwelt	NN	Umwelt
+konnte	VMFIN	können
+zu	APPR	zu
+lange	ADV	lange
+zum	APPRART	zum
+Nulltarif	NN	Nulltarif
+in	APPR	in
+Anspruch	NN	Anspruch
+genommen	VVPP	nehmen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Durch	APPR	durch
+Gebote	NN	Gebot
+und	KON	und
+Verbote	NN	Verbot
+und	KON	und
+durch	APPR	durch
+marktwirtschaftliche	ADJA	marktwirtschaftlich
+Regelungen	NN	Regelung
+wird	VAFIN	werden
+der	ART	d
+Verbrauch	NN	Verbrauch
+von	APPR	von
+Umwelt	NN	Umwelt
+,	$,	,
+wo	PWAV	wo
+immer	ADV	immer
+möglich	ADJD	möglich
+,	$,	,
+mit	APPR	mit
+einem	ART	ein
+Preis	NN	Preis
+belegt	VVPP	belegen
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Umweltfreundliches	ADJA	umweltfreundlich
+Verhalten	NN	Verhalten
+soll	VMFIN	sollen
+sich	PRF	er|es|sie
+auszahlen	VVINF	auszahlen
+.	$.	.
+</s>
+<s>
+Wer	PWS	wer
+die	ART	d
+Umwelt	NN	Umwelt
+schädigt	VVFIN	schädigen
+,	$,	,
+muß	VMFIN	müssen
+für	APPR	für
+die	ART	d
+Kosten	NN	Kosten
+einstehen	VVINF	einstehen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Information	NN	Information
+des	ART	d
+Verbrauchers	NN	Verbraucher
+über	APPR	über
+die	ART	d
+Umweltverträglichkeit	NN	Umweltverträglichkeit
+von	APPR	von
+Produkten	NN	Produkt
+muß	VMFIN	müssen
+verbessert	VVPP	verbessern
+werden	VAINF	werden
+,	$,	,
+z.	APPRART	z.
+B.	NN	B.
+durch	APPR	durch
+eine	ART	ein
+entsprechende	ADJA	entsprechend
+Kennzeichnung	NN	Kennzeichnung
+der	ART	d
+Waren	NN	Ware
+.	$.	.
+</s>
+<s>
+Schadensvermeidung	ADJD	Schadensvermeidung
+hat	VAFIN	haben
+Vorrang	NN	Vorrang
+vor	APPR	vor
+der	ART	d
+Schadensreparatur	NN	Schadensreparatur
+.	$.	.
+</s>
+<s>
+Wirtschaftswachstum	NN	Wirtschaftswachstum
+und	KON	und
+Einkommenszuwachs	NN	Einkommenszuwachs
+müssen	VMFIN	müssen
+für	APPR	für
+die	ART	d
+Gestaltung	NN	Gestaltung
+einer	ART	ein
+lebensfreundlichen	ADJA	lebensfreundlich
+Umwelt	NN	Umwelt
+genutzt	VVPP	nutzen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Wohlstandssteigerungen	NN	Wohlstandssteigerung
+auf	APPR	auf
+Kosten	NN	Kosten
+von	APPR	von
+Natur	NN	Natur
+und	KON	und
+Umwelt	NN	Umwelt
+darf	VMFIN	dürfen
+es	PPER	es
+nicht	PTKNEG	nicht
+geben	VVINF	geben
+.	$.	.
+</s>
+<s>
+Mehr	PIAT	mehr
+Umweltschutz	NN	Umweltschutz
+erreichen	VVFIN	erreichen
+wir	PPER	wir
+nicht	PTKNEG	nicht
+mit	APPR	mit
+weniger	PIS	wenig
+,	$,	,
+sondern	KON	sondern
+nur	ADV	nur
+mit	APPR	mit
+besserer	ADJA	gut
+Technik	NN	Technik
+,	$,	,
+die	PRELS	d
+wir	PPER	wir
+verantwortungsvoll	ADJD	verantwortungsvoll
+nutzen	VVFIN	nutzen
+.	$.	.
+</s>
+<s>
+Ein	ART	eine
+Schwerpunkt	NN	Schwerpunkt
+unserer	PPOSAT	unser
+Umweltpolitik	NN	Umweltpolitik
+ist	VAFIN	sein
+die	ART	d
+Vermeidung	NN	Vermeidung
+oder	KON	oder
+Wiederverwertung	NN	Wiederverwertung
+von	APPR	von
+Abfall	NN	Abfall
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+müssen	VMFIN	müssen
+weg	ADV	weg
+von	APPR	von
+der	ART	d
+"	$(	"
+Wegwerfgesellschaft	NN	Wegwerfgesellschaft
+"	$(	"
+und	KON	und
+der	ART	d
+Verpackungsflut	NN	Verpackungsflut
+entschieden	ADJD	entschieden
+entgegentreten	VVINF	entgegentreten
+.	$.	.
+</s>
+<s>
+Aus	APPR	aus
+der	ART	d
+Abfallbeseitigung	NN	Abfallbeseitigung
+muß	VMFIN	müssen
+eine	ART	ein
+Abfallwirtschaft	NN	Abfallwirtschaft
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+-	$(	-
+Zu	APPR	zu
+einer	ART	ein
+konsequenten	ADJA	konsequent
+Umweltpolitik	NN	Umweltpolitik
+gehört	VVFIN	gehören
+eine	ART	ein
+umweltgerechte	ADJA	umweltgerecht
+Energieversorgung	NN	Energieversorgung
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Umweltkosten	NN	Umweltkosten
+der	ART	d
+Energieträger	NN	Energieträger
+müssen	VMFIN	müssen
+sich	PRF	er|es|sie
+in	APPR	in
+den	ART	d
+Preisen	NN	Preis|Preisen
+für	APPR	für
+Energie	NN	Energie
+niederschlagen	VVINF	niederschlagen
+,	$,	,
+damit	KOUS	damit
+sparsam	ADJD	sparsam
+mit	APPR	mit
+ihr	PPER	ihr
+umgegangen	VVPP	umgehen
+wird	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+brauchen	VVFIN	brauchen
+eine	ART	ein
+wirtschaftliche	ADJA	wirtschaftlich
+,	$,	,
+sichere	ADJA	sicher
+und	KON	und
+umweltfreundliche	ADJA	umweltfreundlich
+Energiepolitik	NN	Energiepolitik
+.	$.	.
+</s>
+<s>
+Deshalb	PAV	deshalb
+wollen	VMFIN	wollen
+wir	PPER	wir
+,	$,	,
+daß	KOUS	daß
+die	ART	d
+Energieträger	NN	Energieträger
+sparsamer	ADJD	sparsam
+und	KON	und
+effizienter	ADJD	effizient
+eingesetzt	VVPP	einsetzen
+werden	VAFIN	werden
+,	$,	,
+damit	KOUS	damit
+die	ART	d
+Umweltbelastungen	NN	Umweltbelastung
+beim	APPRART	beim
+Einsatz	NN	Einsatz
+von	APPR	von
+Kohle	NN	Kohle
+,	$,	,
+Ö1	NN	Ö1
+und	KON	und
+Gas	NN	Gas
+weiter	ADV	weiter
+drastisch	ADJD	drastisch
+sinken	VVFIN	sinken
+.	$.	.
+</s>
+<s>
+Die	ART	d
+heimische	ADJA	heimisch
+Kohle	NN	Kohle
+wird	VAFIN	werden
+auch	ADV	auch
+in	APPR	in
+Zukunft	NN	Zukunft
+einen	ART	ein
+wichtigen	ADJA	wichtig
+Beitrag	NN	Beitrag
+zu	APPR	zu
+einer	ART	ein
+sicheren	ADJA	sicher
+und	KON	und
+zeitgemäßen	ADJA	zeitgemäß
+Energieversorgung	NN	Energieversorgung
+leisten	VVINF	leisten
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+verläßliche	ADJA	verläßlich
+Perspektiven	NN	Perspektive
+für	APPR	für
+Unternehmer	NN	Unternehmer
+und	KON	und
+Beschäftigte	NN	Beschäftigte
+.	$.	.
+</s>
+<s>
+In	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+sind	VAFIN	sein
+der	ART	d
+Braunkohlebergbau	NN	Braunkohlebergbau
+und	KON	und
+die	ART	d
+Stromerzeugung	NN	Stromerzeugung
+aus	APPR	aus
+Braunkohle	NN	Braunkohle
+umfassend	ADJD	umfassend
+zu	PTKZU	zu
+sanieren	VVINF	sanieren
+.	$.	.
+</s>
+<s>
+Soweit	KOUS	soweit
+dies	PDS	dies
+nicht	PTKNEG	nicht
+mehr	ADV	mehr
+möglich	ADJD	möglich
+ist	VAFIN	sein
+,	$,	,
+setzen	VVFIN	setzen
+wir	PPER	wir
+uns	PRF	wir
+dafür	PAV	dafür
+ein	PTKVZ	ein
+,	$,	,
+daß	KOUS	daß
+unvermeidliche	ADJA	unvermeidlich
+Stillegungen	NN	Stillegung
+sozialverträglich	ADJD	sozialverträglich
+erfolgen	VVFIN	erfolgen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Kernenergie	NN	Kernenergie
+wollen	VMFIN	wollen
+wir	PPER	wir
+verantwortungsbewußt	ADJD	verantwortungsbewußt
+nutzen	VVINF	nutzen
+und	KON	und
+gleichzeitig	ADJD	gleichzeitig
+die	ART	d
+Entwicklung	NN	Entwicklung
+neuer	ADJA	neu
+und	KON	und
+erneuerbarer	ADJA	erneuerbar
+Energieträger	NN	Energieträger
+vorantreiben	VVINF	vorantreiben
+.	$.	.
+</s>
+<s>
+Kernkraftwerke	NN	Kernkraftwerk
+,	$,	,
+die	PRELS	d
+den	ART	d
+Sicherheitsstandards	NN	Sicherheitsstandard
+nicht	PTKNEG	nicht
+genügen	VVFIN	genügen
+,	$,	,
+werden	VAFIN	werden
+stillgelegt	VVPP	stilllegen
+.	$.	.
+</s>
+<s>
+Es	PPER	es
+darf	VMFIN	dürfen
+nirgendwo	ADV	nirgendwo
+einen	ART	ein
+Rabatt	NN	Rabatt
+auf	APPR	auf
+Sicherheit	NN	Sicherheit
+geben	VVINF	geben
+.	$.	.
+</s>
+<s>
+Ein	ART	eine
+gesamtdeutsches	ADJA	gesamtdeutsch
+Energiekonzept	NN	Energiekonzept
+muß	VMFIN	müssen
+erarbeitet	VVPP	erarbeiten
+,	$,	,
+das	ART	d
+Energieverbundsystem	NN	Energieverbundsystem
+in	APPR	in
+Deutschland	NE	Deutschland
+weiter	ADV	weiter
+ausgebaut	VVPP	ausbauen
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+schützen	VVFIN	schützen
+den	ART	d
+freiheitlichen	ADJA	freiheitlich
+Rechtsstaat	NN	Rechtsstaat
+und	KON	und
+bewahren	VVFIN	bewahren
+den	ART	d
+inneren	ADJA	inner
+Frieden	NN	Frieden
+-Das	NE	-Das
+Recht	NN	Recht
+schützt	VVFIN	schützen
+die	ART	d
+Freiheit	NN	Freiheit
+und	KON	und
+sichert	VVFIN	sichern
+den	ART	d
+inneren	ADJA	inner
+Frieden	NN	Frieden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Grundsätze	NN	Grundsatz
+des	ART	d
+freiheitlichen	ADJA	freiheitlich
+und	KON	und
+demokratischen	ADJA	demokratisch
+Rechtsstaates	NN	Rechtsstaat
+,	$,	,
+der	ART	d
+föderativen	ADJA	föderativ
+Ordnung	NN	Ordnung
+und	KON	und
+der	ART	d
+kommunalen	ADJA	kommunal
+Selbstverwaltung	NN	Selbstverwaltung
+müssen	VMFIN	müssen
+in	APPR	in
+den	ART	d
+neuen	ADJA	neu
+Bundesländern	NN	Bundesland
+auf	APPR	auf
+allen	PIAT	alle
+Ebenen	NN	Ebene
+und	KON	und
+in	APPR	in
+allen	PIAT	alle
+Bereichen	NN	Bereich
+staatlichen	ADJA	staatlich
+Handelns	NN	Handeln
+zügig	ADJD	zügig
+verwirklicht	VVPP	verwirklichen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Das	PDS	d
+bedeutet	VVFIN	bedeuten
+insbesondere	ADV	insbesondere
+:	$.	:
+</s>
+<s>
+-	$(	-
+freiheitlich-demokratische	ADJA	freiheitlich-demokratisch
+Länderverfassungen	NN	Länderverfassung
+und	KON	und
+Gemeindeordnungen	NN	Gemeindeordnung
+;	$.	;
+</s>
+<s>
+-	$(	-
+eine	ART	ein
+unabhängige	ADJA	unabhängig
+und	KON	und
+rechtsstaatlichen	ADJA	rechtsstaatlich
+Grundsätzen	NN	Grundsatz
+verpflichtete	ADJA	verpflichtet
+Gerichtsbarkeit	NN	Gerichtsbarkeit
+;	$.	;
+</s>
+<s>
+-	$(	-
+ein	ART	ein
+leistungsfähiger	ADJA	leistungsfähig
+und	KON	und
+bürgernaher	ADJA	bürgernah
+öffentlicher	ADJA	öffentlich
+Dienst	NN	Dienst
+einschließlich	APPR	einschließlich
+des	ART	d
+bewährten	ADJA	bewährt
+Berufsbeamtentums	NN	Berufsbeamtentum
+;	$.	;
+</s>
+<s>
+-	$(	-
+die	ART	d
+restlose	ADJA	restlos
+Überwindung	NN	Überwindung
+der	ART	d
+Strukturen	NN	Struktur
+des	ART	d
+SED-Unrechtsstaates	NN	SED-Unrechtsstaates
+.	$.	.
+</s>
+<s>
+Nur	ADV	nur
+im	APPRART	im
+Rechtsstaat	NN	Rechtsstaat
+verbindet	VVFIN	verbinden
+sich	PRF	er|es|sie
+die	ART	d
+Forderung	NN	Forderung
+nach	APPR	nach
+Gerechtigkeit	NN	Gerechtigkeit
+mit	APPR	mit
+dem	ART	d
+Willen	NN	Wille
+zum	APPRART	zum
+inneren	ADJA	inner
+Frieden	NN	Frieden
+.	$.	.
+</s>
+<s>
+Wer	PWS	wer
+im	APPRART	im
+SED-Unrechtsstaat	NN	SED-Unrechtsstaat
+schwere	ADJA	schwer
+Schuld	NN	Schuld
+auf	APPR	auf
+sich	PRF	er|es|sie
+geladen	VVPP	laden
+hat	VAFIN	haben
+,	$,	,
+der	PDS	d
+wird	VAFIN	werden
+die	ART	d
+Konsequenzen	NN	Konsequenz
+dafür	PAV	dafür
+tragen	VVINF	tragen
+müssen	VMINF	müssen
+.	$.	.
+</s>
+<s>
+Er	PPER	er
+muß	VMFIN	müssen
+zur	APPRART	zur
+Rechenschaft	NN	Rechenschaft
+gezogen	VVPP	ziehen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Um	APPR	um
+jedoch	ADV	jedoch
+für	APPR	für
+unser	PPOSAT	unser
+Volk	NN	Volk
+den	ART	d
+inneren	ADJA	inner
+Frieden	NN	Frieden
+zu	PTKZU	zu
+gewinnen	VVINF	gewinnen
+,	$,	,
+müssen	VMFIN	müssen
+wir	PPER	wir
+auch	ADV	auch
+die	ART	d
+Kraft	NN	Kraft
+zur	APPRART	zur
+inneren	ADJA	inner
+Aussöhnung	NN	Aussöhnung
+aufbringen	VVINF	aufbringen
+.	$.	.
+</s>
+<s>
+-	$(	-
+Wir	PPER	wir
+treten	VVFIN	treten
+für	APPR	für
+einen	ART	ein
+Staat	NN	Staat
+ein	PTKVZ	ein
+,	$,	,
+der	PRELS	d
+seine	PPOSAT	sein
+Bürger	NN	Bürger
+wirksam	ADJD	wirksam
+schützt	VVFIN	schützen
+.	$.	.
+</s>
+<s>
+Polizei	NN	Polizei
+und	KON	und
+Strafverfolgungsbehörden	NN	Strafverfolgungsbehörde
+verdienen	VVFIN	verdienen
+das	ART	d
+Vertrauen	NN	Vertrauen
+der	ART	d
+Bürger	NN	Bürger
+und	KON	und
+der	ART	d
+politisch	ADJD	politisch
+Verantwortlichen	NN	Verantwortliche
+.	$.	.
+</s>
+<s>
+Der	ART	d
+Datenschutz	NN	Datenschutz
+muß	VMFIN	müssen
+so	ADV	so
+geregelt	VVPP	regeln
+werden	VAINF	werden
+,	$,	,
+daß	KOUS	daß
+die	ART	d
+Abwehr-	TRUNC	Abwehr-
+und	KON	und
+Fahndungsarbeit	NN	Fahndungsarbeit
+der	ART	d
+Sicherheitsbehörden	NN	Sicherheitsbehörde
+nicht	PTKNEG	nicht
+unnötig	ADJD	unnötig
+erschwert	VVPP	erschweren
+wird	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+ein	ART	ein
+umfassendes	ADJA	umfassend
+Konzept	NN	Konzept
+zur	APPRART	zur
+Bekämpfung	NN	Bekämpfung
+der	ART	d
+international	ADJD	international
+organisierten	ADJA	organisiert
+Kriminalität	NN	Kriminalität
+entwickeln	VVINF	entwickeln
+und	KON	und
+umsetzen	VVINF	umsetzen
+.	$.	.
+</s>
+<s>
+Mit	APPR	mit
+dem	ART	d
+Wegfall	NN	Wegfall
+der	ART	d
+Grenzkontrollen	NN	Grenzkontrolle
+in	APPR	in
+Europa	NE	Europa
+muß	VMFIN	müssen
+die	ART	d
+Verhinderung	NN	Verhinderung
+und	KON	und
+Verfolgung	NN	Verfolgung
+von	APPR	von
+Straftaten	NN	Straftat
+auch	ADV	auch
+international	ADJD	international
+abgesichert	VVPP	absichern
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Damit	PAV	damit
+verbindet	VVFIN	verbinden
+sich	PRF	er|es|sie
+die	ART	d
+Chance	NN	Chance
+,	$,	,
+wirksamer	ADJD	wirksam
+gegen	APPR	gegen
+das	ART	d
+international	ADJD	international
+operierende	ADJA	operierend
+organisierte	ADJA	organisiert
+Verbrechen	NN	Verbrechen
+vorzugehen	VVIZU	vorgehen
+.	$.	.
+</s>
+<s>
+Dieser	PDAT	dies
+Herausforderung	NN	Herausforderung
+müssen	VMFIN	müssen
+wir	PPER	wir
+auf	APPR	auf
+Dauer	NN	Dauer
+mit	APPR	mit
+einer	ART	ein
+europäischen	ADJA	europäisch
+Polizei	NN	Polizei
+-	$(	-
+nach	APPR	nach
+dem	ART	d
+Vorbild	NN	Vorbild
+des	ART	d
+amerikanischen	ADJA	amerikanisch
+FBI	NE	FBI
+begegnen	VVINF	begegnen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+terroristische	ADJA	terroristisch
+Gewalttaten	NN	Gewalttat
+mit	APPR	mit
+allen	PIAT	alle
+rechtsstaatlichen	ADJA	rechtsstaatlich
+Mitteln	NN	Mittel|Mitteln
+bekämpfen	VVFIN	bekämpfen
+-wie	ADJA	-wie
+andere	ADJA	ander
+Kapitalverbrechen	NN	Kapitalverbrechen
+auch	ADV	auch
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+widerstehen	VVFIN	widerstehen
+allen	PIAT	alle
+Versuchen	NN	Versuch|Versuchen
+von	APPR	von
+Terroristen	NN	Terrorist
+,	$,	,
+den	ART	d
+Rechtsstaat	NN	Rechtsstaat
+unter	APPR	unter
+Druck	NN	Druck
+zu	PTKZU	zu
+setzen	VVINF	setzen
+.	$.	.
+</s>
+<s>
+-	$(	-
+Die	ART	d
+Völkergemeinschaft	NN	Völkergemeinschaft
+steht	VVFIN	stehen
+heute	ADV	heute
+vor	APPR	vor
+einer	ART	ein
+schweren	ADJA	schwer
+Herausforderung	NN	Herausforderung
+durch	APPR	durch
+die	ART	d
+Rauschgiftkriminalität	NN	Rauschgiftkriminalität
+.	$.	.
+</s>
+<s>
+Notwendig	ADJD	notwendig
+ist	VAFIN	sein
+verstärkte	ADJA	verstärkt
+internationale	ADJA	international
+Zusammenarbeit	NN	Zusammenarbeit
+,	$,	,
+insbesondere	ADV	insbesondere
+mit	APPR	mit
+den	ART	d
+Regierungen	NN	Regierung
+der	ART	d
+Herkunfts-	TRUNC	Herkunfts-
+und	KON	und
+Transitländer	NN	Transitland
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+setzen	VVFIN	setzen
+uns	PPER	wir
+für	APPR	für
+eine	ART	ein
+Harmonisierung	NN	Harmonisierung
+des	ART	d
+Betäubungsmittelrechts	NN	Betäubungsmittelrecht
+in	APPR	in
+der	ART	d
+EG	NE	EG
+ein	ART	ein
+mit	APPR	mit
+dem	ART	d
+Ziel	NN	Ziel
+,	$,	,
+daß	KOUS	daß
+europaweit	ADJD	europaweit
+strengere	ADJA	streng
+Rechtsvorschriften	NN	Rechtsvorschrift
+wirksam	ADJD	wirksam
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Drogenfahndung	NN	Drogenfahndung
+an	APPR	an
+den	ART	d
+Außengrenzen	NN	Außengrenze
+der	ART	d
+EG	NE	EG
+muß	VMFIN	müssen
+verstärkt	VVPP	verstärken
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Damit	KOUS	damit
+sich	PRF	er|es|sie
+der	ART	d
+Handel	NN	Handel
+mit	APPR	mit
+Drogen	NN	Droge
+nicht	PTKNEG	nicht
+länger	ADJD	lang
+lohnt	VVFIN	lohnen
+,	$,	,
+soll	VMFIN	sollen
+der	ART	d
+Vermögensgewinn	NN	Vermögensgewinn
+aus	APPR	aus
+Drogengeschäften	NN	Drogengeschäft
+eingezogen	VVPP	einziehen
+werden	VAINF	werden
+können	VMINF	können
+.	$.	.
+</s>
+<s>
+-	$(	-
+Die	ART	d
+CDU	NE	CDU
+bekennt	VVFIN	bekennen
+sich	PRF	er|es|sie
+zum	APPRART	zum
+grundgesetzlich	ADJD	grundgesetzlich
+verankerten	ADJA	verankert
+Recht	NN	Recht
+auf	APPR	auf
+Asyl	NN	Asyl
+für	APPR	für
+politisch	ADJD	politisch
+Verfolgte	NN	Verfolgte
+.	$.	.
+</s>
+<s>
+Dieses	PDAT	dies
+Recht	NN	Recht
+darf	VMFIN	dürfen
+jedoch	ADV	jedoch
+nicht	PTKNEG	nicht
+durch	APPR	durch
+Mißbrauch	NN	Mißbrauch
+ausgehöhlt	VVPP	aushöhlen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+treten	VVFIN	treten
+deshalb	PAV	deshalb
+dafür	PAV	dafür
+ein	PTKVZ	ein
+,	$,	,
+den	ART	d
+Artikel	NN	Artikel
+16	CARD	16
+des	ART	d
+Grundgesetzes	NN	Grundgesetz
+durch	APPR	durch
+einen	ART	ein
+Gesetzesvorbehalt	NN	Gesetzesvorbehalt
+zu	PTKZU	zu
+ergänzen	VVINF	ergänzen
+,	$,	,
+der	PRELS	d
+ein	ART	ein
+Ausführungsgesetz	NN	Ausführungsgesetz
+ermöglicht	VVPP	ermöglichen
+.	$.	.
+</s>
+<s>
+Asylbewerber	NN	Asylbewerber
+aus	APPR	aus
+Ländern	NN	Land
+,	$,	,
+in	APPR	in
+denen	PRELS	d
+es	PPER	es
+keine	PIAT	kein
+politische	ADJA	politisch
+Verfolgung	NN	Verfolgung
+gibt	VVFIN	geben
+,	$,	,
+sollen	VMFIN	sollen
+bereits	ADV	bereits
+an	APPR	an
+den	ART	d
+Grenzen	NN	Grenze
+abgewiesen	VVPP	abweisen
+werden	VAINF	werden
+können	VMINF	können
+.	$.	.
+</s>
+<s>
+Innerhalb	APPR	innerhalb
+der	ART	d
+Europäischen	ADJA	europäisch
+Gemeinschaft	NN	Gemeinschaft
+müssen	VMFIN	müssen
+Asylrecht	NN	Asylrecht
+und	KON	und
+Asylpraxis	NN	Asylpraxis
+der	ART	d
+Mitgliedstaaten	NN	Mitgliedstaat
+harmonisiert	VVPP	harmonisieren
+werden	VAINF	werden
+,	$,	,
+wobei	PWAV	wobei
+die	ART	d
+Genfer	ADJA	Genfer
+Flüchtlingskonvention	NN	Flüchtlingskonvention
+ein	ART	ein
+wichtiger	ADJA	wichtig
+Maßstab	NN	Maßstab
+ist	VAFIN	sein
+.	$.	.
+</s>
+<s>
+Viele	PIAT	viel
+Menschen	NN	Mensch
+kommen	VVFIN	kommen
+zu	APPR	zu
+uns	PPER	wir
+,	$,	,
+weil	KOUS	weil
+sie	PPER	sie
+in	APPR	in
+ihren	PPOSAT	ihr
+Heimatländern	NN	Heimatland
+keine	PIAT	kein
+Aussichten	NN	Aussicht
+auf	APPR	auf
+eine	ART	ein
+bessere	ADJA	gut
+Zukunft	NN	Zukunft
+sehen	VVFIN	sehen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+uns	PPER	wir
+deshalb	PAV	deshalb
+verstärkt	ADJD	verstärkt
+darum	PAV	darum
+bemühen	VVINF	bemühen
+,	$,	,
+die	ART	d
+Lebensbedingungen	NN	Lebensbedingung
+der	ART	d
+Menschen	NN	Mensch
+in	APPR	in
+den	ART	d
+Ländern	NN	Land
+Mittel-	TRUNC	Mittel-
+,	$,	,
+Ost-	TRUNC	Ost-
+und	KON	und
+Südost-Europas	NE	Südost-Europas
+und	KON	und
+in	APPR	in
+der	ART	d
+Dritten	ADJA	dritt
+Welt	NN	Welt
+so	ADV	so
+zu	PTKZU	zu
+verbessern	VVINF	verbessern
+,	$,	,
+daß	KOUS	daß
+sie	PPER	sie
+in	APPR	in
+ihrer	PPOSAT	ihr
+angestammten	ADJA	angestammt
+Heimat	NN	Heimat
+frei	ADJD	frei
+von	APPR	von
+Furcht	NN	Furcht
+und	KON	und
+Not	NN	Not
+leben	VVINF	leben
+können	VMFIN	können
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+sichern	VVFIN	sichern
+Frieden	NN	Frieden
+und	KON	und
+Freiheit	NN	Freiheit
+Deutschland	NE	Deutschland
+ist	VAFIN	sein
+unser	PPOSAT	unser
+Vaterland	NN	Vaterland
+,	$,	,
+Europa	NE	Europa
+ist	VAFIN	sein
+unsere	PPOSAT	unser
+Zukunft	NN	Zukunft
+.	$.	.
+</s>
+<s>
+Freiheit	NN	Freiheit
+,	$,	,
+Rechtsstaatlichkeit	NN	Rechtsstaatlichkeit
+und	KON	und
+Demokratie	NN	Demokratie
+sind	VAFIN	sein
+das	ART	d
+vereinigende	ADJA	vereinigend
+Bekenntnis	NN	Bekenntnis
+des	ART	d
+neuen	ADJA	neu
+Europa	NE	Europa
+.	$.	.
+</s>
+<s>
+Die	ART	d
+CDU	NE	CDU
+will	VMFIN	wollen
+ein	ART	ein
+europäisches	ADJA	europäisch
+Deutschland	NE	Deutschland
+,	$,	,
+das	PRELS	d
+bereit	ADJD	bereit
+ist	VAFIN	sein
+zu	APPR	zu
+echter	ADJA	echt
+Partnerschaft	NN	Partnerschaft
+im	APPRART	im
+europäischen	ADJA	europäisch
+Geist	NN	Geist
+.	$.	.
+</s>
+<s>
+Eine	ART	ein
+Europäische	ADJA	europäisch
+Union	NN	Union
+soll	VMFIN	sollen
+die	ART	d
+Grundlage	NN	Grundlage
+für	APPR	für
+das	ART	d
+Zusammenwachsen	NN	Zusammenwachsen
+ganz	ADV	ganz
+Europas	NE	Europa
+sein	VAINF	sein
+.	$.	.
+</s>
+<s>
+Dabei	PAV	dabei
+bleibt	VVFIN	bleiben
+auch	ADV	auch
+für	APPR	für
+das	ART	d
+geeinte	ADJA	geeint
+Deutschland	NE	Deutschland
+die	ART	d
+deutsch-französische	ADJA	deutsch-französisch
+Freundschaft	NN	Freundschaft
+Motor	NN	Motor
+der	ART	d
+europäischen	ADJA	europäisch
+Einigung	NN	Einigung
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Rechte	NN	Recht|Rechte
+des	ART	d
+Europäischen	ADJA	europäisch
+Parlaments	NN	Parlament
+müssen	VMFIN	müssen
+gestärkt	VVPP	stärken
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Und	KON	und
+nur	ADV	nur
+mit	APPR	mit
+einer	ART	ein
+gemeinsamen	ADJA	gemeinsam
+Außen-	TRUNC	Außen-
+und	KON	und
+Sicherheitspolitik	NN	Sicherheitspolitik
+kann	VMFIN	können
+Europa	NE	Europa
+seine	PPOSAT	sein
+gemeinsamen	ADJA	gemeinsam
+Interessen	NN	Interesse
+in	APPR	in
+der	ART	d
+Welt	NN	Welt
+wirksam	ADJD	wirksam
+vertreten	VVPP	vertreten
+und	KON	und
+seiner	PPOSAT	sein
+Verantwortung	NN	Verantwortung
+für	APPR	für
+die	ART	d
+Bewältigung	NN	Bewältigung
+der	ART	d
+weltweiten	ADJA	weltweit
+Probleme	NN	Problem
+der	ART	d
+Menschheit	NN	Menschheit
+gerecht	VVPP	rechen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+-	$(	-
+Bis	APPR	bis
+Ende	NN	Ende
+1992	CARD	1992
+soll	VMFIN	sollen
+der	ART	d
+Europäische	ADJA	europäisch
+Binnenmarkt	NN	Binnenmarkt
+vollendet	VVPP	vollenden
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Er	PPER	er
+bietet	VVFIN	bieten
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+neue	ADJA	neu
+Chancen	NN	Chance
+für	APPR	für
+Wachstum	NN	Wachstum
+,	$,	,
+Beschäftigung	NN	Beschäftigung
+,	$,	,
+günstigere	ADJA	günstig
+Preise	NN	Preis
+,	$,	,
+mehr	PIAT	mehr
+Vielfalt	NN	Vielfalt
+bei	APPR	bei
+Gütern	NN	Gut
+und	KON	und
+Dienstleistungen	NN	Dienstleistung
+.	$.	.
+</s>
+<s>
+Die	ART	d
+CDU	NE	CDU
+will	VMFIN	wollen
+mit	APPR	mit
+der	ART	d
+Vollendung	NN	Vollendung
+des	ART	d
+Binnenmarktes	NN	Binnenmarkt
+zugleich	ADV	zugleich
+die	ART	d
+Grundlagen	NN	Grundlage
+für	APPR	für
+die	ART	d
+europäische	ADJA	europäisch
+Wirtschafts-	TRUNC	Wirtschafts-
+und	KON	und
+Währungsunion	NN	Währungsunion
+sowie	KON	sowie
+die	ART	d
+Politische	ADJA	politisch
+Union	NN	Union
+legen	VVINF	legen
+.	$.	.
+</s>
+<s>
+Mit	APPR	mit
+soliden	ADJA	solide
+Staatsfinanzen	NN	Staatsfinanz
+und	KON	und
+marktwirtschaftlicher	ADJA	marktwirtschaftlich
+Wirtschaftspolitik	NN	Wirtschaftspolitik
+in	APPR	in
+allen	PIAT	alle
+Mitgliedstaaten	NN	Mitgliedstaat
+wollen	VMFIN	wollen
+wir	PPER	wir
+die	ART	d
+zentralen	ADJA	zentral
+Voraussetzungen	NN	Voraussetzung
+für	APPR	für
+eine	ART	ein
+gemeinsame	ADJA	gemeinsam
+Währung	NN	Währung
+schaffen	VVINF	schaffen
+.	$.	.
+</s>
+<s>
+Entscheidend	ADJD	entscheidend
+sind	VAFIN	sein
+für	APPR	für
+uns	PPER	wir
+die	ART	d
+Sicherung	NN	Sicherung
+der	ART	d
+Geldwertstabilität	NN	Geldwertstabilität
+und	KON	und
+die	ART	d
+Unabhängigkeit	NN	Unabhängigkeit
+eines	ART	ein
+Europäischen	ADJA	europäisch
+Zentralbanksystems	NN	Zentralbanksystem
+.	$.	.
+</s>
+<s>
+Dabei	PAV	dabei
+steht	VVFIN	stehen
+für	APPR	für
+uns	PPER	wir
+fest	PTKVZ	fest
+:	$.	:
+</s>
+<s>
+Eine	ART	ein
+künftige	ADJA	künftig
+gemeinsame	ADJA	gemeinsam
+Währung	NN	Währung
+in	APPR	in
+Europa	NE	Europa
+muß	VMFIN	müssen
+ebenso	ADV	ebenso
+stabil	ADJD	stabil
+sein	VAINF	sein
+wie	KOKOM	wie
+unsere	PPOSAT	unser
+D-Mark	NN	D-Mark
+.	$.	.
+</s>
+<s>
+-	$(	-
+Wir	PPER	wir
+wollen	VMFIN	wollen
+in	APPR	in
+guter	ADJA	gut
+Nachbarschaft	NN	Nachbarschaft
+mit	APPR	mit
+Polen	NE	Polen
+,	$,	,
+Ungarn	NE	Ungarn
+,	$,	,
+der	ART	d
+Tschechoslowakei	NE	Tschechoslowakei
+und	KON	und
+anderen	ADJA	ander
+Ländern	NN	Land
+Mittel-	TRUNC	Mittel-
+,	$,	,
+Ost-	TRUNC	Ost-
+und	KON	und
+Südosteuropas	NE	Südosteuropa
+leben	VVFIN	leben
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+geben	VVFIN	geben
+den	ART	d
+Grenzen	NN	Grenze
+einen	ART	ein
+neuen	ADJA	neu
+und	KON	und
+zukunftsweisenden	ADJA	zukunftsweisend
+Charakter	NN	Charakter
+:	$.	:
+</s>
+<s>
+den	ART	d
+der	ART	d
+offenen	ADJA	offen
+Wege	NN	Weg
+und	KON	und
+der	ART	d
+Chance	NN	Chance
+zur	APPRART	zur
+Begegnung	NN	Begegnung
+in	APPR	in
+Freiheit	NN	Freiheit
+.	$.	.
+</s>
+<s>
+Entsprechend	APPR	entsprechend
+unserem	PPOSAT	unser
+Grundsatzprogramm	NN	Grundsatzprogramm
+treten	VVFIN	treten
+wir	PPER	wir
+für	APPR	für
+ein	ART	ein
+international	ADJD	international
+anerkanntes	ADJA	anerkannt
+Volksgruppenrecht	NN	Volksgruppenrecht
+ein	PTKVZ	ein
+,	$,	,
+das	PRELS	d
+das	ART	d
+Recht	NN	Recht
+auf	APPR	auf
+die	ART	d
+Heimat	NN	Heimat
+,	$,	,
+eigene	ADJA	eigen
+Sprache	NN	Sprache
+und	KON	und
+Kultur	NN	Kultur
+gewährleistet	VVPP	gewährleisten
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+dazu	PAV	dazu
+beitragen	VVINF	beitragen
+,	$,	,
+die	ART	d
+Lebensbedingungen	NN	Lebensbedingung
+der	ART	d
+Deutschen	NN	Deutsche
+in	APPR	in
+den	ART	d
+Ländern	NN	Land
+Mittel-	TRUNC	Mittel-
+,	$,	,
+Ost-	TRUNC	Ost-
+und	KON	und
+Südosteuropas	NE	Südosteuropa
+so	ADV	so
+zu	PTKZU	zu
+verbessern	VVINF	verbessern
+,	$,	,
+daß	KOUS	daß
+sie	PPER	sie
+in	APPR	in
+ihrer	PPOSAT	ihr
+angestammten	ADJA	angestammt
+Heimat	NN	Heimat
+bleiben	VVINF	bleiben
+können	VMFIN	können
+.	$.	.
+</s>
+<s>
+Wer	PWS	wer
+als	KOKOM	als
+Deutscher	NN	Deutsche
+zu	APPR	zu
+uns	PPER	wir
+kommt	VVFIN	kommen
+,	$,	,
+hat	VAFIN	haben
+ein	ART	ein
+Anrecht	NN	Anrecht
+auf	APPR	auf
+unsere	PPOSAT	unser
+Solidarität	NN	Solidarität
+.	$.	.
+</s>
+<s>
+Die	ART	d
+deutschen	ADJA	deutsch
+Heimatvertriebenen	NN	Heimatvertriebene
+und	KON	und
+Flüchtlinge	NN	Flüchtling
+haben	VAFIN	haben
+mit	APPR	mit
+ihrer	PPOSAT	ihr
+Bereitschaft	NN	Bereitschaft
+zur	APPRART	zur
+Integration	NN	Integration
+,	$,	,
+mit	APPR	mit
+ihrer	PPOSAT	ihr
+großen	ADJA	groß
+Aufbauleistung	NN	Aufbauleistung
+und	KON	und
+mit	APPR	mit
+ihrem	PPOSAT	ihr
+Willen	NN	Wille
+zur	APPRART	zur
+Versöhnung	NN	Versöhnung
+gezeigt	VVPP	zeigen
+,	$,	,
+wie	KOUS	wie
+der	ART	d
+Teufelskreis	NN	Teufelskreis
+von	APPR	von
+Unrecht	NN	Unrecht
+,	$,	,
+Haß	NN	Haß
+und	KON	und
+Gewalt	NN	Gewalt
+durchbrochen	VVPP	durchbrechen
+werden	VAINF	werden
+kann	VMFIN	können
+:	$.	:
+</s>
+<s>
+Wir	PPER	wir
+wissen	VVFIN	wissen
+,	$,	,
+daß	KOUS	daß
+die	ART	d
+endgültige	ADJA	endgültig
+Festlegung	NN	Festlegung
+der	ART	d
+deutschen	ADJA	deutsch
+Ostgrenze	NN	Ostgrenze
+besonders	ADV	besonders
+diejenigen	PDAT	diejenigen
+Deutschen	NN	Deutsche
+schmerzt	VVFIN	schmerzen
+,	$,	,
+die	PRELS	d
+durch	APPR	durch
+Krieg	NN	Krieg
+und	KON	und
+das	ART	d
+Unrecht	NN	Unrecht
+der	ART	d
+Vertreibung	NN	Vertreibung
+ihre	PPOSAT	ihr
+Heimat	NN	Heimat
+verlassen	VVINF	verlassen
+mußten	VMFIN	müssen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+haben	VAFIN	haben
+Respekt	NN	Respekt
+vor	APPR	vor
+ihnen	PPER	sie
+und	KON	und
+ihren	PPOSAT	ihr
+Gefühlen	NN	Gefühl
+und	KON	und
+erbitten	VVFIN	erbitten
+gleichzeitig	ADJD	gleichzeitig
+ihren	PPOSAT	ihr
+unverzichtbaren	ADJA	unverzichtbar
+Beitrag	NN	Beitrag
+zum	APPRART	zum
+Ausgleich	NN	Ausgleich
+und	KON	und
+als	KOKOM	als
+Mittler	NN	Mittler
+zwischen	APPR	zwischen
+Kulturen	NN	Kultur
+und	KON	und
+Völkern	NN	Volk
+.	$.	.
+</s>
+<s>
+In	APPR	in
+diesem	PDAT	dies
+Geist	NN	Geist
+leisten	VVFIN	leisten
+sie	PPER	sie
+einen	ART	ein
+wesentlichen	ADJA	wesentlich
+Beitrag	NN	Beitrag
+zu	APPR	zu
+einer	ART	ein
+dauerhaften	ADJA	dauerhaft
+europäischen	ADJA	europäisch
+Friedensordnung	NN	Friedensordnung
+.	$.	.
+</s>
+<s>
+Das	ART	d
+zusammenwachsende	ADJA	zusammenwachsend
+Europa	NE	Europa
+muß	VMFIN	müssen
+die	ART	d
+Völker	NN	Volk
+Mittel-	TRUNC	Mittel-
+,	$,	,
+Ost-	TRUNC	Ost-
+und	KON	und
+Südosteuropas	NE	Südosteuropa
+einschließen	VVFIN	einschließen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Überwindung	NN	Überwindung
+der	ART	d
+Teilung	NN	Teilung
+unseres	PPOSAT	unser
+Kontinentes	NN	Kontinentes
+eröffnet	VVFIN	eröffnen
+neue	ADJA	neu
+und	KON	und
+weitreichende	ADJA	weitreichend
+Chancen	NN	Chance
+für	APPR	für
+einen	ART	ein
+schnellen	ADJA	schnell
+Ausbau	NN	Ausbau
+der	ART	d
+Zusammenarbeit	NN	Zusammenarbeit
+in	APPR	in
+allen	PIAT	alle
+Bereichen	NN	Bereich
+.	$.	.
+</s>
+<s>
+Die	ART	d
+CDU	NE	CDU
+setzt	VVFIN	setzen
+sich	PRF	er|es|sie
+dafür	PAV	dafür
+ein	PTKVZ	ein
+,	$,	,
+die	ART	d
+jungen	ADJA	jung
+Demokratien	NN	Demokratie
+Mittel-	TRUNC	Mittel-
+,	$,	,
+Ost-	TRUNC	Ost-
+und	KON	und
+Südosteuropas	NE	Südosteuropa
+nachhaltig	ADJD	nachhaltig
+zu	PTKZU	zu
+unterstützen	VVINF	unterstützen
+.	$.	.
+</s>
+<s>
+Alle	PIAT	alle
+Staaten	NN	Staat
+Westeuropas	NE	Westeuropa
+sind	VAFIN	sein
+aufgefordert	VVPP	auffordern
+,	$,	,
+das	ART	d
+wirtschaftliche	ADJA	wirtschaftlich
+Gefälle	NN	Gefälle
+zwischen	APPR	zwischen
+West	NN	West
+und	KON	und
+Ost	NN	Ost
+in	APPR	in
+Europa	NE	Europa
+abbauen	VVINF	abbauen
+zu	PTKZU	zu
+helfen	VVINF	helfen
+.	$.	.
+</s>
+<s>
+Eine	ART	ein
+Schlüsselrolle	NN	Schlüsselrolle
+für	APPR	für
+das	ART	d
+Zusammenwachsen	NN	Zusammenwachsen
+Europas	NE	Europa
+spielt	VVFIN	spielen
+die	ART	d
+umfassende	ADJA	umfassend
+Entwicklung	NN	Entwicklung
+der	ART	d
+deutsch-sowjetischen	ADJA	deutsch-sowjetisch
+Beziehungen	NN	Beziehung
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+an	APPR	an
+die	ART	d
+guten	ADJA	gut
+Traditionen	NN	Tradition
+der	ART	d
+deutsch-russischen	ADJA	deutsch-russisch
+Beziehungen	NN	Beziehung
+anknüpfen	VVINF	anknüpfen
+und	KON	und
+durch	APPR	durch
+ein	ART	ein
+Werk	NN	Werk
+der	ART	d
+Verständigung	NN	Verständigung
+und	KON	und
+Versöhnung	NN	Versöhnung
+auch	ADV	auch
+hier	ADV	hier
+einen	ART	ein
+Beitrag	NN	Beitrag
+zu	APPR	zu
+einer	ART	ein
+dauerhaften	ADJA	dauerhaft
+Friedensordnung	NN	Friedensordnung
+leisten	VVINF	leisten
+.	$.	.
+</s>
+<s>
+Die	ART	d
+politische	ADJA	politisch
+und	KON	und
+wirtschaftliche	ADJA	wirtschaftlich
+Umgestaltung	NN	Umgestaltung
+in	APPR	in
+der	ART	d
+Sowjetunion	NE	Sowjetunion
+werden	VAFIN	werden
+wir	PPER	wir
+nach	APPR	nach
+besten	ADJA	gut
+Kräften	NN	Kraft
+unterstützen	VVINF	unterstützen
+.	$.	.
+</s>
+<s>
+Angesichts	APPR	angesichts
+der	ART	d
+Größe	NN	Größe
+dieser	PDAT	dies
+Aufgabe	NN	Aufgabe
+ist	VAFIN	sein
+es	PPER	es
+aber	ADV	aber
+unerläßlich	ADJD	unerläßlich
+,	$,	,
+daß	KOUS	daß
+der	ART	d
+Westen	NN	Weste|Westen
+gemeinsam	ADJD	gemeinsam
+und	KON	und
+abgestimmt	VVPP	abstimmen
+Hilfe	NN	Hilfe
+leistet	VVFIN	leisten
+.	$.	.
+</s>
+<s>
+-	$(	-
+Deutschland	NE	Deutschland
+wird	VAFIN	werden
+sich	PRF	er|es|sie
+am	APPRART	am
+Aufbau	NN	Aufbau
+einer	ART	ein
+neuen	ADJA	neu
+europäischen	ADJA	europäisch
+Friedensordnung	NN	Friedensordnung
+beteiligen	VVINF	beteiligen
+.	$.	.
+</s>
+<s>
+Wichtige	ADJA	wichtig
+Bausteine	NN	Baustein
+dieser	PDAT	dies
+Friedensordnung	NN	Friedensordnung
+sind	VAFIN	sein
+Rüstungskontrolle	NN	Rüstungskontrolle
+und	KON	und
+Abrüstung	NN	Abrüstung
+.	$.	.
+</s>
+<s>
+Die	ART	d
+CDU	NE	CDU
+ist	VAFIN	sein
+1982	CARD	@card@
+mit	APPR	mit
+dem	ART	d
+Ziel	NN	Ziel
+angetreten	VVPP	antreten
+,	$,	,
+Frieden	NN	Frieden
+zu	PTKZU	zu
+sichern	VVINF	sichern
+mit	APPR	mit
+weniger	PIAT	wenig
+Waffen	NN	Waffe
+.	$.	.
+</s>
+<s>
+Dieses	PDAT	dies
+Ziel	NN	Ziel
+haben	VAFIN	haben
+wir	PPER	wir
+eindrucksvoll	ADJD	eindrucksvoll
+erreicht	VVPP	erreichen
+:	$.	:
+</s>
+<s>
+Die	ART	d
+nuklearen	ADJA	nuklear
+Mittelstreckenraketen	NN	Mittelstreckenrakete
+der	ART	d
+Sowjetunion	NE	Sowjetunion
+und	KON	und
+der	ART	d
+USA	NE	USA
+verschwinden	VVFIN	verschwinden
+aus	APPR	aus
+Europa	NE	Europa
+,	$,	,
+und	KON	und
+die	ART	d
+amerikanischen	ADJA	amerikanisch
+Chemiewaffen	NN	Chemiewaffe
+sind	VAFIN	sein
+in	APPR	in
+diesem	PDAT	dies
+Jahr	NN	Jahr
+aus	APPR	aus
+der	ART	d
+Bundesrepublik	NN	Bundesrepublik
+abgezogen	VVPP	abziehen
+worden	VAPP	werden
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+begrüßen	VVFIN	begrüßen
+,	$,	,
+daß	KOUS	daß
+es	PPER	es
+jetzt	ADV	jetzt
+zu	APPR	zu
+einem	ART	ein
+ersten	ADJA	erst
+Abkommen	NN	Abkomme|Abkommen
+über	APPR	über
+die	ART	d
+konventionelle	ADJA	konventionell
+Abrüstung	NN	Abrüstung
+in	APPR	in
+Europa	NE	Europa
+kommt	VVFIN	kommen
+und	KON	und
+daß	KOUS	daß
+unmittelbar	ADJD	unmittelbar
+danach	PAV	danach
+die	ART	d
+Wiener	ADJA	Wiener
+Verhandlungen	NN	Verhandlung
+über	APPR	über
+die	ART	d
+konventionellen	ADJA	konventionell
+Streitkräfte	NN	Streitkraft
+in	APPR	in
+Europa	NE	Europa
+wieder	ADV	wieder
+fortgesetzt	VVPP	fortsetzen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Zahl	NN	Zahl
+der	ART	d
+deutschen	ADJA	deutsch
+Soldaten	NN	Soldat
+sinkt	VVFIN	sinken
+auf	APPR	auf
+nur	ADV	nur
+noch	ADV	noch
+370.000	CARD	@card@
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Wehrdienstzeit	NN	Wehrdienstzeit
+wurde	VAFIN	werden
+auf	APPR	auf
+zwölf	CARD	zwölf
+Monate	NN	Monat
+verkürzt	VVPP	verkürzen
+.	$.	.
+</s>
+<s>
+Alle	PIAT	alle
+sowjetischen	ADJA	sowjetisch
+Soldaten	NN	Soldat
+werden	VAFIN	werden
+innerhalb	ADJD	innerhalb
+von	APPR	von
+vier	CARD	vier
+Jahren	NN	Jahr
+Deutschland	NE	Deutschland
+verlassen	VVPP	verlassen
+.	$.	.
+</s>
+<s>
+Dies	PDS	dies
+zeigt	VVFIN	zeigen
+:	$.	:
+</s>
+<s>
+Die	ART	d
+deutsche	ADJA	deutsch
+Einheit	NN	Einheit
+dient	VVFIN	dienen
+dem	ART	d
+Frieden	NN	Frieden
+und	KON	und
+schafft	VVFIN	schaffen
+neue	ADJA	neu
+Chancen	NN	Chance
+für	APPR	für
+Abrüstung	NN	Abrüstung
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+entlasten	VVFIN	entlasten
+damit	PAV	damit
+unsere	PPOSAT	unser
+Partner	NN	Partner
+im	APPRART	im
+Bündnis	NN	Bündnis
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+den	ART	d
+Beitrag	NN	Beitrag
+leisten	VVINF	leisten
+,	$,	,
+der	PRELS	d
+von	APPR	von
+Deutschland	NE	Deutschland
+für	APPR	für
+Europas	NE	Europa
+Sicherheit	NN	Sicherheit
+erwartet	VVPP	erwarten
+werden	VAINF	werden
+kann	VMFIN	können
+-	$(	-
+mit	APPR	mit
+einer	ART	ein
+kleineren	ADJA	klein
+,	$,	,
+aber	ADV	aber
+modernen	ADJA	modern
+Bundeswehr	NN	Bundeswehr
+,	$,	,
+die	PRELS	d
+auch	ADV	auch
+attraktive	ADJA	attraktiv
+Zukunftschancen	NN	Zukunftschance
+bietet	VVFIN	bieten
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+bekennen	VVFIN	bekennen
+uns	PPER	wir
+zur	APPRART	zur
+Wehrpflicht	NN	Wehrpflicht
+,	$,	,
+weil	KOUS	weil
+unsere	PPOSAT	unser
+Bundeswehr	NN	Bundeswehr
+eine	ART	ein
+Armee	NN	Armee
+unseres	PPOSAT	unser
+Volkes	NN	Volk
+sein	VAINF	sein
+soll	VMFIN	sollen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+schützen	VVFIN	schützen
+aber	ADV	aber
+auch	ADV	auch
+die	ART	d
+Entscheidung	NN	Entscheidung
+derjenigen	PDS	diejenige
+,	$,	,
+die	PRELS	d
+aus	APPR	aus
+Gewissensgründen	NN	Gewissensgrund
+den	ART	d
+Dienst	NN	Dienst
+mit	APPR	mit
+der	ART	d
+Waffe	NN	Waffe
+verweigern	VVINF	verweigern
+und	KON	und
+Zivildienst	NN	Zivildienst
+leisten	VVINF	leisten
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+anerkennen	VVFIN	anerkennen
+das	ART	d
+Engagement	NN	Engagement
+,	$,	,
+das	PRELS	d
+die	ART	d
+Zivildienstleistenden	NN	Zivildienstleistende
+im	APPRART	im
+Dienst	NN	Dienst
+an	APPR	an
+alten	ADJA	alt
+,	$,	,
+kranken	ADJA	krank
+und	KON	und
+behinderten	ADJA	behindert
+Menschen	NN	Mensch
+erbringen	VVFIN	erbringen
+.	$.	.
+</s>
+<s>
+NATO	NE	NATO
+und	KON	und
+Bundeswehr	NN	Bundeswehr
+bleiben	VVFIN	bleiben
+unverzichtbar	ADJD	unverzichtbar
+.	$.	.
+</s>
+<s>
+Sie	PPER	Sie|sie
+haben	VAFIN	haben
+über	APPR	über
+vier	CARD	vier
+Jahrzehnte	ADJA	jahrzehnte
+Frieden	NN	Frieden
+und	KON	und
+Freiheit	NN	Freiheit
+gesichert	VVPP	sichern
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Stabilität	NN	Stabilität
+einer	ART	ein
+übergreifenden	ADJA	übergreifend
+Sicherheitsstruktur	NN	Sicherheitsstruktur
+in	APPR	in
+Europa	NE	Europa
+verlangt	VVFIN	verlangen
+den	ART	d
+transatlantischen	ADJA	transatlantisch
+Verbund	NN	Verbund
+mit	APPR	mit
+Nordamerika	NE	Nordamerika
+.	$.	.
+</s>
+<s>
+Deutschland	NE	Deutschland
+wird	VAFIN	werden
+seiner	PPOSAT	sein
+Verantwortung	NN	Verantwortung
+für	APPR	für
+Europa	NE	Europa
+gerecht	VVPP	rechen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Es	PPER	es
+wird	VAFIN	werden
+sich	PRF	er|es|sie
+tatkräftig	ADJD	tatkräftig
+daran	PAV	daran
+beteiligen	VVINF	beteiligen
+,	$,	,
+eine	ART	ein
+neue	ADJA	neu
+europäische	ADJA	europäisch
+Sicherheitsstruktur	NN	Sicherheitsstruktur
+aufzubauen	VVIZU	aufbauen
+,	$,	,
+in	APPR	in
+der	PRELS	d
+sich	PRF	er|es|sie
+Europäische	ADJA	europäisch
+Gemeinschaft	NN	Gemeinschaft
+,	$,	,
+Westeuropäische	NN	Westeuropäische
+Union	NE	Union
+,	$,	,
+NATO	NE	NATO
+und	KON	und
+KSZE	NE	KSZE
+ergänzen	VVFIN	ergänzen
+.	$.	.
+</s>
+<s>
+Europa	NE	Europa
+muß	VMFIN	müssen
+eng	ADJD	eng
+zusammenarbeiten	VVINF	zusammenarbeiten
+,	$,	,
+denn	KON	denn
+nur	ADV	nur
+so	ADV	so
+kann	VMFIN	können
+es	PPER	es
+seine	PPOSAT	sein
+Interessen	NN	Interesse
+in	APPR	in
+der	ART	d
+Welt	NN	Welt
+wirksam	ADJD	wirksam
+vertreten	VVPP	vertreten
+und	KON	und
+seine	PPOSAT	sein
+Zukunftsfähigkeit	NN	Zukunftsfähigkeit
+behaupten	VVINF	behaupten
+.	$.	.
+</s>
+<s>
+Das	ART	d
+vereinte	ADJA	vereint
+und	KON	und
+souveräne	ADJA	souverän
+Deutschland	NE	Deutschland
+muß	VMFIN	müssen
+seiner	PPOSAT	sein
+gewachsenen	ADJA	gewachst
+politischen	ADJA	politisch
+Verantwortung	NN	Verantwortung
+für	APPR	für
+die	ART	d
+Sicherung	NN	Sicherung
+des	ART	d
+Friedens	NN	Frieden
+gerecht	VVPP	rechen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+dafür	PAV	dafür
+bald	ADV	bald
+klare	ADJA	klar
+verfassungsrechtliche	ADJA	verfassungsrechtlich
+Voraussetzungen	NN	Voraussetzung
+schaffen	VVINF	schaffen
+.	$.	.
+</s>
+<s>
+-	$(	-
+Zur	APPRART	zur
+Verantwortung	NN	Verantwortung
+Deutschlands	NE	Deutschland
+gehört	VVFIN	gehören
+die	ART	d
+Partnerschaft	NN	Partnerschaft
+mit	APPR	mit
+den	ART	d
+Ländern	NN	Land
+der	ART	d
+Dritten	ADJA	dritt
+Welt	NN	Welt
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Überwindung	NN	Überwindung
+des	ART	d
+Ost-West-Gegensatzes	NN	Ost-West-Gegensatz
+verbessert	VVFIN	verbessern
+unsere	PPOSAT	unser
+Möglichkeiten	NN	Möglichkeit
+,	$,	,
+die	ART	d
+großen	ADJA	groß
+Herausforderungen	NN	Herausforderung
+der	ART	d
+Menschheit	NN	Menschheit
+-	$(	-
+wie	KOKOM	wie
+den	ART	d
+weltweiten	ADJA	weltweit
+Schutz	NN	Schutz
+der	ART	d
+natürlichen	ADJA	natürlich
+Lebensgrundlagen	NN	Lebensgrundlage
+und	KON	und
+die	ART	d
+Linderung	NN	Linderung
+von	APPR	von
+Hunger	NN	Hunger
+,	$,	,
+Armut	NN	Armut
+,	$,	,
+und	KON	und
+Not	NN	Not
+-	$(	-
+zu	PTKZU	zu
+bewältigen	VVINF	bewältigen
+.	$.	.
+</s>
+<s>
+Das	PDS	d
+vereinte	VVFIN	vereinen
+Deutschland	NE	Deutschland
+wird	VAFIN	werden
+sich	PRF	er|es|sie
+gemeinsam	ADJD	gemeinsam
+mit	APPR	mit
+den	ART	d
+europäischen	ADJA	europäisch
+Nachbarn	NN	Nachbar
+dieser	PDAT	dies
+Verantwortung	NN	Verantwortung
+stellen	VVINF	stellen
+.	$.	.
+</s>
+<s>
+Das	ART	d
+Wohlstandsgefälle	NN	Wohlstandsgefälle
+zwischen	APPR	zwischen
+Nord	NN	Nord
+und	KON	und
+Süd	NN	Süd
+muß	VMFIN	müssen
+abgebaut	VVPP	abbauen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Achtung	NN	Achtung
+der	ART	d
+Menschenrechte	NN	Menschenrecht
+sowie	KON	sowie
+eine	ART	ein
+freiheitlich-soziale	ADJA	freiheitlich-soziale
+Ordnung	NN	Ordnung
+in	APPR	in
+Staat	NN	Staat
+und	KON	und
+Wirtschaft	NN	Wirtschaft
+sind	VAFIN	sein
+die	ART	d
+besten	ADJA	gut
+Voraussetzungen	NN	Voraussetzung
+für	APPR	für
+politische	ADJA	politisch
+Stabilität	NN	Stabilität
+und	KON	und
+wirtschaftliche	ADJA	wirtschaftlich
+Entwicklung	NN	Entwicklung
+.	$.	.
+</s>
+<s>
+Diese	PDAT	dies
+Erkenntnis	NN	Erkenntnis
+setzt	VVFIN	setzen
+sich	PRF	er|es|sie
+mehr	ADV	mehr
+und	KON	und
+mehr	ADV	mehr
+durch	PTKVZ	durch
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+wollen	VMFIN	wollen
+insbesondere	ADV	insbesondere
+dort	ADV	dort
+,	$,	,
+wo	PWAV	wo
+die	ART	d
+entsprechenden	ADJA	entsprechend
+Reformen	NN	Reform
+eingeleitet	VVPP	einleiten
+werden	VAFIN	werden
+,	$,	,
+die	ART	d
+notwendige	ADJA	notwendig
+Hilfe	NN	Hilfe
+zur	APPRART	zur
+Selbsthilfe	NN	Selbsthilfe
+leisten	VVINF	leisten
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Entwicklungsländer	NN	Entwicklungsland
+müssen	VMFIN	müssen
+verstärkt	ADJD	verstärkt
+Zugang	NN	Zugang
+zu	APPR	zu
+unseren	PPOSAT	unser
+Märkten	NN	Markt
+erhalten	VVPP	erhalten
+.	$.	.
+</s>
+<s>
+Der	ART	d
+Handel	NN	Handel
+mit	APPR	mit
+den	ART	d
+Industrieländern	NN	Industrieland
+ist	VAFIN	sein
+für	APPR	für
+sie	PPER	sie
+eine	ART	ein
+wesentliche	ADJA	wesentlich
+Voraussetzung	NN	Voraussetzung
+,	$,	,
+die	ART	d
+Mittel	NN	Mittel
+zu	PTKZU	zu
+erwirtschaften	VVINF	erwirtschaften
+,	$,	,
+die	PRELS	d
+für	APPR	für
+Investitionsgüter	NN	Investitionsgut
+dringend	ADJD	dringend
+gebraucht	VVPP	brauchen|gebrauchen
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Freier	ADJA	frei
+Welthandel	NN	Welthandel
+,	$,	,
+die	ART	d
+Absage	NN	Absage
+an	APPR	an
+Protektionismus	NN	Protektionismus
+und	KON	und
+ein	ART	ein
+erfolgreicher	ADJA	erfolgreicher
+Abschluß	NN	Abschluß
+der	ART	d
+Welthandelsrunde	NN	Welthandelsrunde
+des	ART	d
+GATT	NE	GATT
+sind	VAFIN	sein
+für	APPR	für
+uns	PPER	wir
+wie	KOKOM	wie
+für	APPR	für
+die	ART	d
+Länder	NN	Land
+der	ART	d
+Dritten	ADJA	dritt
+Welt	NN	Welt
+von	APPR	von
+entscheidender	ADJA	entscheidend
+Bedeutung	NN	Bedeutung
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+unsere	PPOSAT	unser
+finanzielle	ADJA	finanziell
+und	KON	und
+technische	ADJA	technisch
+Hilfe	NN	Hilfe
+auf	APPR	auf
+die	ART	d
+ärmeren	ADJA	arm
+Länder	NN	Land
+der	ART	d
+Dritten	ADJA	dritt
+Welt	NN	Welt
+konzentrieren	VVINF	konzentrieren
+.	$.	.
+</s>
+<s>
+Es	PPER	es
+kommt	VVFIN	kommen
+darauf	PAV	darauf
+an	PTKVZ	an
+,	$,	,
+den	ART	d
+Teufelskreis	NN	Teufelskreis
+von	APPR	von
+Armut	NN	Armut
+,	$,	,
+Bevölkerungswachstum	NN	Bevölkerungswachstum
+und	KON	und
+Umweltzerstörung	NN	Umweltzerstörung
+durchbrechen	VVINF	durchbrechen
+zu	PTKZU	zu
+helfen	VVINF	helfen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Verschuldung	NN	Verschuldung
+von	APPR	von
+Ländern	NN	Land
+der	ART	d
+Dritten	ADJA	dritt
+Welt	NN	Welt
+ist	VAFIN	sein
+-	$(	-
+trotz	APPR	trotz
+inzwischen	ADV	inzwischen
+erzielter	ADJA	erzielt
+Fortschritte	NN	Fortschritt
+-	$(	-
+nach	PTKVZ	nach
+wie	KOKOM	wie
+vor	APPR	vor
+ein	ART	ein
+bedrückendes	ADJA	bedrückend
+Problem	NN	Problem
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+unseren	PPOSAT	unser
+Beitrag	NN	Beitrag
+dazu	PAV	dazu
+leisten	VVINF	leisten
+,	$,	,
+daß	KOUS	daß
+zukunftsweisende	ADJA	zukunftsweisend
+Lösungen	NN	Lösung
+,	$,	,
+wie	KOUS	wie
+sie	PPER	sie
+auf	APPR	auf
+den	ART	d
+Weltwirtschaftsgipfeln	NN	Weltwirtschaftsgipfel
+bereits	ADV	bereits
+diskutiert	VVPP	diskutieren
+worden	VAPP	werden
+sind	VAFIN	sein
+,	$,	,
+in	APPR	in
+die	ART	d
+Tat	NN	Tat
+umgesetzt	VVPP	umsetzen
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Am	APPRART	am
+2.	ADJA	2.
+Dezember	NN	Dezember
+:	$.	:
+</s>
+<s>
+Freiheit	NN	Freiheit
+,	$,	,
+Wohlstand	NN	Wohlstand
+und	KON	und
+Sicherheit	NN	Sicherheit
+wählen	VVFIN	wählen
+Deutschland	NE	Deutschland
+steht	VVFIN	stehen
+vor	APPR	vor
+großen	ADJA	groß
+Aufgaben	NN	Aufgabe
+:	$.	:
+</s>
+<s>
+-	$(	-
+Die	ART	d
+Erblast	NN	Erblast
+des	ART	d
+Sozialismus	NN	Sozialismus
+muß	VMFIN	müssen
+rasch	ADJD	rasch
+und	KON	und
+finanziell	ADJD	finanziell
+solide	ADJD	solide
+beseitigt	VVPP	beseitigen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Alle	PIAT	alle
+Deutschen	NN	Deutsche
+sollen	VMFIN	sollen
+sich	PRF	er|es|sie
+Wohlstand	NN	Wohlstand
+und	KON	und
+soziale	ADJA	sozial
+Sicherheit	NN	Sicherheit
+erarbeiten	VVINF	erarbeiten
+können	VMINF	können
+.	$.	.
+</s>
+<s>
+-	$(	-
+In	APPR	in
+einer	ART	ein
+Phase	NN	Phase
+weltweiter	ADJA	weltweit
+Veränderungen	NN	Veränderung
+muß	VMFIN	müssen
+das	ART	d
+geeinte	ADJA	geeint
+Deutschland	NE	Deutschland
+außenpolitisch	ADJD	außenpolitisch
+auf	APPR	auf
+einem	ART	ein
+stabilen	ADJA	stabil
+Kurs	NN	Kurs
+gehalten	VVPP	halten
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Es	PPER	es
+gibt	VVFIN	geben
+für	APPR	für
+uns	PPER	wir
+auf	APPR	auf
+der	ART	d
+Welt	NN	Welt
+nur	ADV	nur
+einen	ART	ein
+Platz	NN	Platz
+:	$.	:
+</s>
+<s>
+an	APPR	an
+der	ART	d
+Seite	NN	Seite
+der	ART	d
+freien	ADJA	frei
+Völker	NN	Volk
+.	$.	.
+</s>
+<s>
+So	ADV	so
+wie	KOKOM	wie
+1949	CARD	@card@
+die	ART	d
+Weichen	NN	Weiche|Weichen
+für	APPR	für
+die	ART	d
+Gestaltung	NN	Gestaltung
+der	ART	d
+Bundesrepublik	NN	Bundesrepublik
+Deutschland	NE	Deutschland
+gestellt	VVPP	stellen
+wurden	VAFIN	werden
+,	$,	,
+werden	VAFIN	werden
+bei	APPR	bei
+der	ART	d
+Wahl	NN	Wahl
+am	APPRART	am
+2.	ADJA	2.
+Dezember	NN	Dezember
+1990	CARD	1990
+die	ART	d
+Weichen	NN	Weiche|Weichen
+für	APPR	für
+die	ART	d
+Zukunft	NN	Zukunft
+des	ART	d
+geeinten	ADJA	geeint
+Deutschland	NE	Deutschland
+gestellt	VVPP	stellen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Wählerinnen	NN	Wählerin
+und	KON	und
+Wähler	NN	Wähler
+in	APPR	in
+Deutschland	NE	Deutschland
+stehen	VVFIN	stehen
+vor	APPR	vor
+der	ART	d
+Frage	NN	Frage
+:	$.	:
+</s>
+<s>
+Welche	PWAT	welch
+Partei	NN	Partei
+ist	VAFIN	sein
+in	APPR	in
+der	ART	d
+Lage	NN	Lage
+,	$,	,
+unser	PPOSAT	unser
+Vaterland	NN	Vaterland
+in	APPR	in
+eine	ART	ein
+gute	ADJA	gut
+Zukunft	NN	Zukunft
+zu	PTKZU	zu
+führen	VVINF	führen
+?	$.	?
+</s>
+<s>
+Die	ART	d
+CDU	NE	CDU
+hat	VAFIN	haben
+gezeigt	VVPP	zeigen
+,	$,	,
+daß	KOUS	daß
+sie	PPER	sie
+in	APPR	in
+schwierigen	ADJA	schwierig
+Zeiten	NN	Zeit
+die	ART	d
+richtigen	ADJA	richtig
+Entscheidungen	NN	Entscheidung
+trifft	VVFIN	treffen
+und	KON	und
+durchsetzt	VVPP	durchsetzen
+:	$.	:
+</s>
+<s>
+-	$(	-
+Es	PPER	es
+war	VAFIN	sein
+die	ART	d
+CDU	NE	CDU
+,	$,	,
+die	PRELS	d
+1948/49	CARD	1948/49
+die	ART	d
+Soziale	ADJA	sozial
+Marktwirtschaft	NN	Marktwirtschaft
+eingeführt	VVPP	einführen
+hat	VAFIN	haben
+.	$.	.
+</s>
+<s>
+-	$(	-
+Es	PPER	es
+war	VAFIN	sein
+die	ART	d
+CDU	NE	CDU
+,	$,	,
+die	PRELS	d
+entschlossen	ADJD	entschlossen
+die	ART	d
+europäische	ADJA	europäisch
+Integration	NN	Integration
+vorangetrieben	VVPP	vorantreiben
+und	KON	und
+die	ART	d
+Bundesrepublik	NN	Bundesrepublik
+in	APPR	in
+die	ART	d
+Wertegemeinschaft	NN	Wertegemeinschaft
+des	ART	d
+freien	ADJA	frei
+Westens	NN	Westen
+geführt	VVPP	führen
+hat	VAFIN	haben
+.	$.	.
+</s>
+<s>
+-	$(	-
+Es	PPER	es
+war	VAFIN	sein
+die	ART	d
+CDU	NE	CDU
+,	$,	,
+die	PRELS	d
+unbeirrt	ADJD	unbeirrt
+das	ART	d
+Bewußtsein	NN	Bewußtsein
+für	APPR	für
+die	ART	d
+Einheit	NN	Einheit
+der	ART	d
+Nation	NN	Nation
+wachgehalten	VVPP	wachhalten
+und	KON	und
+an	APPR	an
+dem	ART	d
+Ziel	NN	Ziel
+der	ART	d
+deutschen	ADJA	deutsch
+Einheit	NN	Einheit
+festgehalten	VVPP	festhalten
+hat	VAFIN	haben
+,	$,	,
+als	KOUS	als
+andere	PIS	ander
+dies	PDS	dies
+längst	ADV	längst
+aufgegeben	VVPP	aufgeben
+hatten	VAFIN	haben
+.	$.	.
+</s>
+<s>
+-	$(	-
+Es	PPER	es
+war	VAFIN	sein
+die	ART	d
+CDU	NE	CDU
+,	$,	,
+die	PRELS	d
+seit	APPR	seit
+1982	CARD	@card@
+mit	APPR	mit
+Bundeskanzler	NN	Bundeskanzler
+Helmut	NE	Helmut
+Kohl	NE	Kohl
+die	ART	d
+Bundesrepublik	NN	Bundesrepublik
+aus	APPR	aus
+der	ART	d
+schwersten	ADJA	schwer
+Wirtschafts-	TRUNC	Wirtschafts-
+,	$,	,
+Sozial-	TRUNC	Sozial-
+und	KON	und
+internationalen	ADJA	international
+Vertrauenskrise	NN	Vertrauenskrise
+herausgeführt	VVPP	herausführen
+hat	VAFIN	haben
+,	$,	,
+in	APPR	in
+die	PRELS	d
+uns	PRF	wir
+die	ART	d
+SPD	NE	SPD
+gestürzt	VVPP	stürzen
+hatte	VAFIN	haben
+.	$.	.
+</s>
+<s>
+Auf	APPR	auf
+der	ART	d
+Grundlage	NN	Grundlage
+eines	ART	ein
+beispiellosen	ADJA	beispiellos
+Wirtschaftsaufschwungs	NN	Wirtschaftsaufschwung
+können	VMFIN	können
+wir	PPER	wir
+heute	ADV	heute
+im	APPRART	im
+vereinten	ADJA	vereint
+Deutschland	NE	Deutschland
+unsere	PPOSAT	unser
+gemeinsame	ADJA	gemeinsam
+Zukunft	NN	Zukunft
+aufbauen	VVINF	aufbauen
+.	$.	.
+</s>
+<s>
+Auf	APPR	auf
+die	ART	d
+Christlichen	ADJA	christlich
+Demokraten	NN	Demokrat
+richten	VVFIN	richten
+die	ART	d
+Menschen	NN	Mensch
+in	APPR	in
+ganz	ADV	ganz
+Deutschland	NE	Deutschland
+ihre	PPOSAT	ihr
+Blicke	NN	Blick
+,	$,	,
+in	APPR	in
+uns	PRF	wir
+setzen	VVFIN	setzen
+sie	PPER	sie
+ihre	PPOSAT	ihr
+Hoffnungen	NN	Hoffnung
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+werden	VAFIN	werden
+sie	PPER	sie
+nicht	PTKNEG	nicht
+enttäuschen	VVINF	enttäuschen
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+haben	VAFIN	haben
+klare	ADJA	klar
+Vorstellungen	NN	Vorstellung
+von	APPR	von
+der	ART	d
+Zukunft	NN	Zukunft
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+haben	VAFIN	haben
+in	APPR	in
+Jahrzehnten	NN	Jahrzehnt
+und	KON	und
+insbesondere	ADV	insbesondere
+wieder	ADV	wieder
+in	APPR	in
+den	ART	d
+letzten	ADJA	letzt
+acht	CARD	acht
+Jahren	NN	Jahr
+bewiesen	VVPP	beweisen
+,	$,	,
+was	PWS	was
+wir	PPER	wir
+leisten	VVINF	leisten
+können	VMINF	können
+-	$(	-
+für	APPR	für
+die	ART	d
+Sicherung	NN	Sicherung
+von	APPR	von
+Frieden	NN	Frieden
+,	$,	,
+Freiheit	NN	Freiheit
+und	KON	und
+Wohlstand	NN	Wohlstand
+für	APPR	für
+die	ART	d
+Menschen	NN	Mensch
+in	APPR	in
+Deutschland	NE	Deutschland
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+setzen	VVFIN	setzen
+auf	APPR	auf
+den	ART	d
+Mut	NN	Mut
+der	ART	d
+Menschen	NN	Mensch
+-	$(	-
+auf	APPR	auf
+ihre	PPOSAT	ihr
+Zuversicht	NN	Zuversicht
+,	$,	,
+auf	APPR	auf
+ihren	PPOSAT	ihr
+Willen	NN	Wille
+zur	APPRART	zur
+Leistung	NN	Leistung
+,	$,	,
+auf	APPR	auf
+die	ART	d
+Kraft	NN	Kraft
+der	ART	d
+Freiheit	NN	Freiheit
+.	$.	.
+</s>
+<s>
+Am	APPRART	am
+2.	ADJA	2.
+Dezember	NN	Dezember
+bitten	VVFIN	bitten
+wir	PPER	wir
+um	APPR	um
+das	ART	d
+Vertrauen	NN	Vertrauen
+der	ART	d
+Bürgerinnen	NN	Bürgerin
+und	KON	und
+Bürger	NN	Bürger
+.	$.	.
+</s>
+<s>
+Gemeinsam	ADJD	gemeinsam
+werden	VAFIN	werden
+wir	PPER	wir
+es	PPER	es
+schaffen	VVINF	schaffen
+!	$.	!
+</s>
+</body>
+</text>
+</corpus>

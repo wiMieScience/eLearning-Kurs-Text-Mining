@@ -1,0 +1,2742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpus>
+<text id="depp41703000199811idm38040162928" author="" party="DVU" year="1998" date="" type="Wahlprogramm" title="Wahlprogramm 1998" subtitle="">
+<body>
+<s>
+Im	APPRART	im
+Politiker-Amtseid	NN	Politiker-Amtseid
+(	$(	(
+Artikel	NN	Artikel
+56	CARD	56
+Grundgesetz	NN	Grundgesetz
+)	$(	)
+hei	VVIMP	hei
+?	$.	?
+</s>
+<s>
+t	NN	t
+es	PPER	es
+:	$.	:
+</s>
+<s>
+"	$(	"
+Ich	PPER	ich
+schw	VVFIN	schw
+?	$.	?
+</s>
+<s>
+re	ADJD	re
+,	$,	,
+da	ADV	da
+?	$.	?
+</s>
+<s>
+ich	PPER	ich
+meine	VVFIN	meinen
+Kraft	NN	Kraft
+dem	ART	d
+Wohle	NN	Wohl
+des	ART	d
+deutschen	ADJA	deutsch
+Volkes	NN	Volk
+widmen	VVINF	widmen
+,	$,	,
+seinen	PPOSAT	sein
+Nutzen	NN	Nutzen
+mehren	VVFIN	mehren
+,	$,	,
+Schaden	NN	Schaden
+von	APPR	von
+ihm	PPER	er
+wenden	VVINF	wenden
+werde	VAFIN	werden
+.	$.	.
+</s>
+<s>
+"	$(	"
+Deshalb	PAV	deshalb
+sind	VAFIN	sein
+deutsche	ADJA	deutsch
+Politiker	NN	Politiker
+in	APPR	in
+der	ART	d
+Bundesrepublik	NN	Bundesrepublik
+Deutschland	NE	Deutschland
+verpflichtest	VVFIN	verpflichtest
+,	$,	,
+die	ART	d
+Interessen	NN	Interesse
+der	ART	d
+Deutschen	NN	Deutsche
+zu	PTKZU	zu
+vertreten	VVINF	vertreten
+-	$(	-
+und	KON	und
+zwar	ADV	zwar
+genauso	ADV	genauso
+entschlossen	VVPP	entschließen
+wie	KOKOM	wie
+sich	PRF	er|es|sie
+Politiker	NN	Politiker
+anderer	ADJA	ander
+V	NN	V
+?	$.	?
+</s>
+<s>
+lker	ADJA	lker
+f	NN	F
+?	$.	?
+</s>
+<s>
+r	VVFIN	r
+ihre	PPOSAT	ihr
+Landsleute	NN	Landsleute
+einsetzen	VVINF	einsetzen
+.	$.	.
+</s>
+<s>
+Deutsches	ADJA	deutsch
+Geld	NN	Geld
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+deutsche	ADJA	deutsch
+Aufgaben	NN	Aufgabe
+Massenarbeitslosigkeit	NN	Massenarbeitslosigkeit
+:	$.	:
+</s>
+<s>
+Deutsches	ADJA	deutsch
+Geld	NN	Geld
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+deutsche	ADJA	deutsch
+Aufgaben	NN	Aufgabe
+.	$.	.
+</s>
+<s>
+Deutsche	ADJA	deutsch
+Arbeitspl	NN	Arbeitspl
+?	$.	?
+</s>
+<s>
+tze	VVFIN	tze
+zuerst	ADV	zuerst
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+deutsche	ADJA	deutsch
+Arbeitnehmer	NN	Arbeitnehmer
+.	$.	.
+</s>
+<s>
+Soziale	ADJA	sozial
+Gerechtigkeit	NN	Gerechtigkeit
+:	$.	:
+</s>
+<s>
+Wo	PWAV	wo
+Not	NN	Not
+herrscht	VVFIN	herrschen
+,	$,	,
+mu	NN	mu
+?	$.	?
+</s>
+<s>
+die	ART	d
+Politik	NN	Politik
+vorrangig	ADJD	vorrangig
+den	ART	d
+einheimischen	ADJA	einheimisch
+Landsleuten	NN	Landsleute
+helfen	VVFIN	helfen
+.	$.	.
+</s>
+<s>
+?	$.	?
+berfremdung	NN	berfremdung
+:	$.	:
+</s>
+<s>
+Deutschland	NE	Deutschland
+mu	NE	Mu
+?	$.	?
+</s>
+<s>
+das	ART	d
+Land	NN	Land
+der	ART	d
+Deutschen	NN	Deutsche
+bleiben	VVFIN	bleiben
+!	$.	!
+</s>
+<s>
+Auch	ADV	auch
+im	APPRART	im
+Interesse	NN	Interesse
+der	ART	d
+mehrheitlich	ADJD	mehrheitlich
+anst	ADJA	anst
+?	$.	?
+</s>
+<s>
+ndigen	ADJA	ndigen
+und	KON	und
+rechtschaffenen	ADJA	rechtschaffen
+Ausl	NN	Ausl
+?	$.	?
+</s>
+<s>
+nder	VVFIN	nder
+.	$.	.
+</s>
+<s>
+Es	PPER	es
+darf	VMFIN	dürfen
+keine	PIAT	kein
+Benachteiligung	NN	Benachteiligung
+Deutscher	NN	Deutsche
+gegen	APPR	gegen
+?	$.	?
+</s>
+<s>
+ber	ADJA	ber
+Fremden	NN	Fremde
+im	APPRART	im
+eigenen	ADJA	eigen
+Land	NN	Land
+geben	VVFIN	geben
+!	$.	!
+</s>
+<s>
+Wer	PWS	wer
+will	VMFIN	wollen
+,	$,	,
+da	ADV	da
+?	$.	?
+</s>
+<s>
+Politiker	NN	Politiker
+mehr	PIAT	mehr
+R	NN	R
+?	$.	?
+</s>
+<s>
+cksicht	NN	cksicht
+auf	APPR	auf
+die	ART	d
+B	NN	B
+?	$.	?
+</s>
+<s>
+rger	ADJD	rger
+nehmen	VVFIN	nehmen
+,	$,	,
+mu	NN	mu
+?	$.	?
+</s>
+<s>
+eine	ART	ein
+wirkliche	ADJA	wirklich
+Opposition	NN	Opposition
+in	APPR	in
+den	ART	d
+Bundestag	NN	Bundestag
+w	VVFIN	w
+?	$.	?
+</s>
+<s>
+hlen	NN	hlen
+,	$,	,
+die	PRELS	d
+den	ART	d
+Herrschenden	ADJA	herrschend
+Kontra	NN	Kontra
+gibt	VVFIN	geben
+.	$.	.
+</s>
+<s>
+Wer	PWS	wer
+aus	APPR	aus
+Protest	NN	Protest
+nicht	PTKNEG	nicht
+zur	APPRART	zur
+Wahl	NN	Wahl
+geht	VVFIN	gehen
+,	$,	,
+?	$.	?
+</s>
+<s>
+ndert	VVFIN	ndert
+nichts	PIS	nichts
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Zahl	NN	Zahl
+der	ART	d
+Abgeordneten	NN	Abgeordnete
+bleibt	VVFIN	bleiben
+auch	ADV	auch
+bei	APPR	bei
+geringer	ADJA	gering
+Wahlbeteiligung	NN	Wahlbeteiligung
+gleich	PTKVZ	gleich
+.	$.	.
+</s>
+<s>
+Das	PDS	d
+tut	VVFIN	tun
+"	$(	"
+denen	PRELS	d
+da	ADV	da
+oben	ADV	oben
+"	$(	"
+nicht	PTKNEG	nicht
+weh	ADJD	weh
+.	$.	.
+</s>
+<s>
+Doch	ADV	doch
+f	ADJD	f
+?	$.	?
+</s>
+<s>
+r	VVFIN	r
+jeden	PIAT	jed
+Abgeordneten	NN	Abgeordnete
+der	ART	d
+DVU	NE	DVU
+,	$,	,
+der	PRELS	d
+in	APPR	in
+den	ART	d
+Bundestag	NN	Bundestag
+kommt	VVFIN	kommen
+,	$,	,
+mu	NN	mu
+?	$.	?
+</s>
+<s>
+ein	ART	ein
+Politiker	NN	Politiker
+der	ART	d
+bisherigen	ADJA	bisherig
+Parteien	NN	Partei
+raus	PTKVZ	raus
+.	$.	.
+</s>
+<s>
+Nur	ADV	nur
+so	ADV	so
+wird	VAFIN	werden
+der	ART	d
+Stimmzettel	NN	Stimmzettel
+zum	APPRART	zum
+Denkzettel	NN	Denkzettel
+.	$.	.
+</s>
+<s>
+Massenarbeitslosigkeit	NN	Massenarbeitslosigkeit
+und	KON	und
+alarmierende	ADJA	alarmierend
+Jugendarbeitslosigkeit	NN	Jugendarbeitslosigkeit
+,	$,	,
+Rekord-Verschuldung	NN	Rekord-Verschuldung
+,	$,	,
+mangelhafte	ADJA	mangelhaft
+Zukunftsperspektiven	NN	Zukunftsperspektive
+,	$,	,
+soziale	ADJA	sozial
+Ungerechtigkeit	NN	Ungerechtigkeit
+:	$.	:
+</s>
+<s>
+Einstige	ADJA	einstig
+Wahlversprechen	NN	Wahlversprechen
+von	APPR	von
+Bonner	ADJA	Bonner
+Politikern	NN	Politiker
+sind	VAFIN	sein
+gebrochen	VVPP	brechen
+bzw.	KOKOM	bzw.
+nie	ADV	nie
+eingel	VVPP	eingel
+?	$.	?
+</s>
+<s>
+st	ADJA	st
+,	$,	,
+unverschuldet	ADJD	unverschuldet
+in	APPR	in
+Not	NN	Not
+geratene	ADJA	geraten
+Menschen	NN	Mensch
+zu	APPR	zu
+B	NN	B
+?	$.	?
+</s>
+<s>
+rgern	NN	rgern
+zweiter	ADJA	zweit
+Klasse	NN	Klasse
+erniedrigt	VVPP	erniedrigen
+worden	VAPP	werden
+.	$.	.
+</s>
+<s>
+Damit	KOUS	damit
+mu	NE	Mu
+?	$.	?
+</s>
+<s>
+0	CARD	@card@
+Schlu	NE	Schlu
+?	$.	?
+</s>
+<s>
+sein	PPOSAT	sein
+!	$.	!
+</s>
+<s>
+Notwendig	ADJD	notwendig
+ist	VAFIN	sein
+ein	ART	ein
+konsequentes	ADJA	konsequent
+Sofort-Programm	NN	Sofort-Programm
+gegen	APPR	gegen
+Massenarbeitslosigkeit	NN	Massenarbeitslosigkeit
+und	KON	und
+zur	APPRART	zur
+Schaffung	NN	Schaffung
+von	APPR	von
+Arbeitspl	NN	Arbeitspl
+?	$.	?
+</s>
+<s>
+tzen	VVFIN	tzen
+.	$.	.
+</s>
+<s>
+Asylbetrug	NN	Asylbetrug
+und	KON	und
+?	$.	?
+</s>
+<s>
+berfremdung	NN	berfremdung
+m	NN	m
+?	$.	?
+</s>
+<s>
+ssen	VVFIN	ssen
+sofort	ADV	sofort
+gestoppt	VVPP	stoppen
+werden	VAINF	werden
+.	$.	.
+</s>
+<s>
+Gleichberechtigung	NN	Gleichberechtigung
+f	VVPP	f
+?	$.	?
+</s>
+<s>
+r	VVFIN	r
+das	ART	d
+deutsche	ADJA	deutsch
+Volk	NN	Volk
+mu	NE	Mu
+?	$.	?
+</s>
+<s>
+durch	APPR	durch
+konsequente	ADJA	konsequent
+Politik	NN	Politik
+endlich	ADV	endlich
+Wirklichkeit	NN	Wirklichkeit
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Die	ART	d
+DEUTSCHE	NN	Deutsche
+VOLKSUNION	NN	Volksunion
+(	$(	(
+DVU	NE	DVU
+)	$(	)
+will	VMFIN	wollen
+die	ART	d
+freiheitlich-demokratische	ADJA	freiheitlich-demokratisch
+Grundordnung	NN	Grundordnung
+sch	VVFIN	sch
+?	$.	?
+</s>
+<s>
+tzen	VVFIN	tzen
+.	$.	.
+</s>
+<s>
+Nach	APPR	nach
+ihrem	PPOSAT	ihr
+Einzug	NN	Einzug
+in	APPR	in
+den	ART	d
+Bundestag	NN	Bundestag
+wird	VAFIN	werden
+sie	PPER	sie
+etablierten	ADJA	etabliert
+Druck	NN	Druck
+machen	VVINF	machen
+und	KON	und
+vor	APPR	vor
+allem	PIS	alle
+folgende	ADJA	folgend
+Forderung	NN	Forderung
+und	KON	und
+Antr	NE	Antr
+?	$.	?
+</s>
+<s>
+ge	ADJD	ge
+einbringen	VVFIN	einbringen
+:	$.	:
+</s>
+<s>
+DVU	NE	DVU
+:	$.	:
+</s>
+<s>
+DEUTSCHE	ADJA	deutsch
+ZUERST	NN	ZUERST
+!	$.	!
+</s>
+<s>
+SOFORTPROGRAMM	NN	Sofortprogramm
+GEGEN	ADJD	GEGEN
+MASSENARBEITSLOSIGKEIT	NN	Massenarbeitslosigkeit
+Arbeitspl	NN	Arbeitspl
+?	$.	?
+</s>
+<s>
+tze	VVFIN	tze
+zuerst	ADV	zuerst
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Deutsche	NN	Deutsche
+.	$.	.
+</s>
+<s>
+Vorrang	NN	Vorrang
+f	VVPP	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Deutsche	NN	Deutsche
+bei	APPR	bei
+staatlichen	ADJA	staatlich
+Leistungen	NN	Leistung
+,	$,	,
+z.	APPRART	z.
+B.	NN	B.
+bei	APPR	bei
+der	ART	d
+Vergabe	NN	Vergabe
+von	APPR	von
+Sozialwohnungen	NN	Sozialwohnung
+.	$.	.
+</s>
+<s>
+Arbeitspl	NE	Arbeitspl
+?	$.	?
+</s>
+<s>
+tze	ADJD	tze
+durch	APPR	durch
+staatliche	ADJA	staatlich
+Gro	NN	Gro
+?	$.	?
+</s>
+<s>
+projekte	NN	Projekt
+,	$,	,
+vor	APPR	vor
+allem	PIS	alle
+in	APPR	in
+der	ART	d
+Bauwirtschaft	NN	Bauwirtschaft
+,	$,	,
+sichern	VVINF	sichern
+und	KON	und
+schaffen	VVFIN	schaffen
+.	$.	.
+</s>
+<s>
+Verwirklichung	NN	Verwirklichung
+verkehrspolitischer	ADJD	verkehrspolitisch
+Gro	VVFIN	Gro
+?	$.	?
+</s>
+<s>
+projekte	NN	Projekt
+.	$.	.
+</s>
+<s>
+?	$.	?
+ffentliche	NN	ffentliche
+Gelder	NN	Geld
+bereitstellen	VVFIN	bereitstellen
+statt	APPR	statt
+verh	NN	verh
+?	$.	?
+</s>
+<s>
+ngnisvollem	ADJA	ngnisvollem
+"	$(	"
+Sparkurs	NN	Sparkurs
+"	$(	"
+:	$.	:
+</s>
+<s>
+Intakte	ADJA	intakt
+Industriebetriebe	NN	Industriebetrieb
+erhalten	VVPP	erhalten
+;	$.	;
+</s>
+<s>
+Schlu	NE	Schlu
+?	$.	?
+</s>
+<s>
+mit	APPR	mit
+dem	ART	d
+Ausverkauf	NN	Ausverkauf
+unserer	PPOSAT	unser
+Industrie	NN	Industrie
+an	APPR	an
+Fremde	NN	Fremde
+,	$,	,
+die	ART	d
+Subventionen	NN	Subvention
+kassieren	VVINF	kassieren
+und	KON	und
+dann	ADV	dann
+die	ART	d
+Betriebe	NN	Betrieb
+dichtmachen	VVFIN	dichtmachen
+.	$.	.
+</s>
+<s>
+Kampf	NN	Kampf
+diesem	PDAT	dies
+Mi	FM	Mi
+?	$.	?
+</s>
+<s>
+brauch	VVIMP	brauchen
+durch	APPR	durch
+sch	NE	sch
+?	$.	?
+</s>
+<s>
+rfere	ADJA	rfere
+Kontrollen	NN	Kontrolle
+!	$.	!
+</s>
+<s>
+Heimische	ADJA	heimisch
+Werft-	TRUNC	Werft-
+und	KON	und
+Stahlindustrie	NN	Stahlindustrie
+vor	APPR	vor
+EU-Wahnsinn	NN	EU-Wahnsinn
+sch	VVFIN	sch
+?	$.	?
+</s>
+<s>
+tzen	VVFIN	tzen
+.	$.	.
+</s>
+<s>
+F	NN	F
+?	$.	?
+</s>
+<s>
+rderung	NN	rderung
+heimischer	ADJA	heimisch
+Werften	NN	Werft
+,	$,	,
+gegen	APPR	gegen
+EU-Wettbewerbsnachteile	NN	EU-Wettbewerbsnachteile
+.	$.	.
+</s>
+<s>
+Statt	APPR	statt
+Finanzierung	NN	Finanzierung
+von	APPR	von
+ausl	NE	ausl
+?	$.	?
+</s>
+<s>
+ndischen	ADJA	ndischen
+Wirtschaftskonkurrenten	NN	Wirtschaftskonkurrent
+mit	APPR	mit
+deutschen	ADJA	deutsch
+EU-Geldern	NN	EU-Geldern
+?	$.	?
+</s>
+<s>
+ffentliche	NN	ffentliche
+Investitionen	NN	Investition
+zur	APPRART	zur
+Rettung	NN	Rettung
+deutscher	ADJA	deutsch
+Unternehmen	NN	Unternehmen
+.	$.	.
+</s>
+<s>
+Energische	ADJA	energisch
+Durchsetzung	NN	Durchsetzung
+der	ART	d
+Interessen	NN	Interesse
+unserer	PPOSAT	unser
+Bauern	NN	Bauer
+in	APPR	in
+der	ART	d
+EU	NE	EU
+.	$.	.
+</s>
+<s>
+Landwirtschaft	NN	Landwirtschaft
+von	APPR	von
+sinnwidrigen	ADJA	sinnwidrigen
+EU-Fesseln	NN	EU-Fesseln
+befreien	VVFIN	befreien
+.	$.	.
+</s>
+<s>
+Erhaltung	NN	Erhaltung
+b	VVPP	b
+?	$.	?
+</s>
+<s>
+uerlicher	ADJA	uerlicher
+Familienbetriebe	NN	Familienbetrieb
+.	$.	.
+</s>
+<s>
+Das	ART	d
+Ziel	NN	Ziel
+der	ART	d
+"	$(	"
+Herstellung	NN	Herstellung
+gleichwertiger	ADJA	gleichwertig
+Lebensverh	NN	Lebensverh
+?	$.	?
+</s>
+<s>
+ltnisse	NN	ltnisse
+im	APPRART	im
+Bundesgebiet	NN	Bundesgebiet
+"	$(	"
+(	$(	(
+Artikel	NN	Artikel
+72	CARD	72
+Grundgesetz	NN	Grundgesetz
+)	$(	)
+mu	NE	Mu
+?	$.	?
+</s>
+<s>
+verwirklicht	VVPP	verwirklichen
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Schutz	NN	Schutz
+des	ART	d
+Mittelstandes	NN	Mittelstand
+vor	APPR	vor
+Vernichtungskonkurrenz	NN	Vernichtungskonkurrenz
+durch	APPR	durch
+Gro	NE	gro
+?	$.	?
+</s>
+<s>
+konzerne	NN	Konzern
+.	$.	.
+</s>
+<s>
+B	NE	B
+?	$.	?
+</s>
+<s>
+rokratie	NN	rokratie
+eind	NN	eind
+?	$.	?
+</s>
+<s>
+mmen	NN	mmen
+.	$.	.
+</s>
+<s>
+Steuern	NN	Steuer
+und	KON	und
+Abgaben	NN	Abgabe
+runter	PTKVZ	runter
+.	$.	.
+</s>
+<s>
+Hilfe	NN	Hilfe
+und	KON	und
+F	NN	F
+?	$.	?
+</s>
+<s>
+rderung	NN	rderung
+f	VVPP	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Kleinbetriebe	NN	Kleinbetrieb
+.	$.	.
+</s>
+<s>
+Einzelhandel	NN	Einzelhandel
+st	VVPP	st
+?	$.	?
+</s>
+<s>
+rken	VVFIN	rken
+.	$.	.
+</s>
+<s>
+Finanzielle	ADJA	finanziell
+Sonder-Anreize	NN	Sonder-Anreize
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Betriebe	NN	Betrieb
+,	$,	,
+die	PRELS	d
+zus	ADJD	zus
+?	$.	?
+</s>
+<s>
+tzliche	ADJA	tzliche
+Ausbildungspl	NN	Ausbildungspl
+?	$.	?
+</s>
+<s>
+tze	ADJA	tze
+erm	NN	erm
+?	$.	?
+</s>
+<s>
+glichen	VVFIN	gleichen
+.	$.	.
+</s>
+<s>
+DVU	NE	DVU
+:	$.	:
+</s>
+<s>
+DEUTSCHE	ADJA	deutsch
+IDENTIT	NN	IDENTIT
+?	$.	?
+</s>
+<s>
+T	NN	T
+WAHREN	NN	Wahre|Wahren
+Kein	PIAT	kein
+weiterer	ADJA	weit
+Zuzug	NN	Zuzug
+von	APPR	von
+Ausl	NE	Ausl
+?	$.	?
+</s>
+<s>
+ndern	NN	ndern
+,	$,	,
+die	PRELS	d
+die	ART	d
+Sozialkassen	NN	Sozialkasse
+belasten	VVINF	belasten
+.	$.	.
+</s>
+<s>
+Eingesparte	ADJA	eingespart
+Gelder	NN	Geld
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Deutsche	NN	Deutsche
+in	APPR	in
+Not	NN	Not
+verwenden	VVFIN	verwenden
+.	$.	.
+</s>
+<s>
+F	NN	F
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Ausl	NN	Ausl
+?	$.	?
+</s>
+<s>
+nder-Begrenzung	NN	nder-Begrenzung
+.	$.	.
+</s>
+<s>
+Mittel	NN	Mittel
+f	VVPP	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Asylbewerber	NN	Asylbewerber
+k	VVFIN	k
+?	$.	?
+</s>
+<s>
+rzen	VVFIN	rzen
+.	$.	.
+</s>
+<s>
+Ja	ADV	ja
+zum	APPRART	zum
+Asylrecht	NN	Asylrecht
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJD	r
+politisch	ADJD	politisch
+Verfolgte	ADJA	verfolgt
+,	$,	,
+aber	KON	aber
+Ausweisung	NN	Ausweisung
+von	APPR	von
+Scheinasylanten	NN	Scheinasylante
+,	$,	,
+anschlie	NE	anschlie
+?	$.	?
+</s>
+<s>
+end	ADJA	end
+Einreisesperre	NN	Einreisesperre
+.	$.	.
+</s>
+<s>
+Strenge	ADJA	streng
+Einreisekontrollen	NN	Einreisekontrolle
+auch	ADV	auch
+an	APPR	an
+Flugh	NE	Flugh
+?	$.	?
+</s>
+<s>
+fen	ADJA	fen
+und	KON	und
+Bahnh	NN	Bahnh
+?	$.	?
+</s>
+<s>
+fen	ADJD	fen
+.	$.	.
+</s>
+<s>
+Ausweisung	NN	Ausweisung
+und	KON	und
+Abschiebung	NN	Abschiebung
+angeblicher	ADJA	angeblich
+B	NN	B
+?	$.	?
+</s>
+<s>
+rgerkriegsfl	NE	rgerkriegsfl
+?	$.	?
+</s>
+<s>
+chtlinge	NN	chtlinge
+,	$,	,
+in	APPR	in
+deren	PRELAT	d
+Heimat	NN	Heimat
+kein	PIAT	kein
+Krieg	NN	Krieg
+mehr	ADV	mehr
+stattfindet	VVFIN	stattfinden
+.	$.	.
+</s>
+<s>
+Ausweisung	NN	Ausweisung
+ausl	NE	ausl
+?	$.	?
+</s>
+<s>
+ndischer	ADJA	ndischer
+Schwarzarbeiter	NN	Schwarzarbeiter
+,	$,	,
+da	KOUS	da
+sie	PPER	sie
+Einheimischen	ADJA	einheimisch
+Arbeitspl	NN	Arbeitspl
+?	$.	?
+</s>
+<s>
+tze	ADJD	tze
+wegnehmen	VVFIN	wegnehmen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Deutschen	NN	Deutsche
+sollen	VMFIN	sollen
+in	APPR	in
+Deutschland	NE	Deutschland
+bestimmen	VVINF	bestimmen
+.	$.	.
+</s>
+<s>
+Deshalb	PAV	deshalb
+:	$.	:
+</s>
+<s>
+Kein	PIAT	kein
+Ausl	NN	Ausl
+?	$.	?
+</s>
+<s>
+nderwahlrecht	NN	nderwahlrecht
+,	$,	,
+keine	PIAT	kein
+"	$(	"
+doppelte	ADJA	doppelt
+Staatsangeh	NN	Staatsangeh
+?	$.	?
+</s>
+<s>
+rigkeit	NN	rigkeit
+"	$(	"
+.	$.	.
+</s>
+<s>
+DVU	NE	DVU
+:	$.	:
+</s>
+<s>
+SCHUTZ	NN	Schutz
+VOR	APPR	vor
+KRIMINALIT	NE	KRIMINALIT
+?	$.	?
+</s>
+<s>
+T	NN	T
+F	NN	F
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+b	NN	B
+?	$.	?
+</s>
+<s>
+rgernahe	ADJA	rgernahe
+Polizeiwachen	NN	Polizeiwache
+.	$.	.
+</s>
+<s>
+Verst	NN	Verst
+?	$.	?
+</s>
+<s>
+rkte	ADJA	rkte
+Polizeistreifen	NN	Polizeistreife
+in	APPR	in
+gef	NE	gef
+?	$.	?
+</s>
+<s>
+hrlichen	NN	hrlichen
+Gegenden	NN	Gegend
+.	$.	.
+</s>
+<s>
+Mehr	PIAT	mehr
+Unterst	NN	Unterst
+?	$.	?
+</s>
+<s>
+tzung	NN	tzung
+f	VVPP	f
+?	$.	?
+</s>
+<s>
+r	VVFIN	r
+die	ART	d
+Polizei	NN	Polizei
+bei	APPR	bei
+der	ART	d
+Verbrechensbek	NN	Verbrechensbek
+?	$.	?
+</s>
+<s>
+mpfung	NN	mpfung
+.	$.	.
+</s>
+<s>
+Schlu	NE	Schlu
+?	$.	?
+</s>
+<s>
+mit	APPR	mit
+der	ART	d
+weichen	ADJA	weich
+Welle	NN	Welle
+im	APPRART	im
+Umgang	NN	Umgang
+mit	APPR	mit
+Verbrechern	NN	Verbrecher
+.	$.	.
+</s>
+<s>
+Wiedereinf	NE	Wiedereinf
+?	$.	?
+</s>
+<s>
+hrung	NN	hrung
+der	ART	d
+Zuchthausstrafe	NN	Zuchthausstrafe
+mu	NE	Mu
+?	$.	?
+</s>
+<s>
+diskutiert	VVPP	diskutieren
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Kein	PIAT	kein
+Freigang	NN	Freigang
+,	$,	,
+kein	PIAT	kein
+Hafturlaub	NN	Hafturlaub
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Schwerverbrecher	NN	Schwerverbrecher
+.	$.	.
+</s>
+<s>
+Volksbefragung	NN	Volksbefragung
+?	$.	?
+</s>
+<s>
+ber	ADJA	ber
+Einf	NN	Einf
+?	$.	?
+</s>
+<s>
+hrung	NN	hrung
+der	ART	d
+Todesstrafe	NN	Todesstrafe
+bei	APPR	bei
+Kindesmord	NN	Kindesmord
+.	$.	.
+</s>
+<s>
+Verherrlichende	ADJA	verherrlichend
+Propaganda	NN	Propaganda
+von	APPR	von
+Rauschgift	NN	Rauschgift
+bestrafen	VVFIN	bestrafen
+.	$.	.
+</s>
+<s>
+Rauschgifthandel	NN	Rauschgifthandel
+an	APPR	an
+Schulen	NN	Schule
+und	KON	und
+Diskotheken	NN	Diskothek
+bek	NE	bek
+?	$.	?
+</s>
+<s>
+mpfen	NN	mpfen
+.	$.	.
+</s>
+<s>
+Endlich	ADV	endlich
+auch	ADV	auch
+vorbeugend	ADJD	vorbeugend
+handeln	VVFIN	handeln
+.	$.	.
+</s>
+<s>
+Lebensl	NE	Lebensl
+?	$.	?
+</s>
+<s>
+ngliche	ADJA	ngliche
+Einreisesperre	NN	Einreisesperre
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	NE	r
+ausl	NE	ausl
+?	$.	?
+</s>
+<s>
+ndische	ADJA	ndische
+Verbrecher	NN	Verbrecher
+.	$.	.
+</s>
+<s>
+Aggressive	ADJA	aggressiv
+ausl	NE	ausl
+?	$.	?
+</s>
+<s>
+ndische	ADJA	ndische
+Bettler-Banden	NN	Bettler-Banden
+stoppen	VVFIN	stoppen
+.	$.	.
+</s>
+<s>
+"	$(	"
+Graffiti"-	TRUNC	Graffiti"-
+und	KON	und
+Wandschmierereien	NN	Wandschmiererei
+eind	NN	eind
+?	$.	?
+</s>
+<s>
+mmen	NN	mmen
+.	$.	.
+</s>
+<s>
+Endlich	ADV	endlich
+mehr	PIAT	mehr
+staatliche	ADJA	staatlich
+Hilfen	NN	Hilfe
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Verbrechensopfer	NN	Verbrechensopfer
+.	$.	.
+</s>
+<s>
+Gewalt	NN	Gewalt
+jedweder	PIAT	jedwed
+Form	NN	Form
+rigoros	ADJD	rigoros
+entgegentreten	VVINF	entgegentreten
+.	$.	.
+</s>
+<s>
+DVU	NE	DVU
+:	$.	:
+</s>
+<s>
+F	NN	F
+?	$.	?
+</s>
+<s>
+R	NN	R
+DEUTSCHE	NN	Deutsche
+INTERESSEN	NE	INTERESSEN
+Gleichberechtigung	NN	Gleichberechtigung
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	NE	r
+Deutschland	NE	Deutschland
+.	$.	.
+</s>
+<s>
+Dem	ART	d
+deutschen	ADJA	deutsch
+Volk	NN	Volk
+m	NN	m
+?	$.	?
+</s>
+<s>
+ssen	VVFIN	ssen
+die	ART	d
+gleichen	ADJA	gleich
+Rechte	NN	Recht|Rechte
+zustehen	VVINF	zustehen
+wie	KOKOM	wie
+allen	PIAT	alle
+anderen	ADJA	ander
+V	NN	V
+?	$.	?
+</s>
+<s>
+lkern	NN	lkern
+auch	ADV	auch
+.	$.	.
+</s>
+<s>
+Zur	APPRART	zur
+?	$.	?
+</s>
+<s>
+ckweisung	NN	ckweisung
+von	APPR	von
+Kollektivschuld	NN	Kollektivschuld
+und	KON	und
+Kollektivverantwortung	NN	Kollektivverantwortung
+.	$.	.
+</s>
+<s>
+Wir	PPER	wir
+bedauern	VVFIN	bedauern
+zutiefst	ADV	zutiefst
+das	ART	d
+NS-Unrecht	NN	NS-Unrecht
+.	$.	.
+</s>
+<s>
+Ewige	ADJA	ewig
+Schuld-	TRUNC	Schuld-
+und	KON	und
+S	NN	S
+?	$.	?
+</s>
+<s>
+hnekampagnen	NN	hnekampagnen
+aber	ADV	aber
+sind	VAFIN	sein
+zu	PTKZU	zu
+stoppen	VVINF	stoppen
+!	$.	!
+</s>
+<s>
+Die	ART	d
+harte	ADJA	hart
+D-Mark	NN	D-Mark
+soll	VMFIN	sollen
+bleiben	VVINF	bleiben
+;	$.	;
+</s>
+<s>
+kein	PIAT	kein
+weiches	ADJA	weich
+"	$(	"
+Euro"-Geld	NN	Euro"-Geld
+.	$.	.
+</s>
+<s>
+Politiker	NN	Politiker
+m	NN	m
+?	$.	?
+</s>
+<s>
+ssen	VVFIN	ssen
+endlich	ADV	endlich
+den	ART	d
+Volkswillen	NN	Volkswille
+beachten	VVINF	beachten
+.	$.	.
+</s>
+<s>
+W	NN	W
+?	$.	?
+</s>
+<s>
+hrungssouver	NN	hrungssouver
+?	$.	?
+</s>
+<s>
+nit	ADJD	nit
+?	$.	?
+</s>
+<s>
+t	NN	t
+erhalten	VVPP	erhalten
+.	$.	.
+</s>
+<s>
+Senkung	NN	Senkung
+der	ART	d
+deutschen	ADJA	deutsch
+Milliardenleistungen	NN	Milliardenleistungen
+an	APPR	an
+die	ART	d
+EU	NE	EU
+;	$.	;
+</s>
+<s>
+Gegenleistungen	NN	Gegenleistung
+durchsetzen	VVFIN	durchsetzen
+.	$.	.
+</s>
+<s>
+Gegen	APPR	gegen
+Aush	NE	Aush
+?	$.	?
+</s>
+<s>
+hlung	NN	hlung
+deutscher	ADJA	deutsch
+Schutzrechte	NN	Schutzrecht
+durch	APPR	durch
+die	ART	d
+EU	NE	EU
+(	$(	(
+Lebensmittel	NN	Lebensmittel
+,	$,	,
+Umwelt	NN	Umwelt
+,	$,	,
+Soziales	NN	Soziale
+usw.	ADV	usw.
+)	$(	)
+DVU	NE	DVU
+:	$.	:
+</s>
+<s>
+F	NN	F
+?	$.	?
+</s>
+<s>
+R	NN	R
+DEMOKRATIE	NN	Demokratie
+,	$,	,
+GEGEN	ADJD	GEGEN
+PARTEIENDIKTATUR	NN	Parteiendiktatur
+Korrupte	ADJA	korrupt
+Politiker	NN	Politiker
+wie	KOKOM	wie
+Bankr	NN	Bankr
+?	$.	?
+</s>
+<s>
+uber	ADJD	uber
+bestrafen	VVFIN	bestrafen
+.	$.	.
+</s>
+<s>
+Steuergeldverschwendung	NN	Steuergeldverschwendung
+und	KON	und
+Vergeudung	NN	Vergeudung
+?	$.	?
+</s>
+<s>
+ffentlicher	NN	ffentlicher
+Mittel	NN	Mittel
+konsequent	ADJD	konsequent
+ahnden	VVFIN	ahnden
+.	$.	.
+</s>
+<s>
+Staatliche	ADJA	staatlich
+Parteienfinanzierung	NN	Parteienfinanzierung
+abschaffen	VVFIN	abschaffen
+.	$.	.
+</s>
+<s>
+Senkung	NN	Senkung
+aller	PIAT	alle
+Politikereink	NN	Politikereink
+?	$.	?
+</s>
+<s>
+nfte	VVFIN	nfte
+.	$.	.
+</s>
+<s>
+Wuchern	NN	Wuchern
+der	ART	d
+B	NN	B
+?	$.	?
+</s>
+<s>
+rokratie	NN	rokratie
+bek	NE	bek
+?	$.	?
+</s>
+<s>
+mpfen	NN	mpfen
+.	$.	.
+</s>
+<s>
+Amtsankl	NN	Amtsankl
+?	$.	?
+</s>
+<s>
+ger	NE	Ger
+zur	APPRART	zur
+Bek	NE	Bek
+?	$.	?
+</s>
+<s>
+mpfung	NN	mpfung
+von	APPR	von
+Filz	NN	Filz
+und	KON	und
+Korruption	NN	Korruption
+in	APPR	in
+den	ART	d
+Verwaltungen	NN	Verwaltung
+einf	NE	einf
+?	$.	?
+</s>
+<s>
+hren	NN	hren
+.	$.	.
+</s>
+<s>
+Direkte	ADJA	direkt
+Demokratie	NN	Demokratie
+durch	APPR	durch
+Volksantr	NE	Volksantr
+?	$.	?
+</s>
+<s>
+ge	NN	ge
+und	KON	und
+Volksbefragungen	NN	Volksbefragung
+.	$.	.
+</s>
+<s>
+Erleichterte	ADJA	erleichtert
+M	NE	M
+?	$.	?
+</s>
+<s>
+glichkeiten	VVFIN	glichkeiten
+f	ADJD	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Volksentscheide	NN	Volksentscheid
+.	$.	.
+</s>
+<s>
+Petitionsrecht	NN	Petitionsrecht
+ausbauen	VVFIN	ausbauen
+,	$,	,
+damit	KOUS	damit
+B	NN	B
+?	$.	?
+</s>
+<s>
+rgerantr	NE	rgerantr
+?	$.	?
+</s>
+<s>
+ge	NE	ge
+im	APPRART	im
+Landtag	NN	Landtag
+behandelt	VVPP	behandeln
+werden	VAINF	werden
+m	NN	m
+?	$.	?
+</s>
+<s>
+ssen	VVFIN	ssen
+.	$.	.
+</s>
+<s>
+Ein	ART	eine
+B	NN	B
+?	$.	?
+</s>
+<s>
+rgerausschu	NE	rgerausschu
+?	$.	?
+</s>
+<s>
+soll	VMFIN	sollen
+Gesetze	NN	Gesetz
+,	$,	,
+Beh	NE	Beh
+?	$.	?
+</s>
+<s>
+rdenformulare	NN	rdenformulare
+usw.	ADV	usw.
+pr	NE	pr
+?	$.	?
+</s>
+<s>
+fen	ADJD	fen
+,	$,	,
+damit	KOUS	damit
+sie	PPER	sie
+allgemeinverst	ADJD	allgemeinverst
+?	$.	?
+</s>
+<s>
+ndlich	ADJD	ndlich
+sind	VAFIN	sein
+.	$.	.
+</s>
+<s>
+B	NE	B
+?	$.	?
+</s>
+<s>
+rgerberater	NN	rgerberater
+sollen	VMFIN	sollen
+kostenlos	ADJD	kostenlos
+bei	APPR	bei
+der	ART	d
+Durchsetzung	NN	Durchsetzung
+berechtigter	ADJA	berechtigt
+Anspr	NN	Anspr
+?	$.	?
+</s>
+<s>
+che	ADJD	che
+gegen	APPR	gegen
+die	ART	d
+B	NN	B
+?	$.	?
+</s>
+<s>
+rokratie	NN	rokratie
+helfen	VVFIN	helfen
+;	$.	;
+</s>
+<s>
+daf	NE	daf
+?	$.	?
+</s>
+<s>
+r	ADJD	r
+teuer	ADJD	teuer
+ausgebildete	ADJA	ausgebildet
+,	$,	,
+arbeitslose	ADJA	arbeitslos
+Juristen	NN	Jurist
+besch	NE	besch
+?	$.	?
+</s>
+<s>
+ftigen	NN	ftigen
+.	$.	.
+</s>
+<s>
+Meinungsfreiheit	NN	Meinungsfreiheit
+und	KON	und
+Gleichberechtigung	NN	Gleichberechtigung
+in	APPR	in
+Funk	NN	Funk
+und	KON	und
+Fernsehen	NN	Fernsehen
+.	$.	.
+</s>
+<s>
+Alle	PIAT	alle
+politischen	ADJA	politisch
+und	KON	und
+weltanschaulichen	ADJA	weltanschaulich
+Richtungen	NN	Richtung
+sollen	VMFIN	sollen
+zu	APPR	zu
+Wort	NN	Wort
+kommen	VVINF	kommen
+.	$.	.
+</s>
+<s>
+F	NN	F
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Direktwahl	NN	Direktwahl
+der	ART	d
+Rundfunkr	NN	Rundfunkr
+?	$.	?
+</s>
+<s>
+te	VVFIN	te
+.	$.	.
+</s>
+<s>
+Jugend	NN	Jugend
+ist	VAFIN	sein
+kein	PIAT	kein
+St	NE	St
+?	$.	?
+</s>
+<s>
+rfaktor	NN	rfaktor
+,	$,	,
+sondern	KON	sondern
+hat	VAFIN	haben
+die	ART	d
+Aufgabe	NN	Aufgabe
+,	$,	,
+?	$.	?
+</s>
+<s>
+berkommenes	ADJA	berkommenes
+in	APPR	in
+Frage	NN	Frage
+zu	PTKZU	zu
+stellen	VVINF	stellen
+.	$.	.
+</s>
+<s>
+Junge	ADJA	jung
+Menschen	NN	Mensch
+haben	VAFIN	haben
+Anspruch	NN	Anspruch
+auf	APPR	auf
+Toleranz	NN	Toleranz
+gegen	APPR	gegen
+?	$.	?
+</s>
+<s>
+ber	VVFIN	ber
+ihrem	PPOSAT	ihr
+Lebensstil	NN	Lebensstil
+und	KON	und
+von	APPR	von
+ihnen	PPER	sie
+-	$(	-
+im	APPRART	im
+Rahmen	NN	Rahmen
+der	ART	d
+Rechts-	TRUNC	Rechts-
+und	KON	und
+Verfassungsordnung	NN	Verfassungsordnung
+-	$(	-
+vertretenen	ADJA	vertreten
+Meinungen	NN	Meinung
+,	$,	,
+auch	ADV	auch
+wenn	KOUS	wenn
+sie	PPER	sie
+nicht	PTKNEG	nicht
+ins	APPRART	ins
+etablierte	ADJA	etabliert
+politische	ADJA	politisch
+Konzept	NN	Konzept
+passen	VVFIN	passen
+.	$.	.
+</s>
+<s>
+DVU	NE	DVU
+:	$.	:
+</s>
+<s>
+ENDLICH	ADV	endlich
+SOZIALE	NN	Soziale
+GERECHTIGKEIT	NE	GERECHTIGKEIT
+F	NN	F
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Senkung	NN	Senkung
+?	$.	?
+</s>
+<s>
+berh	NN	berh
+?	$.	?
+</s>
+<s>
+hter	NN	hter
+Steuern	NN	Steuer
+,	$,	,
+Abgaben	NN	Abgabe
+und	KON	und
+Geb	NE	Geb
+?	$.	?
+</s>
+<s>
+hren	NN	hren
+.	$.	.
+</s>
+<s>
+Steuergerechtigkeit	NN	Steuergerechtigkeit
+durchsetzen	VVFIN	durchsetzen
+.	$.	.
+</s>
+<s>
+Die	ART	d
+Mehrwertsteuer	NN	Mehrwertsteuer
+,	$,	,
+von	APPR	von
+der	ART	d
+Milliarden	NN	Milliarde
+an	APPR	an
+die	ART	d
+EU	NE	EU
+abgehen	VVFIN	abgehen
+,	$,	,
+ist	VAFIN	sein
+asozial	ADJD	asozial
+.	$.	.
+</s>
+<s>
+Kinderpa	NE	Kinderpa
+?	$.	?
+</s>
+<s>
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+kinderreiche	ADJA	kinderreich
+Familien	NN	Familie
+und	KON	und
+Alleinerziehende	ADJA	alleinerziehend
+(	$(	(
+kostenlose	ADJA	kostenlos
+Nutzung	NN	Nutzung
+aller	PIAT	alle
+staatlichen	ADJA	staatlich
+Einrichtungen	NN	Einrichtung
+)	$(	)
+.	$.	.
+</s>
+<s>
+Dasselbe	PDAT	dasselbe
+Recht	NN	Recht
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+alte	ADJA	alt
+Menschen	NN	Mensch
+in	APPR	in
+Not	NN	Not
+.	$.	.
+</s>
+<s>
+Massive	ADJA	massiv
+staatliche	ADJA	staatlich
+Hilfen	NN	Hilfe
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Schwangere	NN	Schwangre
+in	APPR	in
+Not	NN	Not
+.	$.	.
+</s>
+<s>
+Endlich	ADV	endlich
+ausreichendes	ADJA	ausreichend
+Kinder-	TRUNC	Kinder-
+und	KON	und
+Erziehungsgeld	NN	Erziehungsgeld
+.	$.	.
+</s>
+<s>
+Einf	NE	Einf
+?	$.	?
+</s>
+<s>
+hrung	NN	hrung
+eines	ART	ein
+M	NE	M
+?	$.	?
+</s>
+<s>
+ttergeldes	NN	ttergeldes
+:	$.	:
+</s>
+<s>
+Frauen	NN	Frau
+,	$,	,
+die	PRELS	d
+sich	PRF	er|es|sie
+voll	ADJD	voll
+der	ART	d
+Erziehung	NN	Erziehung
+ihrer	PPOSAT	ihr
+Kinder	NN	Kind
+widmen	VVFIN	widmen
+m	NN	m
+?	$.	?
+</s>
+<s>
+chten	ADJD	chten
+,	$,	,
+erhalten	VVFIN	erhalten
+100	CARD	100
+Mark	NN	Mark
+monatlich	ADJD	monatlich
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	VVFIN	r
+jedes	PIAT	jed
+Kind	NN	Kind
+bis	KON	bis
+zum	APPRART	zum
+14.	ADJA	14.
+Lebensjahr	NN	Lebensjahr
+.	$.	.
+</s>
+<s>
+Schlu	NE	Schlu
+?	$.	?
+</s>
+<s>
+mit	APPR	mit
+dem	ART	d
+rigorosen	ADJA	rigoros
+Abau	NE	Abau
+von	APPR	von
+Kindertagesst	NN	Kindertagesst
+?	$.	?
+</s>
+<s>
+tten	VVFIN	tten
+.	$.	.
+</s>
+<s>
+Sinnvolle	ADJA	sinnvoll
+Freizeitangebote	NN	Freizeitangebot
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Kinder	NN	Kind
+und	KON	und
+Jugendliche	NN	Jugendliche
+.	$.	.
+</s>
+<s>
+Verst	NN	Verst
+?	$.	?
+</s>
+<s>
+rkte	ADJA	rkte
+kindgerechte	ADJA	kindgerecht
+Angebote	NN	Angebot
+in	APPR	in
+Museen	NN	Museum
+,	$,	,
+Sportvereinen	NN	Sportverein
+und	KON	und
+Theatern	NN	Theater
+.	$.	.
+</s>
+<s>
+Schulklassen	NN	Schulklasse
+und	KON	und
+Kinderg	NN	Kinderg
+?	$.	?
+</s>
+<s>
+rten	ADJD	rten
+vor	PTKVZ	vor
+?	$.	?
+</s>
+<s>
+berfremdung	NN	berfremdung
+sch	VVPP	sch
+?	$.	?
+</s>
+<s>
+tzen	ADJA	tzen
+,	$,	,
+keine	PIAT	kein
+Benachteiligung	NN	Benachteiligung
+deutscher	ADJA	deutsch
+Kinder	NN	Kind
+.	$.	.
+</s>
+<s>
+Gegen	APPR	gegen
+angeblich	ADJD	angeblich
+"	$(	"
+fortschrittliche	ADJA	fortschrittlich
+"	$(	"
+Schulexperimente	NN	Schulexperimente
+auf	APPR	auf
+dem	ART	d
+R	NN	R
+?	$.	?
+</s>
+<s>
+cken	NN	cken
+unserer	PPOSAT	unser
+Kinder	NN	Kind
+.	$.	.
+</s>
+<s>
+Pflichtfach	NN	Pflichtfach
+Gesundheitserziehung	NN	Gesundheitserziehung
+an	APPR	an
+den	ART	d
+Schulen	NN	Schule
+;	$.	;
+</s>
+<s>
+daf	NE	daf
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+arbeitslose	ADJA	arbeitslos
+?	$.	?
+</s>
+<s>
+rzte	ADJD	rzte
+einsetzen	VVFIN	einsetzen
+.	$.	.
+</s>
+<s>
+Ausreichende	ADJA	ausreichend
+Mindestrente	NN	Mindestrente
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Rentnerinnen	NN	Rentnerin
+und	KON	und
+Rentner	NN	Rentner
+,	$,	,
+die	PRELS	d
+schuldlos	ADJD	schuldlos
+in	APPR	in
+Not	NN	Not
+geraten	VVPP	geraten|raten
+sind	VAFIN	sein
+.	$.	.
+</s>
+<s>
+Schlu	NE	Schlu
+?	$.	?
+</s>
+<s>
+mit	APPR	mit
+der	ART	d
+Zweckentfremdung	NN	Zweckentfremdung
+von	APPR	von
+Geldern	NN	Geld
+der	ART	d
+Rentenkasse	NN	Rentenkasse
+.	$.	.
+</s>
+<s>
+Statt	APPR	statt
+Verringerung	NN	Verringerung
+der	ART	d
+Leistungen	NN	Leistung
+im	APPRART	im
+Gesundheitswesen	NN	Gesundheitswesen
+:	$.	:
+</s>
+<s>
+Kampf	NN	Kampf
+der	ART	d
+Kostenexplosion	NN	Kostenexplosion
+durch	APPR	durch
+Aufkl	NN	Aufkl
+?	$.	?
+</s>
+<s>
+rung	NN	rung
+und	KON	und
+Vorbeugung	NN	Vorbeugung
+.	$.	.
+</s>
+<s>
+Unsoziale	ADJA	unsozial
+Zuzahlung	NN	Zuzahlung
+bei	APPR	bei
+Medikamenten	NN	Medikament
+,	$,	,
+Zahnersatz	NN	Zahnersatz
+,	$,	,
+Kuren	NN	Kur
+usw.	ADV	usw.
+stoppen	VVFIN	stoppen
+.	$.	.
+</s>
+<s>
+Schlu	NE	Schlu
+?	$.	?
+</s>
+<s>
+mit	APPR	mit
+dem	ART	d
+Skandal	NN	Skandal
+,	$,	,
+da	ADV	da
+?	$.	?
+</s>
+<s>
+?	$.	?
+rztliche	ADJA	rztliche
+Leistungen	NN	Leistung
+bei	APPR	bei
+normalen	ADJA	normal
+Kassenpatienten	NN	Kassenpatient
+immer	ADV	immer
+weiter	ADV	weiter
+eingeschr	VVPP	eingeschr
+?	$.	?
+</s>
+<s>
+nkt	ADJD	nkt
+werden	VAFIN	werden
+.	$.	.
+</s>
+<s>
+Abbau	NN	Abbau
+staatlicher	ADJA	staatlich
+Leistungen	NN	Leistung
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+"	$(	"
+Gesundheitstourismus	NN	Gesundheitstourismus
+"	$(	"
+(	$(	(
+mittellose	ADJA	mittellos
+Ausl	NN	Ausl
+?	$.	?
+</s>
+<s>
+nder	ADJD	nder
+reisen	VVFIN	reisen
+ein	PTKVZ	ein
+,	$,	,
+um	KOUI	um
+sich	PRF	er|es|sie
+kurieren	VVINF	kurieren
+zu	PTKZU	zu
+lassen	VVINF	lassen
+,	$,	,
+w	VVFIN	w
+?	$.	?
+</s>
+<s>
+hrend	ADJD	hrend
+die	ART	d
+Versorgung	NN	Versorgung
+der	ART	d
+Einheimischen	NN	Einheimische
+immer	ADV	immer
+weniger	PIAT	wenig
+gew	NN	gew
+?	$.	?
+</s>
+<s>
+hrleistet	VVPP	hrleistet
+ist	VAFIN	sein
+)	$(	)
+.	$.	.
+</s>
+<s>
+Drastische	ADJA	drastisch
+Erh	NN	Erh
+?	$.	?
+</s>
+<s>
+hung	NN	hung
+f	VVPP	f
+?	$.	?
+</s>
+<s>
+r	VVFIN	r
+die	ART	d
+Forschung	NN	Forschung
+zur	APPRART	zur
+Krankheitsbek	NE	Krankheitsbek
+?	$.	?
+</s>
+<s>
+mpfung	NN	mpfung
+.	$.	.
+</s>
+<s>
+Sofortiges	ADJA	sofortig
+Notprogramm	NN	Notprogramm
+gegen	APPR	gegen
+Obdachlosigkeit	NN	Obdachlosigkeit
+und	KON	und
+Verarmung	NN	Verarmung
+.	$.	.
+</s>
+<s>
+WEITERE	ADJA	weit
+FORDERUNGEN	NN	Forderung
+DER	NE	DER
+DVU	NE	DVU
+F	NN	F
+?	$.	?
+</s>
+<s>
+r	NE	r
+gr	NE	gr
+?	$.	?
+</s>
+<s>
+?tm	NE	?tm
+?	$.	?
+</s>
+<s>
+glichen	VVFIN	gleichen
+Zivil-	TRUNC	Zivil-
+und	KON	und
+Katastrophenschutz	NN	Katastrophenschutz
+.	$.	.
+</s>
+<s>
+Strenge	NN	Strenge
+Pr	NE	Pr
+?	$.	?
+</s>
+<s>
+fung	NN	fung
+von	APPR	von
+Zureisenden	NN	Zureisende
+aus	APPR	aus
+Seuchengebieten	NN	Seuchengebieten
+der	ART	d
+Erde	NN	Erde
+.	$.	.
+</s>
+<s>
+Mehr	PIAT	mehr
+F	NN	F
+?	$.	?
+</s>
+<s>
+rderung	NN	rderung
+f	VVPP	f
+?	$.	?
+</s>
+<s>
+r	VVFIN	r
+den	ART	d
+Breitensport	NN	Breitensport
+und	KON	und
+auch	ADV	auch
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	VVFIN	r
+den	ART	d
+Leistungssport	NN	Leistungssport
+.	$.	.
+</s>
+<s>
+Traditionsvereine	NN	Traditionsverein
+sind	VAFIN	sein
+zu	PTKZU	zu
+erhalten	VVINF	erhalten
+und	KON	und
+zu	PTKZU	zu
+st	VVINF	st
+?	$.	?
+</s>
+<s>
+rken	VVFIN	rken
+.	$.	.
+</s>
+<s>
+Kein	PIAT	kein
+Steuergeld	NN	Steuergeld
+mehr	ADV	mehr
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+Schmutz	NN	Schmutz
+und	KON	und
+Schund	NN	Schund
+,	$,	,
+z.	APPRART	z.
+B.	NN	B.
+auf	PTKVZ	auf
+?	$.	?
+</s>
+<s>
+ffentlichen	NN	ffentlichen
+Theaterb	NN	Theaterb
+?	$.	?
+</s>
+<s>
+hnen	NN	hnen
+.	$.	.
+</s>
+<s>
+Schutz	NN	Schutz
+der	ART	d
+deutschen	ADJA	deutsch
+Sprache	NN	Sprache
+vor	APPR	vor
+Anglizismen	NN	Anglizismus
+und	KON	und
+sonstiger	ADJA	sonstig
+Entstellung	NN	Entstellung
+.	$.	.
+</s>
+<s>
+Schutz	NN	Schutz
+der	ART	d
+Kinder	NN	Kind
+vor	APPR	vor
+Porno	TRUNC	Porno
+und	KON	und
+Gewaltverherrlichung	NN	Gewaltverherrlichung
+.	$.	.
+</s>
+<s>
+Schutz	NN	Schutz
+der	ART	d
+Tiere	NN	Tier
+vor	APPR	vor
+qu	NE	Qu
+?	$.	?
+</s>
+<s>
+lender	ADJA	lender
+Massenhaltung	NN	Massenhaltung
+;	$.	;
+</s>
+<s>
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	ADJA	r
+artgerechte	ADJA	artgerecht
+Tierhaltung	NN	Tierhaltung
+.	$.	.
+</s>
+<s>
+Verbot	NN	Verbot
+von	APPR	von
+Schlachttransporten	NN	Schlachttransporten
+?	$.	?
+</s>
+<s>
+ber	VVFIN	ber
+mehr	ADV	mehr
+als	KOKOM	als
+200	CARD	200
+Stra	NN	Stra
+?	$.	?
+</s>
+<s>
+enkilometer	NN	enkilometer
+.	$.	.
+</s>
+<s>
+Anstrengungen	NN	Anstrengung
+unternehmen	VVFIN	unternehmen
+,	$,	,
+da	ADV	da
+?	$.	?
+</s>
+<s>
+auf	APPR	auf
+Tierversuche	NN	Tierversuch
+m	NN	m
+?	$.	?
+</s>
+<s>
+glichst	VVFIN	glichst
+ganz	ADV	ganz
+verzichtet	VVPP	verzichten
+werden	VAFIN	werden
+kann.	NE	kann.
+.	$.	.
+</s>
+<s>
+Tierschutz	NN	Tierschutz
+mu	NE	Mu
+?	$.	?
+</s>
+<s>
+Verfassungsrang	NN	Verfassungsrang
+haben	VAFIN	haben
+.	$.	.
+</s>
+<s>
+Umweltverschmutzung	NN	Umweltverschmutzung
+bek	NE	bek
+?	$.	?
+</s>
+<s>
+mpfen	NN	mpfen
+,	$,	,
+Verursacherprinzip	NN	Verursacherprinzip
+bei	APPR	bei
+der	ART	d
+Ahndung	NN	Ahndung
+durchsetzen	VVFIN	durchsetzen
+.	$.	.
+</s>
+<s>
+Mehr	PIAT	mehr
+F	NN	F
+?	$.	?
+</s>
+<s>
+rderung	NN	rderung
+alternativer	ADJA	alternativ
+Energiequellen	NN	Energiequelle
+.	$.	.
+</s>
+<s>
+Verst	NN	Verst
+?	$.	?
+</s>
+<s>
+rkte	ADJA	rkte
+F	NN	F
+?	$.	?
+</s>
+<s>
+rderung	NN	rderung
+der	ART	d
+Sonnen-	TRUNC	Sonnen-
+,	$,	,
+Wind-	TRUNC	Wind-
+und	KON	und
+Wasserkraft	NN	Wasserkraft
+und	KON	und
+der	ART	d
+Verwendung	NN	Verwendung
+von	APPR	von
+Biomasse	NN	Biomasse
+zur	APPRART	zur
+Energiegewinnung	NN	Energiegewinnung
+im	APPRART	im
+umweltpolitischen	ADJA	umweltpolitisch
+Rahmen	NN	Rahmen
+.	$.	.
+</s>
+<s>
+B	NE	B
+?	$.	?
+</s>
+<s>
+rger	ADJD	rger
+,	$,	,
+die	PRELS	d
+auf	APPR	auf
+das	ART	d
+Auto	NN	Auto
+angewiesen	VVPP	anweisen
+sind	VAFIN	sein
+,	$,	,
+nicht	PTKNEG	nicht
+mehr	PIAT	mehr
+l	NN	l
+?	$.	?
+</s>
+<s>
+nger	ADJD	nger
+als	KOKOM	als
+S	NN	S
+?	$.	?
+</s>
+<s>
+ndenb	VVFIN	ndenb
+?	$.	?
+</s>
+<s>
+cke	NN	cke
+abstempeln	VVINF	abstempeln
+und	KON	und
+?	$.	?
+</s>
+<s>
+berm	NE	berm
+?	$.	?
+</s>
+<s>
+?ig	ADJD	?ig
+zur	APPRART	zur
+Kasse	NN	Kasse
+bitten	VVINF	bitten
+.	$.	.
+</s>
+<s>
+Erhebung	NN	Erhebung
+von	APPR	von
+Stra	NN	Stra
+?	$.	?
+</s>
+<s>
+engeb	NE	engeb
+?	$.	?
+</s>
+<s>
+hren	NN	hren
+f	VVPP	f
+?	$.	?
+</s>
+<s>
+r	NE	r
+Transit-Ausl	NE	Transit-Ausl
+?	$.	?
+</s>
+<s>
+nder	VVFIN	nder
+;	$.	;
+</s>
+<s>
+aus	APPR	aus
+diesen	PDAT	dies
+Mitteln	NN	Mittel|Mitteln
+verbesserte	VVFIN	verbessern
+?	$.	?
+</s>
+<s>
+ffentliche	NN	ffentliche
+Verkehrspolitik	NN	Verkehrspolitik
+f	VVFIN	f
+?	$.	?
+</s>
+<s>
+r	VVFIN	r
+die	ART	d
+Einheimischen	NN	Einheimische
+,	$,	,
+insbesondere	ADV	insbesondere
+beim	APPRART	beim
+?	$.	?
+</s>
+<s>
+ffentlichen	NN	ffentlichen
+Personalverkehr	NN	Personalverkehr
+und	KON	und
+den	ART	d
+interregionalen	ADJA	interregionalen
+Zugverbindungen	NN	Zugverbindung
+.	$.	.
+</s>
+<s>
+Scharfe	ADJA	scharf
+Verurteilung	NN	Verurteilung
+der	ART	d
+Parole	NN	Parole
+"	$(	"
+Soldaten	NN	Soldat
+sind	VAFIN	sein
+M	NE	M
+?	$.	?
+</s>
+<s>
+rder	VVFIN	rder
+!	$.	!
+</s>
+<s>
+"	$(	"
+Erhalt	NN	Erhalt
+des	ART	d
+deutschen	ADJA	deutsch
+Kulturerbes	NN	Kulturerbe
+.	$.	.
+</s>
+<s>
+Kahlschlagpolitik	NN	Kahlschlagpolitik
+stoppen	VVFIN	stoppen
+.	$.	.
+</s>
+<s>
+?	$.	?
+ffentliche	NN	ffentliche
+?	$.	?
+</s>
+<s>
+mter	NN	mter
+nicht	PTKNEG	nicht
+nach	APPR	nach
+Parteibuch	NN	Parteibuch
+,	$,	,
+sondern	KON	sondern
+nach	APPR	nach
+fachlichen	ADJA	fachlich
+F	NN	F
+?	$.	?
+</s>
+<s>
+higkeiten	NN	higkeiten
+vergeben	VVFIN	vergeben
+.	$.	.
+</s>
+<s>
+Kein	PIAT	kein
+Gesinnungsstrafrecht	NN	Gesinnungsstrafrecht
+:	$.	:
+</s>
+<s>
+Volles	ADJA	voll
+Recht	NN	Recht
+auf	APPR	auf
+Meinungs-	TRUNC	Meinungs-
+und	KON	und
+Versammlungsfreiheit	NN	Versammlungsfreiheit
+.	$.	.
+</s>
+<s>
+Die	ART	d
+DVU	NE	DVU
+versteht	VVFIN	verstehen
+sich	PRF	er|es|sie
+als	KOKOM	als
+Anwalt	NN	Anwalt
+der	ART	d
+von	APPR	von
+Bonn	NE	Bonn
+verratenen	ADJA	verraten
+B	NN	B
+?	$.	?
+</s>
+<s>
+rger	VVFIN	rger
+.	$.	.
+</s>
+<s>
+Die	ART	d
+DEUTSCHE	NN	Deutsche
+VOLKSUNION	NN	Volksunion
+lehnt	VVFIN	lehnen
+jede	PIAT	jed
+Form	NN	Form
+der	ART	d
+Gewalt	NN	Gewalt
+sowie	KON	sowie
+bereits	ADV	bereits
+die	ART	d
+Androhung	NN	Androhung
+von	APPR	von
+Straftaten	NN	Straftat
+leidenschaftlich	ADJD	leidenschaftlich
+ab	PTKVZ	ab
+.	$.	.
+</s>
+<s>
+Sie	PPER	Sie|sie
+strebt	VVFIN	streben
+das	ART	d
+friedliche	ADJA	friedlich
+Miteinander	NN	Miteinander
+mit	APPR	mit
+hier	ADV	hier
+lebenden	ADJA	lebend
+anst	NN	anst
+?	$.	?
+</s>
+<s>
+ndigen	ADJA	ndigen
+und	KON	und
+rechtstreuen	ADJA	rechtstreu
+Ausl	NN	Ausl
+?	$.	?
+</s>
+<s>
+nder	ADJD	nder
+an	PTKVZ	an
+.	$.	.
+</s>
+<s>
+Demokratischer	ADJA	demokratisch
+Protest	NN	Protest
+gegen	APPR	gegen
+Mi	FM	Mi
+?	$.	?
+</s>
+<s>
+st	VVFIN	st
+?	$.	?
+</s>
+<s>
+nde	ADJD	nde
+hat	VAFIN	haben
+sich	PRF	er|es|sie
+an	APPR	an
+die	ART	d
+Adresse	NN	Adresse
+herrschender	ADJA	herrschend
+Politiker	NN	Politiker
+zu	PTKZU	zu
+richten	VVINF	richten
+.	$.	.
+</s>
+<s>
+Volksvertreter	NN	Volksvertreter
+m	NN	m
+?	$.	?
+</s>
+<s>
+ssen	VVFIN	ssen
+endlich	ADV	endlich
+R	NN	R
+?	$.	?
+</s>
+<s>
+cksicht	NN	cksicht
+auf	APPR	auf
+den	ART	d
+Volkswillen	NN	Volkswille
+nehmen	VVFIN	nehmen
+.	$.	.
+</s>
+<s>
+F	NN	F
+?	$.	?
+</s>
+<s>
+r	VVFIN	r
+eine	ART	ein
+starke	ADJA	stark
+rechte	ADJA	recht
+Opposition	NN	Opposition
+im	APPRART	im
+Bundestag	NN	Bundestag
+.	$.	.
+</s>
+<s>
+Deutschland	NE	Deutschland
+braucht	VVFIN	brauchen
+die	ART	d
+DVU	NE	DVU
+.	$.	.
+</s>
+</body>
+</text>
+</corpus>
