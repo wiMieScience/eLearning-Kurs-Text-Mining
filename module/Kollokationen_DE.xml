@@ -21,8 +21,13 @@
                 <author>Yvonne Krämer</author>
             </authors>
             <libraries>
-                <library>kollokationen-bibliothek.xml</library>
+                <library>Kollokationen Bibliothek_DE.xml</library>
             </libraries>
+            <corpora>
+                <corpus id='DE_Parteiprogramme' type='collocation'>
+                    DE_Parteiprogramme
+                </corpus>
+            </corpora>
         </meta>
         <chapter id='lernziele' type="learningObjectives">
             <page>
@@ -44,7 +49,7 @@
                 <p>Der Begriff <term>Kollokation</term> geht auf <person name="Firth, John Rupert">J. R. Firth</person> (<bib id="Firth1957">1957</bib>) zurück, 
                     der damit charakteristische und <emph>häufig wiederkehrende Wortkombinationen</emph> bezeichnete. Er war der Ansicht, dass man anhand der Kollokatoren eines Wortes, 
                     dessen Bedeutung und Verwendungsweise veranschaulichen kann. </p>
-                    <img src="http://de.wikipedia.org/wiki/John_Rupert_Firth#mediaviewer/Datei:John_Rupert_Firth.png">John Rupert Firth</img><!-- Foto sollte idealerweise neben dem Text erscheinen-->
+                <img src="http://www.angela.senis.org/local/cache-vignettes/L224xH320/Firth_WinCE_-191b3.jpg">John Rupert Firth</img><!-- Foto sollte idealerweise neben dem Text erscheinen-->
                 <details>
                 <p>Ein Kollokator ist ein Element, also ein einzelnes Wort einer Wortverbindung bzw. Kollokation.</p>
                 </details>
@@ -1286,11 +1291,11 @@
                                 sich die jeweiligen Kollokatoren zuordnen?</li>
                         </list>
                     </ctext>
-                    <corpus src="kollokation-corpus.xml" type="kollokation">
+                    <collocation href="DE_Parteiprogramme">
                         <range from="-5" to="5" standard="1" />
                         <frequence collocate="enable" node="enable" />
                         <statistic chi="" frequence="" llr="" />
-                    </corpus>
+                    </collocation>
                 </exercise>
                 <h2>Konkrete Aufgaben</h2>
                 <exercise>
@@ -1326,11 +1331,11 @@
                                 um diese Frage zu beantworten.  </li>
                         </list> 
                     </ctext>
-                    <corpus src="kollokation-corpus.xml" type="kollokation" >
+                    <collocation href="DE_Parteiprogramme">
                         <range from="-5" to="5" standard="1" />
                         <frequence collocate="enable" node="enable" />
                         <statistic chi="" frequence="" llr="" />
-                    </corpus>
+                    </collocation>
                 </exercise>
             </page>
         </chapter>
