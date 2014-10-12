@@ -21,8 +21,13 @@
                 <author>Yvonne Krämer</author>
             </authors>
             <libraries>
-                <library>kollokationen-bibliothek.xml</library>
+                <library>Collocations-Library_EN.xml</library>
             </libraries>
+            <corpora>
+                <corpus id='US_Inaugural_Speeches' type='collocation'>
+                    US_Inaugural_Speeches
+                </corpus>
+            </corpora>
          </meta>
         <chapter id='Learning Objectives' type="learningObjective">
             <page>
@@ -248,7 +253,7 @@
                 <h2 id="Collocation Analysis">Collocation Analysis</h2>
                 <p>By means of a collocation analysis &#8211; sometimes also referred to as co-occurrence analysis in secondary literature &#8211; the <emph>most significant collocates</emph> of a <emph>chosen node</emph> are identified <emph>by applying statistical methods</emph>.
 For this purpose, <emph>parameters</emph> have to be set and a <emph>significance measure</emph> has to be chosen. </p>
-<details>                
+<details>
                 <p>They form the basis of the calculations and can reflect different perspectives on the corpus. That is why they should be adapted to the respective research question or objective.</p>
                 </details>
                 <p>As a result of the collocation analysis, the collocation profile of the node will be displayed.</p>
@@ -868,11 +873,11 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                             <li type="exercise">Find out what you can learn about an arbitrarily selected word by means of a collocation analysis. </li>
                         </list>
                     </ctext>
-                    <corpus src="kollokation-corpus.xml" type="kollokation">
+                    <collocation href="US_Inaugural_Speeches">
                         <range from="-5" to="5" standard="1" />
                         <frequence collocate="enable" node="enable" />
                         <statistic chi="" frequence="" llr="" />
-                    </corpus>
+                    </collocation>
                 </exercise>
                 <h2>Concrete Tasks</h2>
                 <exercise>
@@ -885,11 +890,11 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                             <li>According to the Oxford Dictionary, "data" is originally a plural noun, which is nowadays treated as a mass noun as well. Hence, both forms "(the) data is" and "(the) data are" are used and widely accepted. Now, which expression is more common? Outline which approaches and search queries are feasible to answer this question.</li>
                         </list> 
                     </ctext>
-                    <corpus src="kollokation-corpus.xml" type="kollokation" >
+                    <collocation href="US_Inaugural_Speeches">
                         <range from="-5" to="5" standard="1" />
                         <frequence collocate="enable" node="enable" />
                         <statistic chi="" frequence="" llr="" />
-                    </corpus>
+                    </collocation>
                 </exercise>
             </page>
         </chapter>

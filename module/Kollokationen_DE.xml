@@ -21,7 +21,7 @@
                 <author>Yvonne Krämer</author>
             </authors>
             <libraries>
-                <library>Kollokationen Bibliothek_DE.xml</library>
+                <library>Kollokationen-Bibliothek_DE.xml</library>
             </libraries>
             <corpora>
                 <corpus id='DE_Parteiprogramme' type='collocation'>
