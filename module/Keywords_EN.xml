@@ -23,6 +23,10 @@
             <libraries>
                 <library>Keywords-Bibliothek.xml</library>
             </libraries>
+            <corpora>
+                <corpus id="" type="keywords">
+                </corpus>
+            </corpora>
          </meta>
         <chapter id='Learning Objectives' type="learningObjective">
             <page>
@@ -43,13 +47,16 @@
                 <p>"The term 'keyword' is widely used to refer to words which are important in some way [...]. The general idea is perhaps clear enough, but [...] there are several different concepts of 'keywords'." (<bib id="Bondi2010b"><person name="Stubbs, Michael">Stubbs</person> 2010: 21</bib>).</p>
                 <p>The term <kursiv>keyword</kursiv> is thus an ambiguous word. </p>
                 <details>
-                <kursiv>Ambiguous</kursiv> means that a word can be understood in more than one way. 
+                    <p>
+                        <kursiv>Ambiguous</kursiv> means that a word can be understood in more than one way. 
+                    </p>
                 </details>
                 <p>On the one hand it can simply be interpreted as a <emph>search word</emph> which shall be found in the corpus when running a corresponding query. The results of such a search for a certain word are usually presented as <emph>concordances</emph>. This is a <emph>typical display format</emph> of corpus analysis tools showing all passages which contain the keyword. It generally appears in the center and is typographically highlighted.</p>
                 <p>On the other hand, the term can also refer to <emph>catchwords or key-words</emph> which are computed by comparing two corpora and which are displayed as a list. This way one can find out which words are <emph>distinctive of a corpus</emph> or also of a text.</p>
-                <details>
+                <details><p>
                 There exists "[...] a long tradition of German-language work on the use of Schlüsselwörter (= keywords) [...] [which] is variously called Schlagwortforschung (= ’research on catch phrases’) [...]" (<bib id="Bondi2010b"><person name="Stubbs, Michael">Stubbs</person> 2010: 23</bib>). In this research area, terms and phrases are investigated which have been in the focus of public interest for a certain period of time and which express programs, ideas or issues and the related opinions in a condensed form.
-                </details>
+            </p>
+            </details>
             </page>
             <page>
             <h2 id="Concordances">Concordances</h2>
@@ -79,7 +86,7 @@
             <p>"Words which are significantly more frequent in one corpus than another are sometimes known as keywords." (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person>2002: 68</bib>)</p>
             <p>Usually, keywords are calculated by <emph>comparing two corpora</emph>, with the <emph>significance</emph> of the words being a decisive criterion. Hence, the calculation of keywords is based on a <emph>statistical measure</emph>, which is in most cases the log-likelihood ratio. </p>
             <p>The result of such a comparison is a so-called <emph>keyword list</emph>, which shows the <emph>typical vocabulary of the respective corpus</emph> and may therefore reflect its topic(s) or characteristics in a concise manner. It is also possible to create such lists based on individual texts. Comparing the significantly most frequent keywords of texts or corpora allows the identification of differences between them. Furthermore, keyword lists can serve as a starting point for the analysis of technical texts or corpora, because <emph>specific technical terms</emph> emerge when comparing a specialized and a general corpus</p>
-            <details>"Certain words characterise individual texts (such as Romeo and Juliet), as well as text-types and intellectual areas (such as medicine [...])." (<bib id="Bondi2010b"><person name="Stubbs, Michael">Stubbs</person> 2010: 25</bib>)</details>
+            <details><p>"Certain words characterise individual texts (such as Romeo and Juliet), as well as text-types and intellectual areas (such as medicine [...])." (<bib id="Bondi2010b"><person name="Stubbs, Michael">Stubbs</person> 2010: 25</bib>)</p></details>
             <p>Depending on the analysis program, keyword lists can be sorted in such a way that the words to the right or to the left of the keyword are in alphabetical order as well as by frequency or <term>keyness</term> of the keyword.</p>
             <p>A common method to identify typical lexemes or phrases in a focus or study corpus compared to a reference corpus is the so-called <term>keyness</term> approach (cf. <bib id="Scott2006"><person name="Scott, Mike">Scott</person>/<person name="Tribble, Christopher">Tribble</person>2006</bib>; <bib id="Bondi2010c"><person name="Bondi, Marina">Bondi</person>/<person name="Scott, Mike">Scott</person>2010</bib>). The keyness, that is to say the typicality of each n-gram in the study corpus is calculated in comparison to a reference corpus. Hence, what is meant by <term>keyness</term> is an association measure indicating whether a certain word occurs significantly more frequent in the study corpus than in the reference corpus. This measure is in wide use for finding keywords in a corpus and it is implemented in many corpus tools. (cf. <bib id="Bubenhofer_Noah"><person name="Bubenhofer, Noah">Bubenhofer</person> im Druck</bib>)</p>
             <details>
@@ -209,6 +216,7 @@
                 <page>
                 <h2 id="Frequency classes">Frequency classes</h2>
                 </page>
+        </chapter>
         <chapter id="">
             <page>
                 <h1></h1>
@@ -216,7 +224,7 @@
                 <details>
                 </details>
                 </page>
-                </chapter>
+        </chapter>
         <chapter id="training">
             <page>
                 <h1>Training</h1>
@@ -226,24 +234,24 @@
                         <list type="ordered" > 
                             <li>Identify the keywords of any party. Which subject areas and which linguistic categories can they be assigned to? Draw conclusions from your findings.</li>
                             <li>Identify the flag and stigma words of a party of your choice.</li>
-                            <details>
-                            <p>According to Hermanns (1982), political catchwords or keywords can be classified into different categories, depending on whether they are positive or negative and whether they are specific to a party or cross-party keywords.</p>
-<p>If the latter are evaluated positively by the whole of society referring to a desirable value, like freedom or peace, they are called Hochwertwörter (high-value words). If they are denoting something negative, which is rejected by society, like terrorism or war, they are called Unwertwörter (words of no value). </p>
-<p>In case the positive keywords are specific to a party, they are their Fahnenwörter (flag words), which express a certain position, program or the values of the party. 
-The negative keywords specific to a party are called stigma words. They are used to defame the opponent party and their program. </p>
-</details>
                             <li>Examine whether the keywords of any party include high-value words or word of no value. Try to put your findings in context.</li>
                             <li>Compare the keywords of two parties of your choice. What are the differences and are there also similarities? Explain your findings and try to put them in context.</li>
                             <li>Determine by analyzing and comparing different periods whether the characteristic vocabulary of any party has changed over time.</li>
                             <li>Subtask: Have only the nouns changed or other word forms as well? Why is that?</li>
                             <li>Identify the vocabulary which is specific to the text type of your study corpus. Describe your approach and elucidate your findings.</li>
                         </list> 
+                        <details>
+                            <p>According to Hermanns (1982), political catchwords or keywords can be classified into different categories, depending on whether they are positive or negative and whether they are specific to a party or cross-party keywords.</p>
+                            <p>If the latter are evaluated positively by the whole of society referring to a desirable value, like freedom or peace, they are called Hochwertwörter (high-value words). If they are denoting something negative, which is rejected by society, like terrorism or war, they are called Unwertwörter (words of no value). </p>
+                            <p>In case the positive keywords are specific to a party, they are their Fahnenwörter (flag words), which express a certain position, program or the values of the party. 
+                                The negative keywords specific to a party are called stigma words. They are used to defame the opponent party and their program. </p>
+                        </details>
                     </ctext>
-                    <corpus src="kollokation-corpus.xml" type="kollokation" >
+                    <keywords href="">
                         <range from="-5" to="5" standard="1" />
                         <frequence collocate="enable" node="enable" />
                         <statistic chi="" frequence="" llr="" />
-                    </corpus>
+                    </keywords>
                 </exercise>
             </page>
         </chapter>
