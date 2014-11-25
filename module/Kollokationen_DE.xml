@@ -142,7 +142,7 @@
                 <p type="example">Ein Beispiel für eine Kolligation ist "Antrag stellen".</p>
             </page>
             <page>
-                <h2>Referenzliteratur:</h2>
+                <h2 id="Referenzliteratur">Referenzliteratur:</h2>
                 <list>
                     <li>vgl. Belica </li>
                     <li>vgl. Biemann/Bordag/Quasthoff 2003</li>
@@ -154,7 +154,7 @@
                     <li>vgl. Steiner 2004: 38f.</li>
                     <li>vgl. Steyer 2004: 96-99</li>
                 </list>
-                <h3>Davon lohnenswerte Vertiefungsliteratur:</h3>
+                <h3>Lohnenswerte Vertiefungsliteratur:</h3>
                 <list>
                     <li>vgl. Evert 2009: 1212-1214</li>
                     <li>Perkuhn/Keibel/Kupietz 2012: 112f.</li>
@@ -338,7 +338,7 @@
             </page>
             <page>
                 <h1>Anwendungsmöglichkeiten</h1>
-                <h2 id="Wozu?">Wozu kann die Berechnung von Kollokationen dienen?</h2>
+                <h2 id="Wozu Kollokationen?">Wozu kann die Berechnung von Kollokationen dienen?</h2>
                 <list>
                     <li>Als Hinweis für die Anordnung bzw. Hierarchie von Lesarten eines sprachlichen Zeichens in einem Wörterbuchartikel.</li>
                     <li type="details">&#8594; Welches sind die gängigsten Bedeutungen des Lexems?</li>
@@ -359,7 +359,7 @@
                 <p>Kollokationsanalysen sind damit auch für die Lexikographie und Lexikologie, die Fremdsprachendidaktik, die Übersetzungswissenschaft und die Diskurslinguistik von besonderer Bedeutung.</p>
             </page>
             <page>
-                <h2>Referenzliteratur:</h2>
+                <h2 id="Referenzliteratur">Referenzliteratur:</h2>
                 <list>
                 <li>vgl. Heyer/Quasthoff/Wittig 2008: 154f.</li>
                     <li>vgl. Lemnitzer/Zinsmeister 2010: 144f.</li>
@@ -424,7 +424,7 @@
                 </p>
             </page>
             <page>
-                <h2>Referenzliteratur</h2>
+                <h2 id="Referenzliteratur">Referenzliteratur</h2>
                 <list>
                     <li><url href="http://www1.ids-mannheim.de/lexik/uwv.html"/></li>
                         <li><url href="http://www1.ids-mannheim.de/lexik/uwv/uwv.html"/></li>
@@ -482,7 +482,7 @@
         <chapter id="statistik">
             <page>
                 <h1>Ein bisschen Statistik</h1>
-                <img src="" >Auch das noch!</img>
+                <img src="" ></img>
                 <p>Statistische Berechnungen spielen eine wesentliche Rolle bei Kollokationsanalysen. Um die Analyseparameter einstellen und die Ergebnisse richtig interpretieren zu können, sollte man gewisse Grundkenntnisse in diesem Bereich erwerben.
                     In den bisherigen Aussagen über Kollokationen fielen bereits die mathematisch-statistischen Begriffe <term>überzufällig häufig </term>und <term>signifikant</term>. Zunächst soll geklärt werden, was genau man darunter versteht:</p>
             </page>
@@ -551,7 +551,7 @@
                 <p>Für die Berechnung der <emph>erwarteten Frequenz einer Wortverbindung</emph>, setzt man die <emph>Einzelfrequenzen der Kollokatoren in Relation zur Gesamtgröße des Korpus</emph>.
                     Man zählt also zunächst das Vorkommen (<quantity>f&#8321;</quantity>) von Wort <kursiv>a</kursiv> sowie das Vorkommen (<quantity>f&#8322;</quantity>) von Wort <kursiv>b</kursiv>.
                     In Bezug zur Gesamtzahl (<quantity>N</quantity>) an Worttoken im Korpus berechnet man die <emph>Expected Frequency</emph> (<quantity>E</quantity>) dann wie folgt: </p>
-                <p><quantity>E</quantity> = <quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity>  &#8725;  <quantity>N</quantity></p>
+                <p><quantity>E</quantity> = <sup><quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity></sup>&frasl;<sub><quantity>N</quantity></sub></p>
                 <p><person name="Evert, Stefan">Evert</person> führt das Ganze etwas detaillierter an dem Beispiel der Kollokation <kursiv>is to</kursiv> aus, welche 260-mal im Brown Korpus vorkommt.
                     Der Kollokator <kursiv>is</kursiv> weist dabei eine Frequenz von etwa 10000 und <kursiv>to</kursiv> von 26000 pro 1 Million Worttoken auf. Bei einer zufälligen Verteilung der Wörter, würde man die Kollokation etwa 260-mal erwarten.
                     Da dies dem tatsächlichen Vorkommen entspricht, ist <kursiv>is to</kursiv> nicht als signifikant anzusehen. </p>
@@ -569,10 +569,11 @@
                 <p>Es liegt deshalb nahe, in einem zweiten Schritt ebenfalls eine Kontingenztabelle der erwarteten Werte zu erstellen. </p>
             </page>
             <page>
-                <p>Angelehnt an die Formel <quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity>  &#8725;  <quantity>N</quantity> zur Berechnung der erwarteten Frequenz einer Kollokation
+                <p>Angelehnt an die Formel <sup><quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity></sup>&frasl;<sub><quantity>N</quantity></sub> zur Berechnung der erwarteten Frequenz einer Kollokation
                     berechnen sich die anderen Felder wie folgt:</p><!-- HIER KONTINGENZTABELLE 3 EINFÜGEN-->
                 <details>
-                <p>Im Grunde rechnet man für jede Zelle "Reihensumme" &#8729; "Spaltensumme" &#8725; "Gesamtsumme aller Frequenzen".</p>
+                <p>Im Grunde rechnet man für jede Zelle <sup>"Reihensumme" &#8729; "Spaltensumme"</sup>&frasl;<sub>"Gesamtsumme aller Frequenzen"</sub>.
+                </p>
                 </details>
             </page>
             <page>
@@ -600,14 +601,14 @@
             <page>
                 <h3>Chi-Quadrat-Test</h3>
                 <p>Der Chi-Quadrat-Test, oder auch
-                    <quantity>&#967;&#178;</quantity>-Test misst im Grunde die
+                    &#967;&#178;-Test misst im Grunde die
                     Differenz zwischen den beobachteten und den erwarteten
                     Frequenzen und bezieht dabei
                     alle Werte der zuvor erstellten Kontingenztabellen ein. Für
-                    jede Zelle wird also [(O - E)&#178;] &#8725; E<!-- DURCH BRUCH ERSETZEN--> ermittelt
+                    jede Zelle wird also <sup>(O - E)&#178;</sup>&frasl;<sub>E</sub> ermittelt
                     und die jeweiligen Ergebnisse werden dann addiert.</p>
                 <p>Daraus ergibt sich die Formel
-                    <quantity>&#967;&#178;</quantity> = &#8721; [(O - E)&#178;] &#8725; E<!-- DURCH BRUCH ERSETZEN--></p>
+                    &#967;&#178; = &#8721; <sup>(O - E)&#178;</sup>&frasl;<sub>E</sub></p>
                 <p>"The essence of the test is to compare the observed
                     frequencies in the table with the frequencies expected for
                     independence. If the difference between observed and
@@ -618,16 +619,16 @@
                             Hinrich">Schütze</person> 2003: 168</bib>)</p>
                 <p>Um herauszufinden, ob der so berechnete Wert signifikant
                     ist, muss man eine Tabelle der kritischen Werte für
-                    <quantity>&#967;&#178;</quantity> zu Rate ziehen. Diese
+                    &#967;&#178; zu Rate ziehen. Diese
                     besagt für eine Vierfelder-Kontingenztabelle,
-                    dass <quantity>&#967;&#178;</quantity> größer als 3,84 sein
+                    dass &#967;&#178; größer als 3,84 sein
                     müsste, damit die Wahrscheinlichkeit für die Nullhypothese
                     bei lediglich 5% liegt (<quantity>p</quantity> = 0,05). Ist
-                    <quantity>&#967;&#178;</quantity>
+                    &#967;&#178;
                     größer als 6,64, so kann die Nullhypothese mit einer
                     Wahrscheinlichkeit von 99% abgelehnt werden
                     (<quantity>p</quantity> = 0,01) und wenn
-                    <quantity>&#967;&#178;</quantity>den Wert von 10,83
+                    &#967;&#178;den Wert von 10,83
                     überschreitet,
                     so ist es zu 99,9% sicher (<quantity>p</quantity> = 0,001), dass die Kollokation nicht zufällig und das gemeinsame
                     Vorkommen signifikant ist.</p>
@@ -638,14 +639,14 @@
             </page>
             <page>
                 <h3>Log-Likelihood-Test</h3>
-                <p>Im Gegensatz zu <quantity>&#967;&#178;</quantity> ist der Log-Likelihood-Test auch gegenüber kleinen Werten von <quantity>E</quantity> robust und daher ebenso auf spärliche Datenmengen anwendbar.
+                <p>Im Gegensatz zu &#967;&#178; ist der Log-Likelihood-Test auch gegenüber kleinen Werten von <quantity>E</quantity> robust und daher ebenso auf spärliche Datenmengen anwendbar.
                     Die Log-Likelihood-Ratio eignet sich am besten für die Berechnung von Kollokationen und ist das gängigste Signifikanzmaß in der Korpuslinguistik. Insofern es zur Wahl steht, sollte man diesem Maß also stets den Vorzug geben. </p>
                 <p>Die Formel zur Berechnung der LLR lautet wie folgt:</p>
                 <p>G&#178; = 2[A log A + Blog B + C log C + D log D</p>
                 <p>- (A+B) log(A+B) - (A+C) log(A+C)</p>
                 <p>- (B+D) log(B+D) - (C+D) log(C+D)</p>
                 <p>+ (A+B+C+D) log(A+B+C+D)]</p>
-                <p>Will man die Signifikanz des ermittelten Wertes feststellen, so kann man erneut auf die kritischen Werte für <quantity>&#967;&#178;</quantity> zurückgreifen.</p>
+                <p>Will man die Signifikanz des ermittelten Wertes feststellen, so kann man erneut auf die kritischen Werte für &#967;&#178; zurückgreifen.</p>
             </page>
             <page>
                 <p>Allgemein sollte man in Bezug auf Signifikanzmaße
@@ -677,7 +678,7 @@
                     interpretieren.</p>
             </page>
             <page>
-                <h2>Referenzliteratur:</h2>
+                <h2 id="Referenzliteratur">Referenzliteratur:</h2>
                 <list>
                     <li>vgl. Bubenhofer 2009: 137-139</li>
                     <li>vgl. Evert 2009: 1224-1235</li>
@@ -686,7 +687,7 @@
                     <li>vgl. Perkuhn/Keibel/Kupietz 2012: 100-102, 114, 117-119</li>
                     <li>Onlinequelle: Bubenhofer, Noah (2006-2011)</li>
                 </list>
-                <p>Davon lohnenswerte Vertiefungsliteratur:</p>
+                <p>Lohnenswerte Vertiefungsliteratur:</p>
                 <list>
                     <li>Evert 2009: 1224-1239</li>
                     <li>Manning/Schütze 2003: 168-182</li>
@@ -1139,7 +1140,7 @@
                     Bezugswortes).</details></p>
                     </page>
             <page>
-                <h2>Referenzliteratur:</h2>
+                <h2 id="Referenzliteratur">Referenzliteratur:</h2>
                 <list>
                     <li>vgl. Evert 2009: 1215-1217, 1220f., 1225-1228, 1236-1239, 1243-1245</li>
                     <li>vgl. Manning/Schütze 2003: 30f.</li>
@@ -1167,7 +1168,7 @@
                         <option>
                             <ctext>Ja</ctext>
                             <action>
-                                <ctext>Das ist richtig gut!</ctext>
+                                <ctext>Das ist super!</ctext>
                             </action>
                         </option>
                         <option>

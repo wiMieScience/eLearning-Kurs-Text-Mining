@@ -440,7 +440,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                     </details>
                 <p>For calculating the <emph>expected frequency of a word combination</emph>, you set the <emph>single frequencies of the collocates in relation to the overall size of the corpus</emph>. So first of all you count the occurrence (<quantity>f&#8321;</quantity>) of word <kursiv>a</kursiv> and the occurrence (<quantity>f&#8322;</quantity>) of word <kursiv>b</kursiv>.
                    Then, in relation to the total (<quantity>N</quantity>) of word tokens in the corpus, the <emph>Expected Frequency</emph> (<quantity>E</quantity>) is calculated as follows: </p>
-                <p><quantity>E</quantity> = <quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity>  &#8725;  <quantity>N</quantity></p>
+                <p><quantity>E</quantity> = <sup><quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity></sup>&frasl;<sub><quantity>N</quantity></sub></p>
 <details>
                 <p><person name="Evert, Stefan">Evert</person> explains this in more detail using the example of the collocation <kursiv>is to</kursiv> which occurs 260 times in the Brown corpus. The component <kursiv>is</kursiv> occurs approximately 10,000 while <kursiv>to</kursiv> has a frequency of about 26,000 times among 1 million word tokens. If the words were distributed randomly, the word pair would be expected to co-occur roughly 260 times.  Because this number reflects the actual occurrence, <kursiv>is to</kursiv> is not regarded as significant, though.</p>
                 <p>"The expected number of cooccurrences for a completely ‘uncollocational’ word pair has been derived by the following reasoning: <kursiv>to</kursiv> occurs 26 times every 1,000 words on average. If there is no association between <kursiv>is</kursiv> and <kursiv>to</kursiv>, then each of the 10,000 instances of <kursiv>is</kursiv> in the Brown corpus has a chance of 26/1,000 to be followed by <kursiv>to</kursiv>. Therefore, we expect around 10,000 X (26/1,000) = 260 occurrences of the bigram <kursiv>is to</kursiv>, provided that there is indeed no association between the words." (<bib id="Evert2009">
@@ -451,9 +451,9 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <p>Therefore it seems reasonable to compile a contingency table of the expected frequencies in a second step, too. </p>
             </page>
             <page>
-                <p>Based on the formula <quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity> &#8725; <quantity>N</quantity> for calculating the expected frequency of a collocation, the other cells are calculated as follows:</p><!-- PLEASE INSERT HERE TABLE 3 -->
+                <p>Based on the formula <sup><quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity></sup>&frasl;<sub><quantity>N</quantity></sub> for calculating the expected frequency of a collocation, the other cells are calculated as follows:</p><!-- PLEASE INSERT HERE TABLE 3 -->
 <details>
-                <p>Basically we calculate for each cell "row total " &#8729; "column total " &#8725; "total number of all frequencies.".</p>
+                <p>Basically we calculate for each cell <sup>"row total" &#8729; "column total"</sup>&frasl;<sub>"total number of all frequencies"</sub>.</p>
                 </details>
             </page>
             <page>
@@ -476,9 +476,9 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
             <page>
                 <h3>Chi-Square Test</h3>
                 <p>Basically, the chi-square test or also
-                    <quantity>&#967;&#178;</quantity>test measures the difference between the observed and the expected frequencies, including all the values of the previously created contingency tables. So for each cell [(O - E)&#178;] &#8725; E <!-- SUBSTITUTE BY FRACTION--> needs to be calculated and the respective results are then added.</p>
+                    &#967;&#178;test measures the difference between the observed and the expected frequencies, including all the values of the previously created contingency tables. So for each cell <sup>(O - E)&#178;</sup>&frasl;<sub>E</sub> needs to be calculated and the respective results are then added.</p>
                 <p>This results in the formula
-                    <quantity>&#967;&#178;</quantity> = &#8721; [(O - E)&#178;] &#8725; E<!-- SUBSTITUTE BY FRACTION--></p>
+                    &#967;&#178; = &#8721; <sup>(O - E)&#178;</sup>&frasl;<sub>E</sub></p>
                 <p>"The essence of the test is to compare the observed
                     frequencies in the table with the frequencies expected for
                     independence. If the difference between observed and
@@ -487,20 +487,20 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                     (<bib id="Manning2003"><person name="Manning, Christopher
                             D.">Manning</person>/<person name="Schütze,
                             Hinrich">Schütze</person> 2003: 168</bib>)</p>
-                <p>In order to find out whether the value calculated in this way is significant, the table of critical values of <quantity>&#967;&#178;</quantity> has to be consulted. Looking up the distribution for a fourfold contingency table it shows  that <quantity>&#967;&#178;</quantity> needs to be greater than 3.84 in order that the probability of the null hypothesis is only 5% (<quantity>p</quantity> = 0.05). If <quantity>&#967;&#178;</quantity>
+                <p>In order to find out whether the value calculated in this way is significant, the table of critical values of &#967;&#178; has to be consulted. Looking up the distribution for a fourfold contingency table it shows  that &#967;&#178; needs to be greater than 3.84 in order that the probability of the null hypothesis is only 5% (<quantity>p</quantity> = 0.05). If &#967;&#178;
                     exceeds the critical value of 6.64, then the null hypothesis can be rejected at a probability level of 99% (<quantity>p</quantity> = 0.01) and if
-                    <quantity>&#967;&#178;</quantity>is even greater than 10.83 it is 99.9% certain (<quantity>p</quantity> = 0.001) that the collocation does not occur due to chance alone and that the co-occurrence is significant.</p>
+                    &#967;&#178;is even greater than 10.83 it is 99.9% certain (<quantity>p</quantity> = 0.001) that the collocation does not occur due to chance alone and that the co-occurrence is significant.</p>
                 <p>Applying the chi-square test is problematic in cases where the contingency tables contain very small numbers. If the values are less than <quantity>E</quantity> = 5 the results are no longer reliable.</p>
             </page>
             <page>
                 <h3>Log-Likelihood Test</h3>
-                <p>In contrast to <quantity>&#967;&#178;</quantity> the log-likelihood test is more robust against low values of <quantity>E</quantity> and hence provides better results for sparse data. The log-likelihood ratio is the most appropriate for discovering collocations and the most common significance measure in corpus linguistics. Provided that it is an available option, it should therefore be given preference to this measure.</p>
+                <p>In contrast to &#967;&#178; the log-likelihood test is more robust against low values of <quantity>E</quantity> and hence provides better results for sparse data. The log-likelihood ratio is the most appropriate for discovering collocations and the most common significance measure in corpus linguistics. Provided that it is an available option, it should therefore be given preference to this measure.</p>
                 <p>The formula for calculating the LLR is:</p>
                 <p>G&#178; = 2[A log A + Blog B + C log C + D log D</p>
                 <p>- (A+B) log(A+B) - (A+C) log(A+C)</p>
                 <p>- (B+D) log(B+D) - (C+D) log(C+D)</p>
                 <p>+ (A+B+C+D) log(A+B+C+D)]</p>
-                <p>In order to determine whether the resulting values are significant, one can draw on the critical values of <quantity>&#967;&#178;</quantity> once more.</p>
+                <p>In order to determine whether the resulting values are significant, one can draw on the critical values of &#967;&#178; once more.</p>
             </page>
             <page>
                 <p>Regarding significance measures you should generally keep in mind that individual values may not necessarily be revealing. If for example the collocation "National Government" scores a LLR of 44,309 it is indeed highly significant, nevertheless the word combination "Federal Government" resulting in a LLR of 259,647 shows an even greater cohesion. </p>
