@@ -43,7 +43,7 @@
                 <p>"The term 'keyword' is widely used to refer to words which are important in some way [...]. The general idea is perhaps clear enough, but [...] there are several different concepts of 'keywords'." (<bib id="Bondi2010b"><person name="Stubbs, Michael">Stubbs</person> 2010: 21</bib>).</p>
                 <p>Bei dem englischen Begriff <term>Keyword</term> handelt es sich also um ein ambiges Wort.</p>
                 <details>
-                <kursiv>Ambig</kursiv> meint, dass ein Wort mehrere Bedeutungen hat. 
+                <kursiv>Ambig</kursiv> meint, dass ein Wort mehrere Bedeutungen hat.
                 </details>
                 <p>Zum einen kann damit schlicht ein <emph>Stichwort bzw.</emph> ein <emph>Suchbegriff</emph> gemeint sein, welchen man über eine entsprechende Anfrage im Korpus ausfindig machen will. Die Ergebnisse einer solchen Suche nach einem bestimmten Wort werden üblicherweise als <emph>Konkordanzen</emph> ausgegeben. Dabei handelt es sich um eine <emph>typische Darstellungsform</emph> von Korpusanalysetools, bei welcher alle Textbelege angezeigt werden, die das Keyword enthalten. Dieses steht in der Regel im Zentrum und wird typographisch hervorgehoben.</p>
                 <p>Zum anderen können damit aber auch <emph>Schlüsselwörter oder Schlagwörter</emph> bezeichnet werden, welche durch den Vergleich zweier Korpora berechnet und in Form einer Liste ausgegeben werden. Auf diese Weise lässt sich in Erfahrung bringen, welche Wörter <emph>charakteristisch für ein Korpus</emph> oder auch für einen Text sind. </p>
@@ -586,7 +586,7 @@
                 <h1>Training</h1>
                 <exercise>
                     <ctext>
-                        <list type="ordered" > 
+                        <list type="ordered" >
                             <li type="exercise">Erstellen und analysieren Sie eine Keyword-Liste für ein beliebiges Korpus.</li>
                             <li>Unteraufgabe: Wechseln Sie zwischen den Parametern <kursiv>Wortform</kursiv>, <kursiv>Lemma</kursiv> und <kursiv>POS</kursiv>. Wie verändern sich die Ergebnisse?</li>
                             <li type="exercise">Identifizieren Sie die Keywords einer beliebigen Partei. Welchen Themenbereichen und linguistischen Kategorien lassen sie sich zuordnen? Ziehen Sie Schlüsse aus Ihren Ergebnissen.</li>

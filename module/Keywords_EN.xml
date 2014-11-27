@@ -48,7 +48,7 @@
                 <p>The term <kursiv>keyword</kursiv> is thus an ambiguous word. </p>
                 <details>
                     <p>
-                        <kursiv>Ambiguous</kursiv> means that a word can be understood in more than one way. 
+                        <kursiv>Ambiguous</kursiv> means that a word can be understood in more than one way.
                     </p>
                 </details>
                 <p>On the one hand it can simply be interpreted as a <emph>search word</emph> which shall be found in the corpus when running a corresponding query. The results of such a search for a certain word are usually presented as <emph>concordances</emph>. This is a <emph>typical display format</emph> of corpus analysis tools showing all passages which contain the keyword. It generally appears in the center and is typographically highlighted.</p>
@@ -231,7 +231,7 @@
                 <h2>Concrete Tasks</h2>
                 <exercise>
                     <ctext>
-                        <list type="ordered" > 
+                        <list type="ordered" >
                             <li>Identify the keywords of any party. Which subject areas and which linguistic categories can they be assigned to? Draw conclusions from your findings.</li>
                             <li>Identify the flag and stigma words of a party of your choice.</li>
                             <li>Examine whether the keywords of any party include high-value words or word of no value. Try to put your findings in context.</li>
@@ -239,11 +239,11 @@
                             <li>Determine by analyzing and comparing different periods whether the characteristic vocabulary of any party has changed over time.</li>
                             <li>Subtask: Have only the nouns changed or other word forms as well? Why is that?</li>
                             <li>Identify the vocabulary which is specific to the text type of your study corpus. Describe your approach and elucidate your findings.</li>
-                        </list> 
+                        </list>
                         <details>
                             <p>According to Hermanns (1982), political catchwords or keywords can be classified into different categories, depending on whether they are positive or negative and whether they are specific to a party or cross-party keywords.</p>
                             <p>If the latter are evaluated positively by the whole of society referring to a desirable value, like freedom or peace, they are called Hochwertwörter (high-value words). If they are denoting something negative, which is rejected by society, like terrorism or war, they are called Unwertwörter (words of no value). </p>
-                            <p>In case the positive keywords are specific to a party, they are their Fahnenwörter (flag words), which express a certain position, program or the values of the party. 
+                            <p>In case the positive keywords are specific to a party, they are their Fahnenwörter (flag words), which express a certain position, program or the values of the party.
                                 The negative keywords specific to a party are called stigma words. They are used to defame the opponent party and their program. </p>
                         </details>
                     </ctext>
