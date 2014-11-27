@@ -1130,14 +1130,24 @@
                     Wörter wie Substantive und Verben in den Ergebnissen
                     angezeigt.  Wie üblich hängt die Wahl der Parameter von der
                     Fragestellung ab. Will man beispielsweise syntaktische
-                    Aspekte beleuchten <!-- nachfolgende Klammer gehört auf
-                    DETAIL-Ebene--><details>(, interessiert man sich z.B. für
-                    präpositionale Anschlüsse oder Genitivobjekte)</details>, spielen
-                    Funktionswörter sicherlich eher eine Rolle, als bei
-                    thematischen oder inhaltlichen Fragestellungen <!--
-                    nachfolgende Klammer gehört auf DETAIL-Ebene--><details>(wie z.B.
-                    der Frage nach typischen Verwendungskontexten eines
-                    Bezugswortes).</details></p>
+                    Aspekte beleuchten
+                    </p>
+                    <details>
+                        <p>
+                            (, interessiert man sich z.B. für
+                        präpositionale Anschlüsse oder Genitivobjekte)
+                        </p>
+                        </details>
+                        <p>, spielen Funktionswörter sicherlich eher eine Rolle, als bei
+                    thematischen oder inhaltlichen Fragestellungen
+                    </p>
+                    <details>
+                        <p>
+                            (wie z.B.
+                            der Frage nach typischen Verwendungskontexten eines
+                            Bezugswortes).
+                        </p>
+                    </details>
                     </page>
             <page>
                 <h2 id="Referenzliteratur">Referenzliteratur:</h2>
