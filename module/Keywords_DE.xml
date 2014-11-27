@@ -21,7 +21,7 @@
                 <author>Yvonne Krämer</author>
             </authors>
             <libraries>
-                <library> </library>
+                <library>Keywords-Bibliothek_DE.xml</library>
             </libraries>
          </meta>
         <chapter id='Lernziele' type="learningObjective">

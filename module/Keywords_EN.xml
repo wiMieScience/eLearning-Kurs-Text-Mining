@@ -21,7 +21,7 @@
                 <author>Yvonne Krämer</author>
             </authors>
             <libraries>
-                <library>Keywords-Bibliothek.xml</library>
+                <library>Keywords-Library_EN.xml</library>
             </libraries>
             <corpora>
                 <corpus id="" type="keywords">
