@@ -47,7 +47,7 @@
                 <h1>Introduction</h1>
                 <h2 id="Collocations">What is a Collocation?</h2>
                 <p>"<person name="Firth, John Rupert">J. R. Firth</person> (<bib id="Firth1957">1957</bib>) introduced the term ‘collocations’ for characteristic and <emph>frequently recurrent word combinations</emph>, arguing that the meaning and usage of a word (the <kursiv>node</kursiv>) can to some extent be characterized by its most typical <kursiv>collocates</kursiv> [...]" (<bib id="Evert2009"><person name="Evert, Stefan">Evert</person> 2009: 1212f.</bib>, emphasis added)</p>
-                <img src="http://de.wikipedia.org/wiki/John_Rupert_Firth#mediaviewer/Datei:John_Rupert_Firth.png">John Rupert Firth</img><!-- It would be ideal if the image could be displayed to the right of the text-->
+                <img src="http://www.angela.senis.org/local/cache-vignettes/L224xH320/Firth_WinCE_-191b3.jpg">John Rupert Firth</img><!-- It would be ideal if the image could be displayed to the right of the text-->
                 <details>
                 <p>"A node is an item whose total pattern of co-occurrence with other words is under examination; a collocate is any one of the items which appears with the node within a specified span. Essentially there is no difference in status between node and collocate; if word A is a node and word B one of its collocates, when word B is studied as a node, word A will become one of its collocates." (Sinclair, 2004, cited in <bib id="McEnery2012"><person name="McEnery, Tony">McEnery</person>/<person name="Hardie, Andrew">Hardie</person> 2012: 124</bib>)</p>
                 </details>
@@ -257,7 +257,7 @@ For this purpose, <emph>parameters</emph> have to be set and a <emph>significanc
                 <p>They form the basis of the calculations and can reflect different perspectives on the corpus. That is why they should be adapted to the respective research question or objective.</p>
                 </details>
                 <p>As a result of the collocation analysis, the collocation profile of the node will be displayed.</p>
-                <img src="">Collocation profile of the word form "people" / Image source: Corpus "U.S. Presidents Inaugural Speeches": <kursiv>powered by CQPweb</kursiv></img>
+                <img src="/image/kollokationsprofil_englisch.png">Collocation profile of the word form "people" / Image source: Corpus "U.S. Presidents Inaugural Speeches": <kursiv>powered by CQPweb</kursiv></img>
             </page>
             <page>
                 <h2 id="Collocation Profile">Collocation Profile</h2>
@@ -268,12 +268,14 @@ For this purpose, <emph>parameters</emph> have to be set and a <emph>significanc
                 <h2 id="1./2./3. Collocations">Primary/Secondary/Ternary Collocations</h2>
                 <p>Basically, collocations have a binary structure: As a result of a collocation analysis, generally the most significant primary collocates of a node are listed. It is possible to expand this structure. In a second step you could additionally calculate the most significant collocates of a primary collocate and in so doing you would obtain the secondary collocates. </p>
                 <p>There exist two possible approaches:</p>
-                <p>1)	1)	The computation of collocates in the contexts of the respective collocation.
+                <list type="ordered">
+                <li>The computation of collocates in the contexts of the respective collocation.
 For example: "America" + "freedom" are a collocation. Another collocate like "ideal" is a secondary collocate in contexts, where the collocation "America" + "freedom" occurs. An example of this is the cooccurrence analysis of Belica.
-</p>
-<p>2) On the other hand, the secondary collocate can also be calculated from all the contexts of the primary collocate. </p>
-<p>This proceeding can also be applied to ternary collocates and beyond. The results obtained are then forming a kind of net according to the visualization shown below:</p>
-                <img src="" >Rhizome</img>
+</li>
+<li>On the other hand, the secondary collocate can also be calculated from all the contexts of the primary collocate. </li>
+<li>This proceeding can also be applied to ternary collocates and beyond. The results obtained are then forming a kind of net according to the visualization shown below:</li>
+            </list>
+            <img src="/image/auslaender_6.gv.png" >Rhizome</img>
             </page>
             <page>
                 <h1>Checklist</h1>
@@ -303,9 +305,9 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
             </page>
         </chapter>
         <chapter id="Applications">
-            <page>
-                <img src="" >What for?</img>
-            </page>
+            <!-- <page>
+                <img src="/image/" >What for?</img>
+            </page> -->
             <page>
                 <h1>Potential Applications</h1>
                 <h2 id="Purpose">What is the purpose of calculating collocations? </h2>
@@ -337,7 +339,6 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                     <li>cf. Hunston 2002: 76f.</li>
                     <li>cf. Lemnitzer/Zinsmeister 2010: 144f.</li>
                     <li>cf. Steyer 2004: 87-94, 103-106</li>
-
                 </list>
             </page>
             <page>
@@ -903,27 +904,27 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <h1>Game</h1>
                 <p>Which word could be the node of the collocates in this graph?</p>
                 <p>Type your solution directly into the empty field in the center.</p>
-                <img src="" >Graph1</img>
+                <img src="/image/" >Graph1</img>
             </page>
             <page>
                 <p>Which word could be the node of the collocates in this graph?</p>
                 <p>Type your solution directly into the empty field in the center.</p>
-                <img src="">Graph2</img>
+                <img src="/image/">Graph2</img>
             </page>
             <page>
                 <p>Which word could be the node of the collocates in this graph?</p>
                 <p>Type your solution directly into the empty field in the center.</p>
-                <img src="">Graph3</img>
+                <img src="/image/">Graph3</img>
             </page>
             <page>
                 <p>Which word could be the node of the collocates in this graph?</p>
                 <p>Type your solution directly into the empty field in the center.</p>
-                <img src="">Graph4</img>
+                <img src="/image/">Graph4</img>
             </page>
             <page>
                 <p>Which word could be the node of the collocates in this graph?</p>
                 <p>Type your solution directly into the empty field in the center.</p>
-                <img src="">Graph5</img>
+                <img src="/image/">Graph5</img>
             </page>
         </chapter>
     </module>

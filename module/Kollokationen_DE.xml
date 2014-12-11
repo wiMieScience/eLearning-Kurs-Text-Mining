@@ -285,7 +285,7 @@
                     <emph>eines gewählten Bezugswortes</emph> ermittelt. Hierfür müssen einige <emph>Parameter</emph> sowie ein <emph>Signifikanzmaß</emph> festgelegt werden. </p>
                 <details><p>Diese bilden die Grundlage der Berechnungen und können unterschiedliche Betrachtungsweisen des Korpus wiederspiegeln. Sie sollten daher an die Frage- bzw. Zielstellung angepasst werden.</p>
                 <p>Als Ergebnis einer Kollokationsanalyse wird das Kollokationsprofil eines Bezugswortes angezeigt.</p></details>
-                <img src="">Kollokationsprofil der Wortform "Menschen" / Bildquelle: Korpus "Parteiprogramme V2 (1976-2009)": <kursiv>powered by CQPweb</kursiv></img>
+            <img src="/image/kollokationsprofil_deutsch.png">Kollokationsprofil der Wortform "Menschen" / Bildquelle: Korpus "Parteiprogramme V2 (1976-2009)": <kursiv>powered by CQPweb</kursiv></img>
             </page>
             <page>
                 <h2 id="Kollokationsprofil">Kollokationsprofil</h2>
@@ -303,7 +303,7 @@
 <p>Beispiel: "Freiheit" + "Gleichheit" sind eine Kollokation. Ein weiterer Kollokator, "Brüderlichkeit", ist in Kontexten, wo die Kollokation "Freiheit" + "Brüderlichkeit" auftritt, sekundärer Kollokator. Beispiel dafür ist die Kookkurrenzanalyse nach Belica.</p>
 <p>2) Andererseits kann der sekundäre Kollokator aber auch aus allen Kontexten des primären Kollokators heraus berechnet werden.</p>
 <p>Man kann dieses Vorgehen auch auf Kollokatoren dritter Ordnung und darüber hinaus anwenden. Die erzielten Ergebnisse bilden dann sozusagen ein Kollokationsnetz, entsprechend der dargestellten Visualisierung:</p>
-                <img src="" >Rhizom</img>
+<img src="/image/auslaender_6.gv.png" >Rhizom</img>
             </page>
             <page>
                 <h1>Checkliste</h1>
@@ -333,9 +333,9 @@
             </page>
         </chapter>
         <chapter id="Mögliche Anwendungen">
-            <page>
+            <!-- <page>
                 <img src="" >Wozu?</img>
-            </page>
+            </page> -->
             <page>
                 <h1>Anwendungsmöglichkeiten</h1>
                 <h2 id="Wozu Kollokationen?">Wozu kann die Berechnung von Kollokationen dienen?</h2>
