@@ -1355,52 +1355,52 @@
                 <h1>Spiel</h1>
                 <p>Auf welches Wort beziehen sich wohl die Kollokatoren des folgenden Graphen?</p>
                 <p>Tragen Sie Ihre Lösung direkt in das leere Feld im Zentrum ein.</p>
-                <img src="/image/graph_I_car.svg" >Graph1</img>
+                <img type="svg" src="/image/graph_I_car.svg" >Graph1</img>
             </page>
             <page>
                 <p>Auf welches Wort beziehen sich wohl die Kollokatoren des folgenden Graphen?</p>
                 <p>Tragen Sie Ihre Lösung direkt in das leere Feld im Zentrum ein.</p>
-                <img src="/image/graph_II_school.svg">Graph2</img>
+                <img type="svg" src="/image/graph_II_school.svg">Graph2</img>
             </page>
             <page>
                 <p>Auf welches Wort beziehen sich wohl die Kollokatoren des folgenden Graphen?</p>
                 <p>Tragen Sie Ihre Lösung direkt in das leere Feld im Zentrum ein.</p>
-                <img src="/image/graph_III_soldier.svg">Graph3</img>
+                <img type="svg" src="/image/graph_III_soldier.svg">Graph3</img>
             </page>
             <page>
                 <p>Auf welches Wort beziehen sich wohl die Kollokatoren des folgenden Graphen?</p>
                 <p>Tragen Sie Ihre Lösung direkt in das leere Feld im Zentrum ein.</p>
-                <img src="/image/graph_IV_God.svg">Graph4</img>
+                <img type="svg" src="/image/graph_IV_God.svg">Graph4</img>
             </page>
             <page>
                 <p>Auf welches Wort beziehen sich wohl die Kollokatoren des folgenden Graphen?</p>
                 <p>Tragen Sie Ihre Lösung direkt in das leere Feld im Zentrum ein.</p>
-                <img src="/image/graph_V_bank.svg">Graph5</img>
+                <img type="svg" src="/image/graph_V_bank.svg">Graph5</img>
             </page>
             <page>
                 <p>Auf welches Wort beziehen sich wohl die Kollokatoren des folgenden Graphen?</p>
                 <p>Tragen Sie Ihre Lösung direkt in das leere Feld im Zentrum ein.</p>
-                <img src="/image/graph_VI_Barack.svg">Graph6</img>
+                <img type="svg" src="/image/graph_VI_Barack.svg">Graph6</img>
             </page>
             <page>
                 <p>Auf welches Wort beziehen sich wohl die Kollokatoren des folgenden Graphen?</p>
                 <p>Tragen Sie Ihre Lösung direkt in das leere Feld im Zentrum ein.</p>
-                <img src="/image/graph_VII_green.svg">Graph7</img>
+                <img type="svg" src="/image/graph_VII_green.svg">Graph7</img>
             </page>
             <page>
                 <p>Auf welches Wort beziehen sich wohl die Kollokatoren des folgenden Graphen?</p>
                 <p>Tragen Sie Ihre Lösung direkt in das leere Feld im Zentrum ein.</p>
-                <img src="/image/graph_VIII_answer.svg">Graph8</img>
+                <img type="svg" src="/image/graph_VIII_answer.svg">Graph8</img>
             </page>
             <page>
                 <p>Auf welches Wort beziehen sich wohl die Kollokatoren des folgenden Graphen?</p>
                 <p>Tragen Sie Ihre Lösung direkt in das leere Feld im Zentrum ein.</p>
-                <img src="/image/graph_IX_high.svg">Graph9</img>
+                <img type="svg" src="/image/graph_IX_high.svg">Graph9</img>
             </page>
             <page>
                 <p>Auf welches Wort beziehen sich wohl die Kollokatoren des folgenden Graphen?</p>
                 <p>Tragen Sie Ihre Lösung direkt in das leere Feld im Zentrum ein.</p>
-                <img src="/image/graph_X_old.svg">Graph10</img>
+                <img type="svg" type="svg" src="/image/graph_X_old.svg">Graph10</img>
             </page>
         </chapter>
     </module>
