@@ -904,27 +904,52 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <h1>Game</h1>
                 <p>Which word could be the node of the collocates in this graph?</p>
                 <p>Type your solution directly into the empty field in the center.</p>
-                <img src="/image/" >Graph1</img>
+                <img src="/image/graph_I_car.svg" >Graph1</img>
             </page>
             <page>
                 <p>Which word could be the node of the collocates in this graph?</p>
                 <p>Type your solution directly into the empty field in the center.</p>
-                <img src="/image/">Graph2</img>
+                <img src="/image/graph_II_school.svg">Graph2</img>
             </page>
             <page>
                 <p>Which word could be the node of the collocates in this graph?</p>
                 <p>Type your solution directly into the empty field in the center.</p>
-                <img src="/image/">Graph3</img>
+                <img src="/image/graph_III_soldier.svg">Graph3</img>
             </page>
             <page>
                 <p>Which word could be the node of the collocates in this graph?</p>
                 <p>Type your solution directly into the empty field in the center.</p>
-                <img src="/image/">Graph4</img>
+                <img src="/image/graph_IV_God.svg">Graph4</img>
             </page>
             <page>
                 <p>Which word could be the node of the collocates in this graph?</p>
                 <p>Type your solution directly into the empty field in the center.</p>
-                <img src="/image/">Graph5</img>
+                <img src="/image/graph_V_bank.svg">Graph5</img>
+            </page>
+            <page>
+                <p>Which word could be the node of the collocates in this graph?</p>
+                <p>Type your solution directly into the empty field in the center.</p>
+                <img src="/image/graph_VI_Barack.svg">Graph6</img>
+            </page>
+            <page>
+                <p>Which word could be the node of the collocates in this graph?</p>
+                <p>Type your solution directly into the empty field in the center.</p>
+                <img src="/image/graph_VII_green.svg">Graph7</img>
+            </page>
+            <page>
+                <p>Which word could be the node of the collocates in this graph?</p>
+                <p>Type your solution directly into the empty field in the center.</p>
+                <img src="/image/graph_VIII_answer.svg">Graph8</img>
+            </page>
+            <page>
+                <p>Which word could be the node of the collocates in this graph?</p>
+                <p>Type your solution directly into the empty field in the center.</p>
+                <img src="/image/graph_IX_high.svg">Graph9</img>
+            </page>
+            <page>
+                <p>Which word could be the node of the collocates in this graph?</p>
+                <p>Type your solution directly into the empty field in the center.</p>
+                <img src="/image/graph_X_old.svg">Graph10</img>
             </page>
         </chapter>
     </module>
