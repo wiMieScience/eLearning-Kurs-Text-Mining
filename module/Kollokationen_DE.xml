@@ -5,7 +5,7 @@
     <meta>
         <title>e-Learning-Kurs zum Thema "Text Mining"</title>
         <version>1.0</version>
-        <date>2014-05-01</date>
+        <date>2015-01-08</date>
         <language>German</language>
         <authors>
             <author>Yvonne Krämer</author>
@@ -120,7 +120,7 @@
                 <h2 id="Kookkurrenzen">Was ist denn eine Kookkurrenz?</h2>
                 <p>Für <person name="Scherer, Carmen">Scherer</person>(<bib id="Scherer2006">2006</bib>)  beispielsweise sind Kookkurrenzen <emph>überdurchschnittlich häufig benachbarte Wörter</emph> und ein Synonym zu Kollokationen. </p>
                 <p><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz </person> (<bib id="Perkuhn2012">2012</bib>)
-                    bevorzugen den Begriff <term>Kookkurrenz</term> aufgrund der Problematik der unterschiedlichen Auffassungen des Kollokationsbegriffs nach <person name="Firth, John Rupert">Firth</person> und
+                    bevorzugen generell den Begriff <term>Kookkurrenz</term> aufgrund der Problematik der unterschiedlichen Auffassungen des Kollokationsbegriffs nach <person name="Firth, John Rupert">Firth</person> und
                     <person name="Hausmann, Franz Josef">Hausmann</person>. Dabei betonen sie jedoch, dass es nicht um das <emph>bloße Kovorkommen</emph> zweier Wörter geht, wie die wörtliche Bedeutung des Terminus nahelegt,
                     sondern dass die Rekurrenz und die statistische Bewertung wesentliche Aspekte der Verbindung darstellen. </p>
                 <p><person name="Steyer, Kathrin">Steyer </person> (<bib id="Steyer2004a">2004</bib>) wiederum sagt: "Wir definieren 'Kookkurrenz' als eine Kohäsionsqualität, die durch mathematisch-statistische Berechnungen ermittelt wird [...]" (<bib id="Steyer2004a">
@@ -156,7 +156,7 @@
                 </list>
                 <h3>Lohnenswerte Vertiefungsliteratur:</h3>
                 <list>
-                    <li>vgl. Evert 2009: 1212-1214</li>
+                    <li>Evert 2009: 1212-1214</li>
                     <li>Perkuhn/Keibel/Kupietz 2012: 112f.</li>
                     <li>Steyer 2004: 96-99</li>
                 </list>
@@ -183,7 +183,7 @@
                                     <p>J.R. Firth brachte den Begriff <term>Kollokation</term> auf und wird in diesem Zusammenhang daher vielfach erwähnt. Bekannt ist sein Ausspruch "You shall know a word by the company it keeps", denn seiner Meinung nach lassen die Kollokatoren auf die Bedeutung und Verwendungsweise des Bezugswortes schließen. Im Hinblick auf Kollokationen spricht Firth von <term>häufig wiederkehrenden Wortkombinationen</term>, von <term>Rekkurrenz</term> und <term>gegenseitiger Erwartbarkeit</term> (<foreign>mutual expectancy</foreign>).
                                     </p>
                                 </ctext>
-                                <url href="#kollokationen" >Was ist eine Kollokation?</url>
+                                <p><url href="#kollokationen" >Was ist eine Kollokation?</url></p>
                             </action>
                         </option>
                     </answer>
@@ -221,8 +221,12 @@
                         <option>
                             <ctext>Nein</ctext>
                             <action>
-                                <ctext>Unter einer Kookkurrenz kann man sowohl das bloße Kovorkommen zweier Wörter, wie auch ein Synonym oder eine Vorstufe zu einer Kollokation verstehen. Kollokationen wiederum können als Sammelbegriff für sprachliche Herausforderungen in der Computerlinguistik aufgefasst werden. Weiterhin werden sie von Hausmann phraseologisch definiert und zum anderen auf statistischer Grundlage als überzufällig häufig benachbarte Wörter ausgelegt. Die beiden Begriffe sind nicht klar voneinander abgegrenzt.</ctext>
+                                <ctext>
+                                <p>Unter einer Kookkurrenz kann man sowohl das bloße Kovorkommen zweier Wörter, wie auch ein Synonym oder eine Vorstufe zu einer Kollokation verstehen. Kollokationen wiederum können als Sammelbegriff für sprachliche Herausforderungen in der Computerlinguistik aufgefasst werden. Weiterhin werden sie von Hausmann phraseologisch definiert und zum anderen auf statistischer Grundlage als überzufällig häufig benachbarte Wörter ausgelegt. Die beiden Begriffe sind nicht klar voneinander abgegrenzt.</p>
+                                </ctext>
+				<p>
                                 <url href="#begriffsbestimmungen" >Lesarten des Begriffs "Kollokation"</url>
+				</p>
                                 <url href="#kookkurrenzen" >Was ist denn eine Kookkurrenz?</url>
                             </action>
                         </option>
@@ -230,7 +234,9 @@
                 </check>
             </page>
             <page>
-                <img src="http://www.wpclipart.com/people/male/men_4/confused_guy.png">Bild einer verwirrten Person</img>
+<img src="http://www.wpclipart.com/smiley/round_eyes/smiley_round_eyes_basic.png">Verwirrt?</img>
+<p>Das war eine ganze Menge an Informationen.</p>
+<p>. . . . . . . . . . Vielleicht gönnen Sie sich erstmal eine kurze Pause. . . . . . . . . . </p>
             </page>
         </chapter>
         <chapter id="Begriffswahl">
@@ -297,7 +303,7 @@
             </page>
             <page>
                 <h2 id="1./2./3. Ordnung">Kollokationen erster/zweiter/dritter Ordnung</h2>
-                <p>Grundsätzlich liegt Kollokationen eine binäre Struktur zugrunde: Üblicherweise wird als Resultat einer Kollokationsanalyse für ein Bezugswort eine Liste mit den signifikantesten Kollokatoren erster Ordnung ausgegeben. Es ist möglich, diese Struktur zu erweitern: In einem zweiten Schritt können nämlich zusätzlich die signifikantesten Kollokatoren von einem Kollokator erster Ordnung berechnet werden. Auf diese Weise erhält man die   Kollokatoren zweiter Ordnung. </p>
+                <p>Grundsätzlich liegt Kollokationen eine binäre Struktur zugrunde: Üblicherweise wird als Resultat einer Kollokationsanalyse für ein Bezugswort eine Liste mit den signifikantesten Kollokatoren erster Ordnung ausgegeben. </p>><p>Es ist möglich, diese Struktur zu erweitern. In einem zweiten Schritt können nämlich zusätzlich die signifikantesten Kollokatoren von einem Kollokator erster Ordnung berechnet werden. Auf diese Weise erhält man die Kollokatoren zweiter Ordnung. </p>
                 <p>Dabei sind zwei unterschiedliche Verfahren möglich:</p>
                 <p>1)	Die Berechnung von Kollokatoren in Kontexten der jeweiligen Kollokation.</p>
 <p>Beispiel: "Freiheit" + "Gleichheit" sind eine Kollokation. Ein weiterer Kollokator, "Brüderlichkeit", ist in Kontexten, wo die Kollokation "Freiheit" + "Brüderlichkeit" auftritt, sekundärer Kollokator. Beispiel dafür ist die Kookkurrenzanalyse nach Belica.</p>
@@ -342,19 +348,19 @@
                 <list>
                     <li>Als Hinweis für die Anordnung bzw. Hierarchie von Lesarten eines sprachlichen Zeichens in einem Wörterbuchartikel.</li>
                     <li type="details">&#8594; Welches sind die gängigsten Bedeutungen des Lexems?</li>
-                    <li>Zur Identifikation, Verifizierung und Beschreibung typischer Wortverbindungen und Wortverbindungphänomene (z.B. Idiome) </li>
+                    <li>Zur Identifikation, Verifizierung und Beschreibung typischer Wortverbindungen und Wortverbindungphänomene (z.B. Idiome). </li>
                     <li type="details">&#8594; Welche Kollokationen werden verwendet?</li>
                     <li type="details">&#8594; Welche sind besonders gebräuchliche Kollokationen und welche finden sich kaum oder gar nicht?</li>
                     <li type="details">&#8594; In welcher Bedeutung und in welchem Kontext werden sie gebraucht?</li>
-                    <li>Gängige grammatische Gebrauchsmuster können ermittelt werden</li>
-                    <li>Syntaktische Bindungen können ausfindig gemacht werden</li>
+                    <li>Gängige grammatische Gebrauchsmuster können ermittelt werden.</li>
+                    <li>Syntaktische Bindungen können ausfindig gemacht werden.</li>
                     <li type="details">z.B. typische präpositionale Anschlüsse</li>
-                    <li>Die Bedeutungsfelder eines Wortes werden anschaulich</li>
-                    <li>Thematische Felder können ausgemacht werden</li>
+                    <li>Die Bedeutungsfelder eines Wortes werden anschaulich.</li>
+                    <li>Thematische Felder können ausgemacht werden.</li>
                     <li>Die Bedeutungsaspekte und Verwendungsweisen von Wortformen eines Suchbegriffs können verglichen werden.</li>
                     <li type="details">z.B. Vergleich von Singular- und Pluralform des Suchwortes</li>
-                    <li>Die Verwendungsweisen von bestimmten Begriffen im Diskurs können deutlich gemacht werden </li>
-                    <li>Kollokationen können als Widerspiegelung von Traditionen des Formulierens bzw. Gebrauchskonventionen untersucht werden</li>
+                    <li>Die Verwendungsweisen von bestimmten Begriffen im Diskurs können deutlich gemacht werden. </li>
+                    <li>Kollokationen können als Widerspiegelung von Traditionen des Formulierens bzw. Gebrauchskonventionen untersucht werden.</li>
                 </list>
                 <p>Kollokationsanalysen sind damit auch für die Lexikographie und Lexikologie, die Fremdsprachendidaktik, die Übersetzungswissenschaft und die Diskurslinguistik von besonderer Bedeutung.</p>
             </page>
@@ -386,7 +392,7 @@
                     Strukturen der Sprache und des Denkens erfahren.  Deshalb
                     kann die Erforschung von Wortverbindungen auch zur
                     Theorienbildung in der Linguistik selbst wertvolle Beiträge
-                    leisten (<bib id="N.N">IDS/Steyer</bib>)."</p>
+                    leisten (<bib id="Steyer_Kathrin">Steyer 2014</bib>)."</p>
                 <p>Für gewöhnlich greifen Lexikographen bei dem Versuch,
                     übliche Wortverbindungen und Verwendungsbeispiele
                     aufzulisten, auf ihre Erfahrung, Intuition und
@@ -426,10 +432,10 @@
             <page>
                 <h2 id="Referenzliteratur">Referenzliteratur</h2>
                 <list>
-                    <li><url href="http://www1.ids-mannheim.de/lexik/uwv.html"/></li>
-                        <li><url href="http://www1.ids-mannheim.de/lexik/uwv/uwv.html"/></li>
-                    <li><url href="http://www.owid.de/wb/sprw/start.html"/></li>
-                    <li><url href="http://www1.ids-mannheim.de/lexik/sprichwort/projekt.html"/></li>
+                    <li>Informationen zu beschriebenem Projekt wurden den Webseiten <url href="http://www1.ids-mannheim.de/lexik/uwv.html">http://www1.ids-mannheim.de/lexik/uwv.html</url> (siehe auch Unterkapitel) </li>
+                    <li> sowie <url href="http://www.owid.de/wb/sprw/start.html">http://www.owid.de/wb/sprw/start.html</url></li>
+                    <li>und <url href="http://www1.ids-mannheim.de/lexik/sprichwort/projekt.html">http://www1.ids-mannheim.de/lexik/sprichwort/projekt.html</url></li>
+                    <li>entnommen.</li>
                 </list>
             </page>
             <page>
@@ -449,7 +455,7 @@
                 <p>Die Türkei gilt als in sich widersprüchliches Land, wobei auch positive Aspekte zu finden sind, da es sich um einen wirtschaftlichen und militärischen Partner sowie ein beliebtes Urlaubsziel handelt.</p>
                 <p>Vogel räumt schließlich noch zwei wichtige Punkte ein: Zum einen ist es korpuslinguistisch kaum möglich, Ironie in den Daten auszumachen
                     und zum anderen würde eine kontrastive Analyse der Ergebnisse mit einem Referenzkorpus großes Potenzial bergen.</p>
-                <p>vgl. Vogel 2010: 345-377</p>
+                <p align="right">(vgl. Vogel 2010: 345-377)</p>
                 <p>Es lässt sich also festhalten, dass Kookkurrenzanalysen ein produktives wie nützliches Verfahren für die Diskurslinguistik darstellen und auch dem Gebiet der Linguistischen Imageanalyse dienlich sein können.</p>
             </page>
             <page>
@@ -470,9 +476,9 @@
                         <option>
                             <ctext>Nein</ctext>
                             <action>
-                                <ctext><p>Kollokationsanalysen kommen unter anderem in der Lexikographie und Lexikologie, der Fremdsprachendidaktik, der Übersetzungswissenschaft und der Diskurslinguistik zum Einsatz.</p>
+                                <ctext><p>Kollokationsanalysen kommen unter anderem in der Lexikographie und Lexikologie, der Fremdsprachendidaktik, der Übersetzungswissenschaft und der Diskurslinguistik zum Einsatz.</p> 
                                     <p>Durch dieses Verfahren können beispielsweise Gebrauchskonventionen, Bedeutungsfelder und grammatische Strukturen sichtbar gemacht werden. Bei der Erstellung von Wörterbuchartikeln gibt es Aufschluss über die Anordnung von Lesarten und liefert gängige Verwendungsbeispiele.</p> </ctext>
-                                <url href="#wozu" >Anwendungsmöglichkeiten</url>
+                                <p><url href="#wozu" >Anwendungsmöglichkeiten</url></p>
                             </action>
                         </option>
                     </answer>
@@ -484,7 +490,7 @@
                 <h1>Ein bisschen Statistik</h1>
                 <img src="" ></img>
                 <p>Statistische Berechnungen spielen eine wesentliche Rolle bei Kollokationsanalysen. Um die Analyseparameter einstellen und die Ergebnisse richtig interpretieren zu können, sollte man gewisse Grundkenntnisse in diesem Bereich erwerben.
-                    In den bisherigen Aussagen über Kollokationen fielen bereits die mathematisch-statistischen Begriffe <term>überzufällig häufig </term>und <term>signifikant</term>. Zunächst soll geklärt werden, was genau man darunter versteht:</p>
+                    In den bisherigen Ausführungen über Kollokationen fielen bereits die mathematisch-statistischen Begriffe <term>überzufällig häufig </term>und <term>signifikant</term>. Zunächst soll geklärt werden, was genau man darunter versteht:</p>
             </page>
             <page>
                 <h2 id="Überzufällig häufig">Überzufällig häufig</h2>
@@ -601,7 +607,7 @@
             <page>
                 <h3>Chi-Quadrat-Test</h3>
                 <p>Der Chi-Quadrat-Test, oder auch
-                    &#967;&#178;-Test misst im Grunde die
+                    <quantity>&#967;&#178;</quantity>-Test misst im Grunde die
                     Differenz zwischen den beobachteten und den erwarteten
                     Frequenzen und bezieht dabei
                     alle Werte der zuvor erstellten Kontingenztabellen ein. Für
@@ -619,16 +625,16 @@
                             Hinrich">Schütze</person> 2003: 168</bib>)</p>
                 <p>Um herauszufinden, ob der so berechnete Wert signifikant
                     ist, muss man eine Tabelle der kritischen Werte für
-                    &#967;&#178; zu Rate ziehen. Diese
+                    <quantity>&#967;&#178;</quantity> zu Rate ziehen. Diese
                     besagt für eine Vierfelder-Kontingenztabelle,
-                    dass &#967;&#178; größer als 3,84 sein
+                    dass <quantity>&#967;&#178;</quantity> größer als 3,84 sein
                     müsste, damit die Wahrscheinlichkeit für die Nullhypothese
                     bei lediglich 5% liegt (<quantity>p</quantity> = 0,05). Ist
-                    &#967;&#178;
+                    <quantity>&#967;&#178;</quantity>
                     größer als 6,64, so kann die Nullhypothese mit einer
                     Wahrscheinlichkeit von 99% abgelehnt werden
                     (<quantity>p</quantity> = 0,01) und wenn
-                    &#967;&#178;den Wert von 10,83
+                    <quantity>&#967;&#178;</quantity>den Wert von 10,83
                     überschreitet,
                     so ist es zu 99,9% sicher (<quantity>p</quantity> = 0,001), dass die Kollokation nicht zufällig und das gemeinsame
                     Vorkommen signifikant ist.</p>
@@ -646,7 +652,7 @@
                 <p>- (A+B) log(A+B) - (A+C) log(A+C)</p>
                 <p>- (B+D) log(B+D) - (C+D) log(C+D)</p>
                 <p>+ (A+B+C+D) log(A+B+C+D)]</p>
-                <p>Will man die Signifikanz des ermittelten Wertes feststellen, so kann man erneut auf die kritischen Werte für &#967;&#178; zurückgreifen.</p>
+                <p>Will man die Signifikanz des ermittelten Wertes feststellen, so kann man erneut auf die kritischen Werte für <quantity>&#967;&#178;</quantity> zurückgreifen.</p>
             </page>
             <page>
                 <p>Allgemein sollte man in Bezug auf Signifikanzmaße
@@ -732,8 +738,8 @@
                                         wie oft man die Wortverbindung bei
                                         einer gleichmäßigen Verteilung erwarten
                                         würde.</p> </ctext>
-                                <url href="Überzufällig häufig" >Überzufällig häufig</url>
-                                <url href="Signifikant" >Signifikant</url>
+                                <p><url href="Überzufällig häufig" >Überzufällig häufig</url></p>
+                                <p><url href="Signifikant" >Signifikant</url></p>
                             </action>
                         </option>
                     </answer>
@@ -762,8 +768,8 @@
                                         Werden diese deutlich überschritten, so
                                         ist die Wortverbindung signifikant.
                                 </p> </ctext>
-                                <url href="#Beobachtete Frequenz" >Beobachtete Frequenz</url>
-                               <url href="#Erwartete Frequenz" >Erwartete Frequenz</url>
+                                <p><url href="#Beobachtete Frequenz" >Beobachtete Frequenz</url></p>
+                               <p><url href="#Erwartete Frequenz" >Erwartete Frequenz</url></p>
                             </action>
                         </option>
                     </answer>
@@ -789,7 +795,7 @@
                                     </list>
                                     <p>Für alle vier Werte ist sowohl die beobachtete wie die erwartete Frequenz anzugeben.</p>
                                 </ctext>
-                                <url href="#Beobachtete Frequenz" >Beobachtete Frequenz</url>
+                                <p><url href="#Beobachtete Frequenz" >Beobachtete Frequenz</url></p>
                             </action>
                         </option>
                     </answer>
@@ -829,8 +835,8 @@
                                         <term>MI</term> oder
                                         <term>T-Score</term> Anwendung.</p>
                                 </ctext>
-                                <url href="Signifikanzmaße" >Signifikanzmaße</url>
-                                                                <url href="Signifikanzmaß" >Das Signifikanzmaß</url>
+                                <p><url href="Signifikanzmaße" >Signifikanzmaße</url></p>
+                                <p><url href="Signifikanzmaß" >Das Signifikanzmaß</url></p>
                             </action>
                         </option>
                     </answer>
@@ -899,7 +905,7 @@
                                         <li>Der Kollokator oder das Bezugswort benennt typische Eigenschaften.</li>
                                     </list>
                                 </ctext>
-                                <url href="#Kohäsionsgründe" >Mögliche Gründe für die Kohäsion von Wörtern</url>
+                                <p><url href="#Kohäsionsgründe" >Mögliche Gründe für die Kohäsion von Wörtern</url></p>
                             </action>
                         </option>
                     </answer>
@@ -1178,7 +1184,7 @@
                         <option>
                             <ctext>Ja</ctext>
                             <action>
-                                <ctext>Das ist super!</ctext>
+                                <ctext>Das ist richtig gut!</ctext>
                             </action>
                         </option>
                         <option>
