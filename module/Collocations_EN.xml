@@ -441,7 +441,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                     </details>
                 <p>For calculating the <emph>expected frequency of a word combination</emph>, you set the <emph>single frequencies of the collocates in relation to the overall size of the corpus</emph>. So first of all you count the occurrence (<quantity>f&#8321;</quantity>) of word <kursiv>a</kursiv> and the occurrence (<quantity>f&#8322;</quantity>) of word <kursiv>b</kursiv>.
                    Then, in relation to the total (<quantity>N</quantity>) of word tokens in the corpus, the <emph>Expected Frequency</emph> (<quantity>E</quantity>) is calculated as follows: </p>
-                <p><quantity>E</quantity> = <sup><quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity></sup>&#8260;<sub><quantity>N</quantity></sub></p>
+                <p><img src="Kollokationen Formel1.jpg"></img></p>
 <details>
                 <p><person name="Evert, Stefan">Evert</person> explains this in more detail using the example of the collocation <kursiv>is to</kursiv> which occurs 260 times in the Brown corpus. The component <kursiv>is</kursiv> occurs approximately 10,000 while <kursiv>to</kursiv> has a frequency of about 26,000 times among 1 million word tokens. If the words were distributed randomly, the word pair would be expected to co-occur roughly 260 times.  Because this number reflects the actual occurrence, <kursiv>is to</kursiv> is not regarded as significant, though.</p>
                 <p>"The expected number of cooccurrences for a completely ‘uncollocational’ word pair has been derived by the following reasoning: <kursiv>to</kursiv> occurs 26 times every 1,000 words on average. If there is no association between <kursiv>is</kursiv> and <kursiv>to</kursiv>, then each of the 10,000 instances of <kursiv>is</kursiv> in the Brown corpus has a chance of 26/1,000 to be followed by <kursiv>to</kursiv>. Therefore, we expect around 10,000 X (26/1,000) = 260 occurrences of the bigram <kursiv>is to</kursiv>, provided that there is indeed no association between the words." (<bib id="Evert2009">
@@ -452,9 +452,9 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <p>Therefore it seems reasonable to compile a contingency table of the expected frequencies in a second step, too. </p>
             </page>
             <page>
-                <p>Based on the formula <sup><quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity></sup>&#8260;<sub><quantity>N</quantity></sub> for calculating the expected frequency of a collocation, the other cells are calculated as follows:</p><!-- PLEASE INSERT HERE TABLE 3 -->
+                <p>Based on the formula <img src="Kollokationen Formel2.jpg"></img> for calculating the expected frequency of a collocation, the other cells are calculated as follows:</p><!-- PLEASE INSERT HERE TABLE 3 -->
 <details>
-                <p>Basically we calculate for each cell <sup>"row total" &#8729; "column total"</sup>&#8260;<sub>"total number of all frequencies"</sub>.</p>
+                <p>Basically we calculate for each cell <img src="Collocations formula3.jpg"></img>.</p>
                 </details>
             </page>
             <page>
@@ -477,9 +477,9 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
             <page>
                 <h3>Chi-Square Test</h3>
                 <p>Basically, the chi-square test or also
-                    &#967;&#178;test measures the difference between the observed and the expected frequencies, including all the values of the previously created contingency tables. So for each cell <sup>(O - E)&#178;</sup>&#8260;<sub>E</sub> needs to be calculated and the respective results are then added.</p>
-                <p>This results in the formula
-                    &#967;&#178; = &#8721; <sup>(O - E)&#178;</sup>&#8260;<sub>E</sub></p>
+                    &#967;&#178;test measures the difference between the observed and the expected frequencies, including all the values of the previously created contingency tables. So for each cell <img src="Kollokationen Formel4.jpg"></img> needs to be calculated and the respective results are then added.</p>
+                <p>This results in the formula 
+                    <img src="Kollokationen Formel5.jpg"></img>.</p>
                 <p>"The essence of the test is to compare the observed
                     frequencies in the table with the frequencies expected for
                     independence. If the difference between observed and

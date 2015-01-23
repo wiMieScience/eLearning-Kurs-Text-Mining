@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="course.xsl" ?>
-<!DOCTYPE course SYSTEM ".../doc/course.dtd">
+
 <course>
     <meta>
         <title>e-Learning-Kurs zum Thema "Text Mining"</title>
@@ -556,7 +556,9 @@
                 <p>Für die Berechnung der <emph>erwarteten Frequenz einer Wortverbindung</emph>, setzt man die <emph>Einzelfrequenzen der Kollokatoren in Relation zur Gesamtgröße des Korpus</emph>.
                     Man zählt also zunächst das Vorkommen (<quantity>f&#8321;</quantity>) von Wort <kursiv>a</kursiv> sowie das Vorkommen (<quantity>f&#8322;</quantity>) von Wort <kursiv>b</kursiv>.
                     In Bezug zur Gesamtzahl (<quantity>N</quantity>) an Worttoken im Korpus berechnet man die <emph>Expected Frequency</emph> (<quantity>E</quantity>) dann wie folgt: </p>
-                <p><quantity>E</quantity> = <sup><quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity></sup>&#8260;<sub><quantity>N</quantity></sub></p>
+                <p>
+                <img src="Kollokationen Formel1.jpg"></img>
+                </p>
                 <details>
                 <p><person name="Evert, Stefan">Evert</person> führt das Ganze etwas detaillierter an dem Beispiel der Kollokation <kursiv>is to</kursiv> aus, welche 260-mal im Brown Korpus vorkommt.
                     Der Kollokator <kursiv>is</kursiv> weist dabei eine Frequenz von etwa 10 000 und <kursiv>to</kursiv> von 26 000 pro 1 Million Worttoken auf. Bei einer zufälligen Verteilung der Wörter, würde man die Kollokation somit etwa 260-mal erwarten.
@@ -575,10 +577,12 @@
                 <p>Es liegt deshalb nahe, in einem zweiten Schritt ebenfalls eine Kontingenztabelle der erwarteten Werte zu erstellen. </p>
             </page>
             <page>
-                <p>Angelehnt an die Formel <sup><quantity>f&#8321;</quantity> &#8729; <quantity>f&#8322;</quantity></sup>&#8260;<sub><quantity>N</quantity></sub> zur Berechnung der erwarteten Frequenz einer Kollokation
-                    berechnen sich die anderen Felder wie folgt:</p><!-- HIER KONTINGENZTABELLE 3 EINFÜGEN-->
+                <p>
+                Angelehnt an die Formel <img src="Kollokationen Formel2.jpg"></img> zur Berechnung der erwarteten Frequenz einer Kollokation
+                    berechnen sich die anderen Felder wie folgt:
+                    </p><!-- HIER KONTINGENZTABELLE 3 EINFÜGEN-->
                 <details>
-                <p>Im Grunde rechnet man für jede Zelle <sup>"Reihensumme" &#8729; "Spaltensumme"</sup>&#8260;<sub>"Gesamtsumme aller Frequenzen"</sub>.
+                <p>Im Grunde rechnet man für jede Zelle <img src="Kollokationen Formel3.jpg"></img>.
                 </p>
                 </details>
             </page>
@@ -610,10 +614,10 @@
                     Differenz zwischen den beobachteten und den erwarteten
                     Frequenzen</emph> und bezieht dabei
                     alle Werte der zuvor erstellten Kontingenztabellen ein. <emph>Für
-                    jede Zelle wird also <sup>(O - E)&#178;</sup>&#8260;<sub>E</sub> ermittelt
+                    jede Zelle wird also <img src="Kollokationen Formel4.jpg"></img> ermittelt
                     und die jeweiligen Ergebnisse werden dann addiert.</emph></p>
-                <p>Daraus ergibt sich die Formel
-                    &#967;&#178; = &#8721; <sup>(O - E)&#178;</sup>&#8260;<sub>E</sub></p>
+                <p>Daraus ergibt sich die Formel 
+                    <img src="Kollokationen Formel5.jpg"></img>.</p>
                 <p>"The essence of the test is to compare the observed
                     frequencies in the table with the frequencies expected for
                     independence. If the difference between observed and
@@ -1015,7 +1019,7 @@
                     jeweiligen Wörter im Korpus erscheinen müssen, um bei der
                     Berechnung berücksichtigt zu werden.</emph> </p>
                 <p>Dabei sollte man jedoch, laut <person name="Evert,                         Stefan">Evert</person>, im Hinterkopf behalten, dass in einem entsprechend großen Korpus zahlreiche Wortpaare in der Regel zwar mehr als zweimal vorkommen, allerdings nur ein geringer Anteil an Wörtern einen Grenzwert von &#8805; 10 überschreitet. (vgl. hierzu die Erläuterungen zu Zipfs
-                    Gesetz im Modul <url href="http://linguistik.zih.tu-dresden.de/textmining/course/module?course=eLearning-Kurs-Text-Mining&module=Konkordanzen%20und%20Keyword%20Listen&page=20">"Konkordanzen und Keyword Listen"</url>) <!-- Evtl. statischen Link ersetzen
+                    Gesetz im Modul "Konkordanzen und Keyword Listen") 
                     --></p>
                 <p>Er führt des Weiteren aus, dass der Parameter
                     "Mindestvorkommen" auch in der Funktion eines

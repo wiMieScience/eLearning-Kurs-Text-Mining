@@ -48,14 +48,14 @@
                     </p>
                 </details>
                 <p>Zum einen kann damit schlicht ein <emph>Stichwort bzw.</emph> ein <emph>Suchbegriff</emph> gemeint sein, welchen man über eine entsprechende Anfrage im Korpus ausfindig machen will. Die Ergebnisse einer solchen Suche nach einem bestimmten Wort werden üblicherweise als <emph>Konkordanzen</emph> ausgegeben. Dabei handelt es sich um eine <emph>typische Darstellungsform</emph> von Korpusanalysetools, bei welcher alle Textbelege angezeigt werden, die das Keyword enthalten. Dieses steht in der Regel im Zentrum und wird typographisch hervorgehoben.</p>
-                <p>Zum anderen können damit aber auch <emph>Schlüsselwörter oder Schlagwörter</emph> bezeichnet werden, welche durch den Vergleich zweier Korpora berechnet und in Form einer Liste ausgegeben werden. Auf diese Weise lässt sich in Erfahrung bringen, welche Wörter <emph>charakteristisch für ein Korpus</emph> oder auch für einen Text sind. </p>
+                <p>Zum anderen können damit aber auch <emph>Schlüsselwörter oder Schlagwörter</emph> bezeichnet werden, welche durch den Vergleich zweier Korpora berechnet und ebenfalls in Form einer Liste ausgegeben werden. Auf diese Weise lässt sich in Erfahrung bringen, welche Wörter <emph>charakteristisch für ein Korpus</emph> oder auch für einen Text sind. </p>
                 <details>
-                    <p>Insbesondere im deutschsprachigen Raum gibt es die Tradition der "Schlagwortforschung", in welcher man sich mit Begriffen beschäftigt, die in einem bestimmten Zeitraum im Fokus des öffentlichen Interesses stehen und Programme, Ideen oder Sachverhalte und damit verbundene Meinungen in kondensierter Form zum Ausdruck bringen.</p>
+                    <p>Insbesondere im deutschsprachigen Raum gibt es die Tradition der "Schlagwortforschung", in welcher man sich mit Begriffen beschäftigt, die in einem bestimmten Zeitraum im Fokus des öffentlichen Interesses stehen und Programme, Ideen oder Sachverhalte und damit verbundene Meinungen in kondensierter Form zum Ausdruck bringen. (<bib id="Schröter2009">vgl. <person name="Schröter, Melani">Schröter</person>/<person name="Carius, Björn">Carius</person></bib> 2009: 20)</p>
                 </details>
             </page>
             <page>
                 <h2 id="Konkordanzen">Konkordanzen</h2>
-                <p>Will man ein bestimmtes Stichwort in einem Korpus finden, so werden die Ergebnisse einer entsprechenden Suchanfrage üblicherweise als sogenannte Konkordanzen <emph><kursiv>Key Words In Context</kursiv></emph>, kurz <emph>KWIC</emph>, dargestellt. Dabei wird <emph>jedes Vorkommen des gesuchten Wortes</emph> zeilenweise angezeigt, wobei das Keyword mittig platziert wird. Rechts und links erscheint entsprechend der getroffenen Einstellungen und medialen Möglichkeiten der <emph>umgebende Kotext</emph>. Im Allgemeinen besteht dieser aus einer festen Zahl an Zeichen inklusive Leerzeichen, die je nach Analysesoftware variabel sein kann. Dadurch werden einige Kontextwörter zum Teil bruchstückhaft angezeigt. </p>
+                <p>Will man ein bestimmtes Stichwort in einem Korpus finden, so werden die Ergebnisse einer entsprechenden Suchanfrage üblicherweise als sogenannte Konkordanzen bzw. <emph><kursiv>Key Words In Context</kursiv></emph>, kurz <emph>KWIC</emph>, dargestellt. Dabei wird <emph>jedes Vorkommen des gesuchten Wortes</emph> zeilenweise angezeigt, wobei das Keyword mittig platziert wird. Rechts und links erscheint entsprechend der getroffenen Einstellungen und medialen Möglichkeiten der <emph>umgebende Kotext</emph>. Im Allgemeinen besteht dieser aus einer festen Zahl an Zeichen inklusive Leerzeichen, die je nach Analysesoftware variabel sein kann. Dadurch werden einige Kontextwörter zum Teil bruchstückhaft angezeigt. </p>
                 <p>KWICs können je nach Analyseprogramm alphabetisch sortiert werden, ausgehend von dem Wort, welches dem Keyword vorangeht oder folgt. Ebenso ist es möglich, sie in der Reihenfolge ihres Vorkommens im Korpus ausgeben zu lassen.</p>
                 <p>In einigen Fällen benötigt man möglicherweise mehr Kontext als die bloße Konkordanzzeile um Regularitäten eines Keywords ausmachen zu können. Klickt man auf das entsprechende Suchwort, gelangt man in der Regel zu einem größeren Textausschnitt und sieht dabei so viel Kontext, wie für das bessere Verständnis bzw. die Interpretation nötig ist.
                 </p>
@@ -63,20 +63,20 @@
                 <details>
                     <p>Erstmals wurden Konkordanzen für einschlägige literarische Werke und religiöse Schriften per Hand erstellt. Ende der 1950er benutzte man dann den Computer, um Artikelüberschriften und Aufsätze zu kategorisieren und zu indizieren. 1960 entwickelte Luhn schließlich das erste Konkordanzprogramm und prägte den Begriff <term>KWIC</term>.</p>
                 </details>
-                <img src="/image/Beispiel Konkordanzen.gif">Beispieldarstellung von Konkordanzen</img>
+                <img src="/image/Beispiel Konkordanzen.gif">Beispieldarstellung von Konkordanzen anhand der Wortform "Stichwort" / Bildquelle: Korpus "Redenkorpus Steinbrück": <kursiv>powered by CQPweb</kursiv></img>
             </page>
             <page>
                 <h3>Schwierigkeit</h3>
-                <p>Die Arbeit mit Konkordanzen birgt allerdings eine gewisse Problematik. Üblicherweise wählt man als Forscher eine <emph>möglichst breite Datengrundlage</emph>, was zur Folge hat, dass die Suche nach einem frequenten Wort eine <emph>Fülle an Ergebnissen</emph> liefern kann. Je größer diese Treffermenge ist, desto schwieriger gestaltet sich dann auch deren Sichtung und ab einer gewissen Datenflut ist es unmöglich, alle Belege in Augenschein zu nehmen. Zwar erhält man sicherlich schon beim Überfliegen der KWICs einen Eindruck von bestimmten Eigenschaften des Keywords, doch andere und insbesondere subtilere Phänomene werden bei umfangreichen Trefferzahlen leicht übersehen. </p>
+                <p>Die Arbeit mit Konkordanzen birgt allerdings eine gewisse Problematik. Üblicherweise wählt man als Forscher eine <emph>möglichst breite Datengrundlage</emph>, was zur Folge hat, dass die Suche nach einem frequenten Wort eine <emph>Fülle an Ergebnissen</emph> liefern kann. Je größer diese Treffermenge ist, desto schwieriger gestaltet sich dann auch deren Sichtung und ab einer gewissen Datenflut ist es <emph>unmöglich, alle Belege in Augenschein zu nehmen</emph>. Zwar erhält man sicherlich schon beim Überfliegen der KWICs einen Eindruck von bestimmten Eigenschaften des Keywords, doch andere und insbesondere subtilere Phänomene werden bei umfangreichen Trefferzahlen leicht übersehen. </p>
                 <p><person name="Hunston, Susan">Hunston</person> meint beispielsweise, dass es kaum zu bewerkstelligen wäre, mehr als etwa 100 Konkordanzzeilen näher zu untersuchen. In den meisten Fällen sind 100 Zeilen aber nur ein sehr kleiner Ausschnitt, der keinen ausreichenden Einblick liefert, weshalb man sich einem systematischeren Vorgehen zuwenden muss.</p>
             </page>
             <page>
                 <h3 id="Auswertung">Möglichkeiten der Auswertung</h3>
                 <p>Es bieten sich unterschiedliche Verfahren an, um ein angemessenes Bild eines Keywords zu erhalten, ohne dafür sämtliche Konkordanzen sichten zu müssen.</p>
                 <p>Als eine Möglichkeit, eine unüberschaubare Vielzahl an KWICs auszuwerten, führen <person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz</person> an, dass man eine angemessen große Menge an Treffern zufällig auswählen und manuell auswerten könne. Die Eigenschaften des Keywords, die man anhand dieser <emph>Stichprobe</emph> feststellt, würde man dann in einem nächsten Schritt auf alle Treffer <emph>hochrechnen</emph>. Problematisch ist jedoch, dass dabei seltene Phänomene verlorengehen oder verzerrt werden können. </p>
-                <p>Eine zweite Option ist das <emph>automatische Erschließen</emph> der Ergebnisse <emph>mithilfe geeigneter Assoziationsmaße</emph> (vgl. Modul "<url href="http://linguistik.zih.tu-dresden.de/textmining/course/">"Kollokationen"</url>). Die als signifikant dargestellten Treffer können dann entsprechend der jeweiligen Forschungsfrage interpretiert und ausgewertet werden.</p>
+                <p>Eine zweite Option ist das <emph>automatische Erschließen</emph> der Ergebnisse <emph>mithilfe geeigneter Assoziationsmaße</emph> (vgl. Modul <url href="http://linguistik.zih.tu-dresden.de/textmining/course/">"Kollokationen"</url>). Die als signifikant dargestellten Treffer können dann entsprechend der jeweiligen Forschungsfrage interpretiert und ausgewertet werden.</p>
                 <p>Ein weiteres Vorgehen, um sehr große Ergebnismengen zu bewältigen, ist die <emph>zufällige Wahl und Auswertung einer festgelegten Anzahl an Konkordanzzeilen</emph>, beispielsweise 30. Anschließend werden 30 weitere Zeilen ausgesucht und dies so lange fortgeführt, bis man zu keinen neuen Erkenntnissen über das Keyword gelangt.</p>
-                <p>Naheliegend wäre auch, aus sämtlichen Konkordanzen eine <emph>kleine Zufallsstichprobe</emph> zu ziehen und anhand dieser eine <emph>Hypothese aufzustellen</emph>, welche man durch eine zweite Stichprobe einer Prüfung unterzieht und gegebenenfalls adaptiert. </p>
+                <p>Naheliegend wäre auch, aus sämtlichen Konkordanzen eine <emph>kleine Zufallsstichprobe</emph> zu ziehen und anhand dieser eine <emph>Hypothese aufzustellen</emph>, welche man durch eine zweite Stichprobe überprüft und gegebenenfalls adaptiert. </p>
             </page>
             <page>
                 <h2 id="Keyword Listen">Keyword Listen</h2>
@@ -114,7 +114,6 @@
                     <li>vgl. Kennedy 251, 257f.</li>
                     <li>vgl. Manning/Schütze 31-35</li>
                     <li>vgl. Perkuhn 41-43, 75-77, 99</li>
-                    <li>vgl. Schröter/Carius 20 </li>
                     <li>vgl. Stubbs 23, 25</li>
                 </list>
                 <h3>Lohnenswerte Vertiefungsliteratur:</h3>
@@ -195,15 +194,13 @@
             <page>
                 <h1>Anwendungsmöglichkeiten</h1>
                 <h2 id="Wozu Konkordanzen?">Wozu kann die Analyse von Konkordanzen dienen?</h2>
-                <list>
-                    <li>als Quelle für authentische Verwendungsbeispiele eines Wortes</li>
-                    <li>Man erhält einen ersten Eindruck des Suchwortes und kann sich einen Überblick über dessen Kontexte verschaffen.</li>
-                    <li>Gängige Konstruktionen und Muster lassen sich ausmachen.</li>
-                    <li>Die grammatischen Strukturen rechts und links des Keywords können identifiziert werden.</li>
-                    <li type="details">Beispiel: "[...] <kursiv>of</kursiv> functions as a central linking preposition in complex noun phrases [...]" (<bib id="Bondi2010a"><person name="Groom, Nicholas">Groom</person> 2010: 60</bib>) Folglich ist dieses Keyword häufig in die Struktur <kursiv>N of N</kursiv> eingebettet. </li>
-                    <li>Es kann untersucht werden, wie sich bestimmte Wörter "verhalten".</li>
-                    <li>Die Bedeutung(en) eines Wortes kann/können veranschaulicht werden: "[...] [T]he meaning of a word is closely associated with its co-text." (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person> 2002: 46</bib>)</li>
-                </list>
+                    <p>&#8226; als Quelle für authentische Verwendungsbeispiele eines Wortes</p>
+                    <p>&#8226; Man erhält einen ersten Eindruck des Suchwortes und kann sich einen Überblick über dessen Kontexte verschaffen.</p>
+                    <p>&#8226; Gängige Konstruktionen und Muster lassen sich ausmachen.</p>
+                    <p>&#8226; Die grammatischen Strukturen rechts und links des Keywords können identifiziert werden.</p>
+                    <p type="details">Beispiel: "[...] <kursiv>of</kursiv> functions as a central linking preposition in complex noun phrases [...]" (<bib id="Bondi2010a"><person name="Groom, Nicholas">Groom</person> 2010: 60</bib>) Folglich ist dieses Keyword häufig in die Struktur <kursiv>N of N</kursiv> eingebettet. </p>
+                    <p>&#8226; Es kann untersucht werden, wie sich bestimmte Wörter "verhalten".</p>
+                    <p>&#8226; Die Bedeutung(en) eines Wortes kann/können veranschaulicht werden: "[...] [T]he meaning of a word is closely associated with its co-text." (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person> 2002: 46</bib>)</p>
                 <p>Die über die Muster und Strukturen eines Suchbegriffs gewonnenen Informationen können beispielsweise in Lehrwerken des Fremdsprachenunterrichts zum Einsatz kommen oder auch als Grundlage für statistische Parser dienen. </p>
             </page>
             <page>
@@ -328,11 +325,11 @@
                     <p>pmW ist die Kurzform für "pro Million Wörter"</p>
                     <p>"Man kann sich pMW-Werte so vorstellen, dass die beobachteten absoluten Frequenzen von der Größe des tatsächlich verwendeten Korpus hoch- bzw. runtergerechnet werden auf ein (fiktives) Korpus, das genau eine Million Wörter umfasst [...]" (<bib id="Perkuhn2012"><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz</person> 2012: 79</bib>).</p>
                 </details>
-                <p>Die relative Frequenz von Wort <kursiv>a</kursiv> in <emph>Korpus X</emph> beträgt somit <sup>30</sup>&#8260;<sub>200 000</sub> &#8729; 1 000 000 = <emph>150</emph> und der pmW-Wert in <emph>Korpus Y</emph> beläuft sich auf <sup>11</sup>&#8260;<sub>140 000</sub> &#8729; 1 000 000 &#8776; <emph>78,57</emph>. </p>
+                <p>Die relative Frequenz von Wort <kursiv>a</kursiv> in <emph>Korpus X</emph> beträgt somit <img src="Keywords Formel1"></img> und der pmW-Wert in <emph>Korpus Y</emph> beläuft sich auf <img src="Keywords Formel2"></img>. </p>
                 <p>Auf Grundlage dieser Berechnungen lässt sich feststellen, dass Wort <kursiv>a</kursiv> ungefähr doppelt so oft in Korpus X vorkommt wie in Korpus Y.</p>
                 <h2 id="Häufigkeitsklassen">Häufigkeitsklassen</h2>
                 <p>Eine weitere Möglichkeit, die Frequenz eines Wortes zu messen, sind Häufigkeitsklassen. Die Wortformen eines Korpus werden dabei entsprechend ihrer Frequenz in Klassen eingeordnet. Finden sich also zwei Wörter in der gleichen Häufigkeitsklasse wieder, so kommen sie in etwa gleich oft im Korpus vor. Die Formel zur Berechnung der Häufigkeitsklasse eines Wortes orientiert sich an einem der Zipfschen Gesetze und setzt einen Suchbegriff mit dem frequentesten Wort des Korpus in Beziehung:</p>
-                <p>HK<sub>(W)</sub>  = &#8970; log&#8322;(<sup>absolute Frequenz des Suchbegriffs </sup>&#8260;<sub> absolute Frequenz des häufigsten Wortes</sub>) &#8971;</p>
+                <p><img src="Keywords Formel3"></img></p>
                 <p>Die sogenannte Gaußklammer führt dazu, dass das Ergebnis auf eine ganze Zahl abgerundet wird. </p>
                 <details>
                     <p>
@@ -357,7 +354,7 @@
                     </p>
                 </details>
                 <p>Mit anderen Worten: </p>
-                <p><quantity>f</quantity> &#8764; <sup>1</sup>&#8260;<sub>r</sub></p>
+                <p><img src="Keywords Formel4"></img></p>
                 <p>Die Frequenz <quantity>(f)</quantity> einer Wortform in einem Korpus ist annähernd umgekehrt proportional zu ihrer Listenposition <quantity>(r)</quantity>.</p>
                 <p>Zipfs Gesetz hat einige Schwachstellen, doch im Grunde ist es eine nützliche Beschreibung der <emph>Häufigkeitsverteilung in natürlichen Sprachen</emph>. Denn es besagt, dass <emph>lediglich ein geringer Teil an Wörtern sehr häufig in einer Sprache</emph> vorkommt, einige Wörter finden sich im mittleren Frequenzbereich und <emph>viele Wörter erscheinen nur vereinzelt</emph>. </p>
                 <p>Man kann dies folgendermaßen visualisieren:</p>
@@ -524,8 +521,8 @@
                     &#967;&#178;-Test misst im Grunde die
                     Differenz zwischen den beobachteten Frequenzen <quantity>(O)</quantity> und den erwarteten Frequenzen <quantity>(E)</quantity> und bezieht dabei
                     alle Werte der zuvor erstellten Kontingenztabellen ein. Für
-                    jede Zelle wird also <sup>(O - E)&#178;</sup>&#8260;<sub>E</sub> ermittelt und die Ergebnisse der vier Zellen werden dann addiert, woraus sich &#967;&#178; ergibt:</p>
-                <p>&#967;&#178; = &#8721; <sup>(O - E)&#178;</sup>&#8260;<sub>E</sub></p>
+                    jede Zelle wird also <img src="Keywords Formel5"></img> ermittelt und die Ergebnisse der vier Zellen werden dann addiert, woraus sich &#967;&#178; ergibt:</p>
+                <p><img src="Keywords Formel6"></img></p>
                 <p>Um herauszufinden, ob der so berechnete Wert signifikant ist, muss man eine Tabelle der kritischen Werte für &#967;&#178; zu Rate ziehen. Diese besagt für eine Vierfelder-Kontingenztabelle:
                     "Wenn &#967;&#178; &#8805; 3.84 beträgt, dann ist der Frequenzunterschied zwischen den beiden Korpora signifikant, bei &#967;&#178; &#8805; 6.64 hoch und bei &#967;&#178; &#8805; 10.83 höchst signifikant [...]." (<bib id="Bubenhofer_Noah"><person name="Bubenhofer, Noah">Bubenhofer</person> im Druck</bib>)</p>
             </page>
