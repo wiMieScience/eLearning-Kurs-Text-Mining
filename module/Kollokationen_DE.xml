@@ -557,7 +557,7 @@
                     Man zählt also zunächst das Vorkommen (<quantity>f&#8321;</quantity>) von Wort <kursiv>a</kursiv> sowie das Vorkommen (<quantity>f&#8322;</quantity>) von Wort <kursiv>b</kursiv>.
                     In Bezug zur Gesamtzahl (<quantity>N</quantity>) an Worttoken im Korpus berechnet man die <emph>Expected Frequency</emph> (<quantity>E</quantity>) dann wie folgt: </p>
                 <p>
-                <img src="Kollokationen Formel1.jpg"></img>
+                    <img src="/image/Kollokationen Formel1.jpg"></img>
                 </p>
                 <details>
                 <p><person name="Evert, Stefan">Evert</person> führt das Ganze etwas detaillierter an dem Beispiel der Kollokation <kursiv>is to</kursiv> aus, welche 260-mal im Brown Korpus vorkommt.
@@ -578,11 +578,11 @@
             </page>
             <page>
                 <p>
-                Angelehnt an die Formel <img src="Kollokationen Formel2.jpg"></img> zur Berechnung der erwarteten Frequenz einer Kollokation
+                    Angelehnt an die Formel <img src="/image/Kollokationen Formel2.jpg"></img> zur Berechnung der erwarteten Frequenz einer Kollokation
                     berechnen sich die anderen Felder wie folgt:
                     </p><!-- HIER KONTINGENZTABELLE 3 EINFÜGEN-->
                 <details>
-                <p>Im Grunde rechnet man für jede Zelle <img src="Kollokationen Formel3.jpg"></img>.
+                    <p>Im Grunde rechnet man für jede Zelle <img src="/image/Kollokationen Formel3.jpg"></img>.
                 </p>
                 </details>
             </page>
@@ -614,10 +614,10 @@
                     Differenz zwischen den beobachteten und den erwarteten
                     Frequenzen</emph> und bezieht dabei
                     alle Werte der zuvor erstellten Kontingenztabellen ein. <emph>Für
-                    jede Zelle wird also <img src="Kollokationen Formel4.jpg"></img> ermittelt
+                        jede Zelle wird also <img src="/image/Kollokationen Formel4.jpg"></img> ermittelt
                     und die jeweiligen Ergebnisse werden dann addiert.</emph></p>
                 <p>Daraus ergibt sich die Formel 
-                    <img src="Kollokationen Formel5.jpg"></img>.</p>
+                    <img src="/image/Kollokationen Formel5.jpg"></img>.</p>
                 <p>"The essence of the test is to compare the observed
                     frequencies in the table with the frequencies expected for
                     independence. If the difference between observed and
