@@ -325,11 +325,12 @@
                     <p>pmW ist die Kurzform für "pro Million Wörter"</p>
                     <p>"Man kann sich pMW-Werte so vorstellen, dass die beobachteten absoluten Frequenzen von der Größe des tatsächlich verwendeten Korpus hoch- bzw. runtergerechnet werden auf ein (fiktives) Korpus, das genau eine Million Wörter umfasst [...]" (<bib id="Perkuhn2012"><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz</person> 2012: 79</bib>).</p>
                 </details>
-                <p>Die relative Frequenz von Wort <kursiv>a</kursiv> in <emph>Korpus X</emph> beträgt somit <img src="/image/Keywords Formel1"></img> und der pmW-Wert in <emph>Korpus Y</emph> beläuft sich auf <img src="/image/Keywords Formel2"></img>. </p>
+                <p>Die relative Frequenz von Wort <kursiv>a</kursiv> in <emph>Korpus X</emph> beträgt somit <img src="/image/Keywords Formel1.png"></img> und der pmW-Wert in <emph>Korpus Y</emph> beläuft sich auf
+                    <img src="/image/Keywords Formel2.png"></img>. </p>
                 <p>Auf Grundlage dieser Berechnungen lässt sich feststellen, dass Wort <kursiv>a</kursiv> ungefähr doppelt so oft in Korpus X vorkommt wie in Korpus Y.</p>
                 <h2 id="Häufigkeitsklassen">Häufigkeitsklassen</h2>
                 <p>Eine weitere Möglichkeit, die Frequenz eines Wortes zu messen, sind Häufigkeitsklassen. Die Wortformen eines Korpus werden dabei entsprechend ihrer Frequenz in Klassen eingeordnet. Finden sich also zwei Wörter in der gleichen Häufigkeitsklasse wieder, so kommen sie in etwa gleich oft im Korpus vor. Die Formel zur Berechnung der Häufigkeitsklasse eines Wortes orientiert sich an einem der Zipfschen Gesetze und setzt einen Suchbegriff mit dem frequentesten Wort des Korpus in Beziehung:</p>
-                <p><img src="/image/Keywords Formel3"></img></p>
+                <p><img src="/image/Keywords Formel3.png"></img></p>
                 <p>Die sogenannte Gaußklammer führt dazu, dass das Ergebnis auf eine ganze Zahl abgerundet wird. </p>
                 <details>
                     <p>
@@ -354,7 +355,7 @@
                     </p>
                 </details>
                 <p>Mit anderen Worten: </p>
-                <p><img src="/image/Keywords Formel4"></img></p>
+                <p><img src="/image/Keywords Formel4.png"></img></p>
                 <p>Die Frequenz <quantity>(f)</quantity> einer Wortform in einem Korpus ist annähernd umgekehrt proportional zu ihrer Listenposition <quantity>(r)</quantity>.</p>
                 <p>Zipfs Gesetz hat einige Schwachstellen, doch im Grunde ist es eine nützliche Beschreibung der <emph>Häufigkeitsverteilung in natürlichen Sprachen</emph>. Denn es besagt, dass <emph>lediglich ein geringer Teil an Wörtern sehr häufig in einer Sprache</emph> vorkommt, einige Wörter finden sich im mittleren Frequenzbereich und <emph>viele Wörter erscheinen nur vereinzelt</emph>. </p>
                 <p>Man kann dies folgendermaßen visualisieren:</p>
@@ -521,8 +522,8 @@
                     &#967;&#178;-Test misst im Grunde die
                     Differenz zwischen den beobachteten Frequenzen <quantity>(O)</quantity> und den erwarteten Frequenzen <quantity>(E)</quantity> und bezieht dabei
                     alle Werte der zuvor erstellten Kontingenztabellen ein. Für
-                    jede Zelle wird also <img src="/image/Keywords Formel5"></img> ermittelt und die Ergebnisse der vier Zellen werden dann addiert, woraus sich &#967;&#178; ergibt:</p>
-                <p><img src="/image/Keywords Formel6"></img></p>
+                    jede Zelle wird also <img src="/image/Keywords Formel5.png"></img> ermittelt und die Ergebnisse der vier Zellen werden dann addiert, woraus sich &#967;&#178; ergibt:</p>
+                <p><img src="/image/Keywords Formel6.png"></img></p>
                 <p>Um herauszufinden, ob der so berechnete Wert signifikant ist, muss man eine Tabelle der kritischen Werte für &#967;&#178; zu Rate ziehen. Diese besagt für eine Vierfelder-Kontingenztabelle:
                     "Wenn &#967;&#178; &#8805; 3.84 beträgt, dann ist der Frequenzunterschied zwischen den beiden Korpora signifikant, bei &#967;&#178; &#8805; 6.64 hoch und bei &#967;&#178; &#8805; 10.83 höchst signifikant [...]." (<bib id="Bubenhofer_Noah"><person name="Bubenhofer, Noah">Bubenhofer</person> im Druck</bib>)</p>
             </page>
