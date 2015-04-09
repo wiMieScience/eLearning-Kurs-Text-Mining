@@ -477,9 +477,9 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
             <page>
                 <h3>Chi-Square Test</h3>
                 <p>Basically, the chi-square test or also
-                    &#967;&#178;test measures the difference between the observed and the expected frequencies, including all the values of the previously created contingency tables. So for each cell <img src="/image/Kollokationen Formel4.jpg"></img> needs to be calculated and the respective results are then added.</p>
+                    &#967;&#178;test measures the difference between the observed and the expected frequencies, including all the values of the previously created contingency tables. So for each cell <img src="/image/Kollokationen Formel4.png"></img> needs to be calculated and the respective results are then added.</p>
                 <p>This results in the formula 
-                    <img src="/image/Kollokationen Formel5.jpg"></img>.</p>
+                    <img src="/image/Kollokationen Formel5.png"></img>.</p>
                 <p>"The essence of the test is to compare the observed
                     frequencies in the table with the frequencies expected for
                     independence. If the difference between observed and
