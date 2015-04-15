@@ -49,7 +49,7 @@
                 <p>Der Begriff <term>Kollokation</term> geht auf <person name="Firth, John Rupert">J. R. Firth</person> (<bib id="Firth1957">1957</bib>) zurück,
                     der damit charakteristische und <emph>häufig wiederkehrende Wortkombinationen</emph> bezeichnete. Er war der Ansicht, dass man anhand der Kollokatoren eines Wortes,
                     dessen Bedeutung und Verwendungsweise veranschaulichen kann. </p>
-                <img src="http://www.angela.senis.org/local/cache-vignettes/L224xH320/Firth_WinCE_-191b3.png">John Rupert Firth</img><!-- Foto sollte idealerweise neben dem Text erscheinen-->
+                <img src="http://www.angela.senis.org/local/cache-vignettes/L224xH320/Firth_WinCE_-191b3.jpg">John Rupert Firth</img><!-- Foto sollte idealerweise neben dem Text erscheinen-->
                 <details>
                 <p>Ein Kollokator ist ein Element, also ein einzelnes Wort einer Wortverbindung bzw. Kollokation.</p>
                 </details>
@@ -456,7 +456,7 @@
                 <p>Die Türkei gilt als in sich widersprüchliches Land, wobei auch positive Aspekte zu finden sind, da es sich um einen wirtschaftlichen und militärischen Partner sowie ein beliebtes Urlaubsziel handelt.</p>
                 <p>Vogel räumt schließlich noch zwei wichtige Punkte ein: Zum einen ist es korpuslinguistisch kaum möglich, Ironie in den Daten auszumachen
                     und zum anderen würde eine kontrastive Analyse der Ergebnisse mit einem Referenzkorpus großes Potenzial bergen.</p>
-                <p align="right">(vgl. Vogel 2010: 345-377)</p>
+                <p align="right">(vgl. <bib id="Vogel_Friedemann2010"><person name="Vogel, Friedemann">Vogel</person> 2010: 345-377)</p>
                 <p>Es lässt sich also festhalten, dass Kollokationsanalysen ein produktives wie nützliches Verfahren für die Diskurslinguistik darstellen und auch dem Gebiet der Linguistischen Imageanalyse dienlich sein können.</p>
             </page>
             <page>
@@ -618,7 +618,7 @@
                     Differenz zwischen den beobachteten und den erwarteten
                     Frequenzen</emph> und bezieht dabei
                     alle Werte der zuvor erstellten Kontingenztabellen ein. <emph>Für
-                        jede Zelle wird also <img src="/image/Kollokationen Formel4.png"></img> ermittelt
+                        jede Zelle wird also</emph> <img src="/image/Kollokationen Formel4.png"></img> <emph>ermittelt
                     und die jeweiligen Ergebnisse werden dann addiert.</emph></p>
                 <p>Daraus ergibt sich die Formel 
                     <img src="/image/Kollokationen Formel5.png"></img>.</p>
