@@ -232,11 +232,6 @@
                     </answer>
                 </check>
             </page>
-            <page>
-<img src="http://www.wpclipart.com/smiley/round_eyes/smiley_round_eyes_basic.png">Verwirrt?</img>
-<p>Das war eine ganze Menge an Informationen.</p>
-<p>. . . . . . . . . . Vielleicht gönnen Sie sich erstmal eine kurze Pause. . . . . . . . . . </p>
-            </page>
         </chapter>
         <chapter id="Begriffswahl">
             <page>
@@ -339,6 +334,11 @@
                         </option>
                     </answer>
                 </check>
+            </page>
+                        <page>
+<img src="http://www.wpclipart.com/smiley/round_eyes/smiley_round_eyes_basic.png">Verwirrt?</img>
+<p>Das war eine ganze Menge an Informationen.</p>
+<p>. . . . . . . . . . Vielleicht gönnen Sie sich erstmal eine kurze Pause. . . . . . . . . . </p>
             </page>
         </chapter>
         <chapter id="Mögliche Anwendungen">
@@ -874,7 +874,7 @@
                     Situation dienen.</p>
                 <p>Die aufgeführten Gründe können zugleich als
                     Interpretationsgrundlage bzw. -hilfe dienen.</p>
-                <p>(vgl. Evert 2009: 1218f.; Heyer/Quasthoff/Wittig 2008: 24-38, 148f.)</p>
+                <p align="right">(vgl. Evert 2009: 1218f.; Heyer/Quasthoff/Wittig 2008: 24-38, 148f.)</p>
             </page>
             <page>
                 <h1>Checkliste</h1>
@@ -889,7 +889,7 @@
                     entsprechenden Thema angezeigt.</p>
                 <check>
                     <question>
-                        <ctext><emph>1.	Ich bin fähig, zwei Gründe für die Attraktion zwischen Wörtern anzugeben.</emph></ctext>
+                        <ctext><emph>1.	Ich bin fähig, drei Gründe für die Attraktion zwischen Wörtern anzugeben.</emph></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -1139,7 +1139,7 @@
                         </p>
                         </details>
                         <p> spielen Funktionswörter sicherlich eher eine Rolle, als bei
-                    thematischen oder inhaltlichen Fragestellungen
+                    thematischen oder inhaltlichen Fragestellungen.
                     </p>
                     <details>
                         <p>

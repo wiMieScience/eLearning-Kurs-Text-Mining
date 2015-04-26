@@ -58,20 +58,20 @@
                           </details>
                 <p type="example">According to <person name="Firth, John Rupert">Firth</person>, examples of collocations would be "day" and "night" or "cow" and "milk".</p>
                 <p>Regarding collocations he gives priority to the <emph>mutual expectancy</emph> between words and, thus, to the <emph>influence of statistics</emph>.</p>
-<p><person name="Firth, John Rupert">Firth's</person>definition remains a fairly vague starting point. As a consequence, nowadays collocations are interpreted variously in the fields of computational linguistics, phraseology, foreign language didactics and, last but not least, in corpus linguistics.</p>
+<p><person name="Firth, John Rupert">Firth's</person> definition remains a fairly vague starting point. As a consequence, nowadays collocations are interpreted variously in the fields of computational linguistics, phraseology, foreign language didactics and, last but not least, in corpus linguistics.</p>
             </page>
             <page>
                 <h2 id="Different Definitions">Readings of the Term <term>Collocation</term></h2>
                 <h3>In Phraseology </h3>
                 <p>according to <person name="Hausmann, Franz Josef">Hausmann</person> (<bib id="Hausmann_Franz_Josef2004">2004</bib>), a collocation is understood as a <emph>binary structure</emph> consisting of the two units <emph>base and collocate</emph>. He elaborates that it is a <emph>phraseological combination of two words</emph> bearing a <emph>hierarchical relationship of dependence</emph>.
-                    Especially the last aspect becomes clearer with <person name="Hausmann, Franz Josef">Hausmann's</person> examples, saying that a noun like "experience" does not need the verb "undergo" for its existence. However, the collocate "undergo" urgently requires a base to be anything at all: "undergo tests", "undergo repairs", "undergo medical treatment". (cf.<bib id="Hausmann1991"><person name="Hausmann, Franz Josef">Hausmann</person> 1991: 231</bib>).</p>
-                    <p>In other words: "In a collocation, the collocate is lexically selected by the base (Hausmann, 1985). The base can be interpreted outside the context of the collocation [...], whereas the interpretation of the collocate is contingent upon the specific collocation [...] (Hausmann, 2004)" (<bib id="Seretan2011"><person name="Seretan, Violeta">Seretan</person>2011: 24</bib>).</p>
+                    Especially the last aspect becomes clearer with <person name="Hausmann, Franz Josef">Hausmann's</person> examples, saying that a noun like "experience" does not need the verb "undergo" for its existence. However, the collocate "undergo" urgently requires a base to be anything at all: "undergo tests", "undergo repairs", "undergo medical treatment". (cf. <bib id="Hausmann1991"><person name="Hausmann, Franz Josef">Hausmann</person> 1991: 231</bib>).</p>
+                    <p>In other words: "In a collocation, the collocate is lexically selected by the base (Hausmann, 1985). The base can be interpreted outside the context of the collocation [...], whereas the interpretation of the collocate is contingent upon the specific collocation [...] (Hausmann, 2004)" (<bib id="Seretan2011"><person name="Seretan, Violeta">Seretan</person> 2011: 24</bib>).</p>
                 <p type="example">According to <person name="Hausmann, Franz Josef">Hausmann</person>(<bib id="Hausmann1991">1991</bib>), other examples of collocates are "(to) meet the deadline" or "confirmed bachelor".</p>
                 <details>
                 <p>In sum, for <person name="Hausmann, Franz Josef">Hausmann</person> collocations are two-part word combinations which are showing a hierarchy and a dependency relation. </p>
-                                <p>"In the current literature, collocations are seen as expressions that ‘fall somewhere along a continuum between free word combinations and idioms’" (McKeown and Radev, 2000, cited in <bib id="Seretan2011"><person name="Seretan, Violeta">Seretan</person>2011: 23</bib>).</p>
+                                <p>"In the current literature, collocations are seen as expressions that ‘fall somewhere along a continuum between free word combinations and idioms’" (McKeown and Radev, 2000, cited in <bib id="Seretan2011"><person name="Seretan, Violeta">Seretan</person> 2011: 23</bib>).</p>
                                 </details>
-                <p>As well in the fields of lexicography and foreign language didactics one orientates oneself by <person name="Hausmann, Franz Josef">Hausmann's</person>concept of collocations..</p>
+                <p>As well in the fields of lexicography and foreign language didactics one orientates oneself by <person name="Hausmann, Franz Josef">Hausmann's</person> concept of collocations..</p>
 <details>
                 <p>In his opinion there is a terminological war going on for reclaiming the term "collocation". The coexistence of different definitions he considers a historically grown perversion within the scientific discourse. (cf. <bib id="Hausmann_Franz_Josef2004"><person name="Hausmann, Franz Josef">Hausmann</person> 2004: 320f.</bib>).</p>
                 </details>
@@ -79,7 +79,7 @@
             <page>
                 <h3>In Computational Linguistics</h3>
                 <p>collocations are <emph>lexicalised word combinations with semantic or syntactic properties</emph>.
-                    They are <emph>non-compositional</emph>and their components are <emph>non-modifiable</emph> and <emph>non-substitutable</emph>. </p>
+                    They are <emph>non-compositional</emph> and their components are <emph>non-modifiable</emph> and <emph>non-substitutable</emph>. </p>
                 <details><p><emph>Non-compositional </emph> means that the meaning of the collocation cannot be deduced from the meanings of its components.</p>
                     <p><emph>Non-modifiable</emph> means that a collocate cannot be freely extended or grammatically transformed. For example, you cannot say "pull my legs" but "pull my leg".</p>
                     <p><emph>Non-substitutable</emph> means that the components of a collocation cannot be substituted, not even by near-synonyms (e.g. "hold a talk" instead of "give a talk").</p>
@@ -92,27 +92,27 @@
                 <h3>In Corpus Linguistics</h3>
                 <p>collocations are mostly interpreted in the tradition of <person name="Firth, John Rupert">Firth</person> as <emph>two words which occur more often together than by random chance</emph>.</p>
                 <details>
-                <p>Thus, if one can find "[...] mathematical evidence [by using statistical methods] that the co-occurrence pattern is unlikely to be due to chance [...]" (<bib id="McEnery2012"><person name="McEnery, Tony">McEnery</person>/<person name="Hardie, Andrew">Hardie</person>2012: 125</bib>) and that the combination of two words occurs "[...] more often than the frequencies in the corpus of the constituents of the combination would lead us to expect" (Kjellmer cited in <bib id="Kennedy2003"><person name="Kennedy, ">: 112</person></bib>) then we are talking about collocations, even if the combination is not corresponding to <person name="Hausmann, Franz Josef">Hausmann’s</person> ideas of being well-formed or meaningful.</p>
+                <p>Thus, if one can find "[...] mathematical evidence [by using statistical methods] that the co-occurrence pattern is unlikely to be due to chance [...]" (<bib id="McEnery2012"><person name="McEnery, Tony">McEnery</person>/<person name="Hardie, Andrew">Hardie</person> 2012: 125</bib>) and that the combination of two words occurs "[...] more often than the frequencies in the corpus of the constituents of the combination would lead us to expect" (Kjellmer cited in <bib id="Kennedy2003"><person name="Kennedy, Graeme">Kennedy</person> 2003: 112</bib>) then we are talking about collocations, even if the combination is not corresponding to <person name="Hausmann, Franz Josef">Hausmann’s</person> ideas of being well-formed or meaningful.</p>
                 </details>
                 <p>In order to clearly distinguish it from the phraseological definition some scientists like <person name="Evert, Stefan">Evert</person> (<bib id="Evert2009">2009</bib>) or
                     <person name="Biemann, Chris">Biemann</person>/<person name="Bordag, Stefan">Bordag</person>/<person name="Quasthoff, Uwe">Quasthoff</person> (<bib id="Biemann_Chris2003">2003</bib>)
                     expand the term and differentiate between <emph>empirical</emph> and theoretical or <emph>statistical</emph> and linguistic collocations.</p>
                 <p type="example">Examples of such empirical or statistical collocations would be "although he" or "public gaze".</p>
-                <p>Another way out of the dilemma is for example <person name="Belica, Cyril">Belica</person>pursuing. He only refers to co-occurrences which are consistent with <person name="Hausmann, Franz Josef">Hausmann's</person> dichotomy of base and collocate as collocations.</p>
+                <p>Another way out of the dilemma is for example <person name="Belica, Cyril">Belica</person> pursuing. He only refers to co-occurrences which are consistent with <person name="Hausmann, Franz Josef">Hausmann's</person> dichotomy of base and collocate as collocations.</p>
             </page>
             <page>
                 <h2 id="Co-occurrences">Now, what is a Co-occurrence?</h2>
-                <p>As for <person name="Scherer, Carmen">Scherer</person>(<bib id="Scherer2006">2006</bib>), co-occurrences are a synonym for collocations being <emph>words which are disproportionally often occurring in proximity to one another.</emph></p>
+                <p>As for <person name="Scherer, Carmen">Scherer</person> (<bib id="Scherer2006">2006</bib>), co-occurrences are a synonym for collocations being <emph>words which are disproportionally often occurring in proximity to one another.</emph></p>
                 <p><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz </person> (<bib id="Perkuhn2012">2012</bib>)
                     prefer the term <term>co-occurrence</term> because of the problems resulting from <person name="Firth, John Rupert">Firth's</person> and <person name="Hausmann, Franz Josef">Hausmann's</person> divergent definitions of the term <term>collocation</term>. However, they emphasize that they are not concerned with the <emph>mere co-occurrence</emph> of two words, as the literal meaning of the term would suggest. Essential aspects for them are rather the recurrence as well as the statistical evaluation of the combination.</p>
                 <p>On the other hand, <person name="Steyer, Kathrin">Steyer </person> (<bib id="Steyer2004a">2004</bib>) defines a co-occurrence as quality of cohesion determined by mathematical-statistical calculations. If the words being part of the statistically striking combination are furthermore hierarchically linked to each other and if they are meeting <person name="Hausmann, Franz Josef">Hausmann's</person> definition, they can also be described as collocations.</p>
                 <details>
-                <p>According to <person name="Steyer, Kathrin">Steyer </person> and <person name="Belica, Cyril">Belica</person>, the contextual combination of the words "water" and "air" would for example be a co-occurrence if a strong and remarkable cohesion could be proven using mathematical-statistical calculations. The word pair "clean" and "water" is additionally meeting <person name="Hausmann, Franz Josef">Hausmann's</person> definition and represents therefore a collocation.</p>
+                <p>According to <person name="Steyer, Kathrin">Steyer </person> and <person name="Belica, Cyril">Belica</person>, the contextual combination of the words "water" and "air" would for example be a co-occurrence, if a strong and remarkable cohesion could be proven using mathematical-statistical calculations. The word pair "clean" and "water" is additionally meeting <person name="Hausmann, Franz Josef">Hausmann's</person> definition and therefore represents a collocation.</p>
                 </details>
             </page>
             <page>
                 <h2 id="Colligations">Then there is the colligation as well...</h2>
-                <p>The term <term>colligation</term> cannot be found very often in secondary literature on corpus linguistics, but at least it is used uniformly. Unlike the lexical or content level of collocations, the focus of colligations is on the <emph>structure</emph> and hence on <emph>grammar</emph>. Attention here is drawn to the <emph>grammatical relationship between word pairs</emph>. "For instance, many words colligate with the word <kursiv>the</kursiv>, which is a grammatical marker of definiteness rather than a word that carries significant semantic content. Colligation with <kursiv>the</kursiv> is in fact typical of many words traditionally described as nouns." (<bib id="McEnery2012"><person name="McEnery, Tony">McEnery</person>/<person name="Hardie, Andrew">Hardie</person>2012: 130</bib>)</p>
+                <p>The term <term>colligation</term> cannot be found very often in secondary literature on corpus linguistics, but at least it is used uniformly. Unlike the lexical or content level of collocations, the focus of colligations is on the <emph>structure</emph> and hence on <emph>grammar</emph>. Attention here is drawn to the <emph>grammatical relationship between word pairs</emph>. "For instance, many words colligate with the word <kursiv>the</kursiv>, which is a grammatical marker of definiteness rather than a word that carries significant semantic content. Colligation with <kursiv>the</kursiv> is in fact typical of many words traditionally described as nouns." (<bib id="McEnery2012"><person name="McEnery, Tony">McEnery</person>/<person name="Hardie, Andrew">Hardie</person> 2012: 130</bib>)</p>
                 <p type="example">Another example of a colligation is "have made".</p>
             </page>
             <page>
@@ -143,7 +143,7 @@
                 <p>With the aid of the following questions you should assess whether you have understood the main aspects and overall context of this module and whether you are able to reproduce and apply your newly acquired knowledge. If you realize that you have to answer "no" to any of the following questions, then summarized information and a link to the respective topic will be displayed.</p>
                 <check>
                     <question>
-                        <ctext>1. I am able to establish a connection between the term <term>collocation</term> and the name J.R. Firth and to give some keywords in this respect.</ctext>
+                        <ctext><p><emph>1. I am able to establish a connection between the term <term>collocation</term> and the name J.R. Firth and to give some keywords in this respect.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -156,20 +156,20 @@
                             <ctext>No</ctext>
                             <action>
                                 <ctext>
-                                    <p>J. R. Firth introduced the term <term>collocation</term> and is therefore often mentioned in this context. Well-known is his sentence "You shall know a word by the company it keeps", because in his opinion collocations give some indication of the node's meaning and of how it is used. With reference to collocations, Firth speaks of frequently recurring word combinations and mutual expectancy.</p>
+                                    <p>J. R. Firth introduced the term <term>collocation</term> and is therefore often mentioned in this context. Well-known is his sentence "You shall know a word by the company it keeps", because in his opinion collocations give some indication of a node's meaning and of how it is used. With reference to collocations, Firth speaks of frequently recurring word combinations and mutual expectancy.</p>
                                 </ctext>
                                 <url href="#collocations" >What is a Collocation?</url>
                             </action>
                         </option>
                     </answer>
                     <question>
-                        <ctext>2. I am capable of roughly outlining the readings of <term>collocation</term> in phraseology, computational linguistics and corpus linguistics.</ctext>
+                        <ctext><p><emph>2. I am capable of roughly outlining the readings of <term>collocation</term> in phraseology, computational linguistics and corpus linguistics.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
                             <ctext>Yes</ctext>
                             <action>
-                                <ctext>Very good!</ctext>
+                                <ctext>Great job!</ctext>
                             </action>
                         </option>
                         <option>
@@ -190,22 +190,19 @@
                         <option>
                             <ctext>Yes</ctext>
                             <action>
-                                <ctext>Great job!</ctext>
+                                <ctext>Very good!</ctext>
                             </action>
                         </option>
                         <option>
                             <ctext>No</ctext>
                             <action>
                                 <ctext>A co-occurrence can be defined as the mere co-occurrence of two words or as a precursor or even a synonym for <term>collocation</term>. Collocations on the other hand can be construed as general term for linguistic challenges in computational linguistics. Furthermore, Hausmann defines collocations from a phraseological viewpoint and, on the basis of statistics, they are interpreted as two words which occur more often in proximity to one another than by random chance. The two terms are not clearly definable or separated from each other. </ctext>
-                                <url href="#different definitions" >Readings of the Term <term>Collocation</term></url>
-                                <url href="#co-occurrences" >Now, what is a Co-occurrence?</url>
+                               <p><url href="#different definitions" >Readings of the Term <term>Collocation</term></url></p> 
+                                <p><url href="#co-occurrences" >Now, what is a Co-occurrence?</url></p>
                             </action>
                         </option>
                     </answer>
                 </check>
-            </page>
-            <page>
-                <img src="http://www.wpclipart.com/people/male/men_4/confused_guy.png">image of a confused person</img>
             </page>
         </chapter>
         <chapter id="Adopted Terminology">
@@ -214,9 +211,9 @@
                 <p>In view of the above it should have become clear that both the term <term>collocation</term> and the term <term>co-occurrence</term> show certain problems, whereas colligations are barely mentioned.</p>
                 <p>In corpus linguistics the focus is on the <emph>co-occurrence of words</emph>. Nevertheless, it is not the mere co-occurrence which is of interest, but the question whether there exists any attraction between the words and whether the joint appearance is <emph>more frequent than by random chance</emph>, if not even <emph>significant</emph>. In this respect, it should be pointed out that the words do not have to occur immediately adjacently. Usually, analysis is based on a <emph>span</emph> of five words each side of the node.</p>
                 <details>
-                <p>Apart from that, however, approaches exist which look at significant co-occurrences of two words within the same textual unit (e.g. within a sentence or utterance). "This is particularly counterintuitive for languages with relatively free word order, where closely related words can be far apart on the surface." (<bib id="Evert2009"><person name="Evert, Stefan">Evert </person>2009: 1222</bib>) Another approach only considers words as co-occurrence if they are syntactically related in a direct or indirect way. Hence, the objects of study are colligations. (<bib id="Evert2009"><person name="Evert, Stefan">cf. Evert </person>2009: 1222f.</bib>)</p>
+                <p>Apart from that, however, approaches exist which look at significant co-occurrences of two words within the same textual unit (e.g. within a sentence or utterance). "This is particularly counterintuitive for languages with relatively free word order, where closely related words can be far apart on the surface." (<bib id="Evert2009"><person name="Evert, Stefan">Evert </person>2009: 1222</bib>) Another approach only considers words as co-occurrence if they are syntactically related in a direct or indirect way. Hence, the objects of study are colligations. (<bib id="Evert2009"><person name="Evert, Stefan">cf. </person>loc. cit. 1222f.</bib>)</p>
                 </details>
-                <p>Thus, in comparison to co-occurrences the important criterion of statistics is added. This distinction shall be expressed by subsequently using the term collocation in the tradition of <person name="Firth, John Rupert">Firth </person>. Admittedly, as a consequence there is an ambiguity present as regards the terminology of <person name="Hausmann, Franz Josef">Hausmann</person>, but the aspects of hierarchic determination etc. won’t be taken into account.</p>
+                <p>Thus, in comparison to co-occurrences the important criterion of statistics is added. This distinction shall be expressed by subsequently using the term collocation in the tradition of <person name="Firth, John Rupert">Firth</person>. Admittedly, as a consequence there is an ambiguity present as regards the terminology of <person name="Hausmann, Franz Josef">Hausmann</person>, but the aspects of hierarchic determination etc. won’t be taken into account.</p>
                 <details>
                 <p>Summarized this means: When two words are displayed as significant by applying mathematical-statistical methods, we will call the word pair a collocation, regardless of whether the combination is grammatically correct or meaningful.</p>
                 </details>
@@ -227,7 +224,7 @@
                 <p>With the aid of the following questions you should assess whether you have understood the main aspects and overall context of this module and whether you are able to reproduce and apply your newly acquired knowledge. If you realize that you have to answer "no" to any of the following questions, then summarized information and a link to the respective topic will be displayed.</p>
                 <check>
                     <question>
-                        <ctext>1.I have understood the terminology this module is based on.</ctext>
+                        <ctext><p><emph>1.I have understood the terminology this module is based on.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -239,7 +236,7 @@
                         <option>
                             <ctext>No</ctext>
                             <action>
-                                <ctext>Within this module preference will be given to the term <term>collocation</term> meaning combinations or word pairs which are co-occurring more frequently than by random chance and which are therefore significant. Mathematical-statistical calculations play an important role in this, while the aspects of being well-formed and hierarchical determined, which are important for Hausmann, are not taken into account. </ctext>
+                                <ctext>Within this module preference will be given to the term <term>collocation</term>, meaning combinations or word pairs which are co-occurring more frequently than by random chance and which are therefore significant. Mathematical-statistical calculations play an important role in this, while the aspects of being well-formed and hierarchically determined, which are important for Hausmann, are not taken into account. </ctext>
                                 <url href="#Adopted Terminology" >Adopted Terminology</url>
                             </action>
                         </option>
@@ -256,8 +253,8 @@ For this purpose, <emph>parameters</emph> have to be set and a <emph>significanc
 <details>
                 <p>They form the basis of the calculations and can reflect different perspectives on the corpus. That is why they should be adapted to the respective research question or objective.</p>
                 </details>
-                <p>As a result of the collocation analysis, the collocation profile of the node will be displayed.</p>
-                <img src="/image/kollokationsprofil_englisch.png">Collocation profile of the word form "people" / Image source: Corpus "U.S. Presidents Inaugural Speeches": <kursiv>powered by CQPweb</kursiv></img>
+                <p>As a result of a collocation analysis, the collocation profile of the node will be displayed.</p>
+                <img src="/image/kollokationsprofil_englisch.png">Collocation profile of the word form "people" / Image source: corpus "U.S. Presidents Inaugural Speeches": <kursiv>powered by CQPweb</kursiv></img>
             </page>
             <page>
                 <h2 id="Collocation Profile">Collocation Profile</h2>
@@ -273,8 +270,8 @@ For this purpose, <emph>parameters</emph> have to be set and a <emph>significanc
 For example: "America" + "freedom" are a collocation. Another collocate like "ideal" is a secondary collocate in contexts, where the collocation "America" + "freedom" occurs. An example of this is the cooccurrence analysis of Belica.
 </li>
 <li>On the other hand, the secondary collocate can also be calculated from all the contexts of the primary collocate. </li>
-<li>This proceeding can also be applied to ternary collocates and beyond. The results obtained are then forming a kind of net according to the visualization shown below:</li>
-            </list>
+</list>
+<p>This proceeding can also be applied to ternary collocates and beyond. The results obtained are then forming a kind of net according to the visualization shown below:</p>
             <img src="/image/auslaender_6.gv.png" >Rhizome</img>
             </page>
             <page>
@@ -283,7 +280,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <p>With the aid of the following questions you should assess whether you have understood the main aspects and overall context of this module and whether you are able to reproduce and apply your newly acquired knowledge. If you realize that you have to answer "no" to any of the following questions, then summarized information and a link to the respective topic will be displayed.</p>
                 <check>
                     <question>
-                        <ctext>1. I am capable of explaining what is meant by the terms <term>collocation analysis</term> and <term>collocation profile</term>.</ctext>
+                        <ctext><p><emph>1. I am capable of explaining what is meant by the terms <term>collocation analysis</term> and <term>collocation profile</term>.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -295,13 +292,18 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                         <option>
                             <ctext>No</ctext>
                             <action>
-                                <ctext><p>When performing a collocation analysis, the most significant collocates of a node are calculated on the basis of the selected parameters and association measure using statistical methods.</p>
+                                <ctext><p>When performing a collocation analysis, the most significant collocates of a node are calculated by applying statistical methods. Therefore, parameters and an association measure have to be chosen as well.</p>
                                     <p>The collocation profile of a word is the total of its relevant collocations and hence reflects how a word is used. </p></ctext>
                                 <url href="Further Terms" >Terms Worth Knowing</url>
                             </action>
                         </option>
                     </answer>
                 </check>
+            </page>
+                        <page>
+<img src="http://www.wpclipart.com/smiley/round_eyes/smiley_round_eyes_basic.png">Confused?</img>
+<p>That was quite a lot of information.</p>
+<p>. . . . . . . . . . Maybe take a small break before you continue. . . . . . . . . . </p>
             </page>
         </chapter>
         <chapter id="Applications">
@@ -312,24 +314,22 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <h1>Potential Applications</h1>
                 <h2 id="Purpose">What is the purpose of calculating collocations? </h2>
                 <p>A collocation analysis can serve</p>
-                <list>
-                    <li>as an indication of the order or hierarchy of the readings of a linguistic sign in a dictionary article.</li>
-                    <li type="details">&#8594; What are the most common meanings of the lexeme?</li>
-                    <li>to identify, verify or describe typical word combinations, idioms or phraseologisms.</li>
-                    <li type="details">&#8594; Which collocations are used?</li>
-                    <li type="details">&#8594; Which collocations are particularly common and which are hard to find or not to be found at all?</li>
-                    <li type="details">&#8594; What is their meaning and in which context are they used?</li>
-                    <li>to detect common grammatical patterns. </li>
-                    <li>to reveal syntactic structures</li>
-                    <li type="details">e.g. phrasal verbs </li>
-                    <li>to illustrate the semantic fields of a word.</li>
-                    <li>to identify thematic areas.</li>
-                    <li>to compare the manners of use and the meanings of a node's word forms.</li>
-                    <li type="details">e.g. comparing the singular and plural form of the node</li>
-                    <li>to highlight how certain terms are used in a discourse</li>
-                    <li>"[...] to argue for the importance of certain words as diagnostics of cultural attitudes [...]" (Stubbs, 1996, cited in <bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person>2002: 76</bib>) </li>
-                    <li>Collocations can be analyzed as reflecting traditions of phrasing and conventions of language use.</li>
-                </list>
+                    <p>&#8226; as an indication of the order or hierarchy of the readings of a linguistic sign in a dictionary article.</p>
+                    <p type="details">&#8594; What are the most common meanings of the lexeme?</p>
+                    <p>&#8226; to identify, verify or describe typical word combinations, idioms or phraseologisms.</p>
+                    <p type="details">&#8594; Which collocations are used?</p>
+                    <p type="details">&#8594; Which collocations are particularly common and which are hard to find or not to be found at all?</p>
+                    <p type="details">&#8594; What is their meaning and in which context are they used?</p>
+                    <p>&#8226; to detect common grammatical patterns. </p>
+                    <p>&#8226; to reveal syntactic structures.</p>
+                    <p type="details">e.g. phrasal verbs </p>
+                    <p>&#8226; to illustrate the semantic fields of a word.</p>
+                    <p>&#8226; to identify thematic areas.</p>
+                    <p>&#8226; to compare the manners of use and the meanings of a node's word forms.</p>
+                    <p type="details">e.g. comparing the singular and plural form of the node</p>
+                    <p>&#8226; to highlight how certain terms are used in a discourse</p>
+                    <p>&#8226; "to argue for the importance of certain words as diagnostics of cultural attitudes [...]" (Stubbs, 1996, cited in <bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person> 2002: 76</bib>) </p>
+                    <p>&#8226; Collocations can be analyzed as reflecting traditions of phrasing and conventions of language use.</p>
                 <p>Hence, collocation analyses are also of importance for the fields of lexicography and lexicology, foreign language didactics, translation studies and discourse linguistics.</p>
             </page>
             <page>
@@ -344,15 +344,15 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
             <page>
                 <h2 id="Practical Relevance">Practical Relevance</h2>
                 <h3>Application Example from Discourse Linguistics</h3>
-                <p>Combining Critical Discourse Analysis (CDA) with corpus linguistic methodology, <person name="Orpin, Debbie">Debbie Orpin</person> (2005) undertook a study of 8 nouns semantically related to corruption. By means of the concordancer and collocational software tools, she examined the semantic profiles and connotational differences of these words. Furthermore, she intended to test the hypothesis "[...] that words with a noticeably negative connotation tend to be used when referring to activities that take place outside of Britain, while less negative words are used when referring to similar activities in British contexts." (<bib id="Orpin_Debbie2005"><person name="Orpin, Debbie"></person>38</bib>) </p>
-                <p>As data basis she chose the <kursiv>Bank of English</kursiv> corpus which contains texts dated from 1990 - 1996, amounting to 323 million words, whereas she limited the detailed study to four sub-corpora representing data from British newspapers. In a next step Debbie Orpin selected a set of nouns being synonyms, near-synonyms, or hyponyms of <kursiv>corruption</kursiv>kursiv>. For this purpose she consulted two thesauri and sifted through the most significant collocates of <kursiv>corruption</kursiv>kursiv> in the <kursiv>Bank of English</kursiv> corpus. If the selected nouns also occurred at least 15 times in the four sub-corpora they qualified for the final set, including <kursiv>bribery</kursiv>, <kursiv>corruption</kursiv>, <kursiv>cronyism</kursiv>, <kursiv>graft</kursiv>, <kursiv>impropriety/ies</kursiv>, <kursiv>malpractice(s)</kursiv>, <kursiv>nepotism</kursiv> and <kursiv>sleaze</kursiv>.</p>
-                <p>After creating a basis for analysis, the researcher calculated the most significant collocates of each item within a span of four words to the left and to the right of the node, using the association measure t-score. "Since <kursiv>graft</kursiv> is polysemous, all concordances relating to senses other than the "corruption" sense were eliminated before the collocation program was run." (<bib id="Orpin_Debbie2005"><person name="Orpin, Debbie"></person>42</bib>)</p>
-                <p>In general, the resulting list showed that <kursiv>corruption</kursiv> is a collocate of each noun except <kursiv>impropriety</kursiv> and that there are several more shared collocates, which is no surprise given the fact that the items were chosen because of their semantic overlap. However, there are also unique collocates, which "[...] are likely to highlight differences in areas of activity, people or places with which each word is associated and may also highlight differences in the attitude encoded by the user of the item to what is being spoken of." (<bib id="Orpin_Debbie2005"><person name="Orpin, Debbie"></person>49</bib>)</p>
+                <p>Combining Critical Discourse Analysis (CDA) with corpus linguistic methodology, <person name="Orpin, Debbie">Debbie Orpin</person> (2005) undertook a study of 8 nouns semantically related to corruption. By means of the concordancer and collocational software tools, she examined the semantic profiles and connotational differences of these words. Furthermore, she intended to test the hypothesis "[...] that words with a noticeably negative connotation tend to be used when referring to activities that take place outside of Britain, while less negative words are used when referring to similar activities in British contexts." (<bib id="Orpin_Debbie2005"><person name="Orpin, Debbie"></person>loc. cit. 38</bib>) </p>
+                <p>As data basis she chose the <kursiv>Bank of English</kursiv> corpus which contains texts dated from 1990 - 1996, amounting to 323 million words, whereas she limited the detailed study to four sub-corpora representing data from British newspapers. In a next step Debbie Orpin selected a set of nouns being synonyms, near-synonyms, or hyponyms of <kursiv>corruption</kursiv>. For this purpose she consulted two thesauri and sifted through the most significant collocates of <kursiv>corruption</kursiv> in the <kursiv>Bank of English</kursiv> corpus. If the selected nouns also occurred at least 15 times in the four sub-corpora they qualified for the final set, including <kursiv>bribery</kursiv>, <kursiv>corruption</kursiv>, <kursiv>cronyism</kursiv>, <kursiv>graft</kursiv>, <kursiv>impropriety/ies</kursiv>, <kursiv>malpractice(s)</kursiv>, <kursiv>nepotism</kursiv> and <kursiv>sleaze</kursiv>.</p>
+                <p>After creating a basis for analysis, the researcher calculated the most significant collocates of each item within a span of four words to the left and to the right of the node, using the association measure t-score. "Since <kursiv>graft</kursiv> is polysemous, all concordances relating to senses other than the "corruption" sense were eliminated before the collocation program was run." (<bib id="Orpin_Debbie2005"><person name="Orpin, Debbie"></person>loc. cit. 42</bib>)</p>
+                <p>In general, the resulting list showed that <kursiv>corruption</kursiv> is a collocate of each noun except <kursiv>impropriety</kursiv> and that there are several more shared collocates, which is no surprise given the fact that the items were chosen because of their semantic overlap. However, there are also unique collocates, which "[...] are likely to highlight differences in areas of activity, people or places with which each word is associated and may also highlight differences in the attitude encoded by the user of the item to what is being spoken of." (<bib id="Orpin_Debbie2005"><person name="Orpin, Debbie"></person>loc. cit. 49</bib>)</p>
                 <p>Hence, while all nouns show connections with politics, public office and officialdom, the field of sport is represented by <kursiv>bribery</kursiv> (e.g. <kursiv>cricket</kursiv>), <kursiv>nepotism</kursiv> and <kursiv>sleaze</kursiv> (both <kursiv>football</kursiv>) and <kursiv>malpractice</kursiv> is linked with finance, law and medicine (<kursiv>costs</kursiv>, <kursiv>doctors</kursiv>, <kursiv>legal</kursiv>).</p>
                 <p>Regarding geographical locations, the most significant collocate of <kursiv>bribery</kursiv> is <kursiv>Pakistan</kursiv>, <kursiv>corruption</kursiv> and <kursiv>impropriety</kursiv> are for example used in the context of Australia (<kursiv>Fitzgerald</kursiv>, <kursiv>Cranston</kursiv>) and <kursiv>neopotism</kursiv> as well as <kursiv>sleaze</kursiv> bear reference to Britain.</p>
-                <p>At last the connotations of the nouns were analyzed, finding out that all items except <kursiv>sleaze</kursiv>, <kursiv>cronyism</kursiv> and <kursiv>impropriety</kursiv> are for example linked with criminal activities. <kursiv>Sleaze</kursiv> and <kursiv>corruption</kursiv> also collocate with <kursiv>greed</kursiv>, and <kursiv>sleaze</kursiv> and <kursiv>impropriety</kursiv> are moreover associated with <kursiv>sex</kursiv>. Generally speaking: "The semantic profiles of the words <kursiv>bribery</kursiv>, <kursiv>corruption</kursiv>, <kursiv>graft</kursiv> and <kursiv>nepotism</kursiv> appear to have particularly negative connotations. All are associated with criminal activities, and <kursiv>corruption</kursiv>, <kursiv>graft</kursiv> and <kursiv>nepotism</kursiv> also have collocates which indicate a particularly negative speaker attitude." (<bib id="Orpin_Debbie2005"><person name="Orpin, Debbie"></person>53</bib>) On the other hand, <kursiv>malpractice</kursiv>, <kursiv>impropriety</kursiv> and <kursiv>sleaze</kursiv> have the least negative connotations.</p>
-                <p>Summing up, it can be said that <person name="Orpin, Debbie">Orpin</person> was able to analyze a large amount of data by using corpus methodology, which "[...] made it possible to identify the different shades of meaning among the members of a set of closely related words, and helped to highlight areas of semantic overlap and areas of divergence." (<bib id="Orpin_Debbie2005"><person name="Orpin, Debbie"></person>59</bib>)</p>
-                <p>(cf. <bib id="Orpin_Debbie2005"><person name="Orpin, Debbie">Orpin</person>2005: 37-61</bib>)</p>
+                <p>At last the connotations of the nouns were analyzed, finding out that all items except <kursiv>sleaze</kursiv>, <kursiv>cronyism</kursiv> and <kursiv>impropriety</kursiv> are for example linked with criminal activities. <kursiv>Sleaze</kursiv> and <kursiv>corruption</kursiv> also collocate with <kursiv>greed</kursiv>, and <kursiv>sleaze</kursiv> and <kursiv>impropriety</kursiv> are moreover associated with <kursiv>sex</kursiv>. Generally speaking: "The semantic profiles of the words <kursiv>bribery</kursiv>, <kursiv>corruption</kursiv>, <kursiv>graft</kursiv> and <kursiv>nepotism</kursiv> appear to have particularly negative connotations. All are associated with criminal activities, and <kursiv>corruption</kursiv>, <kursiv>graft</kursiv> and <kursiv>nepotism</kursiv> also have collocates which indicate a particularly negative speaker attitude." (<bib id="Orpin_Debbie2005"><person name="Orpin, Debbie"></person>loc. cit. 53</bib>) On the other hand, <kursiv>malpractice</kursiv>, <kursiv>impropriety</kursiv> and <kursiv>sleaze</kursiv> have the least negative connotations.</p>
+                <p>Summing up, it can be said that <person name="Orpin, Debbie">Orpin</person> was able to analyze a large amount of data by using corpus methodology, which "[...] made it possible to identify the different shades of meaning among the members of a set of closely related words, and helped to highlight areas of semantic overlap and areas of divergence." (<bib id="Orpin_Debbie2005"><person name="Orpin, Debbie"></person>loc. cit. 59</bib>)</p>
+                <p align="right">(cf. <bib id="Orpin_Debbie2005"><person name="Orpin, Debbie">Orpin</person> 2005: 37-61</bib>)</p>
             </page>
             <page>
                 <h1>Checklist</h1>
@@ -360,7 +360,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <p>With the aid of the following questions you should assess whether you have understood the main aspects and overall context of this module and whether you are able to reproduce and apply your newly acquired knowledge. If you realize that you have to answer "no" to any of the following questions, then summarized information and a link to the respective topic will be displayed.</p>
                 <check>
                     <question>
-                        <ctext>1.I am able to name two fields in which collocation analyses are applied and to give examples of their purpose.</ctext>
+                        <ctext><p><emph>1.I am able to name two fields in which collocation analyses are applied and to give examples of their purpose.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -373,7 +373,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                             <ctext>No</ctext>
                             <action>
                                 <ctext><p>Collocation analyses are used in the fields of lexicography and lexicology, foreign language didactics, translation studies and discourse linguistics among others.</p>
-                                    <p>By means of this procedure, conventions of language use, semantic fields and grammatical structures can for example be revealed. When writing a dictionary article it gives some indication of the order of readings and provides examples of how the word is commonly used.</p> </ctext>
+                                    <p>By means of this procedure, conventions of language use, semantic fields and grammatical structures can, for example, be revealed. When writing a dictionary article it gives some indication of the order of readings and provides authentic examples of how the word is commonly used.</p> </ctext>
                                 <url href="#purpose" >What is the purpose of calculating collocations?</url>
                             </action>
                         </option>
@@ -388,33 +388,33 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
             </page>
             <page>
                 <h2 id="More Frequent Than Chance">More Frequent Than Chance</h2>
-                <p>If you would arrange the words in a corpus completely randomly, word <kursiv>a</kursiv> and word <kursiv>b</kursiv>would co-occur <emph>x times due to chance</emph>. If a word combination is the product of random chance, the two words are independent of each other. This is also called the <emph>null hypothesis</emph>. However, if the two words co-occur <emph>more often than x</emph>, this co-occurrence is <emph>more frequent than chance</emph>.</p>
+                <p>If you would arrange the words in a corpus completely randomly, word <kursiv>a</kursiv> and word <kursiv>b</kursiv> would co-occur <emph>x times due to chance</emph>. If a word combination is the product of random chance, the two words are independent of each other. This is also called the <emph>null hypothesis</emph>. However, if the two words co-occur <emph>more often than x</emph>, this co-occurrence is <emph>more frequent than chance</emph>.</p>
 <details>
-                <p>"Words are never combined at random in natural language, being subject to a variety of syntactic, semantic and lexical restrictions." (<bib id="Evert2009"><person name="Evert, Stefan">Evert</person>2009: 1244</bib>)  Hence, the null hypothesis, which says that word <kursiv>a</kursiv> and word <kursiv>b</kursiv> are independent of and not at all attracted to each other, is controversial.</p>
+                <p>"Words are never combined at random in natural language, being subject to a variety of syntactic, semantic and lexical restrictions." (<bib id="Evert2009"><person name="Evert, Stefan">Evert</person> 2009: 1244</bib>)  Hence, the null hypothesis, which says that word <kursiv>a</kursiv> and word <kursiv>b</kursiv> are independent of and not at all attracted to each other, is controversial.</p>
                 </details>
                 <p>Think back to your mathematics lessons:</p>
                 <p> At the beginning, probability calculation is often explained with the help of a dice. We will use the simpler example of a coin: When flipping a coin ten times, one could expect to see five times heads and five times tails. If the coin shows six or seven times heads this can still be a coincidence. Nevertheless, the outcome <emph>exceeds</emph> our <emph>expectation of an even distribution</emph> and is therefore more frequent than chance.</p>
             </page>
             <page>
                 <h2 id="Significant">Significant</h2>
-                <p>Sticking to the example mentioned before: If you see nine or even ten times heads, when flipping a coin ten times, it is more than improbable that this is just a coincidence. The <emph>deviation</emph> from what we expected is <emph>so high</emph>, that it can be called significant.</p>
+                <p>Sticking to the example mentioned before: If you see nine or even ten times heads when flipping a coin ten times, it is more than improbable that this is just a coincidence. The <emph>deviation</emph> from what we expected is <emph>so high</emph>, that it can be called <emph>significant</emph>.</p>
                 <p>When interpreting collocations which occur more often than chance, statements about the underlying corpus can be derived. If the collocations are significant, though, one can draw general conclusions. Despite all this, statistical calculations based on probabilities are fallible.</p>
             </page>
             <page>
-                <p>Hence, when calculating frequency and significance it needs to be determined how often a word or a word combination occurs and how often we would have expected this occurrence. As a consequence, the observed and the expected frequencies are relevant for a collocation analysis.:</p>
+                <p>Hence, when calculating frequency and significance it needs to be determined how often a word or a word combination occurs and how often we would have expected this occurrence. As a consequence, the observed as well as the expected frequencies are relevant for a collocation analysis:</p>
                 <h2 id="Observed Frequency">Observed Frequency</h2>
                 <p>The so-called <emph>Observed Frequency</emph> <quantity>(O)</quantity> is simply the <emph>number of actual occurrences</emph> of a word combination in a corpus.</p>
                <p>It is particularly insightful when considering the size of the corpus.</p>
                <details>
                <p>It stands to reason that a word combination with <quantity>O</quantity> = 5 in a corpus consisting of 30 words seems more considerable than in a corpus of size <quantity>N</quantity>=100.</p>
                </details>
-                <p>The observed frequency as well as the actual occurrences of node, collocate and of the other words in the corpus are required in order to calculate the significance of a collocation. </p>
+                <p>This observed frequency as well as the actual occurrences of node, collocate and of the other words in the corpus are required in order to calculate the significance of a collocation. </p>
                 <p>The necessary values are obtained by counting:</p>
                 <list type="ordered" >
                     <li>how often word&#8321; and word&#8322; are co-occurring (within a previously specified span), </li>
-                    <li>b)	how often only word&#8321; occurrs, </li>
-                    <li>c)	how often word&#8322; occurs by itself and </li>
-                    <li>d)	how often neither word&#8321; nor word&#8322; occur, meaning how many words are neither word&#8321; nor word&#8322;.</li>
+                    <li>how often only word&#8321; occurrs, </li>
+                    <li>how often word&#8322; occurs by itself and </li>
+                    <li>how often neither word&#8321; nor word&#8322; occur, meaning how many words are neither word&#8321; nor word&#8322;.</li>
                 </list>
                 <p>It can be helpful to enter these items in a so-called contingency table.</p>
                 <details>
@@ -423,10 +423,12 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
             </page>
             <page>
                 <p>As regards the observed frequency <quantity>(O)</quantity> it would be structured as follows:</p><!-- PLEASE INSERT HERE TABLE 1-->
+                <img src="/image/Collocations_Table_1.png">Contingency table O1</img>
             </page>
             <page>
                 <p>When for example transferring the collocation "National Government" with fictious values in such a table, it would look like the following: </p><!-- PLEASE INSERT HERE TABLE 2 -->
-                <p>Hence, according to the exemplary table, the collocation "National Government" occurs 20 times in the corpus. "National" is 500 times combined with other words and "Government" can be found 200 times in the neighborhood of other words. Moreover, 2000 words can be counted in the context of which neither "National" nor "Government" are present.</p>
+               <img src="/image/Collocations_Table_2.png">Contingency table O2</img>
+                <p>Hence, according to the exemplary table, the collocation "National Government" occurs 20 times in the corpus. "National" is 500 times combined with other words and "Government" can be found 200 times in the context of other words. Moreover, 2000 words can be counted in the neighborhood of which neither "National" nor "Government" are present.</p>
 <details>
                 <p>It should be noted that the values refer to a previously specified span.</p>
                 </details>
@@ -437,28 +439,32 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <p>In order to determine whether the words are evenly or randomly distributed in a corpus or not, you consider the so-called expected frequency <quantity>(E)</quantity>.</p>
                 <details>
                 <p><quantity>"E</quantity> is important as a reference point for the interpretation of <quantity>O</quantity>, since two frequent words might cooccur quite often purely by chance."
-                    (<bib id="Evert2009"><person name="Evert, Stefan">Evert</person>2009: 1228</bib>)</p>
+                    (<bib id="Evert2009"><person name="Evert, Stefan">Evert</person> 2009: 1228</bib>)</p>
                     </details>
                 <p>For calculating the <emph>expected frequency of a word combination</emph>, you set the <emph>single frequencies of the collocates in relation to the overall size of the corpus</emph>. So first of all you count the occurrence (<quantity>f&#8321;</quantity>) of word <kursiv>a</kursiv> and the occurrence (<quantity>f&#8322;</quantity>) of word <kursiv>b</kursiv>.
                    Then, in relation to the total (<quantity>N</quantity>) of word tokens in the corpus, the <emph>Expected Frequency</emph> (<quantity>E</quantity>) is calculated as follows: </p>
                <p><img src="/image/Kollokationen Formel1.png"></img></p>
 <details>
-                <p><person name="Evert, Stefan">Evert</person> explains this in more detail using the example of the collocation <kursiv>is to</kursiv> which occurs 260 times in the Brown corpus. The component <kursiv>is</kursiv> occurs approximately 10,000 while <kursiv>to</kursiv> has a frequency of about 26,000 times among 1 million word tokens. If the words were distributed randomly, the word pair would be expected to co-occur roughly 260 times.  Because this number reflects the actual occurrence, <kursiv>is to</kursiv> is not regarded as significant, though.</p>
+                <p><person name="Evert, Stefan">Evert</person> explains this in more detail using the example of the collocation <kursiv>is to</kursiv> which occurs 260 times in the Brown corpus. The component <kursiv>is</kursiv> occurs approximately 10,000 times while <kursiv>to</kursiv> has a frequency of about 26,000 among 1 million word tokens. If the words were distributed randomly, the word pair would be expected to co-occur roughly 260 times.  Because this number reflects the actual occurrence, <kursiv>is to</kursiv> is not regarded as significant, though.</p>
                 <p>"The expected number of cooccurrences for a completely ‘uncollocational’ word pair has been derived by the following reasoning: <kursiv>to</kursiv> occurs 26 times every 1,000 words on average. If there is no association between <kursiv>is</kursiv> and <kursiv>to</kursiv>, then each of the 10,000 instances of <kursiv>is</kursiv> in the Brown corpus has a chance of 26/1,000 to be followed by <kursiv>to</kursiv>. Therefore, we expect around 10,000 X (26/1,000) = 260 occurrences of the bigram <kursiv>is to</kursiv>, provided that there is indeed no association between the words." (<bib id="Evert2009">
-                        <person name="Evert, Stefan">Evert</person>2009: 1225</bib>)</p>
+                        <person name="Evert, Stefan">Evert</person> 2009: 1225</bib>)</p>
                         </details>
+                        </page>
+                        <page>
                 <p>Basically, collocations are considered significant if the observed frequency <quantity>(O)</quantity> clearly exceeds the expected frequency <quantity>(E)</quantity> while always factoring in a certain tolerance range.</p>
-                <p>Most significance or association measures, however, are not only taking into account <quantity>(O)</quantity> and <quantity>(E)</quantity> of the collocation but also include in the calculation the observed and expected frequency for each of the four items described above.</p>
-                <p>Therefore it seems reasonable to compile a contingency table of the expected frequencies in a second step, too. </p>
+                <p>Most significance or association measures, however, are not only taking into account <quantity>(O)</quantity> and <quantity>(E)</quantity> of the collocation but also include in the calculation the observed and expected frequency for each of the four previously described items.</p>
+                <p>Therefore it seems reasonable to also compile a contingency table of the expected frequencies in a second step. </p>
             </page>
             <page>
                 <p>Based on the formula <img src="/image/Kollokationen Formel2.png"></img> for calculating the expected frequency of a collocation, the other cells are calculated as follows:</p><!-- PLEASE INSERT HERE TABLE 3 -->
+                <img src="/image/Collocations_Table_3.png">Contingency table E1</img>
 <details>
     <p>Basically we calculate for each cell <img src="/image/Collocations formula3.png"></img>.</p>
                 </details>
             </page>
             <page>
                 <p>Using the same example as for the observed frequencies, the following values arise:</p><!-- PLEASE INSERT HERE TABLE 4 -->
+                <img src="/image/Collocations_Table_4.png">Contingency table E2</img>
             </page>
             <page>
                 <p>The contingency tables of the observed and the expected frequencies provide all the values which are required for a so-called significance test.</p>
@@ -469,7 +475,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <p>As the name implies, significance measures give information on the <emph>significance of collocations</emph> and thus <emph>evaluate them statistically in terms of their conspicuousness</emph>.</p>
                 <p>Thereby also those word pairs come to your attention which might not be very frequent but whose combination is striking in some way, meaning that there is an association between the words, because a surprisingly large part (beyond chance) of the overall occurrences of one component was observed in proximity to the other one. (cf. <bib id="Perkuhn2012"><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz</person> 2012: 114</bib>)</p>
 <details>
-                <p>"Mere recurrence is not a sufficient indicator for a strong attraction between words [...]. [...] By interpreting occurrences of words as events, statistical <kursiv>association measures</kursiv> can be used to quantify the attraction between coocurring words." (<bib id="Evert2009"><person name="Evert, Stefan">Evert</person>2009: 1215</bib>) In this way it is also possible to exclude word pairs whose recurrence might be a purely random effect. So basically the issue is highlighted of how unlikely it is that two words co-occur purely by chance and that there is no association at all between them.
+                <p>"Mere recurrence is not a sufficient indicator for a strong attraction between words [...]. [...] By interpreting occurrences of words as events, statistical <kursiv>association measures</kursiv> can be used to quantify the attraction between coocurring words." (<bib id="Evert2009"><person name="Evert, Stefan">Evert</person> 2009: 1215</bib>) In this way it is also possible to exclude word pairs whose recurrence might be a purely random effect. So basically the issue is highlighted of how unlikely it is that two words co-occur purely by chance and that there is no association at all between them.
                 </p>
                 </details>
                 <p>At this point two significance measures will be described briefly.</p>
@@ -477,7 +483,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
             <page>
                 <h3>Chi-Square Test</h3>
                 <p>Basically, the chi-square test or also
-                    &#967;&#178;test measures the difference between the observed and the expected frequencies, including all the values of the previously created contingency tables. So for each cell <img src="/image/Kollokationen Formel4.png"></img> needs to be calculated and the respective results are then added.</p>
+                    &#967;&#178;-test <emph>measures the difference between the observed and the expected frequencies</emph>, including all the values of the previously created contingency tables. <emph>So for each cell</emph> <img src="/image/Kollokationen Formel4.png"></img> <emph>needs to be calculated and the respective results are then added.</emph></p>
                 <p>This results in the formula 
                     <img src="/image/Kollokationen Formel5.png"></img>.</p>
                 <p>"The essence of the test is to compare the observed
@@ -488,25 +494,24 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                     (<bib id="Manning2003"><person name="Manning, Christopher
                             D.">Manning</person>/<person name="Schütze,
                             Hinrich">Schütze</person> 2003: 168</bib>)</p>
-                <p>In order to find out whether the value calculated in this way is significant, the table of critical values of &#967;&#178; has to be consulted. Looking up the distribution for a fourfold contingency table it shows  that &#967;&#178; needs to be greater than 3.84 in order that the probability of the null hypothesis is only 5% (<quantity>p</quantity> = 0.05). If &#967;&#178;
+                <p>In order to find out whether the value calculated in this way is significant, the <emph>table of critical values</emph> of &#967;&#178; has to be consulted. Looking up the distribution for a fourfold contingency table it shows  that &#967;&#178; needs to be greater than 3.84 in order that the probability of the null hypothesis is only 5% (<quantity>p</quantity> = 0.05). If &#967;&#178;
                     exceeds the critical value of 6.64, then the null hypothesis can be rejected at a probability level of 99% (<quantity>p</quantity> = 0.01) and if
-                    &#967;&#178;is even greater than 10.83 it is 99.9% certain (<quantity>p</quantity> = 0.001) that the collocation does not occur due to chance alone and that the co-occurrence is significant.</p>
-                <p>Applying the chi-square test is problematic in cases where the contingency tables contain very small numbers. If the values are less than <quantity>E</quantity> = 5 the results are no longer reliable.</p>
+                    &#967;&#178; is even greater than 10.83 it is 99.9% certain (<quantity>p</quantity> = 0.001) that the collocation does not occur due to chance alone and that the co-occurrence is significant.</p>
+                <p><emph>Applying the chi-square test is problematic in cases where the contingency tables contain very small numbers</emph>. If the values are less than <quantity>E</quantity> = 5 the results are no longer reliable.</p>
             </page>
             <page>
                 <h3>Log-Likelihood Test</h3>
-                <p>In contrast to &#967;&#178; the log-likelihood test is more robust against low values of <quantity>E</quantity> and hence provides better results for sparse data. The log-likelihood ratio is the most appropriate for discovering collocations and the most common significance measure in corpus linguistics. Provided that it is an available option, it should therefore be given preference to this measure.</p>
+                <p>In contrast to &#967;&#178; the log-likelihood test is more robust against low values of <quantity>E</quantity> and hence <emph>provides better results for sparse data</emph>. The log-likelihood ratio is the most appropriate for discovering collocations and it is<emph>the most common significance measure in corpus linguistics</emph>. Provided that it is an available option, it should therefore be given preference.</p>
                 <p>The formula for calculating the LLR is:</p>
                 <p>G&#178; = 2[A log A + Blog B + C log C + D log D</p>
                 <p>- (A+B) log(A+B) - (A+C) log(A+C)</p>
                 <p>- (B+D) log(B+D) - (C+D) log(C+D)</p>
                 <p>+ (A+B+C+D) log(A+B+C+D)]</p>
-                <p>In order to determine whether the resulting values are significant, one can draw on the critical values of &#967;&#178; once more.</p>
+                <p>In order to determine whether the resulting values are significant, one can draw once again on the critical values of &#967;&#178;.</p>
             </page>
             <page>
                 <p>Regarding significance measures you should generally keep in mind that individual values may not necessarily be revealing. If for example the collocation "National Government" scores a LLR of 44,309 it is indeed highly significant, nevertheless the word combination "Federal Government" resulting in a LLR of 259,647 shows an even greater cohesion. </p>
-                <p>Furthermore you must consider the weak point of significance measures which is that, "[...] if <quantity>O</quantity> is sufficiently large, even a small relative difference between <quantity>O</quantity> and <quantity>E</quantity> [...] can be highly significant [...]." (<bib id="Evert2009"><person name="Evert, Stefan">Evert</person>2009: 1228</bib>)</p>
-                <p>Hence, also <person name="Manning, Christopher
+                <p>Furthermore you must consider the weak point of significance measures which is that, "[...] if <quantity>O</quantity> is sufficiently large, even a small relative difference between <quantity>O</quantity> and <quantity>E</quantity> [...] can be highly significant [...]." (<bib id="Evert2009"><person name="Evert, Stefan">Evert</person> 2009: 1228</bib>) Hence, also <person name="Manning, Christopher
                         D.">Manning</person>/<person name="Schütze,
                         Hinrich">Schütze</person> state: "[...] [S]tatistical tests are most useful as a method for
                     ranking collocations. The level of significance itself is
@@ -514,7 +519,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                     this chapter, the level of significance is never looked at.
                     All that is used is the scores and the resulting ranking."
                     (<bib id="Manning2003">2003: 166</bib>)</p>
-                <p>When using corpus analysis software, the chosen significance measure is thankfully calculated automatically. Usually collocations are listed in descending order sorted by significance or frequency according to the selected parameters. Since high scores indicate a strong attraction the data can be interpreted intuitively.</p>
+                <p>When using corpus analysis software, the chosen significance measure is thankfully calculated automatically. Usually, collocations are listed in descending order sorted by significance or frequency according to the selected parameters. Since high scores indicate a strong attraction the data can be interpreted intuitively.</p>
             </page>
             <page>
                 <h2>References:</h2>
@@ -540,7 +545,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <p>With the aid of the following questions you should assess whether you have understood the main aspects and overall context of this module and whether you are able to reproduce and apply your newly acquired knowledge. If you realize that you have to answer "no" to any of the following questions, then summarized information and a link to the respective topic will be displayed.</p>
                 <check>
                     <question>
-                        <ctext>I am capable of distinguishing between the terms <term>significant</term> and <term>frequent</term>. </ctext>
+                        <ctext><p><emph>1. I am capable of distinguishing between the terms <term>significant</term> and <term>frequent</term>.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -553,15 +558,15 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                             <ctext>No</ctext>
                             <action>
                                 <ctext>
-                                    <p>1. A frequent collocation is a word combination which occurs often in a corpus. Its occurrence is counted in comparison to other collocations.</p>
+                                    <p>A frequent collocation is a word combination which occurs often in a corpus, so its occurrence in comparison to other collocations is counted.</p>
                                     <p>In order to be able to rate a collocation’s significance, the total size of the corpus is also taken into account. It will then be calculated how often a word combination would be expected if the words were distributed evenly. </p> </ctext>
-                                <url href="More frequent than chance" >More frequent than chance</url>
-                               <url href="Significant" >Significant</url>
+                                <p><url href="More frequent than chance" >More frequent than chance</url></p>
+                               <p><url href="Significant" >Significant</url></p>
                             </action>
                         </option>
                     </answer>
                     <question>
-                        <ctext>2. I have the ability to describe the observed and the expected frequency.</ctext>
+                        <ctext><p><emph>2. I have the ability to describe the observed and the expected frequency.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -573,15 +578,15 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                         <option>
                             <ctext>No</ctext>
                             <action>
-                                <ctext><p>By the observed frequency the actual occurrence of a collocation is meant. The expected frequency is calculated by multiplying the single frequencies of collocate and node and dividing the result by the total size of the corpus. That way the values of a random distribution are determined. If they are clearly exceeded, the word combination is significant.
+                                <ctext><p>By the observed frequency the actual occurrence of a collocation is meant. The expected frequency is calculated by multiplying the single frequencies of collocate and node and dividing the result by the total size of the corpus. That way, the values of a random distribution are determined. If they are clearly exceeded, the word combination is significant.
                                 </p> </ctext>
-                                <url href="#Observed Frequency" >Observed Frequency</url>
-                                <url href="#Expected Frequency" >Expected Frequency</url>
+                                <p><url href="#Observed Frequency" >Observed Frequency</url></p>
+                                <p><url href="#Expected Frequency" >Expected Frequency</url></p>
                             </action>
                         </option>
                     </answer>
                     <question>
-                        <ctext>3. I am able to specify the four values, which are required for significance tests.</ctext>
+                        <ctext><p><emph>3. I am able to specify the four values, which are required for significance tests.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -598,7 +603,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                                         <li>how often word&#8321; and word&#8322; are co-occurring (within a previously defined span),</li>
                                         <li>how often only word&#8321; occurs,</li>
                                         <li>how often word&#8322; occurs by itself,</li>
-                                        <li>how many words are neither word1&#8321; nor word&#8322;. </li>
+                                        <li>how many words are neither word&#8321; nor word&#8322;. </li>
                                     </list>
                                     <p>It is necessary to determine the observed frequency as well as the expected frequency for all of the four values. </p>
                                 </ctext>
@@ -607,7 +612,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                         </option>
                     </answer>
                     <question>
-                        <ctext>I comprehended the purpose of significance measures and I can name two.</ctext>
+                        <ctext><p><emph>4. I comprehended the purpose of significance measures and I can name two of them.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -623,8 +628,8 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                                     <p>The most common significance measure in corpus linguistics is the <term>log-likelihood ratio</term>. Moreover, <term>chi-square</term>,
                                         <term>MI</term> or <term>t-score</term> are applied.</p>
                                 </ctext>
-                                <url href="Significance measures" >Significance measures</url>
-                                <url href="Significance Measure" >The Significance Measure</url>
+                                <p><url href="Significance measures" >Significance measures</url></p>
+                               <p><url href="Significance Measure" >The Significance Measure</url></p>
                             </action>
                         </option>
                     </answer>
@@ -653,7 +658,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 </list>
                 <p>Moreover, collocations can reflect semantic compatibility, cultural stereotypes or institutionalised phrases or simply describe a real-world situation. </p>
                 <p>The reasons listed here might likewise serve as basis for or aid to interpretation.</p>
-                  <p>(cf. Evert 2009: 1218f.; Heyer/Quasthoff/Wittig 2008: 24-38, 148f.)</p>
+                  <p align="right">(cf. Evert 2009: 1218f.; Heyer/Quasthoff/Wittig 2008: 24-38, 148f.)</p>
             </page>
             <page>
                 <h1>Checklist</h1>
@@ -673,13 +678,12 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                         <option>
                             <ctext>No</ctext>
                             <action>
-                                <ctext><p>Possible reasons contributing to a high level of cohesion are: </p>
+                                <ctext><p>Possible reasons contributing to a high level of cohesion are for example: </p>
                                     <list type="ordered" >
                                         <li>The collocation forms (part of) a multi-word proper name (e.g. <kursiv>New York</kursiv>)</li>
                                         <li>Collocate and node are part of a listing.</li>
                                         <li>The collocation is (part of) an idiom or phrase. </li>
                                         <li>There is a part-whole relationship present (e.g. <kursiv>page</kursiv> and <kursiv>book</kursiv>).</li>
-                                        <li>The collocate is a superordinate or subordinate term of the node.</li>
                                         <li>The collocate or node describes typical properties (e.g. <kursiv>warm</kursiv> and <kursiv>water</kursiv>).</li>
                                         <li>The collocate or the node serves as an aid or tool (e.g. <kursiv>microscope</kursiv> and <kursiv>magnification</kursiv>).</li>
                                     </list>
@@ -708,16 +712,14 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                     (<bib id="Evert2009"><person name="Evert,
                             Stefan">Evert</person> 2009: 1243</bib>)</p>
                             </details>
-                <p>Without any doubt it is challenging that one has to speculate on the nature of the phenomenon already when deciding on the respective parameters. Adopting a data-driven approach you would therefore, as the name implies, draw guidance to a certain extent from the results. If necessary you would readjust the parameters.</p>
+                <p>Without any doubt it is challenging that one has to speculate on the nature of the phenomenon already when deciding on the respective parameters. Adopting a data-driven approach, you would therefore, as the name implies, draw guidance from the results to a certain extent. If necessary you would readjust the parameters.</p>
                 <p>Furthermore, a collocation analysis may give impetus to phrasing research questions or hypotheses which might only emerge in the course of the analysis.</p>
             </page>
             <page>
                 <p>The adjustable parameters of a collocation analysis usually include: </p>
-            </page>
-            <page>
                 <h2 id="Span Size">Span Size</h2>
                 <p><emph>Collocations</emph> do not necessarily have to consist of two words which are immediately adjacent but they <emph>can also be discontinuous</emph>. Hence, when carrying out a collocation analysis you usually <emph>specify</emph> beforehand <emph>the co- or context</emph> which shall be included. According to <person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel,
-                            Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz </person>, a span of five words to the right and five words to the left of the node is often considered to be the most telling context. Again, the research question is decisive, because asymmetric or very narrow <emph>collocational spans</emph> may also be appropriate. </p>
+                            Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz</person>, a span of five words to the right and five words to the left of the node is often considered to be the most telling context. Again, the research question is decisive, because asymmetric or very narrow <emph>collocational spans</emph> may also be appropriate. </p>
                 <details>
                 <p>As an example, if you examine the question which adjectives are significantly combined with a specific noun, it seems reasonable to select a left-sided span because of the English word order.</p>
                 </details>
@@ -726,13 +728,13 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <p>The positions to the right of the node word are represented with positive numbers, which might additionally be preceded with a "+". So if a collocate is for example the adjacent neighbor on the right side of the node, its position would be 1 or +1.</p>
                 <p>Depending on the software which is used, it may be possible to display which positions a collocate occupies how often.</p>
                 <p>Regarding the window span, the punctuation needs to be considered as well: Can we still refer to a word combination as collocation when the two words do not occur in the same sentence? Normally, <emph>sentence boundaries</emph> within the specified span are disregarded, which means that collocations are calculated across sentence boundaries. However, this might be adjusted, depending on the software.</p>
-                <p>"<emph>Span size</emph> is the <emph>most important choice</emph> that has to be made by the researcher [...]" (<bib id="Evert2009"><person name="Evert, Stefan"></person>1221</bib>, emphasis added), according to <person name="Evert, Stefan">Evert</person> (2009). At the same time, this <emph>arbitrariness</emph> is considered a point of criticism, though. </p>
+                <p>According to <person name="Evert, Stefan">Evert</person> (2009), "<emph>[s]pan size</emph> is the <emph>most important choice</emph> that has to be made by the researcher [...]" (<bib id="Evert2009"><person name="Evert, Stefan"></person>loc. cit. 1221</bib>, emphasis added). At the same time, this <emph>arbitrariness</emph> is considered a point of criticism, though. </p>
                 <details>
-                <p>For a span size of 3, <kursiv>throw a
+                <p>"For a span size of 3, <kursiv>throw a
                         birthday party</kursiv> would be accepted as a
                     coocurrence of (<kursiv>throw</kursiv>,
                     <kursiv>party</kursiv>), but <kursiv>throw a huge birthday
-                        party</kursiv> would not.(<bib id="Evert2009"><person name="Evert,
+                        party</kursiv> would not." (<bib id="Evert2009"><person name="Evert,
                             Stefan">Evert</person> 2009: 1222</bib>)</p>
                             </details>
                 <p>The difficulty here is that you do not know before which position the collocate prefers. That is why the results should be assessed critically and the <emph>parameters might have to be readjusted</emph>.</p>
@@ -742,7 +744,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <p>Another parameter which can or must be set in advance when performing a collocation analysis is the minimum frequency of the collocation as well as of the node and the potential collocate. Hence, one can or must decide <emph>how often a word combination or the respective words have to occur in the corpus to be included in the calculation</emph>. </p>
                 <p>According to <person name="Evert, Stefan">Evert</person> (2009), one should keep in mind that "[i]t is not uncommon to find more than a million recurrent word pairs (f &#8805; 2) in a corpus containing several hundred million running words, but only a small proportion of them [words] will pass a frequency threshold of f &#8805; 10 or higher, as a consequence of Zipf’s law [...]" (<bib id="Evert2009"><person name="Evert,
                             Stefan">Evert</person> 2009: 1215</bib>). (cf. remarks on Zipf’s law in the module "Concordances and Keyword Lists") <!-- Evtl. mit Link unterlegen --></p>
-                <p>He goes on to say that the parameter "minimum frequency" can also be set as a threshold to exclude infrequent recurrent word pairs or mere co-occurrences from the calculation beforehand. Besides, when the list of the most significant collocates is finally displayed, one could distinguish between "strong" and "weak" collocations in a next step by defining a certain significance value as threshold again.</p>
+                <p>He goes on to say that the parameter "minimum frequency" can also be set as a threshold to exclude infrequent recurrent word pairs or mere co-occurrences from the calculation beforehand. Besides, when the list of the most significant collocates is finally displayed, one could distinguish between "strong" and "weak" collocations in a next step by defining a certain significance value as threshold.</p>
                 <p>However, it is more practicable not to apply an arbitrary threshold but to have a closer <emph>look at the top</emph> 50 or 100 <emph>collocates of the ranked list</emph>. Because, as already explained in the section on significance measures, the scores are less decisive than the ranking obtained by comparing them. </p>
                 <p>So, one should always analyze the collocations showing the highest significance or strongest attraction. Nonetheless, given the already mentioned weak point of significance measures, selecting a minimum frequency or frequency threshold might be useful after all:</p>
                 <p> "[...] accidental cooccurrences
@@ -774,15 +776,23 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <p>If the collocation analysis shall be based on the word form, the <emph>inflected forms of a word are treated as individual collocates</emph>. Hence, the frequency and significance not only of the word "say" will be calculated but also of the words "says", "said" etc. As a result, all the word forms are then listed in the collocation profile sorted by their respective association scores.</p>
                 <h3>POS</h3>
                 <p>A third option is to take the POS, in other words the parts of speech, as a basis of collocation analyses. For the calculations the <emph>collocates</emph> of a node are then <emph>pooled according to the parts of speech they are representing</emph>. In the collocation profile you will find abbreviations or more precisely tags, which are usually aligned with the <emph>Penn Treebank TagSet</emph>. In consequence, one may read for example RB (Adverb) or VBD (Verb, past tense) among the results and thus you would learn that the node is forming a significant collocation with adverbs or past tense verbs.</p>
-                <p>Furthermore it is <emph>possible to filter</emph> the calculated collocations <emph>by parts of speech</emph>. For this purpose there is a drop down list available in some tools from which you can choose of annotated parts of speech by means of the just mentioned tags. This way, one can display for example a list of modal verbs (MD) or personal pronouns (PP) being collocates of the node, sorted in descending order by significance or frequency. It allows for another perspective and a more targeted search. </p>
-                <p><url href="http://www.americannationalcorpus.org/oanc/penn.html"></url>Penn Treebank TagSet</p>
-                <p>For more detail see: <url href="http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/Penn-Treebank-Tagset.pdf"></url>Penn Treebank TagSet</p>
+                <p>Furthermore it is <emph>possible to filter</emph> the calculated collocations <emph>by parts of speech</emph>. For this purpose in some tools there is a drop down list available from which you can choose of annotated parts of speech by means of the just mentioned tags. Hence, one can display for example a list of modal verbs (MD) or personal pronouns (PP) being collocates of the node, sorted in descending order by significance or frequency. This allows for another perspective and a more targeted search. </p>
+                <p><url href="https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html"></url>Penn Treebank TagSet</p>
+                <p>For more detail see:</p> 
+                <p><url href="http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/Penn-Treebank-Tagset.pdf"></url>Penn Treebank Tagging Guidelines</p>
             </page>
             <page>
                 <h2 id="Function Words ">Function Words </h2>
                 <p>Depending on the software which is used for calculating and analyzing collocations, it may be possible to include or exclude function words. Those are <emph>words which express grammatical relationships but have no or little meaning</emph>, like articles or conjunctions.</p>
-                <p>Hence, when excluding function words or synsemantic words from the collocation analysis, only words which carry meaning, like nouns and verbs are shown.</p>
-                <p>As usual, the choice of parameters depends on the research question. If one wants to look for example at syntactic aspects <details>(and is e.g. interested in phrasal verbs or partitives), </details>certainly function words are rather of importance than for questions regarding topic or content <details>(like the question of typical contexts in which a node is used)</details>.</p>
+                <p>Hence, when excluding function words, also referred to as synsemantic words, from the collocation analysis, only words which carry meaning, like nouns and verbs are shown.</p>
+                <p>As usual, the choice of parameters depends on the research question. If one wants to look for example at syntactic aspects,</p> 
+                <details>
+                <p>(and is e.g. interested in phrasal verbs or partitives), </p>
+                </details>
+                <p>then function words are certainly rather of importance than for questions regarding topic or content.</p>
+                <details>
+                <p>(like the question of typical contexts in which a node is used)</p>
+                </details>
                 </page>
             <page>
                 <h2>References:</h2>
@@ -801,7 +811,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <p>With the aid of the following questions you should assess whether you have understood the main aspects and overall context of this module and whether you are able to reproduce and apply your newly acquired knowledge. If you realize that you have to answer "no" to any of the following questions, then summarized information and a link to the respective topic will be displayed.</p>
                 <check>
                     <question>
-                        <ctext>1. It has become clear to me why the parameters are crucial to a collocation analysis and I am capable of enumerating three of them.</ctext>
+                        <ctext><p><emph>1. It has become clear to me why the parameters are crucial to a collocation analysis and I am capable of enumerating three of them.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -821,7 +831,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                         </option>
                     </answer>
                     <question>
-                        <ctext>2. I have the ability to explain the parameters lemma/word form/POS.</ctext>
+                        <ctext><p><emph>2. I have the ability to explain the parameters lemma/word form/POS.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -833,7 +843,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                         <option>
                             <ctext>No</ctext>
                             <action>
-                                <ctext><p>If one selects the parameter lemma, the infinitive of a word and its inflected forms are, so to say, treated as a package for the calculations. Within the collocation profile they are listed under the lemma.</p>
+                                <ctext><p>If one selects the parameter <kursiv>lemma</kursiv>, the infinitive of a word and its inflected forms are, so to say, treated as a package for the calculations. Within the collocation profile they are listed under the lemma.</p>
                                     <p>When the word form shall be the basis of the collocation analysis, the inflected forms of a word are treated as individual collocates and listed separately.</p>
                                     <p>Finally, in the case of the parameter POS the collocates of a node are pooled according to the parts of speech they are representing. In the collocation profile you will then find abbreviations or more precisely tags, which are based on the respective TagSet, e.g. for English on the Penn Treebank TagSet. </p>
                                 </ctext>
@@ -842,7 +852,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                         </option>
                     </answer>
                     <question>
-                        <ctext>3. I am capable of sketching the parameter span size out.</ctext>
+                        <ctext><p><emph>3. I am capable of sketching the parameter <kursiv>span size</kursiv> out.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -887,7 +897,7 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                             <li>Compare the dictionary entry of a lexeme of your choice with its collocation profile. What differences and similarities (in terms of order of readings, examples for how the word is used, completeness...) do you find?</li>
                             <!-- <li>Depending on the corpus, another task could be: Compare the collocation profiles of the two verbs/adjectives X and Y (e.g. hard/difficult, grin/smile, clean/wash) and decide whether they are synonymous. Document your approach and give reasons for your opinion. </li>
                             <li>Subtask: Which topics/fields can the respective collocates be assigned to?</li>-->
-                            <li>Carry out collocation analyses of political catchwords , e.g. of "freedom". Do you find differences between the parties? Explain and interpret them.</li>
+                            <li>Carry out collocation analyses of political catchwords , e.g. "freedom". Do you find differences between the parties? Explain and interpret them.</li>
                             <li>According to the Oxford Dictionary, "data" is originally a plural noun, which is nowadays treated as a mass noun as well. Hence, both forms "(the) data is" and "(the) data are" are used and widely accepted. Now, which expression is more common? Outline which approaches and search queries are feasible to answer this question.</li>
                         </list>
                     </ctext>

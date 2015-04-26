@@ -74,7 +74,7 @@
                 <h3 id="Auswertung">Möglichkeiten der Auswertung</h3>
                 <p>Es bieten sich <emph>unterschiedliche Verfahren</emph> an, um ein angemessenes Bild eines Keywords zu erhalten, ohne dafür sämtliche Konkordanzen sichten zu müssen.</p>
                 <p>Als eine Möglichkeit, eine unüberschaubare Vielzahl an KWICs auszuwerten, führen <person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz</person> an, dass man eine angemessen große Menge an Treffern zufällig auswählen und manuell auswerten könne. Die Eigenschaften des Keywords, die man anhand dieser <emph>Stichprobe</emph> feststellt, würde man dann in einem nächsten Schritt auf alle Treffer <emph>hochrechnen</emph>. Problematisch ist jedoch, dass dabei seltene Phänomene verlorengehen oder verzerrt werden können. </p>
-                <p>Eine zweite Option ist das <emph>automatische Erschließen</emph> der Ergebnisse <emph>mithilfe geeigneter Assoziationsmaße</emph> (vgl. Modul <url href="http://linguistik.zih.tu-dresden.de/textmining/course/">"Kollokationen"</url>). Die als signifikant dargestellten Treffer können dann entsprechend der jeweiligen Forschungsfrage interpretiert und ausgewertet werden.</p>
+                <p>Eine zweite Option ist das <emph>automatische Vorsortieren</emph> der Ergebnisse <emph>mithilfe geeigneter Assoziationsmaße</emph> (vgl. Modul <url href="http://linguistik.zih.tu-dresden.de/textmining/course/">"Kollokationen"</url>). Die als signifikant dargestellten Treffer können dann entsprechend der jeweiligen Forschungsfrage interpretiert und ausgewertet werden.</p>
                 <p>Ein weiteres Vorgehen, um sehr große Ergebnismengen zu bewältigen, ist die <emph>zufällige Wahl und Auswertung einer festgelegten Anzahl an Konkordanzzeilen</emph>, beispielsweise 30. Anschließend werden 30 weitere Zeilen ausgesucht und dies so lange fortgeführt, bis man zu keinen neuen Erkenntnissen über das Keyword gelangt.</p>
                 <p>Naheliegend wäre auch, aus sämtlichen Konkordanzen eine <emph>kleine Zufallsstichprobe</emph> zu ziehen und anhand dieser eine <emph>Hypothese aufzustellen</emph>, welche man durch eine zweite Stichprobe überprüft und gegebenenfalls adaptiert. </p>
             </page>
@@ -89,18 +89,18 @@
                 <details><p>"Certain words characterise individual texts (such as <kursiv>Romeo and Juliet</kursiv>), as well as text-types and intellectual areas (such as medicine [...])." (<bib id="Bondi2010b"><person name="Stubbs, Michael">Stubbs</person> 2010: 25</bib>)</p></details>
                 <p>Die Erstellung solcher Listen ist auch auf der Grundlage einzelner Texte möglich, um diese anhand der signifikant häufigsten Keywords zu vergleichen und Unterschiede zwischen ihnen auszumachen. Des Weiteren können Keyword Listen als Ausgangspunkt für die Untersuchung fachbezogener Texte bzw. Korpora dienen, da durch den Vergleich mit einem allgemeinsprachlichen Korpus <emph>spezifische Fachbegriffe</emph> hervortreten.
                 </p>
-                <details><p>Die Formulierung "spezifische Fachbegriffe" scheint redundant, doch <person name="Heyer, Gerhard">Heyer</person>/<person name="Quasthoff">Quasthoff, Uwe</person>/<person name="Wittig, Thomas">Wittig </person>geben an, dass "[...] Begriffe, wie z.B. 'System', 'Daten', 'Feld' und 'Information', die sich unter den hundert häufigsten Begriffen des [SAP-]Fachwortschatzes, nicht aber des Allgemeinwortschatzes finden, [trotz allem] so unspezifisch [sind], dass sie kaum als domänenspezifische Fachbegriffe infrage kommen." (<bib id="Heyer2008"><person name="Heyer, Gerhard">Heyer</person>/<person name="Quasthoff, Uwe">Quasthoff</person>/<person name="Wittig, Thomas">Wittig </person>2008: 97</bib>)</p></details>
+                <details><p>Die Formulierung "spezifische Fachbegriffe" scheint redundant, doch <person name="Heyer, Gerhard">Heyer</person>/<person name="Quasthoff, Uwe">Quasthoff</person>/<person name="Wittig, Thomas">Wittig</person> geben an, dass "[...] Begriffe, wie z.B. 'System', 'Daten', 'Feld' und 'Information', die sich unter den hundert häufigsten Begriffen des [SAP-]Fachwortschatzes, nicht aber des Allgemeinwortschatzes finden, [trotz allem] so unspezifisch [sind], dass sie kaum als domänenspezifische Fachbegriffe infrage kommen." (<bib id="Heyer2008"><person name="Heyer, Gerhard">Heyer</person>/<person name="Quasthoff, Uwe">Quasthoff</person>/<person name="Wittig, Thomas">Wittig </person>2008: 97</bib>)</p></details>
                 <p>Keyword Listen können je nach Analyseprogramm sowohl nach Frequenz wie auch nach <term>Keyness</term> sortiert werden. </p>
                 <p>"Die übliche Methode, um für ein Korpus im Vergleich zu einem Referenzkorpus typische Einheiten (Lexeme, Mehrworteinheiten etc.) zu berechnen, ist der sog. "Keyness"-Ansatz (<bib id="Scott2006"><person name="Scott, Mike">Scott</person>/<person name="Tribble, Christopher">Tribble </person>2006</bib>; <bib id="Bondi2010c"><person name="Bondi, Marina">Bondi</person>/<person name="Scott, Mike">Scott</person> 2010</bib>), bei dem die <emph>Keyness</emph>, also die Typizität jedes n-Gramms im <emph>Untersuchungskorpus</emph> im Vergleich zum <emph>Referenzkorpus</emph> berechnet wird. </p>
                 <details><p>Ein n-Gramm ist eine beliebig große Anzahl (N) von aufeinanderfolgenden Textfragmenten, bei welchen es sich sowohl um Buchstaben,  Silben oder Wörter handeln kann. Üblicherweise geht man in der Korpuslinguistik von Wörtern aus. Ein "Unigramm" ist demnach ein einzelnes Wort, also ein Keyword und ein "Bigramm" kann eine Kollokation sein.</p></details>
                 <p>Mit Keyness ist also ein Assoziationsmaß gemeint, mit dem ausgedrückt wird, ob ein bestimmtes Wort signifikant häufiger im Untersuchungskorpus vorkommt als im Referenzkorpus. Dieses Maß ist sehr verbreitet, um Schlüsselwörter ("Keywords") in einem Korpus zu finden und in viele Korpustools implementiert." (<bib id="Bubenhofer_Noah"><person name="Bubenhofer, Noah">Bubenhofer </person>im Druck</bib>, Hervorh. d. Verf.)</p>
             </page>
             <page>
-                <img src="/image/Warning.png">"Warnsignal"</img>
+                <img src="/image/Warning.png">"Warnschild"</img>
                 <p>Im Hinblick auf Konkordanzen und Keyword Listen sollten wie immer die bei der Analyse von Korpusdaten gängigen Prämissen beachtet werden.</p>
                 <p>Zum einen sollte man sich darüber im Klaren sein, dass die Ergebnisse einer Suchanfrage stets der <emph>Interpretation </emph>bedürfen und <emph>keine "Fakten"</emph> über unsere Sprache liefern.</p>
-                <p>"[...] [S]ehr leicht verleiten Korpusbefunde zu voreiligen Rückschlüssen über die Sprachdomäne. Auch ein riesiges Korpus ist i.A. nur ein kleiner, unvollständiger Ausschnitt aus der gesamten Sprachdomäne, und so hängen die Beobachtungen, die man in diesem Korpus macht, nicht nur von der Grundgesamtheit ab, sondern auch von zufälligen Einflüssen." (<bib id="Perkuhn2012"><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz</person> 2012: 86f.</bib>)</p>
-                <p>Zum anderen spielt die <emph>Forschungsfrage</emph> eine zentrale Rolle, da sie nicht nur bei der Interpretation von Korpusbefunden, sondern auch hinsichtlich der <emph>Datenzusammensetzung</emph> sowie der <emph>Wahl der Parameter</emph> richtungsweisend sein sollte. Die Auswahl, <emph>Aufbereitung</emph> und <emph>Analyseform</emph> der Daten hat maßgeblichen Einfluss auf die Ergebnisse.</p>
+                <p>"[...] [S]ehr leicht verleiten Korpusbefunde zu voreiligen Rückschlüssen über die Sprachdomäne. <emph>Auch ein riesiges Korpus ist i.A. nur ein kleiner, unvollständiger Ausschnitt aus der gesamten Sprachdomäne</emph>, und so hängen die Beobachtungen, die man in diesem Korpus macht, nicht nur von der Grundgesamtheit ab, sondern auch von <emph>zufällige</emph>n <emph>Einflüsse</emph>n." (<bib id="Perkuhn2012"><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz</person> 2012: 86f., Hervorh. d. Verf.</bib>)</p>
+                <p>Zum anderen spielt die <emph>Forschungsfrage</emph> eine zentrale Rolle, da sie nicht nur bei der Interpretation von Korpusbefunden, sondern auch hinsichtlich der <emph>Datenzusammensetzung</emph> sowie der <emph>Wahl der Parameter</emph> richtungsweisend sein sollte. Die Auswahl, <emph>Aufbereitung und Analyseform der Daten</emph> hat maßgeblichen Einfluss auf die Ergebnisse.</p>
                 <details>
                     <p>
                         "Ein hoher Anteil regional ausgerichteter Zeitungen sorgt z.B. für eine Überrepräsentation von regionalen Ausdrücken (Regionalismen), u.a. auch Ortsbezeichnern, die ggf. entsprechend relativiert werden müssten ." (<bib id="Perkuhn2012"><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz</person> 2012: 76</bib>)
@@ -164,8 +164,8 @@
                                 <ctext><p>Will man ein bestimmtes Stichwort in einem Korpus finden, so werden die Ergebnisse einer entsprechenden Suchanfrage üblicherweise als sogenannte Konkordanzen bzw. <term>Key Words In Context</term>, kurz KWICs, dargestellt. Dabei wird jedes Vorkommen des gesuchten Wortes zeilenweise angezeigt, wobei das Keyword mittig platziert wird. Rechts und links wird entsprechend der getroffenen Einstellungen und medialen Möglichkeiten der umgebende Kotext angezeigt. </p>
                                     <p>Da man als Forscher um eine möglichst breite Datengrundlage bemüht ist, liefert die Suche nach einem frequenten Wort in der Regel eine Fülle an Ergebnissen. Je größer die Treffermenge ist, desto schwieriger gestaltet sich dann auch deren Sichtung und ab einer gewissen Datenflut ist es unmöglich, alle Belege in Augenschein zu nehmen. Man muss daher ein systematisches Vorgehen wählen, um möglichst keine relevanten Phänomene zu übersehen.</p>
                                 </ctext>
-                                <url href="#Konkordanzen" >Konkordanzen</url>
-                                <url href="#Schwierigkeit" >Schwierigkeit</url>
+                                <p><url href="#Konkordanzen" >Konkordanzen</url></p>
+                                <p><url href="#Schwierigkeit" >Schwierigkeit</url></p>
                             </action>
                         </option>
                     </answer>
@@ -212,7 +212,7 @@
                 <details>
                     <p>Man legt also beispielsweise einen Faktor fest, um den sich die Frequenzen der Begriffe unterscheiden müssen (&#8594; Wort a muss x-mal häufiger im Analysekorpus vorkommen als im Referenzkorpus) </p>
                     <p>oder man bestimmt die Mindestdifferenz der Häufigkeitsklassen, in welche die Wörter eingeordnet wurden (&#8594; lässt sich das Wort im Referenzkorpus in HKL 3 einordnen, so muss es im Analysekorpus mindestens in HKL 5 erscheinen)</p>
-                    <p>oder aber man lässt sich vom Signifikanzwert leiten und betrachtet z.B. die Top 10/50/100 Wörter einer Keyword-Liste.</p>
+                    <p>oder aber man lässt sich vom Signifikanzwert leiten und betrachtet z.B. die Top 10/50/100 Wörter einer Keyword Liste.</p>
                 </details>
                 <p>Wörter, die in beiden Korpora ungefähr die gleiche relative Häufigkeit aufweisen, sind zumeist Funktionswörter oder allgemeine Begriffe. </p>
                 <details>
@@ -225,12 +225,14 @@
                 <p>Wie bereits im Kapitel zu Keyword Listen erläutert wurde, können durch die Berechnung ebensolcher nicht nur die Fachbegriffe, sondern auch das <emph>spezifische Vokabular bzw. charakteristische Begriffe eines Textes oder Korpus </emph>ermittelt werden. Möchte man die Schlagwörter in einem Text oder Korpus ausfindig machen, so zieht man wiederum ein Referenzkorpus hinzu. Es kann sinnvoll sein, für die Differenzanalyse eine geeignete Mindestfrequenz festzulegen und sich beispielsweise auch auf bestimmte Wortarten zu beschränken. </p>
                 <p>Auf Grundlage derartiger Kriterien werden beispielsweise die "Wörter des Tages" des Projekts <kursiv>Deutscher Wortschatz</kursiv> ermittelt. Das Analysekorpus besteht dabei aus Zeitungstexten eines Tages, während das Referenzkorpus die Datenbank des erwähnten Projekts bildet. "Die Mindestfrequenz in den Zeitungstexten wurde auf zehn gesetzt, als Mindestfrequenz im allgemeinsprachlichen Vergleichskorpus wurde zwanzig gewählt und die relative Häufigkeit eines Wortes des Tages musste in den Zeitungstexten sechs Mal so groß sein wie im Vergleichskorpus." (<bib id="Heyer2008"><person name="Heyer, Gerhard">Heyer</person>/<person name="Quasthoff, Uwe">Quasthoff</person>/<person name="Wittig, Thomas">Wittig </person> 2008: 97f.</bib>) Zudem beschränkte man sich für die Analyse auf Substantive. Auf diese Weise werden jeden Tag automatisiert Schlüsselbegriffe aus Zeitungsmeldungen extrahiert und zusätzlich in Sachgebiete eingeordnet. Die sich daraus ergebende Zusammenstellung von Keywords spiegelt zentrale Aspekte des Tagesgeschehens wider:</p>
                 <p><url href="http://wortschatz.uni-leipzig.de/wort-des-tages/" >Wörter des Tages</url></p>
+                <p align="right">(vgl. <bib id="Heyer2008"><person name="Heyer, Gerhard">Heyer</person>/<person name="Quasthoff, Uwe">Quasthoff</person>/<person name="Wittig, Thomas">Wittig </person> 2008: 95-100</bib>)</p>
             </page>
             <page>
                 <h2 id="Referenzliteratur">Referenzliteratur</h2>
                 <list>
                     <li>vgl. Heyer/Quasthoff/Wittig 95-100, 154f., 272f.</li>
                     <li>vgl. Hunston 39, 41</li>
+                    <li>vgl. Groom 60-70</li>
                     <li>vgl. Kennedy 251,256</li>
                     <li>vgl. Manning Schütze 33</li>
                     <li>vgl. Stubbs 24</li>
@@ -299,7 +301,7 @@
                             <ctext>Nein</ctext>
                             <action>
                                 <ctext>
-                                    <p>Eine Differenzanalyse kann zum einen zur Identifizierung von Fachterminologie durchgeführt werden. Nachdem man mit der gebotenen Sorgfalt und Umsicht ein allgemeinsprachliches Analysekorpus und ein fachsprachliches Referenzkorpus ausgewählt hat, werden diese anhand der Auftretenswahrscheinlichkeiten der jeweiligen Wörter miteinander verglichen. Bei den Wörtern, die nicht im allgemeinsprachlichen Korpus oder aber verhältnismäßig häufiger im fachsprachlichen Korpus erscheinen, handelt es sich dann für gewöhnlich um Fachtermini, wobei man erwähnte Relation noch genauer bestimmen muss oder aber man lässt sich vom Signifikanzwert leiten und betrachtet z.B. die Top 10/50/100 Wörter einer Keyword-Liste. </p>
+                                    <p>Eine Differenzanalyse kann zum einen zur Identifizierung von Fachterminologie durchgeführt werden. Nachdem man mit der gebotenen Sorgfalt und Umsicht ein allgemeinsprachliches Analysekorpus und ein fachsprachliches Referenzkorpus ausgewählt hat, werden diese anhand der Auftretenswahrscheinlichkeiten der jeweiligen Wörter miteinander verglichen. Bei den Wörtern, die nicht im allgemeinsprachlichen Korpus oder aber verhältnismäßig häufiger im fachsprachlichen Korpus erscheinen, handelt es sich dann für gewöhnlich um Fachtermini, wobei man erwähnte Relation noch genauer bestimmen muss oder aber man lässt sich vom Signifikanzwert leiten und betrachtet z.B. die Top 10/50/100 Wörter einer Keyword Liste. </p>
                                     <p>Zum anderen eröffnen Differenzanalysen die Möglichkeit, das spezifische Vokabular bzw. charakteristische Begriffe eines Textes oder Korpus zu ermitteln, indem wiederum ein Referenzkorpus hinzugezogen wird. Es kann sinnvoll sein, dabei eine geeignete Mindestfrequenz festzulegen und sich beispielsweise auch auf bestimmte Wortarten zu beschränken. </p>
                                 </ctext>
                                 <url href="#Wozu Keyword Listen?" >Wozu kann die Erstellung von Keyword Listen dienen?</url>
@@ -313,7 +315,7 @@
             <page>
                 <h1>Ein kleines bisschen Statistik</h1>
                 <p>In den vorherigen Kapiteln war bereits die Rede von Auftretenswahrscheinlichkeiten, Signifikanzmaßen, Häufigkeitsklassen oder relativer Häufigkeit, womit wir uns im Bereich der Statistik befinden. Nachfolgend sollen die für dieses Modul relevanten Begriffe näher erläutert werden.</p>
-                <p>Zunächst widmen wir uns den bei der Berechnung von Konkordanzen und Keyword-Listen gängigen Frequenzangaben, nämlich der absoluten und der relativen Häufigkeit:</p>
+                <p>Zunächst widmen wir uns den bei der Berechnung von Konkordanzen und Keyword Listen gängigen Frequenzangaben, nämlich der absoluten und der relativen Häufigkeit:</p>
             </page>
             <page>
                 <h2 id="Absolute Frequenz">Absolute Frequenz</h2>
@@ -418,8 +420,8 @@
                                     <p>Die absolute Frequenz eines Wortes gibt schlicht wieder, wie oft das Wort tatsächlich im Korpus vorkommt. Diese Angabe ist leicht zu interpretieren, birgt aber Probleme hinsichtlich der Vergleichbarkeit. </p>
                                     <p>Um die relative Häufigkeit eines Wortes zu ermitteln, dividiert man einfach dessen absolute Häufigkeit durch die Größe des Korpus, also die Gesamtheit der Worttokens. Üblicherweise werden die so errechneten, meist sehr kleinen Zahlen noch mit 1 Million multipliziert, woraus sich die sogenannten pmW-Werte ergeben. </p>
                                 </ctext>
-                                <url href="#Absolute Frequenz" >Absolute Frequenz</url>
-                                <url href="#Relative Frequenz" >Relative Frequenz</url>
+                                <p><url href="#Absolute Frequenz" >Absolute Frequenz</url></p>
+                                <p><url href="#Relative Frequenz" >Relative Frequenz</url></p>
                             </action>
                         </option>
                     </answer>
@@ -609,7 +611,7 @@
                 <exercise>
                     <ctext>
                         <list type="ordered" >
-                            <li type="exercise">Erstellen und analysieren Sie eine Keyword-Liste für ein beliebiges Korpus.</li>
+                            <li type="exercise">Erstellen und analysieren Sie eine Keyword Liste für ein beliebiges Korpus.</li>
                             <li>Unteraufgabe: Wechseln Sie zwischen den Parametern <kursiv>Wortform</kursiv>, <kursiv>Lemma</kursiv> und <kursiv>POS</kursiv>. Wie verändern sich die Ergebnisse?</li>
                             <li type="exercise">Identifizieren Sie die Keywords einer beliebigen Partei. Welchen Themenbereichen und linguistischen Kategorien lassen sie sich zuordnen? Ziehen Sie Schlüsse aus Ihren Ergebnissen.</li>
                             <li type="exercise">Prüfen Sie, ob sich die Keywords einer willkürlich bestimmten Partei den Kategorien "Fahnenwörter"/"Stigmawörter" nach Hermanns zuordnen lassen.</li>
@@ -625,7 +627,7 @@
                                <exercise>
                     <ctext>
                         <list type="ordered" >
-                            <li type="exercise">Ermitteln Sie, ob die Keyword-Liste einer beliebigen Partei Hochwert- oder Unwertwörter beinhaltet. Versuchen Sie Ihr Ergebnis zu begründen.</li>
+                            <li type="exercise">Ermitteln Sie, ob die Keyword Liste einer beliebigen Partei Hochwert- oder Unwertwörter beinhaltet. Versuchen Sie Ihr Ergebnis zu begründen.</li>
                             <li type="exercise">Vergleichen Sie die Keywords zweier Parteien Ihrer Wahl. Worin unterscheiden sie sich? Gibt es Gemeinsamkeiten? Erörtern Sie Ihre Resultate und überlegen Sie, was die Gründe dafür sein könnten.</li>
                             <li type="exercise">Finden Sie heraus, ob sich das charakteristische Vokabular einer Partei im Laufe der Zeit verändert hat, indem Sie verschiedene Perioden vergleichen.</li>
                             <li>Unteraufgabe: Zeigen sich die Veränderungen nur bei Nomen oder auch bei anderen Wortarten? Warum?</li>

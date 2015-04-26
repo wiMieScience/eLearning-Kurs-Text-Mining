@@ -51,8 +51,8 @@
                         <kursiv>Ambiguous</kursiv> means that a word can be understood in more than one way.
                     </p>
                 </details>
-                <p>On the one hand it can simply be interpreted as a <emph>search word</emph> which shall be found in the corpus when running a corresponding query. The results of such a search for a certain word are usually presented as <emph>concordances</emph>. This is a <emph>typical display format</emph> of corpus analysis tools showing all passages which contain the keyword. It generally appears in the center and is typographically highlighted.</p>
-                <p>On the other hand, the term can also refer to <emph>catchwords or key-words</emph> which are computed by comparing two corpora and which are displayed as a list. This way one can find out which words are <emph>distinctive of a corpus</emph> or also of a text.</p>
+                <p>On the one hand it can simply be interpreted as a <emph>search word</emph> which is to be found in the corpus when running a corresponding query. Searching for a certain word usually leads to the presentation of <emph>concordances</emph>. This is a <emph>typical display format</emph> of corpus analysis tools, showing all passages which contain the keyword. It generally appears in the center and is typographically highlighted.</p>
+                <p>On the other hand, the term can also refer to <emph>catchwords or key-words</emph> which are computed by comparing two corpora and which are displayed as a list. This way, one can find out which words are <emph>distinctive of a corpus</emph> or also of a text.</p>
                 <details><p>
                 There exists "[...] a long tradition of German-language work on the use of Schlüsselwörter (= keywords) [...] [which] is variously called Schlagwortforschung (= ’research on catch phrases’) [...]" (<bib id="Bondi2010b"><person name="Stubbs, Michael">Stubbs</person> 2010: 23</bib>). In this research area, terms and phrases are investigated which have been in the focus of public interest for a certain period of time and which express programs, ideas or issues and the related opinions in a condensed form.
             </p>
@@ -60,47 +60,57 @@
             </page>
             <page>
             <h2 id="Concordances">Concordances</h2>
-            <p>When searching for a certain word in a corpus, the results of the query are usually produced in the form of so-called concordances or <emph><kursiv>Key Words In Context</kursiv>, KWIC</emph> for short. "[Accordingly,] [i]n such a display, <emph>all occurrences of the word of interest</emph> are lined up beneath one another [...]" (<bib id="Manning2003"><person name="Manning, Christopher D.">Manning</person>/<person name="Schütze, Hinrich">Schütze</person> 2003: 31-33</bib>, emphasis added). The keyword is placed centrally and according to the settings made and to the media-related possibilities, the <emph>surrounding co-text</emph> to the left and right is shown. In general, this co-text consists of a predetermined number of characters including spaces which might be adjustable, depending on the analysis software. As a result, some of the surrounding words might be displayed fragmentarily. </p>
-            <p>"[A] larger context than a concordance line is sometimes needed to find out about [the] patterning [of a keyword]" (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person>2002: 56</bib>). Clicking on the respective keyword is usually taking you to a larger text section, which allows you to see as much context as necessary for a better understanding or interpretation.</p>
-            <p>"Producing concordance lines is perhaps the most basic [and intuitive] way of processing corpus information [...]" (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person>2002: 38</bib>)</p>
+            <p>When searching for a certain word in a corpus, the results of a corresponding query are usually produced in the form of so-called concordances or <emph><kursiv>Key Words In Context</kursiv>, KWIC</emph> for short. "[Accordingly,] [i]n such a display, <emph>all occurrences of the word of interest</emph> are lined up beneath one another [...]" (<bib id="Manning2003"><person name="Manning, Christopher D.">Manning</person>/<person name="Schütze, Hinrich">Schütze</person> 2003: 31-33</bib>, emphasis added). The keyword is placed centrally and according to the settings made and to the media-related possibilities, the <emph>surrounding co-text</emph> to the left and right is shown. In general, this co-text consists of a predetermined number of characters including spaces. It might be adjustable, depending on the analysis software. As a result, it is possible that some of the surrounding words are displayed fragmentarily. </p>
+            <p>KWICs can be sorted in alphabetical order by the word which precedes or which follows the keyword or they can be presented in the order of their occurrence in the corpus, depending on the analysis program.</p>
+            <p>"[A] larger context than a concordance line is sometimes needed to find out about [the] patterning [of a keyword]" (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person> 2002: 56</bib>). Clicking on the respective keyword is usually taking you to a larger text section, which allows you to see as much context as necessary for a better understanding or interpretation.</p>
+            <p>"Producing concordance lines is perhaps the most basic [and intuitive] way of processing corpus information [...]" (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person> 2002: 38</bib>)</p>
             <details>
             <p>"Concordances were first constructed by hand for important literary and religious works. Computer concordancing began in the late 1950s for the purposes of categorizing and indexing article titles and abstracts. Luhn (1960) developed the first computer concordance and coined the term KWIC." (<bib id="Manning2003"><person name="Manning, Christopher D.">Manning</person>/<person name="Schütze, Hinrich">Schütze</person> 2003: 35</bib>).</p>
             </details>
-            <img src="" >Example of display</img>
+                <img src="/image/example_concordances.png">Sample display of concordances based on the word form "example" / Image scource: corpus "U.S. Presidents Inaugural Speeches": <kursiv>powered by CQPweb</kursiv></img>
             </page>
             <page>
             <h3>Difficulty</h3>
             <p>Investigating concordances involves a certain problem. Usually, as a researcher you are choosing a <emph>data basis as comprehensive as possible</emph> with the consequence that searching for a frequent word may yield an <emph>overabundance of results</emph>. The larger the set of hits, the more difficult is their inspection and when the volume of data exceeds a certain size it is impossible to look at all concordances. Surely one may already get an impression of some characteristics of the keyword when just skimming through the KWICs. However, other and especially more subtle phenomena can easily be overlooked when the number of hits is extensive.</p>
-            <p>According to <person name="Hunston, Susan">Hunston</person> (2002), "[a] corpus-user can probably cope with looking at, at any one time, about 100 lines for general patterns and about 30 lines for detailed patterns" (<bib id="Hunston2002"><person name="Hunston, Susan"></person>52</bib>). However, in most cases 100 lines are only a very small fraction which does not provide sufficient insight. For that reason one has to turn to a more systematic approach.</p>
+            <p>According to <person name="Hunston, Susan">Hunston</person> (2002), "[a] corpus-user can probably cope with looking at, at any one time, about 100 lines for general patterns and about 30 lines for detailed patterns" (<bib id="Hunston2002"><person name="Hunston, Susan"></person>loc. cit. 52</bib>). However, in most cases 100 lines are only a very small fraction which does not provide sufficient insight. For that reason one has to turn to a more systematic approach.</p>
             </page>
             <page>
             <h3>Evaluation options</h3>
-            <p>There exist various approaches for obtaining an accurate picture of a keyword without the need of examining all the concordance lines.</p>
+            <p>There exist <emph>various approaches</emph> for obtaining an accurate picture of a keyword without the need of examining all the concordance lines.</p>
             <p>As one way to analyze a vast number of KWICs, <person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz </person> state that one could randomly select a reasonably large amount of hits and manually evaluate it. In a next step you would then <emph>extrapolate</emph> the characteristics of the keyword, which you established from <emph>the sample</emph>, to all the hits. The problem is, though, that rare phenomena could be skewed or get lost.</p>
-            <p>A second option is automatically analyzing the results <emph>using appropriate association measures</emph> (cf. module "Collocations"). In accordance with the particular research question, the hits which are regarded as significant can then be analyzed and interpreted.</p>
+            <p>A second option is automatically presorting the results <emph>using appropriate association measures</emph> (cf. module "Collocations"). The hits which are regarded as significant can then be analyzed and interpreted in accordance with the particular research question.</p>
             <p>Another approach aimed at dealing with a huge query output is <emph>randomly selecting and interpreting a specified number of concordance lines</emph>, e.g. 30. Then a different 30 lines are chosen and so on, until there cannot be gained any new insights about the keyword.</p>
             <p>It would also be an obvious solution to take a <emph>small random sample</emph> as a basis for <emph>making a hypothesis</emph>, which is tested and, if necessary, adapted by means of a second sample.</p>
             </page>
             <page>
             <h2 id="Keyword Lists">Keyword Lists</h2>
-            <p>"Words which are significantly more frequent in one corpus than another are sometimes known as keywords." (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person>2002: 68</bib>)</p>
+            <p>"Words which are significantly more frequent in one corpus than another are sometimes known as <emph>keywords</emph>." (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person> 2002: 68, emphasis in original</bib>)</p>
             <p>Usually, keywords are calculated by <emph>comparing two corpora</emph>, with the <emph>significance</emph> of the words being a decisive criterion. Hence, the calculation of keywords is based on a <emph>statistical measure</emph>, which is in most cases the log-likelihood ratio. </p>
-            <p>The result of such a comparison is a so-called <emph>keyword list</emph>, which shows the <emph>typical vocabulary of the respective corpus</emph> and may therefore reflect its topic(s) or characteristics in a concise manner. It is also possible to create such lists based on individual texts. Comparing the significantly most frequent keywords of texts or corpora allows the identification of differences between them. Furthermore, keyword lists can serve as a starting point for the analysis of technical texts or corpora, because <emph>specific technical terms</emph> emerge when comparing a specialized and a general corpus</p>
+            <p>The result of such a comparison is a so-called <emph>keyword list</emph>, which shows the <emph>typical vocabulary of the respective corpus</emph> and may therefore reflect its topic(s) or characteristics in a concise manner.</p> 
             <details><p>"Certain words characterise individual texts (such as Romeo and Juliet), as well as text-types and intellectual areas (such as medicine [...])." (<bib id="Bondi2010b"><person name="Stubbs, Michael">Stubbs</person> 2010: 25</bib>)</p></details>
-            <p>Depending on the analysis program, keyword lists can be sorted in such a way that the words to the right or to the left of the keyword are in alphabetical order as well as by frequency or <term>keyness</term> of the keyword.</p>
-            <p>A common method to identify typical lexemes or phrases in a focus or study corpus compared to a reference corpus is the so-called <term>keyness</term> approach (cf. <bib id="Scott2006"><person name="Scott, Mike">Scott</person>/<person name="Tribble, Christopher">Tribble</person>2006</bib>; <bib id="Bondi2010c"><person name="Bondi, Marina">Bondi</person>/<person name="Scott, Mike">Scott</person>2010</bib>). The keyness, that is to say the typicality of each n-gram in the study corpus is calculated in comparison to a reference corpus. Hence, what is meant by <term>keyness</term> is an association measure indicating whether a certain word occurs significantly more frequent in the study corpus than in the reference corpus. This measure is in wide use for finding keywords in a corpus and it is implemented in many corpus tools. (cf. <bib id="Bubenhofer_Noah"><person name="Bubenhofer, Noah">Bubenhofer</person> im Druck</bib>)</p>
+            <p>It is also possible to create such lists based on individual texts. Comparing the significantly most frequent keywords of texts or corpora allows the identification of differences between study and reference corpus. Furthermore, keyword lists can serve as a starting point for the analysis of technical texts or corpora, because <emph>specific technical terms</emph> emerge when comparing a specialized and a general corpus.</p>
             <details>
+            <p>The wording "specific technical terms" seems redundant, but <person name="Heyer, Gerhard">Heyer</person>/<person name="Quasthoff, Uwe">Quasthoff</person>/<person name="Wittig, Thomas">Wittig</person> state that terms like system, data or information, which are to be found among the hundred most frequent words of the SAP terminology but not of the general vocabulary, are so unspecific that they can barely be considered domain-specific technical terms. (<bib id="Heyer2008">2008: 97</bib>)</p>
+            </details>
+<p>Depending on the analysis program, keyword lists can be sorted by frequency as well as by <term>keyness</term>.</p>
+            <p>A common method to identify typical lexemes or phrases in a focus or study corpus compared to a reference corpus is the so-called <term>keyness</term>-approach (cf. <bib id="Scott2006"><person name="Scott, Mike">Scott</person>/<person name="Tribble, Christopher">Tribble</person> 2006</bib>; <bib id="Bondi2010c"><person name="Bondi, Marina">Bondi</person>/<person name="Scott, Mike">Scott</person> 2010</bib>). The <emph>keyness</emph>, that is to say the typicality of each n-gram in the <emph>study corpus</emph> is calculated in comparison to a <emph>reference corpus</emph>. </p>
+                      <details>
             <p>An n-gram is any number (n) of contiguous items, which can be letters, syllables or words. In the field of corpus linguistics the items under analysis are usually words. Thus, a <term>unigram</term> is a single word or keyword and a <term>bigram</term> might be a collocation.</p>
+            </details>
+            <p>Hence, what is meant by <term>keyness</term> is an association measure indicating whether a certain word occurs significantly more frequent in the study corpus than in the reference corpus. This measure is in wide use for finding keywords in a corpus and it is implemented in many corpus tools. (cf. <bib id="Bubenhofer_Noah"><person name="Bubenhofer, Noah">Bubenhofer</person> im Druck</bib>)</p>
+            </page>
+            <page>
+            <img src="/image/Warning.png">"Warning sign"</img>
+            <p>With regard to concordances and keyword lists, as always, the premises should be considered on which the analysis of corpus data is based.</p>
+            <p> "Concordance lines present information; they do not interpret it. Interpretation requires the insight and intuition of the observer. [...] Of particular interest and difficulty, are cases where evidence from a corpus is used to make statements about ‘the way the world’ is [...]. [...] [I]t is important to recognize that this is an <emph>interpretation of evidence, not ‘fact’</emph>." (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person> 2002: 65f., emphasis added</bib>)</p>
+            <p><person name="Hunston, Susan">Hunston's</person> statement is applicable to corpus analysis in general. <emph>Even a huge corpus is usually only a small and incomplete fraction of a language</emph>. Moreover, evidence from a corpus might be influenced by <emph>chance factors</emph>. (cf. <bib id="Perkuhn2012"><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz </person> 2012: 86f.</bib>)</p>
+            <p>On the other hand, the <emph>research question</emph> plays a central role, because it should guide you not only when interpreting the corpus evidence but also when <emph>selecting the data and parameters</emph>. The compilation of corpus data and <emph>the way of processing and analyzing it</emph> have a major influence on the results. </p>
+            <details>
+            <p>For example, if many regionally focused newspapers are part of the corpus, this leads e.g. to an overrepresentation of regional expressions (regionalisms) and place names, which might have to be put into perspective. (cf. <bib id="Perkuhn2012"><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz </person> 2012: 76</bib>)</p>
             </details>
             </page>
             <page>
-            <p>With regard to concordances and keyword lists, as always, the premises should be considered on which the analysis of corpus data is based.</p>
-            <p> "Concordance lines present information; they do not interpret it. Interpretation requires the insight and intuition of the observer. [...] Of particular interest and difficulty, are cases where evidence from a corpus is used to make statements about ‘the way the world’ is [...]. [...] [I]t is important to recognize that this is an interpretation of evidence, not ‘fact’." (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person>2002: 65f.</bib>)</p>
-            <p><person name="Hunston, Susan">Hunston's</person> statement is applicable to corpus analysis in general. Even a huge corpus is usually only a small and incomplete fraction of a language. Moreover, evidence from a corpus might be influenced by chance factors. (<bib id="Perkuhn2012"><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz </person>2012: 86f.</bib>)</p>
-            <p>On the other hand the research question plays a central role, because it should guide you not only when interpreting the corpus evidence but also when selecting the data and parameters. The compilation of corpus data and the way of processing and analyzing it have a major influence on the results. </p>
-            </page>
-            <page>
-                <h2>References</h2>
+                <h2 id="References">References</h2>
                 <list>
                     <li>cf. Hunston 2002: 38-41, 52-56, 65-68</li>
                     <li>cf. Manning/Schütze 2003: 35</li>
@@ -116,7 +126,7 @@
                 <p>With the aid of the following questions you should assess whether you have understood the main aspects and overall context of this module and whether you are able to reproduce and apply your newly acquired knowledge. If you realize that you have to answer "no" to any of the following questions, then summarized information and a link to the respective topic will be displayed.</p>
                 <check>
                     <question>
-                        <ctext>1. I am aware of the two meanings of the term <term>keyword</term>.</ctext>
+                        <ctext><p><emph>1. I am aware of the two meanings of the term <term>keyword</term>.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -129,7 +139,7 @@
                             <ctext>No</ctext>
                             <action>
                                 <ctext>
-                                    <p>On the one hand it can simply be interpreted as a search word. The results of a search query are usually presented in the form of <kursiv>Key Words In Context</kursiv>, also called <kursiv>concordances</kursiv>. </p>
+                                    <p>On the one hand, it can simply be interpreted as a search word. The results of a search query are usually presented in the form of <kursiv>Key Words In Context</kursiv>, also called <kursiv>concordances</kursiv>. </p>
                                     <p>On the other hand, by comparing two corpora it can be determined which words are distinctive of the study corpus, thus which are its key-words.</p>
                                 </ctext>
                                 <url href="#Introduction" >Introduction</url>
@@ -137,7 +147,7 @@
                         </option>
                     </answer>
                     <question>
-                        <ctext>2. I am capable of describing concordances and how their analysis might be challenging.</ctext>
+                        <ctext><p><emph>2. I am capable of describing what concordances are and how their analysis might be challenging.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -149,15 +159,15 @@
                         <option>
                             <ctext>No</ctext>
                             <action>
-                                <ctext><p>When searching for a certain word in a corpus, the results of the query are usually produced in the form of so-called concordances or <kursiv>Key Words In Context</kursiv>, KWIC for short. Accordingly, all occurrences of the search word are lined up beneath one another. The keyword is placed centrally and according to the settings made and to the media-related possibilities the surrounding co-text to the left and right is shown.</p>
-                                <p>Since a researcher is striving for a data basis as comprehensive as possible, searching for a frequent word usually yields an overabundance of results. The larger the set of hits, the more difficult is their inspection and when the volume of data exceeds a certain size it is impossible to look at all concordances. For that reason one has to turn to a more systematic approach in order to not overlook any relevant phenomenon.</p>
+                                <ctext><p>When searching for a certain word in a corpus, the results of a corresponding query are usually produced in the form of so-called concordances or <kursiv>Key Words In Context</kursiv>, KWICs for short. Accordingly, all occurrences of the search word are lined up beneath one another. The keyword is placed centrally and according to the settings made and to the media-related possibilities the surrounding co-text to the left and right is shown.</p>
+                                <p>Since a researcher is striving for a data basis as comprehensive as possible, searching for a frequent word usually yields an overabundance of results. The larger the set of hits, the more difficult is their inspection and when the volume of data exceeds a certain size it is impossible to look at all concordances. For that reason one has to turn to a more systematic approach in order not to overlook any relevant phenomenon.</p>
                                 </ctext>
                                 <url href="#Concordances" >Concordances</url>
                             </action>
                         </option>
                     </answer>
                     <question>
-                        <ctext>3. I have the ability to explain what keyword lists are and which purpose they serve </ctext>
+                        <ctext><p><emph>3. I have the ability to explain what keyword lists are and which purpose they serve.</emph></p></ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -169,7 +179,7 @@
                         <option>
                             <ctext>No</ctext>
                             <action>
-                                <ctext>Keyword lists can be created by comparing two corpora. The calculation of the keywords is based on a statistical measure, which is in most cases the log-likelihood ratio. Such a comparison presents the typical vocabulary of the respective corpus and may therefore reflect its topic or characteristics in a concise manner and it may identify differences between the corpora. Furthermore, they can serve as a starting point for the analysis of technical texts or corpora, because specific technical terms emerge when comparing a specialized and a general corpus.</ctext>
+                                <ctext>Keyword lists can be created by comparing two corpora and they may serve to identify differences between the study and the reference corpus. The comparison also presents the typical vocabulary of a corpus and may therefore reflect its topic or characteristics in a concise manner. Furthermore, keyword lists can serve as a starting point for the analysis of technical texts or corpora, because specific technical terms emerge when comparing a specialized and a general corpus. The calculation of the keywords is based on a statistical measure, which is in most cases the log-likelihood ratio.</ctext>
                                 <url href="#Keyword Lists" >Keyword Lists</url>
                             </action>
                         </option>
@@ -180,12 +190,108 @@
         <chapter id="Applications">
         <page>
         <h1>Potential Applications</h1>
-        <h2 id="Purpose">What is the Purpose of Analyzing Concordances?</h2>
-        <h2>What is the Purpose of Calculating Keyword Lists?</h2>
-        <h3>Difference Analysis for Identifying Technical Terminology  </h3>
-        <h3>Difference Analysis for Finding Catchwords</h3>
-        <h2 id="Practical Relevance">Practical Relevance</h2>
+        <h2 id="Why concordances?">What is the Purpose of Analyzing Concordances?</h2>
+        <p>Looking into concordances can serve</p>
+        <p>&#8226; as a source of authentic examples of how a word is used.</p>
+        <p>&#8226; to give a first impression of the keyword as well as an overview of its contexts. </p>
+        <p>&#8226; to detect common combinations and patterns of lexis. </p>
+        <p>&#8226; to identify the grammatical patterns to the right and left of the keyword. </p>
+        <p type="details">Example: "[...] <kursiv>of</kursiv> functions as a central linking preposition in complex noun phrases [...]" (<bib id="Bondi2010a"><person name="Groom, Nicholas">Groom</person> 2010: 60</bib>) Hence, this keyword often occurs in the structural sequence <kursiv>n of n</kursiv>. </p>
+        <p>&#8226; to examine how certain words behave.</p>
+        <p>&#8226; to demonstrate the meaning(s) of a keyword: "[...] [T]he meaning of a word is closely associated with its co-text." (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person> 2002: 46</bib>)</p>
+        <p>"Collecting information like this about patterns of occurrence of verbs can be useful not only for purposes such as dictionaries for learners of foreign languages, but for use in guiding statistical parsers." (<bib id="Manning2003"><person name="Manning, Christopher D.">Manning</person>/<person name="Schütze, Hinrich">Schütze</person> 2003: 33</bib>)</p>
         </page>
+        <page>
+                <h2 id="Why Keyword Lists?">What is the Purpose of Calculating Keyword Lists?</h2>
+               <h3>Difference Analysis for Identifying Technical Terminology</h3>
+                <p>When comparing the most frequent words in a general text (e.g. the, of, and ...) with the most frequent words in a specialized text (e.g. the, you, and ...), it becomes apparent that technical terms barely stand out just because of their frequency. Indeed, frequency lists of the corpora are required as a basis for the calculation of keywords, but the benchmark for identifying technical terminology constitute frequency classes or significance measures. For a so-called difference analysis the words of a mostly <emph>technical study corpus and</emph> a <emph>general reference corpus are compared</emph> in terms of their calculated <emph>probabilities of occurrence</emph>. </p>
+                <p>As the name suggests, the study corpus is the one in the focus of the analysis from which terms are to be extracted. A prerequisite for the extraction of relevant terms from texts are appropriate documents (cf. <bib id="Heyer2008"><person name="Heyer, Gerhard">Heyer</person>/<person name="Quasthoff, Uwe">Quasthoff</person>/<person name="Wittig, Thomas">Wittig</person>2008: 273</bib>). Hence, on the one hand the corpus needs to be suitable for the research question or hypothesis and on the other hand it needs to contrast with the reference corpus regarding the issue which is of interest (e.g. specificity, discipline etc.).</p>
+                <p>By way of a difference analysis it can be seen that words, which do not show up in the general corpus or which occur relatively more frequently in the technical corpus are most likely to be <emph>technical terms</emph>. For their identification a threshold has to be set.</p>
+                <details>
+                <p>So, one for example specifies a factor by which the frequencies of the terms need to differ (&#8594; word a has to be x times more frequent in the study corpus than in the reference corpus)</p>
+                <p>or one determines the minimum difference of the frequency classes which the words have been assigned to (&#8594; if word a can be assigned to frequency class 3  in the reference corpus, it has to be at least in frequency class 5 in the study corpus)</p>
+                <p>or alternatively one draws guidance from the significance value and considers e.g. the top 10/50/100 words of a keyword list.</p>
+                </details>
+                <p>Words which have about the same relative frequency in both corpora are mostly function words or general terms.</p>
+                <details>
+                <p>Function words are words which express grammatical relationships but have no or little meaning, like articles or conjunctions. </p>
+                </details>
+                <p>The list of term candidates which is obtained by means of difference analysis could than e.g. be looked through by a terminologist and integrated into corresponding systems where applicable.</p>
+                </page>
+                <page>
+        <h3>Difference Analysis for Identifying Keywords</h3>
+        <p>As already mentioned in the chapter on keyword lists, not only technical terms can be determined when calculating these lists but also the <emph>specific vocabulary or characteristic terms of a text or corpus</emph>. For finding the keywords in a text or corpus one would make use of a reference corpus again. When carrying out a difference analysis it might be useful to specify an appropriate minimum frequency or also to restrict it to certain parts of speech. </p>
+        <p>On the basis of such criteria the <kursiv>words of the day</kursiv> of the project <kursiv>Deutscher Wortschatz</kursiv> (German vocabulary) are, for example, identified: The study corpus consists of a day’s newspaper texts while the reference corpus is formed by the database of the afore-mentioned project. The minimum frequency is ten for the newspapers and twenty for the general-language reference corpus. The relative frequency of a word of the day has to be six times as large in the newspaper articles as in the reference corpus. Furthermore, analysis has been restricted to nouns. This way, keywords are extracted automatically from newspaper reports every day and they are additionally assigned to subject areas. The resulting compilation of keywords reflects central aspects of a day’s events:</p>
+                <p><url href="http://wortschatz.uni-leipzig.de/wort-des-tages/" >word of the day</url></p>
+        <p align="right">(cf. <bib id="Heyer2008"><person name="Heyer, Gerhard">Heyer</person>/<person name="Quasthoff, Uwe">Quasthoff</person>/<person name="Wittig, Thomas">Wittig </person> 2008: 95-100</bib>)</p>
+        </page>
+        <page>
+        <h2 id="References">References</h2>
+                        <list>
+                    <li>cf. Heyer/Quasthoff/Wittig 95-100, 154f., 272f.</li>
+                    <li>cf. Hunston 39, 41</li>
+                    <li>cf. Groom 60-70</li>
+                    <li>cf. Kennedy 251,256</li>
+                    <li>cf. Manning Schütze 33</li>
+                    <li>cf. Stubbs 24</li>
+                    </list>
+                    </page>
+                    <page>
+        <h2 id="Practical Relevance">Practical Relevance</h2>
+        <h3>Application Example of Concordances</h3>
+        
+        
+        
+        
+        </page>
+           <page>
+                <h1>Checklist</h1>
+                <p>A checklist serves as a self-review tool and enables you to reflect on the previous contents.</p>
+                <p>With the aid of the following questions you should assess whether you have understood the main aspects and overall context of this module and whether you are able to reproduce and apply your newly acquired knowledge. If you realize that you have to answer "no" to any of the following questions, then summarized information and a link to the respective topic will be displayed.</p>
+                <check>
+                    <question>
+                        <ctext><p><emph>1. I am capable of describing the use of analyzing concordances by several examples and one area of application.</emph></p></ctext>
+                    </question>
+                    <answer type="radio">
+                        <option>
+                            <ctext>Yes</ctext>
+                            <action>
+                                <ctext>Well done!</ctext>
+                            </action>
+                        </option>
+                        <option>
+                            <ctext>No</ctext>
+                            <action>
+                                <ctext>
+                                    <p>Taking a closer look at concordances gives a first impression of the keyword as well as an overview of its contexts. This way it is also possible to identify the grammatical patterns to the right and left of the keyword. Furthermore, KWICs can serve as a source of authentic examples of how a word is used and they may demonstrate the meaning(s) of a keyword. </p>
+                                    <p>The analysis of concordances can be beneficial for purposes such as dictionaries for learners of foreign languages and it can be used as a basis in guiding statistical parsers.</p>
+                                </ctext>
+                                <url href="#Why Concordances" >What is the Purpose of Analyzing Concordances?</url>
+                            </action>
+                        </option>
+                    </answer>
+                    <question>
+                        <ctext><p><emph>2. I have the ability to explain the purpose of difference analyses.</emph></p></ctext>
+                    </question>
+                    <answer type="radio">
+                        <option>
+                            <ctext>Yes</ctext>
+                            <action>
+                                <ctext>Super!</ctext>
+                            </action>
+                        </option>
+                        <option>
+                            <ctext>No</ctext>
+                            <action>
+                                <ctext><p>On the one hand, a difference analysis can be carried out in order to identify technical terminology. After choosing a general-language study corpus and a technical reference corpus with due diligence and circumspection, these two are compared in terms of the probabilities of occurrence of the respective words. Those words which do not show up in the general corpus or which occur relatively more frequently in the technical corpus are usually technical terms. However, one has either to further specify the mentioned relation or to draw guidance from the significance value and hence to consider e.g. the top 10/50/100 words of a keyword list.</p>
+                                <p>On the other hand, difference analyses open the possibility to identify the specific vocabulary or characteristic terms of a text or corpus by making use of a reference corpus again. It may be useful to specify an appropriate minimum frequency or also to restrict analysis to certain parts of speech.</p>
+                                </ctext>
+                                <url href="#Why Keyword Lists?" >What is the Purpose of Calculating Keyword Lists?</url>
+                            </action>
+                        </option>
+                    </answer>
+                </check>
+            </page>
         </chapter>
         <chapter id="Statistics">
             <page>
