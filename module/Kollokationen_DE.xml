@@ -349,21 +349,33 @@
                 <h1>Anwendungsmöglichkeiten</h1>
                 <h2 id="Wozu Kollokationen?">Wozu kann die Berechnung von Kollokationen dienen?</h2>
                     <p>&#8226; Als Hinweis für die Anordnung bzw. Hierarchie von Lesarten eines sprachlichen Zeichens in einem Wörterbuchartikel.</p>
-                    <p type="details">&#8594; Welches sind die gängigsten Bedeutungen des Lexems?</p>
+                    <details>
+                        <p>&#8594; Welches sind die gängigsten Bedeutungen des Lexems?</p>
+                    </details>
                     <p>&#8226; Zur Identifikation, Verifizierung und Beschreibung typischer Wortverbindungen und Wortverbindungphänomene (z.B. Idiome). </p>
-                    <p type="details">&#8594; Welche Kollokationen werden verwendet?</p>
-                    <p type="details">&#8594; Welche sind besonders gebräuchliche Kollokationen und welche finden sich kaum oder gar nicht?</p>
-                    <p type="details">&#8594; In welcher Bedeutung und in welchem Kontext werden sie gebraucht?</p>
+                    <details>
+                        <p>&#8594; Welche Kollokationen werden verwendet?</p>
+                    </details>
+                    <details>
+                        <p>&#8594; Welche sind besonders gebräuchliche Kollokationen und welche finden sich kaum oder gar nicht?</p>
+                    </details>
+                    <details>
+                        <p>&#8594; In welcher Bedeutung und in welchem Kontext werden sie gebraucht?</p>
+                    </details>
                     <p>&#8226; Gängige grammatische Gebrauchsmuster können ermittelt werden.</p>
                     <p>&#8226; Syntaktische Bindungen können ausfindig gemacht werden.</p>
-                    <p type="details">z.B. typische präpositionale Anschlüsse</p>
+                    <details>
+                        <p>z.B. typische präpositionale Anschlüsse</p>
+                    </details>
                     <p>&#8226; Die Bedeutungsfelder eines Wortes werden anschaulich.</p>
                     <p>&#8226; Thematische Felder können ausgemacht werden.</p>
                     <p>&#8226; Die Bedeutungsaspekte und Verwendungsweisen von Wortformen eines Suchbegriffs können verglichen werden.</p>
-                    <p type="details">z.B. Vergleich von Singular- und Pluralform des Suchwortes</p>
+                    <details>
+                        <p>z.B. Vergleich von Singular- und Pluralform des Suchwortes</p>
+                    </details>
                     <p>&#8226; Die Verwendungsweisen von bestimmten Begriffen im Diskurs können deutlich gemacht werden. </p>
                     <p>&#8226; Kollokationen können als Widerspiegelung von Traditionen des Formulierens bzw. Gebrauchskonventionen untersucht werden.</p>
-                <p>Kollokationsanalysen sind damit auch für die Lexikographie und Lexikologie, die Fremdsprachendidaktik, die Übersetzungswissenschaft und die Diskurslinguistik von besonderer Bedeutung.</p>
+                    <p>Kollokationsanalysen sind damit auch für die Lexikographie und Lexikologie, die Fremdsprachendidaktik, die Übersetzungswissenschaft und die Diskurslinguistik von besonderer Bedeutung.</p>
             </page>
             <page>
                 <h2 id="Referenzliteratur">Referenzliteratur:</h2>

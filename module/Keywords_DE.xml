@@ -198,7 +198,9 @@
                     <p>&#8226; Man erhält einen ersten Eindruck des Suchwortes und kann sich einen Überblick über dessen Kontexte verschaffen.</p>
                     <p>&#8226; Gängige Konstruktionen und Muster lassen sich ausmachen.</p>
                     <p>&#8226; Die grammatischen Strukturen rechts und links des Keywords können identifiziert werden.</p>
-                    <p type="details">Beispiel: "[...] <kursiv>of</kursiv> functions as a central linking preposition in complex noun phrases [...]" (<bib id="Bondi2010a"><person name="Groom, Nicholas">Groom</person> 2010: 60</bib>) Folglich ist dieses Keyword häufig in die Struktur <kursiv>N of N</kursiv> eingebettet. </p>
+                    <details>
+                        <p>Beispiel: "[...] <kursiv>of</kursiv> functions as a central linking preposition in complex noun phrases [...]" (<bib id="Bondi2010a"><person name="Groom, Nicholas">Groom</person> 2010: 60</bib>) Folglich ist dieses Keyword häufig in die Struktur <kursiv>N of N</kursiv> eingebettet. </p>
+                    </details>
                     <p>&#8226; Es kann untersucht werden, wie sich bestimmte Wörter "verhalten".</p>
                     <p>&#8226; Die Bedeutung(en) eines Wortes kann/können veranschaulicht werden: "[...] [T]he meaning of a word is closely associated with its co-text." (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person> 2002: 46</bib>)</p>
                 <p>Die über die Muster und Strukturen eines Suchbegriffs gewonnenen Informationen können beispielsweise in Lehrwerken des Fremdsprachenunterrichts zum Einsatz kommen oder auch als Grundlage für statistische Parser dienen. </p>

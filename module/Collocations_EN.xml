@@ -315,18 +315,30 @@ For example: "America" + "freedom" are a collocation. Another collocate like "id
                 <h2 id="Purpose">What is the purpose of calculating collocations? </h2>
                 <p>A collocation analysis can serve</p>
                     <p>&#8226; as an indication of the order or hierarchy of the readings of a linguistic sign in a dictionary article.</p>
-                    <p type="details">&#8594; What are the most common meanings of the lexeme?</p>
+                    <details>
+                        <p>&#8594; What are the most common meanings of the lexeme?</p>
+                    </details>
                     <p>&#8226; to identify, verify or describe typical word combinations, idioms or phraseologisms.</p>
-                    <p type="details">&#8594; Which collocations are used?</p>
-                    <p type="details">&#8594; Which collocations are particularly common and which are hard to find or not to be found at all?</p>
-                    <p type="details">&#8594; What is their meaning and in which context are they used?</p>
+                    <details>
+                        <p>&#8594; Which collocations are used?</p>
+                    </details>
+                    <details>
+                        <p>&#8594; Which collocations are particularly common and which are hard to find or not to be found at all?</p>
+                    </details>
+                    <details>
+                        <p>&#8594; What is their meaning and in which context are they used?</p>
+                    </details>
                     <p>&#8226; to detect common grammatical patterns. </p>
                     <p>&#8226; to reveal syntactic structures.</p>
-                    <p type="details">e.g. phrasal verbs </p>
+                    <details>
+                        <p>e.g. phrasal verbs </p>
+                    </details>
                     <p>&#8226; to illustrate the semantic fields of a word.</p>
                     <p>&#8226; to identify thematic areas.</p>
                     <p>&#8226; to compare the manners of use and the meanings of a node's word forms.</p>
-                    <p type="details">e.g. comparing the singular and plural form of the node</p>
+                    <details>
+                        <p>e.g. comparing the singular and plural form of the node</p>
+                    </details>
                     <p>&#8226; to highlight how certain terms are used in a discourse</p>
                     <p>&#8226; "to argue for the importance of certain words as diagnostics of cultural attitudes [...]" (Stubbs, 1996, cited in <bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person> 2002: 76</bib>) </p>
                     <p>&#8226; Collocations can be analyzed as reflecting traditions of phrasing and conventions of language use.</p>
