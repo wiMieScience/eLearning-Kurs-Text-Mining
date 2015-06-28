@@ -324,12 +324,12 @@
                 <p>Die absolute Frequenz eines Wortes ist schlicht die <emph>tatsächliche Anzahl der Vorkommen im Korpus</emph>. Findet sich ein Wort also beispielsweise fünfmal im Korpus, so ist seine absolute Häufigkeit = 5. Diese Angabe ist <emph>leicht zu interpretieren</emph>, birgt aber <emph>Probleme hinsichtlich der Vergleichbarkeit</emph>, denn die absoluten Häufigkeiten von Analyse- und Referenzkorpus können nur miteinander in Beziehung gesetzt werden, wenn beide Korpora in etwa gleich groß sind. </p>
                 <p>Will man zum Beispiel Aussagen über ein Wort <kursiv>a</kursiv> treffen, welches <emph>30</emph>-mal in einem <emph>Korpus X</emph> mit <quantity>N</quantity> = 200 000 auftritt, jedoch nur <emph>11</emph>-mal in einem <emph>Korpus Y</emph> mit <quantity>N</quantity> = 140 000, so bietet es sich daher an, die Werte in Relation zu setzen.</p>
                 <h2 id="Relative Frequenz">Relative Frequenz</h2>
-                <p>Um den Vergleich von Korpusfrequenzen zu ermöglichen, muss man diese mit der jeweiligen Korpusgröße in Bezug setzen. Hierfür <emph>dividiert</emph> man einfach die <emph>absolute Häufigkeit</emph> eines Wortes <emph>durch die Größe des Korpus</emph>, also die <emph>Gesamtheit der Worttokens</emph>. So erhält man die relative Häufigkeit des Wortes. Üblicherweise werden die so errechneten, meist sehr kleinen Zahlen noch mit 1 Million multipliziert, woraus sich die sogenannten <emph>pmW-Werte</emph> ergeben. </p>
+                <p>Um den Vergleich von Korpusfrequenzen zu ermöglichen, muss man diese mit der jeweiligen Korpusgröße in Bezug setzen. Hierfür <emph>dividiert</emph> man einfach die <emph>absolute Häufigkeit</emph> eines Wortes <emph>durch die Größe des Korpus</emph>, also die <emph>Gesamtheit der Worttokens</emph>. So erhält man die relative Häufigkeit des Wortes. Üblicherweise werden die so errechneten, meist sehr kleinen Zahlen noch mit 1 Million multipliziert, woraus sich die sogenannten <emph>pMW-Werte</emph> ergeben. </p>
                 <details>
-                    <p>pmW ist die Kurzform für "pro Million Wörter"</p>
+                    <p>pMW ist die Kurzform für "pro Million Wörter"</p>
                     <p>"Man kann sich pMW-Werte so vorstellen, dass die beobachteten absoluten Frequenzen von der Größe des tatsächlich verwendeten Korpus hoch- bzw. runtergerechnet werden auf ein (fiktives) Korpus, das genau eine Million Wörter umfasst [...]" (<bib id="Perkuhn2012"><person name="Perkuhn, Rainer">Perkuhn</person>/<person name="Keibel, Holger">Keibel</person>/<person name="Kupietz, Marc">Kupietz</person> 2012: 79</bib>).</p>
                 </details>
-                <p>Die relative Frequenz von Wort <kursiv>a</kursiv> in <emph>Korpus X</emph> beträgt somit <img src="/image/Keywords Formel1.png"></img> und der pmW-Wert in <emph>Korpus Y</emph> beläuft sich auf
+                <p>Die relative Frequenz von Wort <kursiv>a</kursiv> in <emph>Korpus X</emph> beträgt somit <img src="/image/Keywords Formel1.png"></img> und der pMW-Wert in <emph>Korpus Y</emph> beläuft sich auf
                     <img src="/image/Keywords Formel2.png"></img>. </p>
                 <p>Auf Grundlage dieser Berechnungen lässt sich feststellen, dass Wort <kursiv>a</kursiv> ungefähr doppelt so oft in Korpus X vorkommt wie in Korpus Y.</p>
                 </page>
@@ -420,7 +420,7 @@
                             <action>
                                 <ctext>
                                     <p>Die absolute Frequenz eines Wortes gibt schlicht wieder, wie oft das Wort tatsächlich im Korpus vorkommt. Diese Angabe ist leicht zu interpretieren, birgt aber Probleme hinsichtlich der Vergleichbarkeit. </p>
-                                    <p>Um die relative Häufigkeit eines Wortes zu ermitteln, dividiert man einfach dessen absolute Häufigkeit durch die Größe des Korpus, also die Gesamtheit der Worttokens. Üblicherweise werden die so errechneten, meist sehr kleinen Zahlen noch mit 1 Million multipliziert, woraus sich die sogenannten pmW-Werte ergeben. </p>
+                                    <p>Um die relative Häufigkeit eines Wortes zu ermitteln, dividiert man einfach dessen absolute Häufigkeit durch die Größe des Korpus, also die Gesamtheit der Worttokens. Üblicherweise werden die so errechneten, meist sehr kleinen Zahlen noch mit 1 Million multipliziert, woraus sich die sogenannten pMW-Werte ergeben. </p>
                                 </ctext>
                                 <p><url href="#Absolute Frequenz" >Absolute Frequenz</url></p>
                                 <p><url href="#Relative Frequenz" >Relative Frequenz</url></p>
