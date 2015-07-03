@@ -196,7 +196,9 @@
         <p>&#8226; to give a first impression of the keyword as well as an overview of its contexts. </p>
         <p>&#8226; to detect common combinations and patterns of lexis. </p>
         <p>&#8226; to identify the grammatical patterns to the right and left of the keyword. </p>
-        <p type="details">Example: "[...] <kursiv>of</kursiv> functions as a central linking preposition in complex noun phrases [...]" (<bib id="Bondi2010a"><person name="Groom, Nicholas">Groom</person> 2010: 60</bib>) Hence, this keyword often occurs in the structural sequence <kursiv>n of n</kursiv>. </p>
+        <details>
+            <p>Example: "[...] <kursiv>of</kursiv> functions as a central linking preposition in complex noun phrases [...]" (<bib id="Bondi2010a"><person name="Groom, Nicholas">Groom</person> 2010: 60</bib>) Hence, this keyword often occurs in the structural sequence <kursiv>n of n</kursiv>. </p>
+        </details>
         <p>&#8226; to examine how certain words behave.</p>
         <p>&#8226; to demonstrate the meaning(s) of a keyword: "[...] [T]he meaning of a word is closely associated with its co-text." (<bib id="Hunston2002"><person name="Hunston, Susan">Hunston</person> 2002: 46</bib>)</p>
         <p>"Collecting information like this about patterns of occurrence of verbs can be useful not only for purposes such as dictionaries for learners of foreign languages, but for use in guiding statistical parsers." (<bib id="Manning2003"><person name="Manning, Christopher D.">Manning</person>/<person name="Schütze, Hinrich">Schütze</person> 2003: 33</bib>)</p>
