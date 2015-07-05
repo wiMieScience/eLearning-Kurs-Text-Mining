@@ -43,11 +43,12 @@
             <page>
                 <h1>Einführung</h1>
                 <p>Eine weitere, für die Korpuslinguistik relevante Analysekategorie bilden die sogenannten <emph>n-Gramme</emph>. Dabei handelt es sich um <emph>Zeichenketten einer beliebigen Länge <kursiv>n</kursiv></emph>, also um aufeinanderfolgende Phoneme, Buchstaben, Silben , Wörter u.ä.  </p>
-                <p>
-                <details>Banerjee/Pedersen veranschaulichen ihre Definition von n-Grammen folgendermaßen:
-"A simple model of written text is a series of symbols that carry some meaning when considered as a whole. We may wish to treat those symbols as phrases, words, or characters depending on our motivations. Ngrams are a simple representation that suits this view of written language. An Ngram is a sequence of <kursiv>N</kursiv> units, or <term>tokens</term>, of text, where those units are typically single characters or strings that are delimited by spaces." (<bib id="Banerjee_Satanjeev"><person name="Banerjee, Satanjeev">Banerjee</person>/<person name="Pedersen, Ted">Pedersen</person> 1</bib>)
-</details>
-                </p>
+                <details>
+                    <p>
+                        Banerjee/Pedersen veranschaulichen ihre Definition von n-Grammen folgendermaßen:
+                        "A simple model of written text is a series of symbols that carry some meaning when considered as a whole. We may wish to treat those symbols as phrases, words, or characters depending on our motivations. Ngrams are a simple representation that suits this view of written language. An Ngram is a sequence of <kursiv>N</kursiv> units, or <term>tokens</term>, of text, where those units are typically single characters or strings that are delimited by spaces." (<bib id="Banerjee_Satanjeev"><person name="Banerjee, Satanjeev">Banerjee</person>/<person name="Pedersen, Ted">Pedersen</person> 1</bib>)
+                    </p>
+                </details>
                 <p><emph>In der Korpuslinguistik konzentriert man sich zumeist auf Wortfolgen.</emph> Bei einer Kollokationsanalyse etwa betrachtet man in der Regel Bigramme (siehe Modul "Kollokationen"), während man dieses Konzept bei einer n-Gramm Analyse erweitert und Trigramme, Tetragramme, Pentagramme usw. in den Fokus nimmt. </p>
                 <p><emph>Die Zusammensetzung solcher Sequenzen kann variieren</emph>: "Mögliche Bestandteile [von n-Grammen] sind die Wortformen, die Grundformen, Wortartklassen, andere linguistische Einheiten oder Annotationen (z.B. semantische oder syntaktische Klassen) oder eine Kombination davon." (<bib id="Bubenhofer_Noah"><person name="Bubenhofer, Noah">Bubenhofer</person> im Druck</bib>)</p>
             </page>
@@ -66,7 +67,7 @@
                 <check>
                     <question>
                         <ctext><emph>1.	Ich kann erklären, was n-Gramme sind und wie sie sich zusammensetzen können. </emph></ctext>
-                  </question>
+                    </question>
                     <answer type="radio">
                         <option>
                             <ctext>Ja</ctext>
@@ -78,80 +79,81 @@
                             <ctext>Nein</ctext>
                             <action>
                                 <ctext>
-                                <p>N-Gramme sind Zeichenketten einer beliebigen Länge <kursiv>n</kursiv>. Es kann sich dabei um aufeinanderfolgende Phoneme, Buchstaben, Silben oder Wörter wie auch um Wortformen, Lemmata, Wortarten u.ä. handeln. In der Korpuslinguistik widmet man sich vorrangig dem Wort als Analyseeinheit.</p>
+                                    <p>N-Gramme sind Zeichenketten einer beliebigen Länge <kursiv>n</kursiv>. Es kann sich dabei um aufeinanderfolgende Phoneme, Buchstaben, Silben oder Wörter wie auch um Wortformen, Lemmata, Wortarten u.ä. handeln. In der Korpuslinguistik widmet man sich vorrangig dem Wort als Analyseeinheit.</p>
                                 </ctext>
-                               <p><url href="#einführung">Einführung</url></p>
+                                <p><url href="#einführung">Einführung</url></p>
                             </action>
                         </option>
                     </answer>
                 </check>
             </page>
+        </chapter>
         <chapter id="Analyseformen">
             <page>
-              <h1>Die Analyse von n-Grammen</h1>
-              <p>Üblicherweise werden n-Gramme folgendermaßen bestimmt: </p>
-              <p>Zunächst legt man die Länge der zu untersuchenden Wortfolge fest, z.B. 3. Daraufhin werden alle kombinatorisch möglichen Dreiwortfolgen berechnet. Das Korpus wird also in Segmente aus je 3 Tokens zerlegt (W1 W2 W3 | W2 W3 W4 | W3 W4 W5 ...).</p>
-              <p>Aus dieser Gesamtheit wird dann ausgezählt, wie oft jedes Trigramm im Korpus vorkommt. Das Ergebnis wird in Form einer Liste ausgegeben, welche man zumeist absteigend nach Frequenz ordnen lassen kann. Entsprechend würde man unter den häufigsten Dreiwortfolgen eines politischen Korpus zum Beispiel Sequenzen finden wie:</p>
-              <p>Wir wollen die</p>
-              <p>Bürgerinnen und Bürger</p>
-              <p>Wir setzen uns</p>
-              <p>der Europäischen Union</p>
-              <p>Wir wollen eine</p>
-              <p>das Recht auf</p>
-              <p>Diese Form der Berechnung lässt sich jedoch variieren. Allgemein kann man <emph>mehrere Arten von n-Grammen</emph> unterscheiden:</p>
-           </page>
-           <page>
-            <h2 id="Kontinuierlich">Kontinuierliche n-Gramme</h2>
-            <p>Hierbei handelt es sich um die gerade erläuterten, <emph>unmittelbar aufeinanderfolgenden Zeichenketten</emph>.</p> 
-            <h2 id="Diskontinuierlich">Diskontinuierliche n-Gramme</h2>
-            <p>Ähnlich wie bei einer Kollokationsanalyse, könnte man auch bei einer n-Gramm Analyse ein <emph>Textfenster</emph> definieren, in welchem die Wortfolgen enthalten sein sollen. Neben der Länge n, z.B. 3, legt man also die Fenstergröße fest, z.B. 4. Daraufhin werden alle kombinatorisch möglichen Dreiwortfolgen innerhalb dieser Spanne berechnet (W1 W2 W3 | W1 W2 W4 | W1 W3 W4 ...). Die berechneten <emph>Sequenzen können</emph> dann <emph>Lücken aufweisen</emph>, wie beispielsweise "auf der ... Seite".</p>
-          </page>
-          <page>
-            <h2 id="Mit Bezugswort">n-Gramme mit Bezugswort</h2>
-            <p>Die Grundlage einer n-Gramm Analyse kann, ebenfalls wie bei einer Kollokationsanalyse, weiterhin ein Bezugswort bilden. Man würde also <emph>Sequenzen einer beliebigen oder</emph> einer zuvor <emph>festgelegten Länge <kursiv>n</kursiv></emph> berechnen lassen, <emph>welche ein bestimmtes Suchwort enthalten</emph>.</p>
-            <p>Ein Auszug aus den Ergebnissen einer Analyse von Trigrammen mit dem Bezugswort "Beispiel" würde dann in etwa folgendermaßen aussehen:</p>
-            <p>wie zum <emph>Beispiel</emph></p>
-            <p>zum <emph>Beispiel</emph> in</p>
-            <p><emph>Beispiel</emph> für die</p>
-          </page>
-          <page>
-          <h2 id="POS-Gramme">POS-Gramme</h2>
-          <p>POS-Gramme sind Sequenzen, die aus sogenannten Part-of-Speech-Tags bestehen. Demnach werden häufig <emph>aufeinanderfolgende Wortarten</emph> berechnet. Rekurrente Penta-POS-Gramme könnten dann beispielsweise sein </p>
-          <p>"APPR PDAT NN VVPP VAPP", etwa in der Ausgestaltung</p>
-          <p>"auf diesen Tag vorbereitet worden" / "in diese Mitleidenschaft gezogen worden"</p>
-          <p>oder auch das Muster "ADJA TRUNC KON ADJA NN", das wie folgt besetzt sein könnte: </p>
-          <p>"wichtige sozial- und wirtschaftspolitische Aufgabe" / "wirksame mittel- bis langfristige Antwort"</p>
-          <p>
-          <details>Die Kürzel der Wortarten orientieren sich am STTS (<url href="http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html">Stuttgart-Tübingen-TagSet</url>).</details>
-          </p>
-          <p>(vgl. <bib id="Scharloth_Joachim2013"><person name="Scharloth, Joachim">Scharloth</person> 2013</bib>)</p>
-          </page>
-          <page>
-          <h2 id="Collostructions">Collostructions</h2>
-          </page>
-          <page>
-          <h2 id="Komplexe n-Gramme">Komplexe n-Gramme</h2>
-          </page>
-          <page>
-          <h2 id="Key-n-Gramme">Key-n-Gramme</h2>
-          <p>Im Modul "Kookkurrenzen und Keyword Listen" wird näher darauf eingegangen, warum es interessant sein kann, mittels Vergleich zweier Korpora Schlagwörter berechnen zu lassen. Dieses Verfahren lässt sich auch auf n-Gramme übertragen, ist allerdings in die wenigsten Korpusanalyseprogramme implementiert. </p>
-          <p>Die übliche Methode, um für ein Korpus im Vergleich zu einem Referenzkorpus typische Einheiten (Lexeme, Mehrworteinheiten etc.) zu berechnen, ist der sog. 'Keyness'-Ansatz (<bib id="Scott2006"><person name="Scott, Mike">Scott</person>/<person name="Tribble, Christopher">Tribble </person>2006</bib>; <bib id="Bondi2010c"><person name="Bondi, Marina">Bondi</person>/<person name="Scott, Mike">Scott</person> 2010</bib>), bei dem die <emph>Keyness</emph>, also die Typizität jedes n-Gramms im <emph>Untersuchungskorpus</emph> im Vergleich zum <emph>Referenzkorpus</emph> berechnet wird. (<bib id="Bubenhofer_Noah"><person name="Bubenhofer, Noah">Bubenhofer </person>im Druck</bib>, Hervorh. d. Verf.)</p>
-          <p>Key-n-Gramme bilden Syntagmen ab, die eine bestimmte Thematik oder Textsorte und die Charakteristika eines Korpus wiederspiegeln können. "Durch die Wahl des Referenzkorpus wird darüber hinaus kontrolliert, bezüglich welcher Analyseebene die Spezifik der n-Gramme berechnet werden soll: So ist auf diachroner Ebene denkbar, verschiedene Zeitabschnitte miteinander zu vergleichen, auf synchroner Ebene beispielsweise Text[s]orten, Autoren, Institutionen, kommunikative Praktiken etc." (<bib id="Ziem2015"><person name="Hein, Katrin">Hein</person>/<person name="Bubenhofer, Noah">Bubenhofer</person> 2012: 184</bib>)
-</p>
-          </page>
-          <page>
-          <p>Die Berechnung von n-Grammen und die entsprechende Gestaltung der Suchanfrage kann entweder über die jeweilige Syntax der Software erfolgen oder aber man arbeitet direkt mit Programmen, welche die Abfrage von n-Grammen ermöglichen, wie beispielsweise Antconc oder kfNgram. (Für Kurzanleitungen zu den Programmen siehe z.B. <url href="http://www.bubenhofer.com/korpuslinguistik/kurs/">http://www.bubenhofer.com/korpuslinguistik/kurs/</url>)</p>
-          </page>
-          <page>
+                <h1>Die Analyse von n-Grammen</h1>
+                <p>Üblicherweise werden n-Gramme folgendermaßen bestimmt: </p>
+                <p>Zunächst legt man die Länge der zu untersuchenden Wortfolge fest, z.B. 3. Daraufhin werden alle kombinatorisch möglichen Dreiwortfolgen berechnet. Das Korpus wird also in Segmente aus je 3 Tokens zerlegt (W1 W2 W3 | W2 W3 W4 | W3 W4 W5 ...).</p>
+                <p>Aus dieser Gesamtheit wird dann ausgezählt, wie oft jedes Trigramm im Korpus vorkommt. Das Ergebnis wird in Form einer Liste ausgegeben, welche man zumeist absteigend nach Frequenz ordnen lassen kann. Entsprechend würde man unter den häufigsten Dreiwortfolgen eines politischen Korpus zum Beispiel Sequenzen finden wie:</p>
+                <p>Wir wollen die</p>
+                <p>Bürgerinnen und Bürger</p>
+                <p>Wir setzen uns</p>
+                <p>der Europäischen Union</p>
+                <p>Wir wollen eine</p>
+                <p>das Recht auf</p>
+                <p>Diese Form der Berechnung lässt sich jedoch variieren. Allgemein kann man <emph>mehrere Arten von n-Grammen</emph> unterscheiden:</p>
+            </page>
+            <page>
+                <h2 id="Kontinuierlich">Kontinuierliche n-Gramme</h2>
+                <p>Hierbei handelt es sich um die gerade erläuterten, <emph>unmittelbar aufeinanderfolgenden Zeichenketten</emph>.</p> 
+                <h2 id="Diskontinuierlich">Diskontinuierliche n-Gramme</h2>
+                <p>Ähnlich wie bei einer Kollokationsanalyse, könnte man auch bei einer n-Gramm Analyse ein <emph>Textfenster</emph> definieren, in welchem die Wortfolgen enthalten sein sollen. Neben der Länge n, z.B. 3, legt man also die Fenstergröße fest, z.B. 4. Daraufhin werden alle kombinatorisch möglichen Dreiwortfolgen innerhalb dieser Spanne berechnet (W1 W2 W3 | W1 W2 W4 | W1 W3 W4 ...). Die berechneten <emph>Sequenzen können</emph> dann <emph>Lücken aufweisen</emph>, wie beispielsweise "auf der ... Seite".</p>
+            </page>
+            <page>
+                <h2 id="Mit Bezugswort">n-Gramme mit Bezugswort</h2>
+                <p>Die Grundlage einer n-Gramm Analyse kann, ebenfalls wie bei einer Kollokationsanalyse, weiterhin ein Bezugswort bilden. Man würde also <emph>Sequenzen einer beliebigen oder</emph> einer zuvor <emph>festgelegten Länge <kursiv>n</kursiv></emph> berechnen lassen, <emph>welche ein bestimmtes Suchwort enthalten</emph>.</p>
+                <p>Ein Auszug aus den Ergebnissen einer Analyse von Trigrammen mit dem Bezugswort "Beispiel" würde dann in etwa folgendermaßen aussehen:</p>
+                <p>wie zum <emph>Beispiel</emph></p>
+                <p>zum <emph>Beispiel</emph> in</p>
+                <p><emph>Beispiel</emph> für die</p>
+            </page>
+            <page>
+                <h2 id="POS-Gramme">POS-Gramme</h2>
+                <p>POS-Gramme sind Sequenzen, die aus sogenannten Part-of-Speech-Tags bestehen. Demnach werden häufig <emph>aufeinanderfolgende Wortarten</emph> berechnet. Rekurrente Penta-POS-Gramme könnten dann beispielsweise sein </p>
+                <p>"APPR PDAT NN VVPP VAPP", etwa in der Ausgestaltung</p>
+                <p>"auf diesen Tag vorbereitet worden" / "in diese Mitleidenschaft gezogen worden"</p>
+                <p>oder auch das Muster "ADJA TRUNC KON ADJA NN", das wie folgt besetzt sein könnte: </p>
+                <p>"wichtige sozial- und wirtschaftspolitische Aufgabe" / "wirksame mittel- bis langfristige Antwort"</p>
+                <p>
+                    <details>Die Kürzel der Wortarten orientieren sich am STTS (<url href="http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html">Stuttgart-Tübingen-TagSet</url>).</details>
+                </p>
+                <p>(vgl. <bib id="Scharloth_Joachim2013"><person name="Scharloth, Joachim">Scharloth</person> 2013</bib>)</p>
+            </page>
+            <page>
+                <h2 id="Collostructions">Collostructions</h2>
+            </page>
+            <page>
+                <h2 id="Komplexe n-Gramme">Komplexe n-Gramme</h2>
+            </page>
+            <page>
+                <h2 id="Key-n-Gramme">Key-n-Gramme</h2>
+                <p>Im Modul "Kookkurrenzen und Keyword Listen" wird näher darauf eingegangen, warum es interessant sein kann, mittels Vergleich zweier Korpora Schlagwörter berechnen zu lassen. Dieses Verfahren lässt sich auch auf n-Gramme übertragen, ist allerdings in die wenigsten Korpusanalyseprogramme implementiert. </p>
+                <p>Die übliche Methode, um für ein Korpus im Vergleich zu einem Referenzkorpus typische Einheiten (Lexeme, Mehrworteinheiten etc.) zu berechnen, ist der sog. 'Keyness'-Ansatz (<bib id="Scott2006"><person name="Scott, Mike">Scott</person>/<person name="Tribble, Christopher">Tribble </person>2006</bib>; <bib id="Bondi2010c"><person name="Bondi, Marina">Bondi</person>/<person name="Scott, Mike">Scott</person> 2010</bib>), bei dem die <emph>Keyness</emph>, also die Typizität jedes n-Gramms im <emph>Untersuchungskorpus</emph> im Vergleich zum <emph>Referenzkorpus</emph> berechnet wird. (<bib id="Bubenhofer_Noah"><person name="Bubenhofer, Noah">Bubenhofer </person>im Druck</bib>, Hervorh. d. Verf.)</p>
+                <p>Key-n-Gramme bilden Syntagmen ab, die eine bestimmte Thematik oder Textsorte und die Charakteristika eines Korpus wiederspiegeln können. "Durch die Wahl des Referenzkorpus wird darüber hinaus kontrolliert, bezüglich welcher Analyseebene die Spezifik der n-Gramme berechnet werden soll: So ist auf diachroner Ebene denkbar, verschiedene Zeitabschnitte miteinander zu vergleichen, auf synchroner Ebene beispielsweise Text[s]orten, Autoren, Institutionen, kommunikative Praktiken etc." (<bib id="Ziem2015"><person name="Hein, Katrin">Hein</person>/<person name="Bubenhofer, Noah">Bubenhofer</person> 2012: 184</bib>)
+                </p>
+            </page>
+            <page>
+                <p>Die Berechnung von n-Grammen und die entsprechende Gestaltung der Suchanfrage kann entweder über die jeweilige Syntax der Software erfolgen oder aber man arbeitet direkt mit Programmen, welche die Abfrage von n-Grammen ermöglichen, wie beispielsweise Antconc oder kfNgram. (Für Kurzanleitungen zu den Programmen siehe z.B. <url href="http://www.bubenhofer.com/korpuslinguistik/kurs/">http://www.bubenhofer.com/korpuslinguistik/kurs/</url>)</p>
+            </page>
+            <page>
                 <h2 id="Referenzliteratur">Referenzliteratur:</h2>
                 <list>
                     <li>vgl. Banerjee/Pedersen</li>
-                   <li>vgl. Bubenhofer im Druck</li>
+                    <li>vgl. Bubenhofer im Druck</li>
                     <li>vgl. Bubenhofer 2009</li>
-                   <li>vgl. Bubenhofer/Hein 2012</li>
+                    <li>vgl. Bubenhofer/Hein 2012</li>
                     <li>vgl. Lemnitzer/Zinsmeister 35</li>
                     <li>vgl. Perkuhn/Keibel/Kupietz 114</li>
-                   <li>vgl. Rehbein</li>
+                    <li>vgl. Rehbein</li>
                 </list>
             </page>
             <page>
@@ -161,7 +163,7 @@
                 <check>
                     <question>
                         <ctext><emph>1.	Ich habe verstanden, wie n-Gramme üblicherweise berechnet werden.</emph></ctext>
-                  </question>
+                    </question>
                     <answer type="radio">
                         <option>
                             <ctext>Ja</ctext>
@@ -173,15 +175,15 @@
                             <ctext>Nein</ctext>
                             <action>
                                 <ctext>
-                                <p>Nachdem man die Länge <kursiv>n</kursiv> der zu untersuchenden Sequenz festgelegt hat, werden automatisiert alle kombinatorisch möglichen Wortfolgen dieser Größe berechnet. Das Korpus wird also in Segmente aus je <kursiv>n</kursiv> Tokens zerlegt und aus dieser Gesamtheit wird dann ausgezählt, wie oft jedes n-Gramm im Korpus vorkommt. Das Ergebnis wird in Form einer Liste ausgegeben, welche man zumeist absteigend nach Frequenz ordnen lassen kann.</p>
+                                    <p>Nachdem man die Länge <kursiv>n</kursiv> der zu untersuchenden Sequenz festgelegt hat, werden automatisiert alle kombinatorisch möglichen Wortfolgen dieser Größe berechnet. Das Korpus wird also in Segmente aus je <kursiv>n</kursiv> Tokens zerlegt und aus dieser Gesamtheit wird dann ausgezählt, wie oft jedes n-Gramm im Korpus vorkommt. Das Ergebnis wird in Form einer Liste ausgegeben, welche man zumeist absteigend nach Frequenz ordnen lassen kann.</p>
                                 </ctext>
-                               <p><url href="#analyseformen">Die Analyse von n-Grammen</url></p>
+                                <p><url href="#analyseformen">Die Analyse von n-Grammen</url></p>
                             </action>
                         </option>
                     </answer>
                     <question>
                         <ctext><emph>2.	Ich bin fähig, 3 Arten von n-Grammen zu nennen und näher zu erläutern.</emph></ctext>
-                  </question>
+                    </question>
                     <answer type="radio">
                         <option>
                             <ctext>Ja</ctext>
@@ -193,14 +195,14 @@
                             <ctext>Nein</ctext>
                             <action>
                                 <ctext>
-                                <p>n-Gramme mit Bezugswort: Wie bei einer Kollokationsanalyse kann man auch bei einer n-Gramm Analyse eine Wortform oder ein Lemma als Grundlage wählen. Man würde also Sequenzen einer beliebigen oder einer zuvor festgelegten Länge n berechnen lassen, welche ein bestimmtes Suchwort enthalten.</p>
-                                <p>Diskontinuierliche n-Gramme: Eine weitere Parallele beider Analysekategorien besteht darin, dass man bei einer n-Gramm Analyse auch ein Textfenster definieren könnte, in welchem die Wortfolgen enthalten sein sollen. Neben der Länge <kursiv>n</kursiv>, legt man also die Fenstergröße fest, woraufhin alle kombinatorisch möglichen n-Gramme innerhalb dieser Spanne berechnet werden. </p>
-                                <p>POS-Gramme: Bei der Analyse von POS-Grammen werden häufig aufeinanderfolgende Wortarten berechnet. Als Ergebnis erhält man Sequenzen einer Länge <kursiv>n</kursiv>, die aus sogenannten Part-of-Speech-Tags bestehen.</p>
-                                <p>Komplexe n-Gramme: Hierbei handelt es sich um eine erweiterte Form von n-Grammen, nämlich um eine Kombination von Wortart und Wortform. Man betrachtet dabei besonders frequente Muster und deren Realisierungen.</p>
+                                    <p>n-Gramme mit Bezugswort: Wie bei einer Kollokationsanalyse kann man auch bei einer n-Gramm Analyse eine Wortform oder ein Lemma als Grundlage wählen. Man würde also Sequenzen einer beliebigen oder einer zuvor festgelegten Länge n berechnen lassen, welche ein bestimmtes Suchwort enthalten.</p>
+                                    <p>Diskontinuierliche n-Gramme: Eine weitere Parallele beider Analysekategorien besteht darin, dass man bei einer n-Gramm Analyse auch ein Textfenster definieren könnte, in welchem die Wortfolgen enthalten sein sollen. Neben der Länge <kursiv>n</kursiv>, legt man also die Fenstergröße fest, woraufhin alle kombinatorisch möglichen n-Gramme innerhalb dieser Spanne berechnet werden. </p>
+                                    <p>POS-Gramme: Bei der Analyse von POS-Grammen werden häufig aufeinanderfolgende Wortarten berechnet. Als Ergebnis erhält man Sequenzen einer Länge <kursiv>n</kursiv>, die aus sogenannten Part-of-Speech-Tags bestehen.</p>
+                                    <p>Komplexe n-Gramme: Hierbei handelt es sich um eine erweiterte Form von n-Grammen, nämlich um eine Kombination von Wortart und Wortform. Man betrachtet dabei besonders frequente Muster und deren Realisierungen.</p>
                                 </ctext>
                                 <p><url href="#mit Bezugswort" >n-Gramme mit Bezugswort</url></p>
                                 <p><url href="#diskontinuierlich" >Diskontinuierliche n-Gramme</url></p>
-                                 <p><url href="#pos-Gramme" >POS-Gramme</url></p>
+                                <p><url href="#pos-Gramme" >POS-Gramme</url></p>
                                 <p><url href="#komplexe n-Gramme" >Komplexe n-Gramme</url></p>
                             </action>
                         </option>
@@ -209,16 +211,16 @@
             </page>
         </chapter>
         <chapter>
-        <page>
-        <h1 id="Terminologie">Terminologie: n-Gramm versus Mehrworteinheit</h1>
-        <p>Wie bei Kollokationen bestehen auch bei n-Grammen gewisse terminologische Unklarheiten. Insbesondere im englischsprachigen Raum finden sich neben "nGram" bzw. "n-Gram" u.a. die Bezeichnungen "multi word unit" oder "multi word expression", welche in der deutschsprachigen Literatur zum Teil als "Mehrworteinheiten" aufgegriffen werden. Die grundsätzliche Definition entspricht zwar der von n-Grammen &#822; "MWEs must in themselves be made up of multiple whitespace-delimited words" (<bib id="Indurkhya2010"><person name="Baldwin, Timothy">Baldwin</person>/<person name="Kim, Nam Su">Kim</person> 2010: 267</bib>) &#822; doch muss man wiederum die verschiedenen Lesarten berücksichtigen. </p>
-<p>Wie bereits im Modul "Kollokationen" erläutert wurde, versteht man im Bereich der Computerlinguistik unter <term>multiword expressions</term> lexikalisierte Wortverbindungen mit semantischen oder syntaktischen Besonderheiten. Sie sind nicht kompositionell und ihre Elemente sind nicht modifizierbar und nicht substituierbar.</p>
-<p>Zudem wird bei der Erwähnung von multi word expressions in der Sekundärliteratur häufig der phraseologische Ansatz der Idiomatizität mitgedacht:</p>
-<p>"Expressions [...] that have surprising properties not predicted by their component words are referred to as multiword expressions (MWEs)." (<bib id="Indurkhya2010"><person name="Baldwin, Timothy">Baldwin</person>/<person name="Kim, Nam Su">Kim</person> 2010: 267</bib>)</p>
-<p>"MWEs are an integral part of language: vast in number and highly varied in nature. They are defined by idiomaticity at the lexical, syntactic, semantic, pragmatic, and statistical levels, and occur in a myriad of different constructions in the world’s languages." (<bib id="Indurkhya2010">a.a.O.: 285</bib>)</p>
-<p>Nachfolgend wird daher dem neutraleren Begriff <term>n-Gramme</term>, zur Bezeichnung von Wortfolgen einer beliebigen Länge, der Vorzug gegeben.</p>
-        </page>
-                 <page>
+            <page>
+                <h1 id="Terminologie">Terminologie: n-Gramm versus Mehrworteinheit</h1>
+                <p>Wie bei Kollokationen bestehen auch bei n-Grammen gewisse terminologische Unklarheiten. Insbesondere im englischsprachigen Raum finden sich neben "nGram" bzw. "n-Gram" u.a. die Bezeichnungen "multi word unit" oder "multi word expression", welche in der deutschsprachigen Literatur zum Teil als "Mehrworteinheiten" aufgegriffen werden. Die grundsätzliche Definition entspricht zwar der von n-Grammen &#822; "MWEs must in themselves be made up of multiple whitespace-delimited words" (<bib id="Indurkhya2010"><person name="Baldwin, Timothy">Baldwin</person>/<person name="Kim, Nam Su">Kim</person> 2010: 267</bib>) &#822; doch muss man wiederum die verschiedenen Lesarten berücksichtigen. </p>
+                <p>Wie bereits im Modul "Kollokationen" erläutert wurde, versteht man im Bereich der Computerlinguistik unter <term>multiword expressions</term> lexikalisierte Wortverbindungen mit semantischen oder syntaktischen Besonderheiten. Sie sind nicht kompositionell und ihre Elemente sind nicht modifizierbar und nicht substituierbar.</p>
+                <p>Zudem wird bei der Erwähnung von multi word expressions in der Sekundärliteratur häufig der phraseologische Ansatz der Idiomatizität mitgedacht:</p>
+                <p>"Expressions [...] that have surprising properties not predicted by their component words are referred to as multiword expressions (MWEs)." (<bib id="Indurkhya2010"><person name="Baldwin, Timothy">Baldwin</person>/<person name="Kim, Nam Su">Kim</person> 2010: 267</bib>)</p>
+                <p>"MWEs are an integral part of language: vast in number and highly varied in nature. They are defined by idiomaticity at the lexical, syntactic, semantic, pragmatic, and statistical levels, and occur in a myriad of different constructions in the world’s languages." (<bib id="Indurkhya2010">a.a.O.: 285</bib>)</p>
+                <p>Nachfolgend wird daher dem neutraleren Begriff <term>n-Gramme</term>, zur Bezeichnung von Wortfolgen einer beliebigen Länge, der Vorzug gegeben.</p>
+            </page>
+            <page>
                 <h2 id="Referenzliteratur">Referenzliteratur:</h2>
                 <list>
                     <li>vgl. Baldwin/Kim 2010: 267-292</li>
@@ -226,13 +228,13 @@
                 </list>
             </page>
             <page>
-                         <h1>Checkliste</h1>
+                <h1>Checkliste</h1>
                 <p>Eine Checkliste dient der Selbstkontrolle sowie der Reflexion über vorangegangene Inhalte.</p>
                 <p>Mit Hilfe der nachfolgenden Fragen sollen Sie einschätzen, ob Sie die wesentlichen Aspekte und die größeren Zusammenhänge dieses Moduls verstanden haben und wiedergeben bzw. anwenden können. Wenn Sie feststellen, dass Sie auf eine der Fragen mit "Nein" antworten müssen, so werden zusammengefasste Informationen und ein Link zum entsprechenden Thema angezeigt.</p>
-                           <check>
+                <check>
                     <question>
                         <ctext><emph>1.	Mir ist die terminologische Problematik hinsichtlich der Bezeichnungen "n-Gramm" und "Mehrworteinheit" bewusst.</emph></ctext>
-                  </question>
+                    </question>
                     <answer type="radio">
                         <option>
                             <ctext>Ja</ctext>
@@ -244,43 +246,43 @@
                             <ctext>Nein</ctext>
                             <action>
                                 <ctext>
-                                <p></p>
+                                    <p></p>
                                 </ctext>
-                               <p><url href="#Terminologie">Terminologie: n-Gramm versus Mehrworteinheit</url></p>
+                                <p><url href="#Terminologie">Terminologie: n-Gramm versus Mehrworteinheit</url></p>
                             </action>
                         </option>
                     </answer>
-                    </check>
+                </check>
             </page>
             <page>
-            <h1 id="Mögliche Anwendungen">Anwendungsmöglichkeiten</h1>
-            <h2 id="Wozu n-Gramme">Wozu kann die Analyse von n-Grammen dienen?</h2>
-            <p>Man kann auf diese Weise</p>
-            <p>&#8226; Syntagmen</p>
-           <p>&#8226; Formulierungsmuster</p>
-           <p>&#8226; Argumentationsfiguren</p>
-           <p>&#8226; Topoi</p>
-          <p>&#8226; Floskeln bzw. die Floskelhaftigkeit eines Korpus </p>
-          <p>(und deren pragmatische Funktion) erkennen.</p>
+                <h1 id="Mögliche Anwendungen">Anwendungsmöglichkeiten</h1>
+                <h2 id="Wozu n-Gramme">Wozu kann die Analyse von n-Grammen dienen?</h2>
+                <p>Man kann auf diese Weise</p>
+                <p>&#8226; Syntagmen</p>
+                <p>&#8226; Formulierungsmuster</p>
+                <p>&#8226; Argumentationsfiguren</p>
+                <p>&#8226; Topoi</p>
+                <p>&#8226; Floskeln bzw. die Floskelhaftigkeit eines Korpus </p>
+                <p>(und deren pragmatische Funktion) erkennen.</p>
             </page>
             <page>
-            <p>Bei n-Grammen handelt es sich beispielsweise um:</p>
+                <p>Bei n-Grammen handelt es sich beispielsweise um:</p>
                 <list type="ordered">
                     <li>institutionalisierte/konventionalisierte Phrasen (z.B. sehr geehrte Damen und Herren)</li>
                     <li>Verbkonstruktionen (z.B. einen Spaziergang/Fehler machen)</li>
                     <li>Idiome (z.B. ein Dorn im Auge)</li>
                     <li>mehrgliedrige Eigennamen oder Funktionsbezeichnungen</li>
-                    </list>
-                    <p align="right">(vgl. Bubenhofer im Druck; Bubenhofer, Hein)</p>
+                </list>
+                <p align="right">(vgl. Bubenhofer im Druck; Bubenhofer, Hein)</p>
             </page>
             <page>
-                         <h1>Checkliste</h1>
+                <h1>Checkliste</h1>
                 <p>Eine Checkliste dient der Selbstkontrolle sowie der Reflexion über vorangegangene Inhalte.</p>
                 <p>Mit Hilfe der nachfolgenden Fragen sollen Sie einschätzen, ob Sie die wesentlichen Aspekte und die größeren Zusammenhänge dieses Moduls verstanden haben und wiedergeben bzw. anwenden können. Wenn Sie feststellen, dass Sie auf eine der Fragen mit "Nein" antworten müssen, so werden zusammengefasste Informationen und ein Link zum entsprechenden Thema angezeigt.</p>
-                           <check>
+                <check>
                     <question>
                         <ctext><emph>1.	Ich bin imstande anhand mehrerer Beispiele darzulegen, wofür die Analyse von n-Grammen nützlich sein kann.</emph></ctext>
-                  </question>
+                    </question>
                     <answer type="radio">
                         <option>
                             <ctext>Ja</ctext>
@@ -292,54 +294,54 @@
                             <ctext>Nein</ctext>
                             <action>
                                 <ctext>
-                                <p>Durch dieses Verfahren ist es unter anderem möglich, Formulierungsmuster, Argumentationsfiguren oder Floskeln in einem Korpus zu identifizieren und deren pragmatische Funktion zu ermitteln. Weiterhin kann eine n-Gramm Analyse auf institutionalisierte bzw. konventionalisierte Phrasen, auf Idiome oder auf  mehrgliedrige Eigennamen oder Funktionsbezeichnungen aufmerksam machen.</p>
+                                    <p>Durch dieses Verfahren ist es unter anderem möglich, Formulierungsmuster, Argumentationsfiguren oder Floskeln in einem Korpus zu identifizieren und deren pragmatische Funktion zu ermitteln. Weiterhin kann eine n-Gramm Analyse auf institutionalisierte bzw. konventionalisierte Phrasen, auf Idiome oder auf  mehrgliedrige Eigennamen oder Funktionsbezeichnungen aufmerksam machen.</p>
                                 </ctext>
-                               <p><url href="#mögliche Anwendungen">Anwendungsmöglichkeiten</url></p>
+                                <p><url href="#mögliche Anwendungen">Anwendungsmöglichkeiten</url></p>
                             </action>
                         </option>
                     </answer>
-                    </check>
+                </check>
             </page>
         </chapter>
         <chapter>
-        <page>
-        <h1 id="Statistik">Ein winziges bisschen Statistik</h1>
-        <p>Die nachfolgenden Ausführungen zu statistischen Begrifflichkeiten, die bei der Berechnung von n-Grammen eine Rolle spielen, sind recht überschaubar und umfassen lediglich die Punkte "Signifikanz" und "Keyness".</p>
-        <p>Wird in einem Korpus nach n-Grammen, wie z.B. Pentagrammen gesucht, so werden als Ergebnis alle aus 5 Wörtern bestehenden Sequenzen dargestellt. Diese Liste lässt sich üblicherweise absteigend nach Häufigkeit sortieren, wobei die absolute Frequenz jedes Pentagramms aufgeführt wird. Zum Teil findet sich darüber hinaus die Angabe, wie hoch der prozentuale Anteil des jeweiligen Pentagramms am Gesamtvorkommen ist.</p>
-        <h2 id="Signifikanz">Signifikanz</h2>
-        <p>Es wäre in einem nächsten Schritt interessant, die <emph>Bindungsstärke der n-Gramme</emph> berechnen zu lassen, um aus besagter Liste die Wortfolgen extrahieren zu können, deren gemeinsames Vorkommen <emph>nicht zufällig, sondern signifikant</emph> ist und zwischen deren Bestandteilen folglich eine gewisse Anziehung besteht. Während man bei Kollokationsanalysen standardmäßig mindestens ein Signifikanzmaß als Berechnungsgrundlage wählen kann, ist die <emph>Berechnung der Assoziation von n-Grammen äußerst selten vorgesehen</emph>. 
-</p>
-<details>
-<p>Zur Signifikanz von Bigrammen siehe das Modul "Kollokationen". </p>
-</details>
-<p>"It is [...] desirable to develop suitable measures for word triples and larger n-tuples. First attempts to formulate such measures are straightforward generalisations of the equations of MI (Lin 1998), log-likelihood (Zinsmeister/Heid 2003), or the Dice coefficient (da Silva/Lopes 1999). Obviously, a deep understanding of the mathematical properties of association measures for word pairs as well as their shortcomings is essential for a successful extension." (<bib id="Evert2009"><person name="Evert, Stefan">Evert</person> 2009: 1244</bib></p>
-<p>Auch im "Ngram Statistics Package" von Banerjee/Pedersen (2003) stehen entsprechend angepasste Signifikanzmaße für n-Gramme zur Verfügung.</p>
-<details>
-<p>Des Weiteren erläutern <person name="Stefanowitsch, Anatol">Stefanowitsch</person>/<person name="Gries, Stefan">Gries</person> ihr Vorgehen zur Berechnung der Attraktionsstärke von Collostructions:</p>
-<p>"Thus, to calculate the collostruction strength of a given collexeme L for a given construction C, we need four frequencies: the frequency of L in C, the frequency of L in all other constructions, the frequency of C with lexemes other than L and the frequency of all other constructions with lexemes other than L. These can then be entered in a 4-by-4 table and submitted to the Fisher exact test (or any other distributional statistic)." (<bib id="Gries_Stefan_Th.2003">2003: 218</bib>)</p>
-</details>
-        </page>
-        <page>
-        <h2 id="Keyness">Keyness</h2>
-        <p>Für Erläuterungen zur Berechnung der Keyness von n-Grammen siehe das Modul "Kookkurrenzen und Keyword Listen". Der einzige rechnerische Unterschied besteht darin, dass statt der beobachteten Frequenz des Keywords, die Häufigkeit des Key-N-Gramms in die Kontingenztabellen eingetragen wird und dieser Wert dann folglich auch die Basis für die Berechnung der erwarteten Frequenz bildet.</p>
-        </page>
-        <page>
-               <h2 id="Referenzliteratur">Referenzliteratur:</h2>
+            <page>
+                <h1 id="Statistik">Ein winziges bisschen Statistik</h1>
+                <p>Die nachfolgenden Ausführungen zu statistischen Begrifflichkeiten, die bei der Berechnung von n-Grammen eine Rolle spielen, sind recht überschaubar und umfassen lediglich die Punkte "Signifikanz" und "Keyness".</p>
+                <p>Wird in einem Korpus nach n-Grammen, wie z.B. Pentagrammen gesucht, so werden als Ergebnis alle aus 5 Wörtern bestehenden Sequenzen dargestellt. Diese Liste lässt sich üblicherweise absteigend nach Häufigkeit sortieren, wobei die absolute Frequenz jedes Pentagramms aufgeführt wird. Zum Teil findet sich darüber hinaus die Angabe, wie hoch der prozentuale Anteil des jeweiligen Pentagramms am Gesamtvorkommen ist.</p>
+                <h2 id="Signifikanz">Signifikanz</h2>
+                <p>Es wäre in einem nächsten Schritt interessant, die <emph>Bindungsstärke der n-Gramme</emph> berechnen zu lassen, um aus besagter Liste die Wortfolgen extrahieren zu können, deren gemeinsames Vorkommen <emph>nicht zufällig, sondern signifikant</emph> ist und zwischen deren Bestandteilen folglich eine gewisse Anziehung besteht. Während man bei Kollokationsanalysen standardmäßig mindestens ein Signifikanzmaß als Berechnungsgrundlage wählen kann, ist die <emph>Berechnung der Assoziation von n-Grammen äußerst selten vorgesehen</emph>. 
+                </p>
+                <details>
+                    <p>Zur Signifikanz von Bigrammen siehe das Modul "Kollokationen". </p>
+                </details>
+                <p>"It is [...] desirable to develop suitable measures for word triples and larger n-tuples. First attempts to formulate such measures are straightforward generalisations of the equations of MI (Lin 1998), log-likelihood (Zinsmeister/Heid 2003), or the Dice coefficient (da Silva/Lopes 1999). Obviously, a deep understanding of the mathematical properties of association measures for word pairs as well as their shortcomings is essential for a successful extension." (<bib id="Evert2009"><person name="Evert, Stefan">Evert</person> 2009: 1244</bib></p>
+                <p>Auch im "Ngram Statistics Package" von Banerjee/Pedersen (2003) stehen entsprechend angepasste Signifikanzmaße für n-Gramme zur Verfügung.</p>
+                <details>
+                    <p>Des Weiteren erläutern <person name="Stefanowitsch, Anatol">Stefanowitsch</person>/<person name="Gries, Stefan">Gries</person> ihr Vorgehen zur Berechnung der Attraktionsstärke von Collostructions:</p>
+                    <p>"Thus, to calculate the collostruction strength of a given collexeme L for a given construction C, we need four frequencies: the frequency of L in C, the frequency of L in all other constructions, the frequency of C with lexemes other than L and the frequency of all other constructions with lexemes other than L. These can then be entered in a 4-by-4 table and submitted to the Fisher exact test (or any other distributional statistic)." (<bib id="Gries_Stefan_Th.2003">2003: 218</bib>)</p>
+                </details>
+            </page>
+            <page>
+                <h2 id="Keyness">Keyness</h2>
+                <p>Für Erläuterungen zur Berechnung der Keyness von n-Grammen siehe das Modul "Kookkurrenzen und Keyword Listen". Der einzige rechnerische Unterschied besteht darin, dass statt der beobachteten Frequenz des Keywords, die Häufigkeit des Key-N-Gramms in die Kontingenztabellen eingetragen wird und dieser Wert dann folglich auch die Basis für die Berechnung der erwarteten Frequenz bildet.</p>
+            </page>
+            <page>
+                <h2 id="Referenzliteratur">Referenzliteratur:</h2>
                 <list>
                     <li>vgl. Banerjee/Pedersen</li>
-                   <li>vgl. Bubenhofer im Druck</li>
+                    <li>vgl. Bubenhofer im Druck</li>
                     <li>vgl. Bubenhofer 2009</li>
-                   <li>vgl. Evert 2009</li>
+                    <li>vgl. Evert 2009</li>
                 </list>
             </page>
             <page>
-                         <h1>Checkliste</h1>
+                <h1>Checkliste</h1>
                 <p>Eine Checkliste dient der Selbstkontrolle sowie der Reflexion über vorangegangene Inhalte.</p>
                 <p>Mit Hilfe der nachfolgenden Fragen sollen Sie einschätzen, ob Sie die wesentlichen Aspekte und die größeren Zusammenhänge dieses Moduls verstanden haben und wiedergeben bzw. anwenden können. Wenn Sie feststellen, dass Sie auf eine der Fragen mit "Nein" antworten müssen, so werden zusammengefasste Informationen und ein Link zum entsprechenden Thema angezeigt.</p>
                 <check>
                     <question>
                         <ctext><emph>1.	</emph></ctext>
-                  </question>
+                    </question>
                     <answer type="radio">
                         <option>
                             <ctext>Ja</ctext>
@@ -351,54 +353,54 @@
                             <ctext>Nein</ctext>
                             <action>
                                 <ctext>
-                                <p></p>
+                                    <p></p>
                                 </ctext>
-                               <p><url href="#statistik">Statistik</url></p>
+                                <p><url href="#statistik">Statistik</url></p>
                             </action>
                         </option>
                     </answer>
-                    </check>
+                </check>
             </page>
         </chapter>
         <chapter>
-        <page>
-        <h1 id="Parameter">Parameter</h1>
-        <p>Die einer n-Gramm Analyse zugrundeliegenden Parameter <emph>können</emph> je nach Fragestellung bzw. Hypothese <emph>variiert werden</emph> und bieten zugleich die Möglichkeit, <emph>verschiedene Sichtweisen</emph> auf den Untersuchungsgegenstand einzunehmen. Man sollte sich stets bewusst sein, dass die Wahl der Parameter auch den Fokus des Forschers lenkt und <emph>maßgeblich die Ergebnisse der Analyse beeinflusst</emph>.</p>
-        <p>Es ist zweifelsfrei eine Herausforderung, dass man bereits bei der Entscheidung für die jeweiligen Parameter Mutmaßungen über die Natur des Phänomens anstellen muss.
-Bei einem datengeleiteten Vorgehen lässt man sich daher, wie der Name andeutet, in einem gewissen Maß von den Ergebnissen leiten und justiert die Parameter wenn nötig nach.</p>
-<p>Darüber hinaus kann die Berechnung von n-Grammen dazu anregen, Fragestellungen bzw. Hypothesen zu formulieren oder zu beantworten, die möglicherweise erst durch die Analyse erkennbar werden.</p>
-<p>Zu den regulierbaren Parametern einer n-Gramm Analyse gehören:</p>
-        </page>
-        <page>
-        <h2 id="n">n</h2>
-        <p>Mit <kursiv>n</kursiv> legt man die Länge der aufeinanderfolgenden Einheiten fest, die analysiert werden sollen. </p>
-        <h2 id="Mindestvorkommen">Mindestvorkommen</h2>
-        <p>Ein weiterer Parameter den man bei n-Gramm Analyse im Vorfeld festlegen kann bzw. muss, ist das Mindestvorkommen der Wortfolgen. Man kann bzw. muss folglich entscheiden, wie oft eine Sequenz zu erscheinen hat, um bei der Berechnung berücksichtigt zu werden. </p>
-        <p>Statt eines solchen willkürlichen Ausschlusskriteriums kann man aber auch auf der Grundlage des <emph>Ranking</emph> die frequentesten, also zum Beispiel die <emph>Top</emph> 10/20/30... <emph>n-Gramme</emph> näher betrachten. </p>
-        </page>
-        <page>
-        <h2 id="Fenstergröße">Die Fenstergröße</h2>
-        <p>Wie bereits erläutert wurde, können n-Gramme kontinuierlich oder diskontinuierlich sein. Will man <emph>Folgen von Wörtern</emph> analysieren, <emph>die nicht unmittelbar nebeneinander stehen</emph>, so muss man im Vorfeld den <emph>Kotext definieren</emph>, der bei der Berechnung einbezogen werden soll. </p>
-        <p>Bei der Frage der Fenstergröße ist weiterhin die Interpunktion zu berücksichtigen: 
-In der Regel werden <emph>Satzgrenzen</emph> innerhalb des definierten Textfensters missachtet, das heißt, dass n-Gramme über Satzgrenzen hinweg berechnet werden. Je nach verwendeter Software kann man dies jedoch ggf. ändern.</p>
-        </page>
-        <page>
-                      <h2 id="Referenzliteratur">Referenzliteratur:</h2>
+            <page>
+                <h1 id="Parameter">Parameter</h1>
+                <p>Die einer n-Gramm Analyse zugrundeliegenden Parameter <emph>können</emph> je nach Fragestellung bzw. Hypothese <emph>variiert werden</emph> und bieten zugleich die Möglichkeit, <emph>verschiedene Sichtweisen</emph> auf den Untersuchungsgegenstand einzunehmen. Man sollte sich stets bewusst sein, dass die Wahl der Parameter auch den Fokus des Forschers lenkt und <emph>maßgeblich die Ergebnisse der Analyse beeinflusst</emph>.</p>
+                <p>Es ist zweifelsfrei eine Herausforderung, dass man bereits bei der Entscheidung für die jeweiligen Parameter Mutmaßungen über die Natur des Phänomens anstellen muss.
+                    Bei einem datengeleiteten Vorgehen lässt man sich daher, wie der Name andeutet, in einem gewissen Maß von den Ergebnissen leiten und justiert die Parameter wenn nötig nach.</p>
+                <p>Darüber hinaus kann die Berechnung von n-Grammen dazu anregen, Fragestellungen bzw. Hypothesen zu formulieren oder zu beantworten, die möglicherweise erst durch die Analyse erkennbar werden.</p>
+                <p>Zu den regulierbaren Parametern einer n-Gramm Analyse gehören:</p>
+            </page>
+            <page>
+                <h2 id="n">n</h2>
+                <p>Mit <kursiv>n</kursiv> legt man die Länge der aufeinanderfolgenden Einheiten fest, die analysiert werden sollen. </p>
+                <h2 id="Mindestvorkommen">Mindestvorkommen</h2>
+                <p>Ein weiterer Parameter den man bei n-Gramm Analyse im Vorfeld festlegen kann bzw. muss, ist das Mindestvorkommen der Wortfolgen. Man kann bzw. muss folglich entscheiden, wie oft eine Sequenz zu erscheinen hat, um bei der Berechnung berücksichtigt zu werden. </p>
+                <p>Statt eines solchen willkürlichen Ausschlusskriteriums kann man aber auch auf der Grundlage des <emph>Ranking</emph> die frequentesten, also zum Beispiel die <emph>Top</emph> 10/20/30... <emph>n-Gramme</emph> näher betrachten. </p>
+            </page>
+            <page>
+                <h2 id="Fenstergröße">Die Fenstergröße</h2>
+                <p>Wie bereits erläutert wurde, können n-Gramme kontinuierlich oder diskontinuierlich sein. Will man <emph>Folgen von Wörtern</emph> analysieren, <emph>die nicht unmittelbar nebeneinander stehen</emph>, so muss man im Vorfeld den <emph>Kotext definieren</emph>, der bei der Berechnung einbezogen werden soll. </p>
+                <p>Bei der Frage der Fenstergröße ist weiterhin die Interpunktion zu berücksichtigen: 
+                    In der Regel werden <emph>Satzgrenzen</emph> innerhalb des definierten Textfensters missachtet, das heißt, dass n-Gramme über Satzgrenzen hinweg berechnet werden. Je nach verwendeter Software kann man dies jedoch ggf. ändern.</p>
+            </page>
+            <page>
+                <h2 id="Referenzliteratur">Referenzliteratur:</h2>
                 <list>
                     <li>vgl. </li>
-                   <li>vgl. </li>
                     <li>vgl. </li>
-                   <li>vgl. </li>
+                    <li>vgl. </li>
+                    <li>vgl. </li>
                 </list>
             </page>
             <page>
-                         <h1>Checkliste</h1>
+                <h1>Checkliste</h1>
                 <p>Eine Checkliste dient der Selbstkontrolle sowie der Reflexion über vorangegangene Inhalte.</p>
                 <p>Mit Hilfe der nachfolgenden Fragen sollen Sie einschätzen, ob Sie die wesentlichen Aspekte und die größeren Zusammenhänge dieses Moduls verstanden haben und wiedergeben bzw. anwenden können. Wenn Sie feststellen, dass Sie auf eine der Fragen mit "Nein" antworten müssen, so werden zusammengefasste Informationen und ein Link zum entsprechenden Thema angezeigt.</p>
                 <check>
                     <question>
                         <ctext><emph>1.	</emph></ctext>
-                  </question>
+                    </question>
                     <answer type="radio">
                         <option>
                             <ctext>Ja</ctext>
@@ -410,23 +412,23 @@ In der Regel werden <emph>Satzgrenzen</emph> innerhalb des definierten Textfenst
                             <ctext>Nein</ctext>
                             <action>
                                 <ctext>
-                                <p></p>
+                                    <p></p>
                                 </ctext>
-                               <p><url href="#parameter">Parameter</url></p>
+                                <p><url href="#parameter">Parameter</url></p>
                             </action>
                         </option>
                     </answer>
-                    </check>
+                </check>
             </page>
         </chapter>
         <chapter id="training">
-          <page>
+            <page>
                 <h2>Weiterführende Aufgaben</h2>
                 <exercise>
                     <ctext>
                         <list type="ordered">
                             <li></li>
-                                </list>
+                        </list>
                     </ctext>
                 </exercise>
             </page>
