@@ -46,7 +46,7 @@
                 <details>
                     <p>
                         Banerjee/Pedersen veranschaulichen ihre Definition von n-Grammen folgendermaßen:
-                        "A simple model of written text is a series of symbols that carry some meaning when considered as a whole. We may wish to treat those symbols as phrases, words, or characters depending on our motivations. Ngrams are a simple representation that suits this view of written language. An Ngram is a sequence of <kursiv>N</kursiv> units, or <term>tokens</term>, of text, where those units are typically single characters or strings that are delimited by spaces." (<bib id="Banerjee_Satanjeev"><person name="Banerjee, Satanjeev">Banerjee</person>/<person name="Pedersen, Ted">Pedersen</person> 1</bib>)
+                        "A simple model of written text is a series of symbols that carry some meaning when considered as a whole. We may wish to treat those symbols as phrases, words, or characters depending on our motivations. Ngrams are a simple representation that suits this view of written language. An Ngram is a sequence of <kursiv>N</kursiv> units, or <term>tokens</term>, of text, where those units are typically single characters or strings that are delimited by spaces." (<bib id="Banerjee_Satanjeev">2015: 1</bib>)
                     </p>
                 </details>
                 <p><emph>In der Korpuslinguistik konzentriert man sich zumeist auf Wortfolgen.</emph> Bei einer Kollokationsanalyse etwa betrachtet man in der Regel Bigramme (siehe Modul "Kollokationen"), während man dieses Konzept bei einer n-Gramm Analyse erweitert und Trigramme, Tetragramme, Pentagramme usw. in den Fokus nimmt. </p>
@@ -66,7 +66,9 @@
                 <p>Mit Hilfe der nachfolgenden Fragen sollen Sie einschätzen, ob Sie die wesentlichen Aspekte und die größeren Zusammenhänge dieses Moduls verstanden haben und wiedergeben bzw. anwenden können. Wenn Sie feststellen, dass Sie auf eine der Fragen mit "Nein" antworten müssen, so werden zusammengefasste Informationen und ein Link zum entsprechenden Thema angezeigt.</p>
                 <check>
                     <question>
-                        <ctext><emph>1.	Ich kann erklären, was n-Gramme sind und wie sie sich zusammensetzen können. </emph></ctext>
+                        <ctext>
+                        <p><emph>1.	Ich kann erklären, was n-Gramme sind und wie sie sich zusammensetzen können. </emph></p>
+                        </ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -92,7 +94,7 @@
             <page>
                 <h1>Die Analyse von n-Grammen</h1>
                 <p>Üblicherweise werden n-Gramme folgendermaßen bestimmt: </p>
-                <p>Zunächst legt man die Länge der zu untersuchenden Wortfolge fest, z.B. 3. Daraufhin werden alle kombinatorisch möglichen Dreiwortfolgen berechnet. Das Korpus wird also in Segmente aus je 3 Tokens zerlegt (W1 W2 W3 | W2 W3 W4 | W3 W4 W5 ...).</p>
+                <p>Zunächst legt man die Länge der zu untersuchenden Wortfolge fest, z.B. 3. Daraufhin werden alle kombinatorisch möglichen Dreiwortfolgen berechnet. Das Korpus wird also in Segmente aus je 3 Token zerlegt (W1 W2 W3 | W2 W3 W4 | W3 W4 W5 ...).</p>
                 <p>Aus dieser Gesamtheit wird dann ausgezählt, wie oft jedes Trigramm im Korpus vorkommt. Das Ergebnis wird in Form einer Liste ausgegeben, welche man zumeist absteigend nach Frequenz ordnen lassen kann. Entsprechend würde man unter den häufigsten Dreiwortfolgen eines politischen Korpus zum Beispiel Sequenzen finden wie:</p>
                 <p>Wir wollen die</p>
                 <p>Bürgerinnen und Bürger</p>
@@ -123,10 +125,10 @@
                 <p>"auf diesen Tag vorbereitet worden" / "in diese Mitleidenschaft gezogen worden"</p>
                 <p>oder auch das Muster "ADJA TRUNC KON ADJA NN", das wie folgt besetzt sein könnte: </p>
                 <p>"wichtige sozial- und wirtschaftspolitische Aufgabe" / "wirksame mittel- bis langfristige Antwort"</p>
-                <p>
-                    <details>Die Kürzel der Wortarten orientieren sich am STTS (<url href="http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html">Stuttgart-Tübingen-TagSet</url>).</details>
-                </p>
-                <p>(vgl. <bib id="Scharloth_Joachim2013"><person name="Scharloth, Joachim">Scharloth</person> 2013</bib>)</p>
+                    <details>
+                    <p>Die Kürzel der Wortarten orientieren sich am STTS (<url href="http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html">Stuttgart-Tübingen-TagSet</url>).</p>
+                    </details>
+                <p align="right">(vgl. <bib id="Scharloth_Joachim2013"><person name="Scharloth, Joachim">Scharloth</person> 2013</bib>)</p>
             </page>
             <page>
                 <h2 id="Collostructions">Collostructions</h2>
@@ -162,7 +164,9 @@
                 <p>Mit Hilfe der nachfolgenden Fragen sollen Sie einschätzen, ob Sie die wesentlichen Aspekte und die größeren Zusammenhänge dieses Moduls verstanden haben und wiedergeben bzw. anwenden können. Wenn Sie feststellen, dass Sie auf eine der Fragen mit "Nein" antworten müssen, so werden zusammengefasste Informationen und ein Link zum entsprechenden Thema angezeigt.</p>
                 <check>
                     <question>
-                        <ctext><emph>1.	Ich habe verstanden, wie n-Gramme üblicherweise berechnet werden.</emph></ctext>
+                        <ctext>
+                        <p><emph>1.	Ich habe verstanden, wie n-Gramme üblicherweise berechnet werden.</emph></p>
+                        </ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -182,7 +186,9 @@
                         </option>
                     </answer>
                     <question>
-                        <ctext><emph>2.	Ich bin fähig, 3 Arten von n-Grammen zu nennen und näher zu erläutern.</emph></ctext>
+                        <ctext>
+                        <p><emph>2.	Ich bin fähig, 3 Arten von n-Grammen zu nennen und näher zu erläutern.</emph></p>
+                        </ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -233,7 +239,9 @@
                 <p>Mit Hilfe der nachfolgenden Fragen sollen Sie einschätzen, ob Sie die wesentlichen Aspekte und die größeren Zusammenhänge dieses Moduls verstanden haben und wiedergeben bzw. anwenden können. Wenn Sie feststellen, dass Sie auf eine der Fragen mit "Nein" antworten müssen, so werden zusammengefasste Informationen und ein Link zum entsprechenden Thema angezeigt.</p>
                 <check>
                     <question>
-                        <ctext><emph>1.	Mir ist die terminologische Problematik hinsichtlich der Bezeichnungen "n-Gramm" und "Mehrworteinheit" bewusst.</emph></ctext>
+                        <ctext>
+                        <p><emph>1.	Mir ist die terminologische Problematik hinsichtlich der Bezeichnungen "n-Gramm" und "Mehrworteinheit" bewusst.</emph></p>
+                        </ctext>
                     </question>
                     <answer type="radio">
                         <option>
@@ -281,7 +289,9 @@
                 <p>Mit Hilfe der nachfolgenden Fragen sollen Sie einschätzen, ob Sie die wesentlichen Aspekte und die größeren Zusammenhänge dieses Moduls verstanden haben und wiedergeben bzw. anwenden können. Wenn Sie feststellen, dass Sie auf eine der Fragen mit "Nein" antworten müssen, so werden zusammengefasste Informationen und ein Link zum entsprechenden Thema angezeigt.</p>
                 <check>
                     <question>
-                        <ctext><emph>1.	Ich bin imstande anhand mehrerer Beispiele darzulegen, wofür die Analyse von n-Grammen nützlich sein kann.</emph></ctext>
+                        <ctext>
+                        <p><emph>1.	Ich bin imstande anhand mehrerer Beispiele darzulegen, wofür die Analyse von n-Grammen nützlich sein kann.</emph></p>
+                        </ctext>
                     </question>
                     <answer type="radio">
                         <option>
