@@ -216,9 +216,9 @@
                 </check>
             </page>
         </chapter>
-        <chapter>
+        <chapter id="Terminologie">
             <page>
-                <h1 id="Terminologie">Terminologie: n-Gramm versus Mehrworteinheit</h1>
+                <h1>Terminologie: n-Gramm versus Mehrworteinheit</h1>
                 <p>Wie bei Kollokationen bestehen auch bei n-Grammen gewisse terminologische Unklarheiten. Insbesondere im englischsprachigen Raum finden sich neben "nGram" bzw. "n-Gram" u.a. die Bezeichnungen "multi word unit" oder "multi word expression", welche in der deutschsprachigen Literatur zum Teil als "Mehrworteinheiten" aufgegriffen werden. Die grundsätzliche Definition entspricht zwar der von n-Grammen &#822; "MWEs must in themselves be made up of multiple whitespace-delimited words" (<bib id="Indurkhya2010"><person name="Baldwin, Timothy">Baldwin</person>/<person name="Kim, Nam Su">Kim</person> 2010: 267</bib>) &#822; doch muss man wiederum die verschiedenen Lesarten berücksichtigen. </p>
                 <p>Wie bereits im Modul "Kollokationen" erläutert wurde, versteht man im Bereich der Computerlinguistik unter <term>multiword expressions</term> lexikalisierte Wortverbindungen mit semantischen oder syntaktischen Besonderheiten. Sie sind nicht kompositionell und ihre Elemente sind nicht modifizierbar und nicht substituierbar.</p>
                 <p>Zudem wird bei der Erwähnung von multi word expressions in der Sekundärliteratur häufig der phraseologische Ansatz der Idiomatizität mitgedacht:</p>
@@ -313,9 +313,9 @@
                 </check>
             </page>
         </chapter>
-        <chapter>
+        <chapter id="statistik">
             <page>
-                <h1 id="Statistik">Ein winziges bisschen Statistik</h1>
+                <h1>Ein winziges bisschen Statistik</h1>
                 <p>Die nachfolgenden Ausführungen zu statistischen Begrifflichkeiten, die bei der Berechnung von n-Grammen eine Rolle spielen, sind recht überschaubar und umfassen lediglich die Punkte "Signifikanz" und "Keyness".</p>
                 <p>Wird in einem Korpus nach n-Grammen, wie z.B. Pentagrammen gesucht, so werden als Ergebnis alle aus 5 Wörtern bestehenden Sequenzen dargestellt. Diese Liste lässt sich üblicherweise absteigend nach Häufigkeit sortieren, wobei die absolute Frequenz jedes Pentagramms aufgeführt wird. Zum Teil findet sich darüber hinaus die Angabe, wie hoch der prozentuale Anteil des jeweiligen Pentagramms am Gesamtvorkommen ist.</p>
                 <h2 id="Signifikanz">Signifikanz</h2>
@@ -372,9 +372,9 @@
                 </check>
             </page>
         </chapter>
-        <chapter>
+        <chapter id="Parameter">
             <page>
-                <h1 id="Parameter">Parameter</h1>
+                <h1>Parameter</h1>
                 <p>Die einer n-Gramm Analyse zugrundeliegenden Parameter <emph>können</emph> je nach Fragestellung bzw. Hypothese <emph>variiert werden</emph> und bieten zugleich die Möglichkeit, <emph>verschiedene Sichtweisen</emph> auf den Untersuchungsgegenstand einzunehmen. Man sollte sich stets bewusst sein, dass die Wahl der Parameter auch den Fokus des Forschers lenkt und <emph>maßgeblich die Ergebnisse der Analyse beeinflusst</emph>.</p>
                 <p>Es ist zweifelsfrei eine Herausforderung, dass man bereits bei der Entscheidung für die jeweiligen Parameter Mutmaßungen über die Natur des Phänomens anstellen muss.
                     Bei einem datengeleiteten Vorgehen lässt man sich daher, wie der Name andeutet, in einem gewissen Maß von den Ergebnissen leiten und justiert die Parameter wenn nötig nach.</p>
