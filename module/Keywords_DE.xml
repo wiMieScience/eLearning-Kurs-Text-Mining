@@ -636,7 +636,7 @@
                             <!-- <li type="exercise">Bestimmen Sie das textsortenspezifische Vokabular Ihres Analysekorpus. Erläutern Sie Ihr Vorgehen und Ihre Ergebnisse. (fertige Berechnung bzw. Ergebnis eines Korpusvergleichs "Parteiprogramme vs Zeitungstexte" anzeigen)</li>-->
                         </list>
 </ctext>
-                    <collocation href="kollokation-corpus.xml">
+                    <collocation href="DE_Parteiprogramme">
                         <range from="-5" to="5" standard="1" />
                         <frequence collocate="enable" node="enable" />
                         <statistic chi="" frequence="" llr="" />
